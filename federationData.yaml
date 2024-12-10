@@ -1,0 +1,7 @@
+introText: <p>Data federation enables users to pull data from across various resources as if they were accessing a single virtual database, rather than consolidating all data into a single centralized repository. The data remain at the original source but become searchable and findable to the research community through a standard application programming interface (API). This allows the creation of a virtual cohort and facilitates large-scale analytic research by making deidentified participant-level data (non-PHI/PII) findable across the sources.</p><p>The Childhood Cancer Data Initiative (CCDI) is piloting data federation with Kids First Data Resource Center, the Pediatric Cancer Data Commons, St. Jude Cloud, and the Treehouse Childhood Cancer Data Initiative. These resources provide information about genomic, clinical, imaging, and biospecimen data in these data sets. This list will expand as more organizations implement CCDI’s data federation API.</p>
+federationContent: 
+  - id: Data_Access
+    topic: Data Access
+    content: >- 
+      <p>Researchers can search for deidentified individual-level data through the API, 
+      which provides metadata that aids in the creation of virtual cohorts across multiple data types from participating resources by accessing CCDI’s Data Federation Resource API.</p>
