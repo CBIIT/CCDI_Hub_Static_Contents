@@ -5,7 +5,7 @@ federationContent:
   - id: Data_Access
     topic: Data Access
     content: >- 
-      <p>hello Researchers can search for deidentified individual-level data through the API, which provides metadata that aids in the creation of virtual cohorts across multiple data types from participating resources by accessing CCDI’s Data Federation Resource API.</p>
+      <p>he Researchers can search for deidentified individual-level data through the API, which provides metadata that aids in the creation of virtual cohorts across multiple data types from participating resources by accessing CCDI’s Data Federation Resource API.</p>
       <p>To access the CCDI Data Federation Resource API, please click <a class="link" href="https://cbiit.github.io/ccdi-federation-api-aggregation/" target="_blank" rel="noopener noreferrer">here</a>.</p>
       <p>To access participating nodes API, please click <a class="link" href="https://cbiit.github.io/ccdi-federation-api-spec" target="_blank" rel="noopener noreferrer">here</a>.</p>
       <p>The API does not deliver files. Rather, it provides an open-access subset of the metadata (e.g., demographics) that match a user’s search criteria and provides the location of the complete data set. The data are accessible according to the policies at each contributing resource.</p>
