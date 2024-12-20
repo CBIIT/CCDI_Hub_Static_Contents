@@ -1,0 +1,28 @@
+introText: <p>The CCDI Molecular Characterization Initiative (MCI) provides state-of-the-art molecular testing at no cost to newly diagnosed children, adolescents, and young adults (AYAs) with central nervous system (CNS) tumors, soft tissue sarcomas (STS), certain rare (RAR) childhood cancers, and certain neuroblastomas (NBL) being treated at a Children’s Oncology Group (COG)–affiliated hospital. The goal of this initiative is to enhance the understanding of the genetic factors involved in pediatric cancers and to provide timely, clinically relevant findings to doctors and families. This project uses Project:EveryChild (APEC14B1) to enroll participants, collect specimens, and annotate clinical data. The results of genetic testing will be shared with the treating physician and participants or their family, aiding in treatment decisions. This will also determine eligibility for certain planned COG clinical trials.</p><p>For an overview of this initiative, <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/data-ecosystem/molecular-characterization" target="_blank" rel="noopener noreferrer">access the MCI web page on cancer.gov</a>.</p>
+federationContent: 
+  - id: MCI_Introduction
+    topic: Enrollment and Participation
+    list:
+      - id: Enrollment_Metrics
+        subtopic: APEC14B1-MCI Enrollment Metrics
+        content: <p>The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.</p>
+      - id: MCI_Participation
+        subtopic: MCI Participation
+        content: <p>Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, and NBL tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI.</p>
+  - id: Testing_and_Results
+    topic: Testing and Results
+    list:
+      - id: Testing Types
+        subtopic: Testing Types
+        content: >-
+          <h3>What types of testing will be conducted on the specimens submitted for MCI?</h3>
+          <p>The Steve and Cindy Rasmussen Institute for Genomic Medicine (IGM) at Nationwide Children’s Hospital in Columbus, OH, will conduct:</p>
+          <ul><li>Enhanced paired tumor–normal exome sequencing (ES)</li>
+          <li>A targeted RNA Solid Tumor Fusion assay*</li>
+          <li>A DNA-based methylation array assay for CNS tumor classification</li></ul>
+        annotation: The RNA Solid Tumor Fusion assay is not performed on NBL tumors.
+      - id: MCI_Results_Reporting
+        subtopic: Testing Types
+        content: >-
+          <h3>When and how are MCI results provided?</h3>
+          <p>Results from molecular testing are returned within 21 days of receipt of all required materials at the COG Biobank hosted by the Biopathology Center (BPC) at Nationwide Children’s Hospital. Once nucleic acid has been received within IGM from the BPC, results will be issued into the portal within 14 days. As each test is resulted, an email will be sent to the clinician and clinical research associate contacts listed on a contact form filled out by the participant’s care team. The email will include a link to the secure web portal where results can be accessed. Participants will receive results from their treating physician.</p>
