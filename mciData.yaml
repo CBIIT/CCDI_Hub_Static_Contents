@@ -9,21 +9,252 @@ mciContent:
           <p>The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.</p>
         map:
           data:
-            -
-              - 110
+            - - 110
               - 540
-              - ALASKA
+              - "ALASKA"
               - 2
-            -
-              - 638
+              # AK
+            - - 638
               - 420
-              - ALABAMA
+              - "ALABAMA"
               - 107
-            -
-              - 550
+              # AL
+            - - 550
               - 390
-              - ARKANSAS
+              - "ARKANSAS"
               - 15
+              # AR
+            - - 240
+              - 430
+              - "ARIZONA"
+              - 75
+              # AZ
+            - - 100
+              - 280
+              - "CALIFORNIA"
+              - 415
+              # CA
+            - - 320
+              - 290
+              - "COLORADO"
+              - 22
+              # CO
+            - - 834
+              - 228
+              - "CONNECTICUT"
+              - 52
+              # CT
+            - - 790
+              - 305
+              - "DISTRICT OF COLUMBIA"
+              - 48
+              # DC
+            - - 810
+              - 290
+              - "DELAWARE"
+              - 52
+              # DE
+            - - 735
+              - 500
+              - "FLORIDA"
+              - 277
+              # FL
+            - - 720
+              - 450
+              - "GEORGIA"
+              - 159
+              # GA
+            - - 340
+              - 630
+              - "HAWAII"
+              - 15
+              # HI
+            - - 505
+              - 250
+              - "IOWA"
+              - 71
+              # IA
+            - - 240
+              - 220
+              - "IDAHO"
+              - 35
+              # ID
+            - - 600
+              - 320
+              - "ILLINOIS"
+              - 90
+              # IL
+            - - 638
+              - 285
+              - "INDIANA"
+              - 91
+              # IN
+            - - 490
+              - 330
+              - "KANSAS"
+              - 0
+              # KS
+            - - 670
+              - 330
+              - "KENTUCKY"
+              - 57
+              # KY
+            - - 550
+              - 460
+              - "LOUISIANA"
+              - 39
+              # LA
+            - - 840
+              - 208
+              - "MASSACHUSETTS"
+              - 46
+              # MA
+            - - 785
+              - 288
+              - "MARYLAND"
+              - 79
+              # MD
+            - - 860
+              - 120
+              - "MAINE"
+              - 19
+              # ME
+            - - 645
+              - 210
+              - "MICHIGAN"
+              - 117
+              # MI
+            - - 515
+              - 150
+              - "MINNESOTA"
+              - 143
+              # MN
+            - - 530
+              - 310
+              - "MISSOURI"
+              - 116
+              # MO
+            - - 600
+              - 420
+              - "MISSISSIPPI"
+              - 49
+              # MS
+            - - 785
+              - 355
+              - "NORTH CAROLINA"
+              - 144
+              # NC
+            - - 440
+              - 135
+              - "NORTH DAKOTA"
+              - 20
+              # ND
+            - - 460
+              - 285
+              - "NEBRASKA"
+              - 54
+              # NE
+            - - 843
+              - 185
+              - "NEW HAMPSHIRE"
+              - 11
+              # NH
+            - - 815
+              - 265
+              - "NEW JERSEY"
+              - 63
+              # NJ
+            - - 330
+              - 430
+              - "NEW MEXICO"
+              - 34
+              # NM
+            - - 160
+              - 260
+              - "NEVADA"
+              - 3
+              # NV
+            - - 795
+              - 190
+              - "NEW YORK"
+              - 296
+              # NY
+            - - 690
+              - 300
+              - "OHIO"
+              - 273
+              # OH
+            - - 490
+              - 410
+              - "OKLAHOMA"
+              - 73
+              # OK
+            - - 150
+              - 200
+              - "OREGON"
+              - 40
+              # OR
+            - - 780
+              - 245
+              - "PENNSYLVANIA"
+              - 184
+              # PA
+            - - 853
+              - 222
+              - "RHODE ISLAND"
+              - 37
+              # RI
+            - - 720
+              - 395
+              - "SOUTH CAROLINA"
+              - 70
+              # SC
+            - - 410
+              - 195
+              - "SOUTH DAKOTA"
+              - 11
+              # SD
+            - - 675
+              - 370
+              - "TENNESSEE"
+              - 97
+              # TN
+            - - 480
+              - 490
+              - "TEXAS"
+              - 520
+              # TX
+            - - 240
+              - 275
+              - "UTAH"
+              - 94
+              # UT
+            - - 765
+              - 310
+              - "VIRGINIA"
+              - 91
+              # VA
+            - - 825
+              - 170
+              - "VERMONT"
+              - 20
+              # VT
+            - - 150
+              - 100
+              - "WASHINGTON"
+              - 266
+              # WA
+            - - 570
+              - 190
+              - "WISCONSIN"
+              - 163
+              # WI
+            - - 720
+              - 330
+              - "WEST VIRGINIA"
+              - 7
+              # WV
+
       - id: MCI_Participation
         subtopic: MCI Participation
         content: >-
