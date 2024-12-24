@@ -23,7 +23,7 @@ mciContent:
           <li>A targeted RNA Solid Tumor Fusion assay*</li>
           <li>A DNA-based methylation array assay for CNS tumor classification</li></ul>
         table:
-          - title: Clinical Molecular Characterization Initiative Assays and Analytics
+            title: Clinical Molecular Characterization Initiative Assays and Analytics
             header:
               - Sample
               - Assay
