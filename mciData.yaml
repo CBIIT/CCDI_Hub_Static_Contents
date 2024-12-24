@@ -7,6 +7,23 @@ mciContent:
         subtopic: APEC14B1-MCI Enrollment Metrics
         content: >-
           <p>The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.</p>
+        map:
+          data:
+            -
+              - 110
+              - 540
+              - ALASKA
+              - 2
+            -
+              - 638
+              - 420
+              - ALABAMA
+              - 107
+            -
+              - 550
+              - 390
+              - ARKANSAS
+              - 15
       - id: MCI_Participation
         subtopic: MCI Participation
         content: >-
