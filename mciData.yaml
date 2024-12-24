@@ -5,10 +5,12 @@ mciContent:
     list:
       - id: Enrollment_Metrics
         subtopic: APEC14B1-MCI Enrollment Metrics
-        content: <p>The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.</p>
+        content: >-
+          <p>The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.</p>
       - id: MCI_Participation
         subtopic: MCI Participation
-        content: <p>Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, and NBL tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI.</p>
+        content: >-
+          <p>Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, and NBL tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI.</p>
   - id: Testing_and_Results
     topic: Testing and Results
     list:
@@ -20,7 +22,26 @@ mciContent:
           <ul><li>Enhanced paired tumor–normal exome sequencing (ES)</li>
           <li>A targeted RNA Solid Tumor Fusion assay*</li>
           <li>A DNA-based methylation array assay for CNS tumor classification</li></ul>
-        annotation: The RNA Solid Tumor Fusion assay is not performed on NBL tumors.
+        table:
+          - title: Clinical Molecular Characterization Initiative Assays and Analytics
+            header:
+              - Sample
+              - Assay
+              - Result Type
+            body:
+              - Tumor + normal DNA
+              - Enhanced ES
+              - Germline + somatic SNVs, INDELs, CNV & LOH
+              - Tumor RNA
+              - Targeted RNA Solid Tumor Fusion assay
+              - Fusion/ITD detection
+              - Tumor DNA
+              - DNA based methylation array for CNS tumor classification
+              - Disease classification
+            footer: >-
+              Abbreviations: ES, exome sequencing; AWS, Amazon Web Services; SNV, single-nucleotide variant; INDEL, insertion/deletion; CNV, copy number variation; LOH, loss of heterozygosity; ITD, internal tandem duplication [PMID: 29539639].
+        annotation: >-
+              *The RNA Solid Tumor Fusion assay is not performed on NBL tumors.
       - id: MCI_Results_Reporting
         subtopic: Testing Types
         content: >-
