@@ -326,7 +326,7 @@ mciContent:
         annotation: >-
               *The RNA Solid Tumor Fusion assay is not performed on NBL tumors.
       - id: MCI_Results_Reporting
-        subtopic: Testing Types
+        subtopic: MCI Results Reporting
         content: >-
           <h3>When and how are MCI results provided?</h3>
           <p>Results from molecular testing are returned within 21 days of receipt of all required materials at the COG Biobank hosted by the Biopathology Center (BPC) at Nationwide Children’s Hospital. Once nucleic acid has been received within IGM from the BPC, results will be issued into the portal within 14 days. As each test is resulted, an email will be sent to the clinician and clinical research associate contacts listed on a contact form filled out by the participant’s care team. The email will include a link to the secure web portal where results can be accessed. Participants will receive results from their treating physician.</p>
