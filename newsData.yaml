@@ -1,3 +1,16 @@
+altList:
+  updateImgCCDC: Young boy on a swing outdoors, symbolizing childhood health, linking to the CCDC site
+  updateImgCCDC2: A laptop screen showing a major new release of a resource, featuring a healthcare website with a child and a doctor interacting, set against a desk with stationary items
+  updateImgMolecular: Illustration of a person connected to a computer screen displaying a DNA sequence analysis, symbolizing the relationship between human genetics and data analysis.
+  updateImgSymposium: Simple icon of two human figures raising their arms together on a blue gradient background.
+  updateImgMTP: A medical professional using a tablet with digital interface graphics and abstract data connections, representing advanced healthcare technology.
+  updateImgMTP2: A laptop displaying a molecular targets platform with large arrows pointing upward, symbolizing growth and progress in the field.
+  updateImgMolecularCharacterization: updateImgMolecularCharacterization
+  updateImgDashboard: Magnifying glass focusing on a network of people icons, representing detailed analysis or review, linking to the site’s release notes
+  updateImgEHR: updateImgEHR
+  updateImgC3DC: A person using a laptop at a desk with the C3DC website displayed, focusing on access and visualization of data sets within the C3DC community.
+  updateImgHub: A hand holding digital human icons with abstract graphs and network data, symbolizing the CCDI Hub Site & Data Release, representing human resources and data analysis.
+
 newsList:
   - id: hub_12062024
     title: >-
