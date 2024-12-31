@@ -1,4 +1,29 @@
-introText: <p>The CCDI Molecular Characterization Initiative (MCI) provides state-of-the-art molecular testing at no cost to newly diagnosed children, adolescents, and young adults (AYAs) with central nervous system (CNS) tumors, soft tissue sarcomas (STS), certain rare (RAR) childhood cancers, and certain neuroblastomas (NBL) being treated at a Children’s Oncology Group (COG)–affiliated hospital. The goal of this initiative is to enhance the understanding of the genetic factors involved in pediatric cancers and to provide timely, clinically relevant findings to doctors and families. This project uses Project:EveryChild (APEC14B1) to enroll participants, collect specimens, and annotate clinical data. The results of genetic testing will be shared with the treating physician and participants or their family, aiding in treatment decisions. This will also determine eligibility for certain planned COG clinical trials.</p><p>For an overview of this initiative, <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/data-ecosystem/molecular-characterization" target="_blank" rel="noopener noreferrer">access the MCI web page on cancer.gov</a>.</p>
+# introText:
+#   can edit, can have tags <p>, <a>;
+# id:
+#   not editable;
+# topic:
+#   can change the content, no tag in it;
+# subtopic:
+#   can change the content, no tag in it;
+# content:
+#   can have tags <p>, <h3>, <a>, <ul>, <li>;
+#   linkout <a> have to follow the pattern <a class="link" href="" target="_blank" rel="noopener noreferrer"></a>
+# diseaseTable:
+#   title: can freely change the content, no tag in it;
+#   header: cannot add or remove header item in array, can only change the content;
+#   body: can add or remove items in array and change the content for name and value;
+#   map: only the last number in one object can be changed. First and section numbers are for location on map;
+# table:
+#   title: can change the content, no tag in it;
+#   header: cannot add or remove header item in array, can only change the content;
+#   body: cannot add or remove body item in array, can only change the content;
+#   footer: can freely change the content, no tag in it;
+# searchTable:
+#   title: can change the content, no tag in it;
+#   body: can add, remove, edit items;
+introText: >-
+  <p>The CCDI Molecular Characterization Initiative (MCI) provides state-of-the-art molecular testing at no cost to newly diagnosed children, adolescents, and young adults (AYAs) with central nervous system (CNS) tumors, soft tissue sarcomas (STS), certain rare (RAR) childhood cancers, and certain neuroblastomas (NBL) being treated at a Children’s Oncology Group (COG)–affiliated hospital. The goal of this initiative is to enhance the understanding of the genetic factors involved in pediatric cancers and to provide timely, clinically relevant findings to doctors and families. This project uses Project:EveryChild (APEC14B1) to enroll participants, collect specimens, and annotate clinical data. The results of genetic testing will be shared with the treating physician and participants or their family, aiding in treatment decisions. This will also determine eligibility for certain planned COG clinical trials.</p><p>For an overview of this initiative, <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/data-ecosystem/molecular-characterization" target="_blank" rel="noopener noreferrer">access the MCI web page on cancer.gov</a>.</p>
 mciContent: 
   - id: MCI_Introduction
     topic: Enrollment and Participation
@@ -8,39 +33,40 @@ mciContent:
         content: >-
           <p>The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.</p>
         diseaseTable:
-          title: "Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of November 12, 2024"
+          title: >-
+            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of November 12, 2024
           header:
             - ""
             - "Primary Diagnosis Disease Group"
             - "Number of Participants"
           body:
-            - name: "Central Nervous System"
+            - name: Central Nervous System
               value: 3503
-            - name: "Soft Tissue Sarcoma"
+            - name: Soft Tissue Sarcoma
               value: 1061
-            - name: "Rare Tumors"
+            - name: Rare Tumors
               value: 497
-            - name: "Neuroblastoma"
+            - name: Neuroblastoma
               value: 265
-            - name: "Ewing Sarcoma"
+            - name: Ewing Sarcoma
               value: 16
-            - name: "Osteosarcoma"
+            - name: Osteosarcoma
               value: 10
-            - name: "Germ Cell Tumor"
+            - name: Germ Cell Tumor
               value: 11
-            - name: "Myeloid Leukemia"
+            - name: Myeloid Leukemia
               value: 4
-            - name: "Renal"
+            - name: Renal
               value: 8
-            - name: "Liver Tumor"
+            - name: Liver Tumor
               value: 4
-            - name: "Non-Hodgkin Lymphoma"
+            - name: Non-Hodgkin Lymphoma
               value: 3
-            - name: "Lymphoblastic Leukemia"
+            - name: Lymphoblastic Leukemia
               value: 2
-            - name: "Langerhans Cell Histiocytosis"
+            - name: Langerhans Cell Histiocytosis
               value: 1
-            - name: "Lymphoproliferative Disease"
+            - name: Lymphoproliferative Disease
               value: 1
         map:
           data:
