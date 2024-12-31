@@ -1,3 +1,15 @@
+# altList:
+#   list for img alt text, can edit img alt text content, cannot add or remove new items;
+# newsList:
+#   id: can follow the name_date format for id, cannot have duplicate id for 2 different items;
+#   date: follow the format of Month Date, Year;
+#   slug: can edit content, no tag;
+#   highlight: can edit content, tag include <p>, <a>, linkout <a> have to follow the pattern <a class="link" href="" target="_blank" rel="noopener noreferrer"></a>;
+#   type: one of [Announcements, News & Other, Application Updates, Site Updates], cannot add more type without changing code;
+#         * make sure to type correct especially include the 's' for 'Updates');
+#   img: have to be one from the altList, cannot add new ones without changing code;
+#   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
+
 altList:
   updateImgCCDC: Young boy on a swing outdoors, symbolizing childhood health, linking to the CCDC site
   updateImgCCDC2: A laptop screen showing a major new release of a resource, featuring a healthcare website with a child and a doctor interacting, set against a desk with stationary items
