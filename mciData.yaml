@@ -48,26 +48,6 @@ mciContent:
               value: 497
             - name: Neuroblastoma
               value: 265
-            - name: Ewing Sarcoma
-              value: 16
-            - name: Osteosarcoma
-              value: 10
-            - name: Germ Cell Tumor
-              value: 11
-            - name: Myeloid Leukemia
-              value: 4
-            - name: Renal
-              value: 8
-            - name: Liver Tumor
-              value: 4
-            - name: Non-Hodgkin Lymphoma
-              value: 3
-            - name: Lymphoblastic Leukemia
-              value: 2
-            - name: Langerhans Cell Histiocytosis
-              value: 1
-            - name: Lymphoproliferative Disease
-              value: 1
         map:
           data:
             - - 110
