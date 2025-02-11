@@ -1,3 +1,8 @@
+# About section static pages content
+
+# Data Usage Policies page content
+# id is not editable
+# topic and content are editable
 dataUsagePoliciesIntroText: <p>There are policies and terms to keep in mind when using and connecting with Childhood Cancer Data Initiative (CCDI)-managed data and tools through the CCDI Hub.</p><p className="calloutBox">If you’re looking for information on how to find, request, access, download, and analyze controlled-access data managed by CCDI, see our <a class="link" href="https://datacatalog.ccdi.cancer.gov/CCDI_CGC_Data_Access_Instructions_2.0.pdf" target="_blank" rel="noopener noreferrer">data access instructions guide.</a></p>
 dataUsagePoliciesContent:
   - id: Data_Use_Expectations
@@ -32,7 +37,8 @@ dataUsagePoliciesContent:
       <p>For any questions or concerns related to CCDI-managed data, email CCDI at <a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">ncichildhoodcancerdatainitiative@mail.nih.gov</a>.</p>
       <p className="calloutBox">For information on sharing NCI-funded cancer research data, <a href="https://datascience.cancer.gov/data-sharing/policy-guidance" target="_blank" rel="noopener noreferrer">NCI‘s official data sharing policy guidance</a> details the people, policies, requirements, and resources you need to start sharing your data.</p>
 
-
+# About page content
+# upperTitle, upperText, lowerTitle, lowerText, aboutText are editable
 aboutData:
   upperTitle: Childhood Cancer Data Initiative Hub
   upperText: >-

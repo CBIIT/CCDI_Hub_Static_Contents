@@ -1,7 +1,10 @@
+# Resource section static pages content
+
+# Federation page content
+# id is not editable
+# topic and content are editable
 federationIntroText: <p>Data federation enables users to pull data from across various resources as if they were accessing a single virtual database, rather than consolidating all data into a single centralized repository. The data remain at the original source but become searchable and findable to the research community through a standard application programming interface (API). This allows the creation of a virtual cohort and facilitates large-scale analytic research by making deidentified participant-level data (non-PHI/PII) findable across the sources.</p><p>The Childhood Cancer Data Initiative (CCDI) is piloting data federation with Kids First Data Resource Center, the Pediatric Cancer Data Commons, St. Jude Cloud, and the Treehouse Childhood Cancer Data Initiative. These resources provide information about genomic, clinical, imaging, and biospecimen data in these data sets. This list will expand as more organizations implement CCDI’s data federation API.</p>
 federationContent: 
-  # id is not editable
-  # topic and content are editable
   - id: Data_Access
     topic: Data Access
     content: >- 
@@ -26,10 +29,12 @@ federationContent:
       <p><a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">Email us</a> with questions related to CCDI federated data or accessing the CCDI Data Ecosystem.</p>
       <p>hello1234</p>
 
+
+# CPI page content
+# id is not editable
+# topic and content are editable
 cpiIntroText: <p>The CCDI Participant Index (CPI) application programming interface (API) is part of the CCDI Data Ecosystem and serves as a backend reference service that can be leveraged by other software applications. The goal of the CPI is to manage, map, and share mapped research participant IDs (Identifiers) representing the same individual. This is achieved by collecting various IDs associated with a participant from different studies and research institutions, collectively referred to as “Domains”. These mappings will empower researchers to explore complex questions, gain deeper insights into diseases, develop innovative therapies, and enhance existing treatments.</p>
 cpiContent: 
-  # id is not editable
-  # topic and content are editable
   - id: CPI_Components
     topic: Components
     content: >- 
