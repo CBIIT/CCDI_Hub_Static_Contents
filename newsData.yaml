@@ -278,7 +278,7 @@ newsList:
       This CCDC release includes a tool to explore genomics data and a platform to help accelerate pediatric drug development.
     highlight: >-
       <p>Now part of the CCDC: the cBioPortal for Cancer Genomics, a tool for interactive exploration of genomics data sets that aims to lower barriers to accessing complex genomic data. This release also includes the Innovative Therapies for Children with Cancer Paediatric Preclinical Proof-of-Concept Platform (ITCC-P4). The ITCC-P4 platform, developed through an academic-industry partnership, aims to establish new patient-derived preclinical models of high-risk pediatric tumors and help speed up drug development for childhood cancers.</p>
-    type: News
+    type: CCDI Application Updates
     img: updateImgCCDC2
 
   - id: ehr_01112024
