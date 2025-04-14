@@ -1,6 +1,7 @@
 publicationsList:
   - id: NCCR_01122025
-    title: Making the case for an International Childhood Cancer Data Partnership
+    title: >-
+      aking the case for an International Childhood Cancer Data Partnership
     link: https://pubmed.ncbi.nlm.nih.gov/39799506
     date: January 2025
     summary: >-
@@ -12,7 +13,8 @@ publicationsList:
     pmid: 39799506
 
   - id: Ecosystem_01122025
-    title: The landscape of primary mismatch repair deficient gliomas in children, adolescents, and young adults: a multi-cohort study
+    title: >-
+      The landscape of primary mismatch repair deficient gliomas in children, adolescents, and young adults: a multi-cohort study
     link: https://pubmed.ncbi.nlm.nih.gov/39701117
     date: January 2025
     summary: >-
@@ -23,7 +25,8 @@ publicationsList:
     pmid: 39701117
 
   - id: NCCR_112024
-    title: NCI’s National Childhood Cancer Registry Data Platform: A New Data Sharing Resource to Analyze Cancer Surveillance and Real World Data
+    title: >-
+      NCI’s National Childhood Cancer Registry Data Platform: A New Data Sharing Resource to Analyze Cancer Surveillance and Real World Data
     link: https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/publications/NCI's+National+Childhood+Cancer+Registry+Data+Platform+-++A+New+Data+Sharing+Resource+to+Analyze+Cancer+Surveillance+and+Real+World+Data_AMIA+2024+Symposium+abstract.pdf
     date: November 2024
     summary: >-
@@ -33,7 +36,8 @@ publicationsList:
     conference: AMIA 2024 Annual Symposium
 
   - id: NCCR_092024
-    title: Automated Extraction and Provision of Electronic Health Record Data from Children with Cancer to National Childhood Cancer Center (NCCR) cancer registries
+    title: >-
+      Automated Extraction and Provision of Electronic Health Record Data from Children with Cancer to National Childhood Cancer Center (NCCR) cancer registries
     link: https://aacrjournals.org/cancerres/article/84/17_Supplement/B071/747181/Abstract-B071-Automated-extraction-and-provision
     date: September 2024
     summary: >-
@@ -44,7 +48,8 @@ publicationsList:
       AACR 2024 Special Conference in Cancer Research: Advances in Pediatric Cancer Research
 
   - id: Ecosystem_09012024
-    title: Multicenter Histology Image Integration and Multiscale Deep Learning for Pediatric Sarcoma Subtype Classification
+    title: >-
+      Multicenter Histology Image Integration and Multiscale Deep Learning for Pediatric Sarcoma Subtype Classification
     link: https://aacrjournals.org/cancerres/article/84/17_Supplement/B023/747183/Abstract-B023-Multicenter-histology-image
     date: September 2024
     summary: >-
@@ -55,7 +60,8 @@ publicationsList:
       AACR Special Conference in Cancer Research: Advances in Pediatric Cancer Research
 
   - id: Ecosystem_062024
-    title: IMMUNOTAR - Integrative prioritization of cell surface targets for cancer immunotherapy
+    title: >-
+      IMMUNOTAR - Integrative prioritization of cell surface targets for cancer immunotherapy
     link: https://www.biorxiv.org/content/10.1101/2024.06.04.597422v1
     date: June 2024
     summary: >-
@@ -76,7 +82,8 @@ publicationsList:
     conference: 2024 AANP National Conference
 
   - id: Federation_05162024
-    title: St. Jude Cloud’s Disease Ontology
+    title: >-
+      St. Jude Cloud’s Disease Ontology
     link: https://university.stjude.cloud/docs/genomics-platform/about-our-data/disease-ontology/
     date: May 2024
     summary: >-
@@ -86,7 +93,8 @@ publicationsList:
     type: White Paper
 
   - id: NCCR_052024
-    title: Harmonization of Real-World Data to Common Data Elements for the National Childhood Cancer Registry
+    title: >-
+      Harmonization of Real-World Data to Common Data Elements for the National Childhood Cancer Registry
     link: https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/publications/Harmonization+of+Real-World+Data+to+Common+Data+Elements+for+the+National+Childhood+Cancer+Registry_AMIA+CIC+Submission.pdf
     date: May 2024
     summary: >-
@@ -96,7 +104,8 @@ publicationsList:
     conference: AMIA 2024 Clinical Informatics Conference
 
   - id: Ecosystem_05012024
-    title: Clinical and biological landscape of constitutional mismatch-repair deficiency syndrome: an International Replication Repair Deficiency Consortium cohort study
+    title: >-
+      Clinical and biological landscape of constitutional mismatch-repair deficiency syndrome: an International Replication Repair Deficiency Consortium cohort study
     link: https://pubmed.ncbi.nlm.nih.gov/38552658/
     date: May 2024
     summary: >-
@@ -130,7 +139,8 @@ publicationsList:
     pmid: 37889049
   
   - id: Ecosystem_multi_102023
-    title: A multi-institutional pediatric dataset of clinical radiology MRIs by the Children’s Brain Tumor Network
+    title: >-
+      A multi-institutional pediatric dataset of clinical radiology MRIs by the Children’s Brain Tumor Network
     link: https://pubmed.ncbi.nlm.nih.gov/38106459
     date: October 2023
     summary: >-
@@ -212,7 +222,8 @@ publicationsList:
     pmid: 37267580
 
   - id: Ecosystem_062023_0102
-    title: Protocol for using single-cell sequencing to study the heterogeneity of NF1 nerve sheath tumors from clinical biospecimens
+    title: >-
+      Protocol for using single-cell sequencing to study the heterogeneity of NF1 nerve sheath tumors from clinical biospecimens
     link: https://pubmed.ncbi.nlm.nih.gov/37167059/
     date: June 2023
     summary: >-
@@ -223,7 +234,8 @@ publicationsList:
     pmid: 37167059
 
   - id: Ecosystem_062023_0201
-    title: Radiomics for characterization of the glioma immune microenvironment
+    title: >-
+      Radiomics for characterization of the glioma immune microenvironment
     link: https://pubmed.ncbi.nlm.nih.gov/37337080
     date: June 2023
     summary: >-
@@ -234,7 +246,8 @@ publicationsList:
     pmid: 37337080
 
   - id: Ecosystem_062023_0202
-    title: The children’s brain tumor network (CBTN) - Accelerating research in pediatric central nervous system tumors through collaboration and open science
+    title: >-
+      The children’s brain tumor network (CBTN) - Accelerating research in pediatric central nervous system tumors through collaboration and open science
     link: https://pubmed.ncbi.nlm.nih.gov/36335802/
     date: June 2023
     summary: >-
@@ -281,7 +294,8 @@ publicationsList:
     pmid: 36373660
 
   - id: Ecosystem_042022
-    title: Large scale genotype‐ and phenotype‐driven machine learning in Von Hippel‐Lindau disease
+    title: >-
+      Large scale genotype‐ and phenotype‐driven machine learning in Von Hippel‐Lindau disease
     link: https://pubmed.ncbi.nlm.nih.gov/35475554/
     date: April 2022
     summary: >-
@@ -292,7 +306,8 @@ publicationsList:
     pmid: 35475554
 
   - id: Ecosystem_032022
-    title: Standardized evidence-based approach for assessment of oncogenic and clinical significance of NTRK fusions
+    title: >-
+      Standardized evidence-based approach for assessment of oncogenic and clinical significance of NTRK fusions
     link: https://pubmed.ncbi.nlm.nih.gov/35366592/
     date: March 2022
     summary: >-
