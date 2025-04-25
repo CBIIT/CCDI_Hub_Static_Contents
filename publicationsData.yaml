@@ -1,4 +1,15 @@
 publicationsList:
+  - id: NCCR_06032025
+    title: >-
+      Evaluation of Data Completeness of Multimodal Data for Longitudinal, Patient Outcomes Analyses Using the NCCR Data Platform and Interoperability Resources with the CCDI Data Ecosystem.
+    link: https://www.naaccr2025hartford.com/program
+    date: June 2025
+    summary: >-
+      <p>The National Childhood Cancer Registry (NCCR) integrates multimodal data from central cancer registries and multiple real-world sources under a unified data infrastructure to enable scientific advances using population-based and research data. The Childhood Cancer Data Initiative (CCDI) Participant Index (CPI) is a new resource that enables patient matching across NCCR and other research datasets in the wider CCDI data ecosystem. In tandem with NCCR Data Platform, the CPI provides a highly accessible and interoperable data resource for childhood, adolescent and young adult (AYA) cancer researchers to answer a wide range of research questions.</p>  
+    category: Abstract
+    tag: CCDI-NCCR
+    conference: NAACCR
+
   - id: NCCR_01122025
     title: >-
       Making the case for an International Childhood Cancer Data Partnership
