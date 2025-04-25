@@ -280,7 +280,7 @@ publicationsList:
     tag: CCDI-MCI-COG
     conference: 2024 AANP National Conference
 
-   - id: NCCR_05222024
+  - id: NCCR_05222024
     title: >-
       Harmonization of Real-World Data to Common Data Elements for the National Childhood Cancer Registry
     link: https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/publications/Harmonization+of+Real-World+Data+to+Common+Data+Elements+for+the+National+Childhood+Cancer+Registry_AMIA+CIC+Submission.pdf
