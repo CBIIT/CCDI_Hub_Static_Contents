@@ -1,14 +1,5 @@
 # altList:
 #   list for img alt text, can edit img alt text content, cannot add or remove new items;
-# newsList:
-#   id: can follow the name_date format for id, cannot have duplicate id for 2 different items;
-#   date: follow the format of Month Date, Year;
-#   slug: can edit content, no tag;
-#   highlight: can edit content, tag include <p>, <a>, linkout <a> have to follow the pattern <a class="link" href="" target="_blank" rel="noopener noreferrer"></a>;
-#   type: one of [Announcements, News & Other, Application Updates, Site Updates], cannot add more type without changing code;
-#         * make sure to type correct especially include the 's' for 'Updates');
-#   img: have to be one from the altList, cannot add new ones without changing code;
-#   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 altList:
   updateImgCCDC: Young boy on a swing outdoors, symbolizing childhood health, linking to the CCDC site
@@ -23,6 +14,16 @@ altList:
   updateImgC3DC: A person using a laptop at a desk with the C3DC website displayed, focusing on access and visualization of data sets within the C3DC community.
   updateImgHub: A hand holding digital human icons with abstract graphs and network data, symbolizing the CCDI Hub Site & Data Release, representing human resources and data analysis.
   updateImgecDNA: Abstract visualization of a glowing digital network with interconnected blue and yellow nodes on a dark background.
+
+# newsList:
+#   id: can follow the name_date format for id, cannot have duplicate id for 2 different items;
+#   date: follow the format of Month Date, Year;
+#   slug: can edit content, no tag;
+#   highlight: can edit content, tag include <p>, <a>, linkout <a> have to follow the pattern <a class="link" href="" target="_blank" rel="noopener noreferrer"></a>;
+#   type: one of [Announcements, News & Other, Application Updates, Site Updates], cannot add more type without changing code;
+#         * make sure to type correct especially include the 's' for 'Updates');
+#   img: have to be one from the altList, cannot add new ones without changing code;
+#   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
   - id: ccdc_03312025
@@ -456,6 +457,18 @@ newsList:
       <p>NCI hosted the CCDI Symposium on March 24, 2023, which brought together hundreds of members of the childhood cancer community. The event featured presentations on CCDI Data Ecosystem progress by Drs. Anthony Kerlavage and Subhashini Jagu.</p><p><a href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/events-webinars/symposium-0" target="_blank" rel="noopener noreferrer">View the event presentation</a> and <a href="https://videocast.nih.gov/watch=49171" target="_blank" rel="noopener noreferrer">watch the recording</a>.</p>
     type: News
     img: updateImgSymposium
+
+# releaseNotesList:
+#   id: can follow the hub_release__date format for id, cannot have duplicate id for 2 different items;
+#   title:
+#   version: vX.X.X
+#   date: Month Date, Year;
+#   slug: can edit content, no tag;
+#   highlight: in one line;
+#   type: Release Notes
+#   img: updateImgHub
+#   contentType: Clinical,Genomics/Omics,Imaging,Xenograft,Epidemiologic
+#   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 releaseNotesList:
   - id: hub_release_05142025
