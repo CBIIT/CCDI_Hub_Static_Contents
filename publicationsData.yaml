@@ -1,3 +1,23 @@
+# - id: TAG_MMDDYYYY
+#   title: >-
+#     [title content]
+#   link: 
+#   date: Month Year
+#   summary: >-
+#      <p>[summary content]</p>
+#   category: 
+#   tag: 
+#---------------1----------------------
+#   conference: 
+#---------------2----------------------
+#   journal: >-
+#       [journal content]
+#   pmid: 
+#---------------3----------------------
+#   type: Preprint/White Paper
+#
+# (Note: only one of these three cases can be in one item)
+
 publicationsList:
   - id: NCCR_06032025
     title: >-
