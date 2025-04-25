@@ -30,7 +30,7 @@ publicationsList:
       <p>Enhanced data collection can improve health outcomes in childhood cancer. This article is a result of a pilot project coordinated by the NCI undertaken by the Texas Cancer Registry (TCR) and Texas Children’s Hospital (TCH) to explore the value of gathering clinical data from electronic health records (EHR).</p>  
     category: Abstract
     tag: CCDI-NCCR
-    conference: NAACCR 2025
+    conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: NCCR_06042025_1
     title: >-
@@ -41,7 +41,7 @@ publicationsList:
       <p>In 2024, an estimated 14,910 US children (0-14 years) and adolescents (15-19 years) were diagnosed with cancer. Understanding survival disparities by sociodemographic factors can help monitor progress in cancer outcomes as well as identify groups that may need better access to care and clinical trials, guidance with health literacy, or help with healthcare navigation.</p>  
     category: Abstract
     tag: CCDI-NCCR
-    conference: NAACCR 2025
+    conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: NCCR_06032025_4
     title: >-
@@ -52,7 +52,7 @@ publicationsList:
       <p>The National Childhood Cancer Registry (NCCR) integrates multimodal data from central cancer registries and multiple real-world sources under a unified data infrastructure to enable scientific advances using population-based and research data. The Childhood Cancer Data Initiative (CCDI) Participant Index (CPI) is a new resource that enables patient matching across NCCR and other research datasets in the wider CCDI data ecosystem. In tandem with NCCR Data Platform, the CPI provides a highly accessible and interoperable data resource for childhood, adolescent and young adult (AYA) cancer researchers to answer a wide range of research questions.</p>  
     category: Abstract
     tag: CCDI-NCCR
-    conference: NAACCR 2025
+    conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: NCCR_06032025_3
     title: >-
@@ -63,7 +63,7 @@ publicationsList:
       <p>The NCCR Data Platform consolidates public health surveillance data from 22 NCCR participating cancer registries into a central location linked to real world data sources. This valuable resource allows researchers approved access to pooled data on longitudinal clinical, treatment, claims, demographic and outcomes data for rare childhood cancers in the U.S. Currently the NCCR Data Platform provides information on 1.4+ million cases from 1995 to 2021 stemming from seven population based or convenience sample sources. Data can be interactively explored within the Data Platform and manipulated to create customized cohorts. These cohorts can be requested for downloading through the NCCR Data Platform data request process.</p>  
     category: Abstract
     tag: CCDI-NCCR
-    conference: NAACCR 2025
+    conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: NCCR_06032025_2
     title: >-
@@ -74,7 +74,7 @@ publicationsList:
       <p>Cancer death rates have decreased over the years for children (0-14 years) and adolescents and young adults (AYA, 15-39 years). A significant portion of this improvement in survival rates can be attributed to treatment advances from cooperative clinical trials in the US. However, according to a Children’s Oncology Group (COG) study, only 20% of US cancer patients aged 0 to 19 years old enrolled in COG trials between 2004-2015. Many studies reported underrepresentation of racial/ethnic minorities as well as AYA in clinical trials.</p>  
     category: Abstract
     tag: CCDI-NCCR
-    conference: NAACCR 2025
+    conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: NCCR_06032025_1
     title: >-
@@ -85,7 +85,7 @@ publicationsList:
       <p>Privacy-Preserving Record Linkage (PPRL) techniques allow institutions/organizations to link data without releasing sensitive information through a broad range of processes, including secure multi-party computation, bloom filter encoding, and hashing, among others.</p>  
     category: Abstract
     tag: CCDI-NCCR
-    conference: NAACCR 2025
+    conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: MCICOG_06022025
     title: >-
