@@ -489,7 +489,7 @@ publicationsList:
     date: May 2023
     summary: >-
       The physical properties of protons lower doses to surrounding normal tissues compared with photons, potentially reducing acute and long-term adverse effects, including subsequent cancers. The magnitude of benefit is uncertain, however, and currently based largely on modeling studies. Despite the paucity of directly comparative data, the number of proton centers and patients are expanding exponentially. Direct studies of the potential risks and benefits are needed in children, who have the highest risk of radiation-related subsequent cancers. The Pediatric Proton and Photon Therapy Comparison Cohort aims to meet this need.
-    category: Secondary
+    category: Primary
     tag: CCDI-NCCR
     journal: Advances in Radiation Oncology
     pmid: 38047226
