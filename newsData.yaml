@@ -47,7 +47,6 @@ newsList:
       <p>The Childhood Cancer Catalog of Circular Extrachromosomal DNA (ecDNA), developed by the Sanford Burnham Prebys Medical Discovery Institute, is a pediatric cancer genomics platform focused on circular ecDNA (<a class="link" href="https://ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org</a>). The platform incudes an API that aligns with the CCDI Data Federation Specification. eCDNA includes curated amplicon data from over 3,200 patients and 3,800 biosamples, derived from whole-genome sequencing datasets from major pediatric cancer databases.</p>
     type: News
     img: updateImgecDNA
-    latestUpdate: true
 
   - id: hub_federation_02142025
     title: >-
@@ -459,6 +458,19 @@ newsList:
     img: updateImgSymposium
 
 releaseNotesList:
+  - id: hub_release_05142025
+    title: CCDI Hub Minor Release 2.6.1
+    version: v2.6.1
+    date: May 14, 2025
+    slug: >-
+      April MCI enrollment, new publications, and improved widget experience
+    fullText: >-
+      <p>CCDI Hub minor release 2.6.1 features numerous enhancements and fixes, plus minor update to two studies and their downloadable manifests. In the Explore Dashboard, all summary widgets have been updated to have a more intuitive default display and the Diagnosis chart has been updated to display only the top 20 diagnoses until a user applies any filters. A note has been added to the CCDI Participant Index (CPI) pop-up from the Participants tables to direct them to the downloadable Studies manifest for all mapping details. MCI enrollments have been updated to reflect the April status update and recent publications have been added. A bug resulting in a blank page loading from an old release notes entry was fixed.</p><p>Additional details are listed below:</p> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Data Updates</span></h1> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Updated Data Sets</span></h2> <ul style="margin:0in 0in 8pt;"><li>Removed synonyms and replaced incomplete study manifest - Genomic Analysis in Pediatric Malignancies (PHS002430)</li><li>Added two study level files and replaced incomplete study manifest - CCDI Pediatric In Vivo Testing Program - Leukemia (PHS003164)</li></ul> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Site Updates</span></h1> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">General Site</span></h2> <ul style="margin:0in 0in 8pt;"> <li>Updated Publications page</li> <li>Updated MCI Enrollments by Diagnosis table and Enrollment Counts by State chart</li> <li>Restored blank redirect link from 2.3.0 release notes</li> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Explore Dashboard</span></h1> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Widget updates</span></h2> <ul style="margin:0in 0in 8pt;"><li>Added facet for study status</li> <li>Changed default emphasized section of pie charts to be the section with the highest count for all widgets</li> <li>Changed Diagnosis widget to display only the top 20 diagnoses by count upon initial page load, preserving interactive and dynamic updates upon user input in facets</li> <li>Made all widget charts downloadable</li></ul> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Tables</span></h2> <ul style="margin:0in 0in 8pt;"><li>Added cohort selector feature to Participants tab</li> <li>Added a note in the CPI popup to direct users to the Synonyms sheet in the downloadable study manifests in the Studies tab for all CPI mappings</li> </ul>
+    type: Release Notes
+    img: updateImgHub
+    contentType: Clinical,Genomics/Omics
+    latestUpdate: true
+
   - id: hub_release_03312025
     title: CCDI Hub April 2025 Quarterly Release
     version: v2.6.0
