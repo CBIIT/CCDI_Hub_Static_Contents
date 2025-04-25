@@ -1,14 +1,5 @@
 # altList:
 #   list for img alt text, can edit img alt text content, cannot add or remove new items;
-# newsList:
-#   id: can follow the name_date format for id, cannot have duplicate id for 2 different items;
-#   date: follow the format of Month Date, Year;
-#   slug: can edit content, no tag;
-#   highlight: can edit content, tag include <p>, <a>, linkout <a> have to follow the pattern <a class="link" href="" target="_blank" rel="noopener noreferrer"></a>;
-#   type: one of [Announcements, News & Other, Application Updates, Site Updates], cannot add more type without changing code;
-#         * make sure to type correct especially include the 's' for 'Updates');
-#   img: have to be one from the altList, cannot add new ones without changing code;
-#   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 altList:
   updateImgCCDC: Young boy on a swing outdoors, symbolizing childhood health, linking to the CCDC site
@@ -23,6 +14,21 @@ altList:
   updateImgC3DC: A person using a laptop at a desk with the C3DC website displayed, focusing on access and visualization of data sets within the C3DC community.
   updateImgHub: A hand holding digital human icons with abstract graphs and network data, symbolizing the CCDI Hub Site & Data Release, representing human resources and data analysis.
   updateImgecDNA: Abstract visualization of a glowing digital network with interconnected blue and yellow nodes on a dark background.
+
+# newsList:
+#   id: name_MMDDYYYY * Note: cannot have duplicate id for 2 different items;
+#   title: >-
+#      [TITLE CONTENT]
+#   date: Month Date, Year;
+#   slug: >-
+#      [SLUG CONTENT]
+#   highlight: >-
+#      [ 1 LINE HTML ]
+#      * Note: can edit content, tag include <p>, <a>, linkout <a> have to follow the pattern <a class="link" href="" target="_blank" rel="noopener noreferrer"></a>;
+#   type: one of [Announcements, News & Other, Application Updates, Site Updates], cannot add more type without changing code;
+#         * make sure to type correct especially include the 's' for 'Updates');
+#   img: have to be one from the altList, cannot add new ones without changing code;
+#   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
   - id: ccdc_03312025
@@ -47,7 +53,6 @@ newsList:
       <p>The Childhood Cancer Catalog of Circular Extrachromosomal DNA (ecDNA), developed by the Sanford Burnham Prebys Medical Discovery Institute, is a pediatric cancer genomics platform focused on circular ecDNA (<a class="link" href="https://ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org</a>). The platform incudes an API that aligns with the CCDI Data Federation Specification. eCDNA includes curated amplicon data from over 3,200 patients and 3,800 biosamples, derived from whole-genome sequencing datasets from major pediatric cancer databases.</p>
     type: News
     img: updateImgecDNA
-    latestUpdate: true
 
   - id: hub_federation_02142025
     title: >-
@@ -458,7 +463,34 @@ newsList:
     type: News
     img: updateImgSymposium
 
+# releaseNotesList:
+# - id: hub_release_MMDDYY * Note: cannot have duplicate id for 2 different items;
+#   title:
+#   version: vX.X.X
+#   date: Month Date, Year
+#   slug: >-
+#      [SLUG CONTENT] *Note: can edit content, no tag;
+#   fullText: >-
+#      [ 1 LINE HTML ]
+#   type: Release Notes
+#   img: updateImgHub
+#   contentType: Clinical,Genomics/Omics,Imaging,Xenograft,Epidemiologic
+#   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
+
 releaseNotesList:
+  - id: hub_release_05142025
+    title: CCDI Hub Minor Release 2.6.1
+    version: v2.6.1
+    date: May 14, 2025
+    slug: >-
+      April MCI enrollment, new publications, and improved widget experience
+    fullText: >-
+      <p>CCDI Hub minor release 2.6.1 features numerous enhancements and fixes, plus minor update to two studies and their downloadable manifests. In the Explore Dashboard, all summary widgets have been updated to have a more intuitive default display and the Diagnosis chart has been updated to display only the top 20 diagnoses until a user applies any filters. A note has been added to the CCDI Participant Index (CPI) pop-up from the Participants tables to direct them to the downloadable Studies manifest for all mapping details. MCI enrollments have been updated to reflect the April status update and recent publications have been added. A bug resulting in a blank page loading from an old release notes entry was fixed.</p><p>Additional details are listed below:</p> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Data Updates</span></h1> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Updated Data Sets</span></h2> <ul style="margin:0in 0in 8pt;"><li>Removed synonyms and replaced incomplete study manifest - Genomic Analysis in Pediatric Malignancies (PHS002430)</li><li>Added two study level files and replaced incomplete study manifest - CCDI Pediatric In Vivo Testing Program - Leukemia (PHS003164)</li></ul> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Site Updates</span></h1> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">General Site</span></h2> <ul style="margin:0in 0in 8pt;"> <li>Updated Publications page</li> <li>Updated MCI Enrollments by Diagnosis table and Enrollment Counts by State chart</li> <li>Restored blank redirect link from 2.3.0 release notes</li> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Explore Dashboard</span></h1> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Widget updates</span></h2> <ul style="margin:0in 0in 8pt;"><li>Added facet for study status</li> <li>Changed default emphasized section of pie charts to be the section with the highest count for all widgets</li> <li>Changed Diagnosis widget to display only the top 20 diagnoses by count upon initial page load, preserving interactive and dynamic updates upon user input in facets</li> <li>Made all widget charts downloadable</li></ul> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Tables</span></h2> <ul style="margin:0in 0in 8pt;"><li>Added cohort selector feature to Participants tab</li> <li>Added a note in the CPI popup to direct users to the Synonyms sheet in the downloadable study manifests in the Studies tab for all CPI mappings</li> </ul>
+    type: Release Notes
+    img: updateImgHub
+    contentType: Genomics/Omics
+    latestUpdate: true
+
   - id: hub_release_03312025
     title: CCDI Hub April 2025 Quarterly Release
     version: v2.6.0
@@ -529,7 +561,7 @@ releaseNotesList:
     version: v2.3.0
     date: June 26, 2024
     fullText: >-
-      <p>In this release, the CCDI Hub updated several and added two new data sets. These changes encompass 1,600 participants and 2,700 samples, with 20,760 new files. The <a href="https://ccdi.cancer.gov/MCI">MCI page</a> now features updated visualizations and a streamlined navigation pane. The Files tab on the <a href="https://ccdi.cancer.gov/Explore">Explore Dashboard</a> has added new columns for Library Selection, Source, and Strategy. <a href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/CCDI_CGC_Data_Access_Instructions_2.0.0.pdf" target="_blank" rel="noopener noreferrer">User Documentation</a> is available, providing instructions for accessing controlled data and navigating the Explore Dashboard. </p><p>A detailed breakdown of the new features and other updates is listed below:</p> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Data Updates</span></h1> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">New Data Sets</span></h2> <ul style="margin:0in 0in 8pt;"><li>Pediatric AYA Cancer Touchstone (PHS002431) </li><li>Pediatric Tumor Profiling (PPTC) (PHS002677)</li></ul> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Updated Data Sets</span></h2> <ul style="margin:0in 0in 8pt;"> <li>Pediatric Preclinical Testing Consortium (PPTC) (PHS001437)</li> <li>Genomic Analysis in Pediatric Malignancies (PHS002430)</li> <li>Genomic Characterization: Juvenile Myelo Monocytic Leukemia (PHS002504)</li> <li>OncoKids Cancer Panel: Pediatric Cancers (PHS002518)</li> <li>Comprehensive Genomic Sequencing: Pediatric Cancers (PHS002529)</li> <li>Whole Genome & Transcriptome Profiling: Pediatric and Young Adult Cancers (PHS002620) </li> <li>Childhood Cancer Data Initiative (CCDI): Molecular Characterization Initiative (PHS002790)</li> <li>Molecular Characterization during Clonal Evolution: High-risk Neuroblastoma (PHS003111)</li></ul> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Site Updates</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">General Site</span></h2> <ul style="margin:0in 0in 8pt;"> <li>Added ’An official website of the United States government’ banner to the top of each page in the application</li> <li>Added standard federal warning banner before granting user access to the site </li> <li>Updated search engine optimization and indexing settings to promote better visibility from related queries in open search engines</li> <li>Added Data Use Guide to the About menu</li> <li>Added Childhood Cancer Clinical Data Commons to the Applications menu </li> <li>Updated site logo with newest image file</li> <li>Updated news items </li></ul> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Molecular Characterization Initiative (MCI) page </span></h2> <ul style="margin:0in 0in 8pt;"> <li>Updated label and values in the Enrollments in MCI by Diagnosis Type chart and added the adjacent table to accompany it</li> <li>Consolidated topic index with three primary headings and shortened topic titles where possible </li> <li>Updated MCI workflow image to include COG Project: EveryChild </li></ul> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Explore Dashboard</span></h1> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Visualization Dashboard</span></h2> <ul style="margin:0in 0in 8pt;"><li>Added note to remind users not to attempt to reidentify individuals based on the information presented in the dashboard</li> <li>Updated faceted search values for Anatomic site and removed undesired elements from facet selection list</li> <li>Reordered chart positions for more intuitive layout </li></ul> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Results Tables</span></h2> <ul style="margin:0in 0in 8pt;"> <li>Added a second horizontal scroll bar at the bottom of the tables for each tab using horizontal scrolling </li><li>Added three new library-related data columns to the Files table: Library Selection, Library Source, and Library Strategy</li> <li>Added export option for JSON format</li> <li>Updated Diagnosis and Samples tabs with new values for Anatomic Site </li> <li>Added units to the Age at Sample Collection column on Samples tab </li></ul> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Cart</span></h2> <ul style="margin:0in 0in 8pt;"> <li>Updated file name for manifest export </li></ul> <p><i>Note: Release notes for version 2.3.0 were adapted from an email communication sent directly to stakeholders on 06-26-2024 and first linked in the Hub on 3-31-2025.</i></p>
+      <p>In this release, the CCDI Hub updated several and added two new data sets. These changes encompass 1,600 participants and 2,700 samples, with 20,760 new files. The <a href="https://ccdi.cancer.gov/MCI">MCI page</a> now features updated visualizations and a streamlined navigation pane. The Files tab on the <a href="https://ccdi.cancer.gov/Explore">Explore Dashboard</a> has added new columns for Library Selection, Source, and Strategy. <a href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/CCDI_CGC_Data_Access_Instructions_2.0.0.pdf" target="_blank" rel="noopener noreferrer">User Documentation</a> is available from the About dropdown on the Hub Home page, providing instructions for accessing controlled data and navigating the Explore Dashboard. </p><p>A detailed breakdown of the new features and other updates is listed below:</p> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Data Updates</span></h1> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">New Data Sets</span></h2> <ul style="margin:0in 0in 8pt;"><li>Pediatric AYA Cancer Touchstone (PHS002431) </li><li>Pediatric Tumor Profiling (PPTC) (PHS002677)</li></ul> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Updated Data Sets</span></h2> <ul style="margin:0in 0in 8pt;"> <li>Pediatric Preclinical Testing Consortium (PPTC) (PHS001437)</li> <li>Genomic Analysis in Pediatric Malignancies (PHS002430)</li> <li>Genomic Characterization: Juvenile Myelo Monocytic Leukemia (PHS002504)</li> <li>OncoKids Cancer Panel: Pediatric Cancers (PHS002518)</li> <li>Comprehensive Genomic Sequencing: Pediatric Cancers (PHS002529)</li> <li>Whole Genome & Transcriptome Profiling: Pediatric and Young Adult Cancers (PHS002620) </li> <li>Childhood Cancer Data Initiative (CCDI): Molecular Characterization Initiative (PHS002790)</li> <li>Molecular Characterization during Clonal Evolution: High-risk Neuroblastoma (PHS003111)</li></ul> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Site Updates</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">General Site</span></h2> <ul style="margin:0in 0in 8pt;"> <li>Added ’An official website of the United States government’ banner to the top of each page in the application</li> <li>Added standard federal warning banner before granting user access to the site </li> <li>Updated search engine optimization and indexing settings to promote better visibility from related queries in open search engines</li> <li>Added Data Use Guide to the About menu</li> <li>Added Childhood Cancer Clinical Data Commons to the Applications menu </li> <li>Updated site logo with newest image file</li> <li>Updated news items </li></ul> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Molecular Characterization Initiative (MCI) page </span></h2> <ul style="margin:0in 0in 8pt;"> <li>Updated label and values in the Enrollments in MCI by Diagnosis Type chart and added the adjacent table to accompany it</li> <li>Consolidated topic index with three primary headings and shortened topic titles where possible </li> <li>Updated MCI workflow image to include COG Project: EveryChild </li></ul> <h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Explore Dashboard</span></h1> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Visualization Dashboard</span></h2> <ul style="margin:0in 0in 8pt;"><li>Added note to remind users not to attempt to reidentify individuals based on the information presented in the dashboard</li> <li>Updated faceted search values for Anatomic site and removed undesired elements from facet selection list</li> <li>Reordered chart positions for more intuitive layout </li></ul> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Results Tables</span></h2> <ul style="margin:0in 0in 8pt;"> <li>Added a second horizontal scroll bar at the bottom of the tables for each tab using horizontal scrolling </li><li>Added three new library-related data columns to the Files table: Library Selection, Library Source, and Library Strategy</li> <li>Added export option for JSON format</li> <li>Updated Diagnosis and Samples tabs with new values for Anatomic Site </li> <li>Added units to the Age at Sample Collection column on Samples tab </li></ul> <h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Cart</span></h2> <ul style="margin:0in 0in 8pt;"> <li>Updated file name for manifest export </li></ul> <p><i>Note: Release notes for version 2.3.0 were adapted from an email communication sent directly to stakeholders on 06-26-2024 and first linked in the Hub on 3-31-2025.</i></p>
     type: Release Notes
     img: updateImgHub
     contentType: 
