@@ -16,10 +16,15 @@ altList:
   updateImgecDNA: Abstract visualization of a glowing digital network with interconnected blue and yellow nodes on a dark background.
 
 # newsList:
-#   id: can follow the name_date format for id, cannot have duplicate id for 2 different items;
-#   date: follow the format of Month Date, Year;
-#   slug: can edit content, no tag;
-#   highlight: can edit content, tag include <p>, <a>, linkout <a> have to follow the pattern <a class="link" href="" target="_blank" rel="noopener noreferrer"></a>;
+#   id: name_MMDDYYYY * Note: cannot have duplicate id for 2 different items;
+#   title: >-
+#      [TITLE CONTENT]
+#   date: Month Date, Year;
+#   slug: >-
+#      [SLUG CONTENT]
+#   highlight: >-
+#      [ 1 LINE HTML ]
+#      * Note: can edit content, tag include <p>, <a>, linkout <a> have to follow the pattern <a class="link" href="" target="_blank" rel="noopener noreferrer"></a>;
 #   type: one of [Announcements, News & Other, Application Updates, Site Updates], cannot add more type without changing code;
 #         * make sure to type correct especially include the 's' for 'Updates');
 #   img: have to be one from the altList, cannot add new ones without changing code;
@@ -459,12 +464,14 @@ newsList:
     img: updateImgSymposium
 
 # releaseNotesList:
-#   id: can follow the hub_release__date format for id, cannot have duplicate id for 2 different items;
+# - id: hub_release_MMDDYY * Note: cannot have duplicate id for 2 different items;
 #   title:
 #   version: vX.X.X
-#   date: Month Date, Year;
-#   slug: can edit content, no tag;
-#   highlight: in one line;
+#   date: Month Date, Year
+#   slug: >-
+#      [SLUG CONTENT] *Note: can edit content, no tag;
+#   fullText: >-
+#      [ 1 LINE HTML ]
 #   type: Release Notes
 #   img: updateImgHub
 #   contentType: Clinical,Genomics/Omics,Imaging,Xenograft,Epidemiologic
