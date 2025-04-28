@@ -52,6 +52,7 @@ mciContent:
               value: 425
         # map update, the last attribute of value
         map:
+          title: Enrollment Counts by State as of April 14, 2025
           data:
             - - 110
               - 540
