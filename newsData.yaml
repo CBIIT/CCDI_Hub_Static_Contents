@@ -53,6 +53,7 @@ newsList:
       <p>The Childhood Cancer Catalog of Circular Extrachromosomal DNA (ecDNA), developed by the Sanford Burnham Prebys Medical Discovery Institute, is a pediatric cancer genomics platform focused on circular ecDNA (<a class="link" href="https://ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org</a>). The platform incudes an API that aligns with the CCDI Data Federation Specification. eCDNA includes curated amplicon data from over 3,200 patients and 3,800 biosamples, derived from whole-genome sequencing datasets from major pediatric cancer databases.</p>
     type: News
     img: updateImgecDNA
+    latestUpdate: true
 
   - id: hub_federation_02142025
     title: >-
@@ -502,7 +503,6 @@ releaseNotesList:
     type: Release Notes
     img: updateImgHub
     contentType: Clinical,Genomics/Omics
-    latestUpdate: true
 
   - id: hub_release_02122025
     title: CCDI Hub Minor Release 2.5.1
