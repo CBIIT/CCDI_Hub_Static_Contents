@@ -65,3 +65,16 @@ cpiContent:
     topic: Contact
     content: >- 
       <p>For more information or to request access to the CPI API, please contact the CPI support team at <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
+
+cbioportalIntroText: >-
+  <p>To make complex genomic data more accessible, the Childhood Cancer Data Initiative (CCDI) is launching a user-friendly instance of cBioPortal that allows users—regardless of computational expertise—to explore and analyze without needing to download or process large datasets.</p>
+  <p>cBioPortal is an open-source, web-based platform designed to explore cancer data from large studies. Users can search by gene, mutation, cancer type, or patient and quickly visualize relationships, patterns, and trends in the data. CCDI’s customized instance “CCDI cBioPortal Cancer Data Explorer” is tailored to support pediatric cancer researchers and clinicians by enabling them to:</p>
+  <ul><li>Access standardized genomic and clinical data</li><li>Explore findings without the need to download or process large datasets</li><li>Facilitate collaborative and translational research by bridging basic science and clinical insights</li></ul>
+  <p>The pilot version of CCDI cBioPortal Cancer Data Explorer includes mutation data extracted from the genomic variant files of the <a href="/MCI">Molecular Characterization Initiative</a> (MCI). Over time, additional data will be added from the growing collection available in the <a href="/explore">CCDI Data Hub</a>.</p>
+  <p>To access the CCDI cBioPortal Cancer Data Explorer, please <a class="link" href="https://ccdi.cancer.gov/cbioportal" target="_blank" rel="noopener noreferrer">click here</a>.</p>
+
+cbioportalContent:
+  - id: cbioportal_Contact
+    topic: Contact 
+    content: >-
+      <p>For more information, email us at <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
