@@ -85,7 +85,7 @@ toolsContent:
     topic: CCDI Data Model 
     content: >-
       <p>The Childhood Cancer Data Initiative (CCDI) Data Model is a structured framework developed to standardize and harmonize pediatric cancer data across diverse research platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their relationships to ensure consistent data representation. The model plays a central role in enabling data integration, sharing, and analysis within the CCDI Data Ecosystem. To interactively view the data model, please click <a href="/data-model">here</a>.</p>
-      <p>Link: <a class="link" href="https://github.com/CBIIT/c3dc-model" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/c3dc-model</a></p>
+      <p>Link: <a class="link" href="https://github.com/CBIIT/ccdi-model" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/ccdi-model</a></p>
       <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
   - id: C3DC Data Model
     topic: C3DC Data Model
