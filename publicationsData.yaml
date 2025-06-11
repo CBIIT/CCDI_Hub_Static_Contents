@@ -132,7 +132,7 @@ publicationsList:
     tag: CCDI Ecosystem
     type: Preprint
 
-    - id: Ecosystem_05222025
+  - id: Ecosystem_05222025
     title: >-
       AttentionAML: An Attention-based Deep Learning Framework for Accurate Molecular Categorization of Acute Myeloid Leukemia
     link: https://doi.org/10.1101/2025.05.20.655179
