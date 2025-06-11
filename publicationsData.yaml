@@ -120,6 +120,50 @@ publicationsList:
     tag: CCDI-MCI-COG
     conference: American Society of Clinical Ontology (ASCO) 2025
 
+  - id: Ecosystem_05312025
+    title: >-
+      Confounding factors in assessing the enriched expression of somatic mutant allele in bulk tumor samples
+    link: https://doi.org/10.1101/2025.05.27.656366
+    date: May 2025
+    summary: >-
+      <p>Allele-specific expression (ASE) of somatic mutations can be caused by cis-activation of the mutant allele or silencing of the wildtype allele and has been investigated by examining the enrichment of mutant allele in RNA relative to DNA. Here we show that this mutation-based approach can be confounded by gene expression differences in tumor and normal cells which co-exist in most bulk tumor samples. We modeled mutant allele expression by incorporating tumor/normal expression difference, mutant allele dosage, tumor purity, and nonsense-mediated decay (NMD) efficiency, projecting that the enrichment can occur without ASE. This confounding effect is exacerbated with low tumor purity and is dependent on mutant allele dosage for NMD-sensitive mutations. The model was validated empirically using somatic insertions/deletions (indels) from 9,101 the Cancer Genome Atlas (TCGA) samples, showing three-fold higher enrichment in driver genes vs. non-drivers. To explore if the enriched mutant allele expression can be leveraged to complement DNA-based somatic mutation detection, we performed de novo somatic indel calling using TCGA RNA-Seq, increasing the TCGA driver indel repertoire by ∼14%, mostly in samples with lower tumor purity. Our study not only revealed confounding factors in ASE analysis but also demonstrated the utility of leveraging RNA-Seq for driver mutation analysis.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    type: Preprint
+
+    - id: Ecosystem_05222025
+    title: >-
+      AttentionAML: An Attention-based Deep Learning Framework for Accurate Molecular Categorization of Acute Myeloid Leukemia
+    link: https://doi.org/10.1101/2025.05.20.655179
+    date: May 2025
+    summary: >-
+      <p>Acute myeloid leukemia (AML) is an aggressive hematopoietic malignancy defined by aberrant clonal expansion of abnormal myeloid progenitor cells. Characterized by morphological, molecular, and genetic alterations, AML encompasses multiple distinct subtypes that would exhibit subtype-specific responses to treatment and prognosis, underscoring the critical need of accurately identifying AML subtypes for effective clinical management and tailored therapeutic approaches. Traditional wet lab approaches such as immunophenotyping, cytogenetic analysis, morphological analysis, or molecular profiling to identify AML subtypes are labor-intensive, costly, and time-consuming. To address these challenges, we propose AttentionAML, a novel attention-based deep learning framework for accurately categorizing AML subtypes based on transcriptomic profiling only. Benchmarking tests based on 1,661 AML patients suggested that AttentionAML outperformed state-of-the-art methods across all evaluated metrics (accuracy: 0.96, precision: 0.96, recall of 0.96, F1-score: 0.96, and Matthews correlation coefficient: 0.96). Furthermore, we also demonstrated the superiority of AttentionAML over conventional approaches in terms of AML patient clustering visualization and subtype-specific gene marker characterization. We believe AttentionAML will bring remarkable positive impacts on downstream AML risk stratification and personalized treatment design. To enhance its impact, a user-friendly Python package implementing AttentionAML is publicly available at https://github.com/wan-mlab/AttentionAML.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    type: Preprint
+
+  - id: NCCR_05072025_2
+    title: >-
+      Automated Provision of EHR Data to National Childhood Cancer Center (NCCR) Registries
+    link: https://onlinelibrary.wiley.com/doi/full/10.1002/pbc.31765?campaign=woletoc
+    date: May 2025
+    summary: >-
+      <p>The National Cancer Institute's (NCI) National Childhood Cancer Registry (NCCR), a major component of the Childhood Cancer Data Initiative (CCDI), is a central infrastructure that integrates childhood cancer data from central cancer registries and other sources to enhance utilization of pediatric cancer data. The NCCR currently includes >70% of the United States pediatric population. Currently Electronic Health Record (EHR) data in the NCCR are manually abstracted and transferred to cancer registries.</p>  
+    category: Abstracts
+    tag: CCDI-NCCR
+    conference: American Society of Pediatric Hematology/Oncology (ASPHO) 2025
+
+  - id: NCCR_05072025_1
+    title: >-
+      Exploring the National Childhood Cancer Registry (NCCR) Data Platform for Advancing Cancer Research 
+    link: https://onlinelibrary.wiley.com/doi/full/10.1002/pbc.31765?campaign=woletoc
+    date: May 2025
+    summary: >-
+      <p>Childhood, adolescent and young adult (AYA) cancers are rare and data reuse is critically important to drive discovery. However, research, clinical and administrative data are fragmented across multiple institutions and largely inaccessible for broader reuse. The National Childhood Cancer Registry (NCCR), a key component of the Childhood Cancer Data Initiative (CCDI), integrates rich and diverse data from cancer registries and multiple real-world sources under a unified governance framework. The newly launched NCCR Data Platform makes these data accessible to childhood and AYA cancer researchers for a wide range of research questions.</p>  
+    category: Abstracts
+    tag: CCDI-NCCR
+    conference: American Society of Pediatric Hematology/Oncology (ASPHO) 2025
+    
   - id: Ecosystem_04282025
     title: >-
       Automated Classification of Pediatric Sarcoma Using Digital Histopathy
@@ -188,6 +232,17 @@ publicationsList:
     journal: >-
       JNCI: Journal of the National Cancer Institute
     pmid: 39799506
+
+  - id: Ecosystem_01022025
+    title: >-
+      RanBALL: An Ensemble Random Projection Model for Identifying Subtypes of B-Cell Acute Lymphoblastic Leukemia
+    link: https://doi.org/10.1101/2024.09.24.614777
+    date: January 2025
+    summary: >-
+      <p>As the most common pediatric malignancy, B-cell acute lymphoblastic leukemia (B-ALL) has multiple distinct subtypes characterized by recurrent and sporadic somatic and germline genetic alterations. Identifying B-ALL subtypes can facilitate risk stratification and enable tailored therapeutic design. Existing methods for B-ALL subtyping primarily depend on immunophenotyping, cytogenetic tests and genomic profiling, which would be costly, complicated, and laborious. To overcome these challenges, we present RanBALL (an ensemble Random projection-based model for identifying B-ALL subtypes), an accurate and cost-effective model for B-ALL subtype identification. By leveraging random projection (RP) and ensemble learning, RanBALL can preserve patient-to-patient distances after dimension reduction and yield robustly accurate classification performance for B-ALL subtyping. Benchmarking results based on > 1700 B-ALL patients demonstrated that RanBALL achieved remarkable performance (accuracy: 0.93, F1-score: 0.93, and Matthews correlation coefficient: 0.93), significantly outperforming state-of-the-art methods like ALLSorts in terms of all performance metrics. In addition, RanBALL performs better than tSNE in terms of visualizing B-ALL subtype information. We believe RanBALL will facilitate the discovery of B-ALL subtype-specific marker genes and therapeutic targets to have consequential positive impacts on downstream risk stratification and tailored treatment design. To extend its applicability and impacts, a Python-based RanBALL package is available at https://github.com/wan-mlab/RanBALL.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    type: Preprint
 
   - id: Ecosystem_01012025
     title: >-
@@ -529,6 +584,18 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: Cancer Immunology Research
     pmid: 36484736
+
+  - id: Ecosystem_01122023
+    title: >-
+     GWAS Explorer: an open-source tool to explore, visualize, and access GWAS summary statistics in the PLCO Atlas
+    link: https://doi.org/10.1038/s41597-022-01921-2
+    date: January 2023
+    summary: >-
+      <p>The Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Trial is a prospective cohort study of nearly 155,000 U.S. volunteers aged 55–74 at enrollment in 1993–2001. We developed the PLCO Atlas Project, a large resource for multi-trait genome-wide association studies (GWAS), by genotyping participants with available DNA and genomic consent. Genotyping on high-density arrays and imputation was performed, and GWAS were conducted using a custom semi-automated pipeline. Association summary statistics were generated from a total of 110,562 participants of European, African and Asian ancestry. Application programming interfaces (APIs) and open-source software development kits (SKDs) enable exploring, visualizing and open data access through the PLCO Atlas GWAS Explorer website, promoting Findable, Accessible, Interoperable, and Re-usable (FAIR) principles. Currently the GWAS Explorer hosts association data for 90 traits and >78,000,000 genomic markers, focusing on cancer and cancer-related phenotypes. New traits will be posted as association data becomes available. The PLCO Atlas is a FAIR resource of high-quality genetic and phenotypic data with many potential reuse opportunities for cancer research and genetic epidemiology.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: Scientific Data
+    pmid: 36635305
 
   - id: Ecosystem_11142022
     title: >-
