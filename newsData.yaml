@@ -44,7 +44,7 @@ newsList:
     img: updateImgHub 
     latestUpdate: true
     
-  - id: hub_federation_06302025
+  - id: federation_06302025
     title: >-
       Federation API v1.2 Includes Diagnosis Endpoints and CPI integration
     date: June 30, 2025
@@ -53,7 +53,7 @@ newsList:
     highlight: >-
       <p>The Federation Resource API v1.2 enhances disease querying with sample-diagnosis and participant-diagnosis endpoints and updated CDEs for tumor grade, sample tumor status, and sample ID. This release also incorporates CPI integration via a new participant-mapping endpoint, enabling users to retrieve associated participant IDs from the CPI API with a single request. Additionally, ecDNA is now included in Federation Resource, expanding data access across multiple  resources.</p>
     type: CCDI Application Updates
-    img: updateImgHub 
+    img: updateImgecDNA 
     latestUpdate: true
     
   - id: ccdc_06302025
