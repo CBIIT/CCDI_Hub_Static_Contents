@@ -31,19 +31,7 @@ altList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
-  - id: ccdc_06302025
-    title: >-
-      New data sets and updated resource details in latest CCDC update
-    date: March 31, 2025
-    slug: >-
-      The Childhood Cancer Data Catalog (CCDC) now has five new data sets, a new resource, and other updates 
-    highlight: >-
-      <p>CCDC’s May release features five new data sets: CBTRUS Fact Sheet 2024, Childhood Cancer Data Initiative (CCDI): Pediatric In Vivo Testing Program - Neuroblastoma, GENIE Cohort v17.0-public, IDC’s Pediatric-CT-SEG, and Childhood Cancer Catalog of Circular Extrachromosomal DNA (ecDNA). The latter comes with a new resource of the same name. In addition to new data, this release features updated counts and details for many resources, as well as an update to the catalog’s page footer.</p>
-    type: CCDI Application Updates
-    img: updateImgCCDC
-    latestUpdate: true
-    
-    - id: ccdc_03312025
+  - id: ccdc_03312025
     title: >-
       Latest CCDC release includes a new resource and updated data sets
     date: March 31, 2025
