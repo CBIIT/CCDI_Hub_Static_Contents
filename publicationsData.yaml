@@ -206,7 +206,7 @@ publicationsList:
     summary: >-
       <p>Cancer is the leading cause of death by disease among US children. While previous studies have examined the impact of poverty on pediatric cancer outcomes, most relied on single time point measures, which may not capture the long-term, systemic effects of poverty. Persistent poverty, defined as having 20% or more of an area’s population below the poverty level for 30 years, represents a more comprehensive measure of sustained socioeconomic disadvantage.</p>  
     category: Secondary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,CCDI Data 
     journal: Pediatrics
     pmid: 40254298
 
