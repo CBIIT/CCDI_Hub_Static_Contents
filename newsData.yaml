@@ -479,18 +479,18 @@ newsList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 releaseNotesList:
-# - id: hub_release_06302025
-#   title: CCDI Hub Release 2.7.0
-#   version: v2.7.0
-#   date: June 30, 2025
-#   slug: >-
-#      MCI clinical data, five new pages, tutorial video, and multiple feature additions and enhancements
-#   fullText: >-
-#      <p>The CCDI Hub 2.7.0 release includes several major feature additions and updates along with new clinical data for the Molecular Characterization Initiative (MCI) study. Five new pages have been added for the Cohort Analyzer, Data Model Navigator, Studies Listing, Study Details, and Tools. Other new features include three new help resources: an in-page web help browser for the Explore Dashboard, a guide for data submission, and a video tutorial for how to use the Explore Dashboard. Enhancements include updated coverage and organization of global search results, function to display and copy the URL constructed from facet selections, and standard updates to publications, MCI enrollment, and user guide.</p><p>Additional details are listed below:</p><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Data Updates</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Updated Data Sets</span></h2><ul style="margin:0in 0in 8pt;"><li>Added participants, samples, diagnoses; data for survival, treatment, and treatment response; and files for clinical measure, methylation array, and sequencing - Molecular Characterization Initiative (PHS002790</li></ul><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Site Updates</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">General Site</span></h2><ul style="margin:0in 0in 8pt;"><li>Added new About menu items for CCDI Data Submission Guidelines pdf and Hub Explore Dashboard Video Tutorial</li><li>Added new pages for Cohort Analyzer, Data Model Navigator, Studies Listing, Study Details, and Tools</li><li>Improved mobile experience from Home page</li><li>Increased global search indexing to cover more metadata and improved organization of and interaction with search hits</li><li>Updated Federation page graphic and content</li><li>Updated Publications page</li><li>Updated MCI Enrollments by Diagnosis table and Enrollment Counts by State chart</li><li>Updated news cards based on latest information</li><li>Updated User Guide with new features</li></ul><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Explore Dashboard</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Facets</span></h2><ul style="margin:0in 0in 8pt;"><li>Added a dedicated help browser above the facets to browse and navigate help topics within the page</li><li>Added buttons to show, hide, and copy the query URL built from the facet selections</li><li>Removed magnifying glass button from Demographics facet label to streamline usability</li></ul><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Tables</span></h2><ul style="margin:0in 0in 8pt;"><li>Added buttons for selecting and adding files to cart from and implemented filter for better display of synonyms in the CPI popup</li><li>Added message to indicate that columns</li><li>Implemented support for importing cohorts from C3DC</li></ul>
-#   type: Release Notes
-#   img: updateImgHub
-#   contentType: Clinical
-#   latestUpdate: true
+ - id: hub_release_06302025
+   title: CCDI Hub Release 2.7.0
+   version: v2.7.0
+   date: June 30, 2025
+   slug: >-
+      MCI clinical data, five new pages, tutorial video, and multiple feature additions and enhancements
+   fullText: >-
+      <p>The CCDI Hub 2.7.0 release includes several major feature additions and updates along with new clinical data for the Molecular Characterization Initiative (MCI) study. Five new pages have been added for the Cohort Analyzer, Data Model Navigator, Studies Listing, Study Details, and Tools. Other new features include three new help resources: an in-page web help browser for the Explore Dashboard, a guide for data submission, and a video tutorial for how to use the Explore Dashboard. Enhancements include updated coverage and organization of global search results, function to display and copy the URL constructed from facet selections, and standard updates to publications, MCI enrollment, and user guide.</p><p>Additional details are listed below:</p><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Data Updates</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Updated Data Sets</span></h2><ul style="margin:0in 0in 8pt;"><li>Added participants, samples, diagnoses; data for survival, treatment, and treatment response; and files for clinical measure, methylation array, and sequencing - Molecular Characterization Initiative (PHS002790</li></ul><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Site Updates</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">General Site</span></h2><ul style="margin:0in 0in 8pt;"><li>Added new About menu items for CCDI Data Submission Guidelines pdf and Hub Explore Dashboard Video Tutorial</li><li>Added new pages for Cohort Analyzer, Data Model Navigator, Studies Listing, Study Details, and Tools</li><li>Improved mobile experience from Home page</li><li>Increased global search indexing to cover more metadata and improved organization of and interaction with search hits</li><li>Updated Federation page graphic and content</li><li>Updated Publications page</li><li>Updated MCI Enrollments by Diagnosis table and Enrollment Counts by State chart</li><li>Updated news cards based on latest information</li><li>Updated User Guide with new features</li></ul><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Explore Dashboard</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Facets</span></h2><ul style="margin:0in 0in 8pt;"><li>Added a dedicated help browser above the facets to browse and navigate help topics within the page</li><li>Added buttons to show, hide, and copy the query URL built from the facet selections</li><li>Removed magnifying glass button from Demographics facet label to streamline usability</li></ul><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Tables</span></h2><ul style="margin:0in 0in 8pt;"><li>Added buttons for selecting and adding files to cart from and implemented filter for better display of synonyms in the CPI popup</li><li>Added message to indicate that columns</li><li>Implemented support for importing cohorts from C3DC</li></ul>
+   type: Release Notes
+   img: updateImgHub
+   contentType: Clinical
+   latestUpdate: true
 
   - id: hub_release_05142025
     title: CCDI Hub Minor Release 2.6.1
@@ -503,7 +503,6 @@ releaseNotesList:
     type: Release Notes
     img: updateImgHub
     contentType: Genomics/Omics
-    latestUpdate: true
 
   - id: hub_release_03312025
     title: CCDI Hub April 2025 Quarterly Release
