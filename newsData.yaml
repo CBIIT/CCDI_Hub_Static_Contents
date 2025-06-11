@@ -31,6 +31,18 @@ altList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
+
+  - id: ccdc_06302025
+    title: New data sets and updated resource details in latest CCDC update
+    date: June 30, 2025
+    slug: >- 
+      The Childhood Cancer Data Catalog (CCDC) now has five new data sets, a new resource, and other updates
+    highlight: >-
+      <p>CCDC’s May release features five new data sets: CBTRUS Fact Sheet 2024, Childhood Cancer Data Initiative (CCDI): Pediatric In Vivo Testing Program - Neuroblastoma, GENIE Cohort v17.0-public, IDC’s Pediatric-CT-SEG, and Childhood Cancer Catalog of Circular Extrachromosomal DNA (ecDNA). The latter comes with a new resource of the same name. In addition to new data, this release features updated counts and details for many resources, as well as an update to the catalog’s page footer.</p>
+    type: CCDI Application Updates
+    img: updateImgCCDC
+    latestUpdate: true
+    
   - id: ccdc_03312025
     title: >-
       Latest CCDC release includes a new resource and updated data sets
@@ -53,7 +65,6 @@ newsList:
       <p>The Childhood Cancer Catalog of Circular Extrachromosomal DNA (ecDNA), developed by the Sanford Burnham Prebys Medical Discovery Institute, is a pediatric cancer genomics platform focused on circular ecDNA (<a class="link" href="https://ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org</a>). The platform incudes an API that aligns with the CCDI Data Federation Specification. eCDNA includes curated amplicon data from over 3,200 patients and 3,800 biosamples, derived from whole-genome sequencing datasets from major pediatric cancer databases.</p>
     type: News
     img: updateImgecDNA
-    latestUpdate: true
 
   - id: hub_federation_02142025
     title: >-
