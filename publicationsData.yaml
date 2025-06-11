@@ -208,6 +208,7 @@ publicationsList:
     category: Secondary
     tag: CCDI Ecosystem
     journal: Pediatrics
+    pmid: 40254298
 
   - id: Ecosystem_04022025
     title: >-
@@ -319,13 +320,14 @@ publicationsList:
   - id: Ecosystem_06062024
     title: >-
       IMMUNOTAR - Integrative prioritization of cell surface targets for cancer immunotherapy
-    link: https://www.biorxiv.org/content/10.1101/2024.06.04.597422v1
+    link: https://doi.org/10.1093/bioinformatics/btaf060
     date: June 2024
     summary: >-
       <p>Cancer remains a leading cause of mortality globally. Recent improvements in survival have been facilitated by the development of less toxic immunotherapies; however, identifying targets for immunotherapies remains a challenge in the field. To address this challenge, we developed IMMUNOTAR, a computational tool that systematically prioritizes and identifies candidate immunotherapeutic targets. IMMUNOTAR integrates user-provided RNA-sequencing or proteomics data with quantitative features extracted from publicly available databases based on predefined optimal immunotherapeutic target criteria and quantitatively prioritizes potential surface protein targets. We demonstrate the utility and flexibility of IMMUNOTAR using three distinct datasets, validating its effectiveness in identifying both known and new potential immunotherapeutic targets within the analyzed cancer phenotypes. Overall, IMMUNOTAR enables the compilation of data from multiple sources into a unified platform, allowing users to simultaneously evaluate surface proteins across diverse criteria. By streamlining target identification, IMMUNOTAR empowers researchers to efficiently allocate resources and accelerate immunotherapy development.</p>
     category: Secondary
     tag: CCDI Ecosystem
-    type: Preprint
+    journal: Bioinformatics
+    pmid: 39932005
 
   - id: MCICOG_06062024
     title: >-
