@@ -39,7 +39,7 @@ newsList:
     slug: >-
       Looking for a quick and easy-to-follow tutorial on accessing CCDI data? 
     highlight: >-
-      <p>Learn how to use the Hub’s Explore Dashboard to find and access childhood cancer data that could fuel your research. Our new data tutorial video showcases the dashboard’s key features and illustrates how to build a cohort within the platform. [Watch the video today!](https://www.youtube.com/watch?v=Eu8y1GDTszU)</p>
+      <p>Learn how to use the Hub’s Explore Dashboard to find and access childhood cancer data that could fuel your research. Our new data tutorial video showcases the dashboard’s key features and illustrates how to build a cohort within the platform. <a href="https://www.youtube.com/watch?v=Eu8y1GDTszU">Watch the video today!</a></p>
     type: News
     img: updateImgHub 
     latestUpdate: true
