@@ -32,6 +32,18 @@ altList:
 
 newsList:
 
+  - id: hub_video_06302025
+    title: >-
+      New CCDI Hub data tutorial video released
+    date: June 30, 2025
+    slug: >-
+      Looking for a quick and easy-to-follow tutorial on accessing CCDI data? 
+    highlight: >-
+      <p>Learn how to use the Hub’s Explore Dashboard to find and access childhood cancer data that could fuel your research. Our new data tutorial video showcases the dashboard’s key features and illustrates how to build a cohort within the platform. [Watch the video today!](https://www.youtube.com/watch?v=Eu8y1GDTszU)</p>
+    type: News
+    img: updateImgHub 
+    latestUpdate: true
+    
   - id: hub_federation_06302025
     title: >-
       Federation API v1.2 Includes Diagnosis Endpoints and CPI integration
@@ -40,7 +52,7 @@ newsList:
       Federation API v1.2.0 facilitates diagnosis search and participant mapping across resources.
     highlight: >-
       <p>The Federation Resource API v1.2 enhances disease querying with sample-diagnosis and participant-diagnosis endpoints and updated CDEs for tumor grade, sample tumor status, and sample ID. This release also incorporates CPI integration via a new participant-mapping endpoint, enabling users to retrieve associated participant IDs from the CPI API with a single request. Additionally, ecDNA is now included in Federation Resource, expanding data access across multiple  resources.</p>
-    type: Announcements
+    type: CCDI Application Updates
     img: updateImgHub 
     latestUpdate: true
     
@@ -53,7 +65,6 @@ newsList:
       <p>CCDC’s May release features five new data sets: CBTRUS Fact Sheet 2024, Childhood Cancer Data Initiative (CCDI): Pediatric In Vivo Testing Program - Neuroblastoma, GENIE Cohort v17.0-public, IDC’s Pediatric-CT-SEG, and Childhood Cancer Catalog of Circular Extrachromosomal DNA (ecDNA). The latter comes with a new resource of the same name. In addition to new data, this release features updated counts and details for many resources, as well as an update to the catalog’s page footer.</p>
     type: CCDI Application Updates
     img: updateImgCCDC
-    latestUpdate: true
     
   - id: ccdc_03312025
     title: >-
