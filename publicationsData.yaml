@@ -8,7 +8,8 @@
 #   category: 
 #   tag: 
 #---------------1----------------------
-#   conference: 
+#   conference: >-
+#       [conference name]
 #---------------2----------------------
 #   journal: >-
 #       [journal content]
@@ -300,7 +301,8 @@ publicationsList:
       <p>The National Childhood Cancer Registry (NCCR) is a central infrastructure that integrates childhood cancer data from central cancer registries and other sources to enhance access to and utilization of pediatric cancer data. The NCCR currently represents >70% of the United States pediatric population. Registries collect and publish cancer incidence and survival data for public health surveillance. Electronic health records (EHRs) are one data source. EHR data are currently obtained by manual collection at individual hospitals that then transfer data to population-based cancer registries. This study aimed to use automated data collection from hospital EHRs to broaden and standardize data reported to registries.</p>
     category: Abstracts
     tag: CCDI-NCCR
-    conference: AACR 2024 Special Conference in Cancer Research: Advances in Pediatric Cancer Research
+    conference: >- 
+      AACR 2024 Special Conference in Cancer Research: Advances in Pediatric Cancer Research
 
   - id: Ecosystem_09012024
     title: >-
@@ -311,7 +313,8 @@ publicationsList:
       <p>Pediatric sarcomas are rare and diverse, with few highly specialized centers reviewing sufficient volume to hone histopathological expertise, resulting in frequent misclassification. Digitization of histology slides enables automated imaging analysis and training of artificial neural networks (ANNs) for sarcoma subtype classification. Such tools are reproducible, mitigate against inter-observer bias, and can be implemented at a distance, allowing for global access to more precise diagnostics. A limitation is insufficient high-quality data to train models and avoid overfitting. Here, we amass a digitized sarcoma histology dataset from multiple centers. We designed a computational pipeline to (1) harmonize images to remove center-specific artifacts, (2) mirror a traditional pathologist’s process by extracting imaging features at varying sizes and magnifications, and (3) implement the latest in deep learning backbones to perform automated classification of rhabdomyosarcoma (RMS) v. non-rhabdomyosarcoma (NRSTS) and further subtyping. We provide powerful proof of concept for the ability of these techniques to expand access to highly specialized care to the global pediatric sarcoma population. Methods: Hematoxylin & Eosin-stained images and limited clinical data were collected with representation from numerous centers. We optimized a pipeline for focus checking, resolution standardization, stain normalization, and image format conversion to generate a harmonized dataset of over 500 images. We tested varying tile sizes and overlaps, magnification powers, and single- vs. multi-scale concatenated-feature sets to optimize classification accuracy. Deep learning feature extraction was performed with two backbones (InceptionV3 and CTranspath). Using our previously developed SAMPLER method, we create statistical representations of each feature to train and test ANN classifiers for RMS vs NRSTS and further subtype predictions. Results: Optimal parameters were 224 pixel tile size and 112 micron spacing on center, yielding non-overlapping tiles when viewed at 20X, 0.5 microns per pixel (mpp). Single scale feature extraction at 0.5 and 1.0 outperformed 0.75 mpp. Multi-scale feature concatenation from the combination of 0.5 and 1.0 mpp provided the best overall classification performance. In matched analyses of all tested parameter combinations, CTranspath outperformed InceptionV3 with consistently higher area under curve. Conclusions: Our multi-institutional pediatric sarcoma histology dataset represents the broadest harmonized resource of this type to our knowledge. Using a multiscale approach and optimized tiling parameters, we demonstrate the superiority of vision transformer- over strict convolutional ANNs to provide gross distinction between sarcoma subtypes. Our harmonization procedures open the door for expansion of the dataset through ongoing multi-institutional collaboration, bringing promise for a future in which automated image review may accurately and remotely identify sarcoma histology, improving subtype-specific delivery of care.</p>
     category: Abstracts
     tag: CCDI Ecosystem
-    conference: AACR Special Conference in Cancer Research: Advances in Pediatric Cancer Research
+    conference: >-
+      AACR Special Conference in Cancer Research: Advances in Pediatric Cancer Research
 
   - id: Ecosystem_06062024
     title: >-
