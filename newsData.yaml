@@ -41,7 +41,7 @@ newsList:
     highlight: >-
       <p>Learn how to use the Hub’s Explore Dashboard to find and access childhood cancer data that could fuel your research. Our new data tutorial video showcases the dashboard’s key features and illustrates how to build a cohort within the platform. <a href="https://www.youtube.com/watch?v=Eu8y1GDTszU">Watch the video today!</a></p>
     type: News
-    img: updateImgHub 
+    img: updateImgDashboard 
     latestUpdate: true
     
   - id: federation_06302025
