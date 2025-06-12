@@ -63,7 +63,7 @@ publicationsList:
     summary: >-
       <p>The NCCR Data Platform consolidates public health surveillance data from 22 NCCR participating cancer registries into a central location linked to real world data sources. This valuable resource allows researchers approved access to pooled data on longitudinal clinical, treatment, claims, demographic and outcomes data for rare childhood cancers in the U.S. Currently the NCCR Data Platform provides information on 1.4+ million cases from 1995 to 2021 stemming from seven population based or convenience sample sources. Data can be interactively explored within the Data Platform and manipulated to create customized cohorts. These cohorts can be requested for downloading through the NCCR Data Platform data request process.</p>  
     category: Abstracts
-    tag: CCDI-NCCR
+    tag: CCDI-NCCR,CCDI Data
     conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: NCCR_06032025_2
@@ -74,7 +74,7 @@ publicationsList:
     summary: >-
       <p>Cancer death rates have decreased over the years for children (0-14 years) and adolescents and young adults (AYA, 15-39 years). A significant portion of this improvement in survival rates can be attributed to treatment advances from cooperative clinical trials in the US. However, according to a Children’s Oncology Group (COG) study, only 20% of US cancer patients aged 0 to 19 years old enrolled in COG trials between 2004-2015. Many studies reported underrepresentation of racial/ethnic minorities as well as AYA in clinical trials.</p>  
     category: Abstracts
-    tag: CCDI-NCCR
+    tag: CCDI-NCCR,CCDI Data
     conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: NCCR_06032025_1
@@ -85,7 +85,7 @@ publicationsList:
     summary: >-
       <p>Privacy-Preserving Record Linkage (PPRL) techniques allow institutions/organizations to link data without releasing sensitive information through a broad range of processes, including secure multi-party computation, bloom filter encoding, and hashing, among others.</p>  
     category: Abstracts
-    tag: CCDI-NCCR
+    tag: CCDI-NCCR,CCDI Data
     conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: MCICOG_06022025
@@ -96,7 +96,7 @@ publicationsList:
     summary: >-
       <p>Through collaboration with the National Cancer Institute as part of the Childhood Cancer Data Initiative, the Children’s Oncology Group offers prompt paired tissue and germline sequencing for newly diagnosed rare tumor subtypes.</p>  
     category: Abstracts
-    tag: CCDI-MCI-COG
+    tag: CCDI-MCI-COG,CCDI Data
     conference: American Society of Clinical Ontology (ASCO) 2025
 
   - id: MCICOG_06012025_2
@@ -107,7 +107,7 @@ publicationsList:
     summary: >-
       <p>The Molecular Characterization Initiative (MCI), a collaboration between the Children's Oncology Group (COG) and the NCIs Childhood Cancer Data Initiative (CCDI) which is intended to define a standardized genomic characterization of pediatric cancer, provides rapid, clinical sequencing for newly diagnosed central nervous system (CNS) tumors, rare tumors, soft tissue sarcomas (STS), or advanced stage neuroblastoma (NB) to guide diagnosis and treatment for these children</p>  
     category: Abstracts
-    tag: CCDI-MCI-COG
+    tag: CCDI-MCI-COG,CCDI Data
     conference: American Society of Clinical Ontology (ASCO) 2025
 
   - id: MCICOG_06012025_1
@@ -118,7 +118,7 @@ publicationsList:
     summary: >-
       <p> The Molecular Characterization Initiative (MCI), a partnership between the Children’s Oncology Group (COG) and the NCI’s Childhood Cancer Data Initiative (CCDI), provides standardized genomic profiling of tumors and germline for subjects with newly diagnosed pediatric soft tissue sarcomas (STS). Here, we report on STS patients <25 enrolled in MCI from July 2022 to July 2023.</p>  
     category: Abstracts
-    tag: CCDI-MCI-COG
+    tag: CCDI-MCI-COG,CCDI Data
     conference: American Society of Clinical Ontology (ASCO) 2025
 
   - id: Ecosystem_05312025
@@ -608,7 +608,7 @@ publicationsList:
     summary: |
       CIViC (Clinical Interpretation of Variants in Cancer; civicdb.org) is a crowd-sourced, public domain knowledgebase composed of literature-derived evidence characterizing the clinical utility of cancer variants. As clinical sequencing becomes more prevalent in cancer management, the need for cancer variant interpretation has grown beyond the capability of any single institution. CIViC contains peer-reviewed, published literature curated and expertly-moderated into structured data units (Evidence Items) that can be accessed globally and in real time, reducing barriers to clinical variant knowledge sharing. We have extended CIViC's functionality to support emergent variant interpretation guidelines, increase interoperability with other variant resources, and promote widespread dissemination of structured curated data. To support the full breadth of variant interpretation from basic to translational, including integration of somatic and germline variant knowledge and inference of drug response, we have enabled curation of three new Evidence Types (Predisposing, Oncogenic and Functional). The growing CIViC knowledgebase has over 300 contributors and distributes clinically-relevant cancer variant data currently representing >3200 variants in >470 genes from >3100 publications.
     category: Primary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,CCDI Data
     journal: Nucleic Acids Research
     pmid: 36373660
 
