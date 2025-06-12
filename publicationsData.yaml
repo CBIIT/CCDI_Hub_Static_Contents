@@ -151,7 +151,7 @@ publicationsList:
     summary: >-
       <p>The National Cancer Institute's (NCI) National Childhood Cancer Registry (NCCR), a major component of the Childhood Cancer Data Initiative (CCDI), is a central infrastructure that integrates childhood cancer data from central cancer registries and other sources to enhance utilization of pediatric cancer data. The NCCR currently includes >70% of the United States pediatric population. Currently Electronic Health Record (EHR) data in the NCCR are manually abstracted and transferred to cancer registries.</p>  
     category: Abstracts
-    tag: CCDI-NCCR
+    tag: CCDI-NCCR,CCDI Data
     conference: American Society of Pediatric Hematology/Oncology (ASPHO) 2025
 
   - id: NCCR_05072025_1
@@ -162,7 +162,7 @@ publicationsList:
     summary: >-
       <p>Childhood, adolescent and young adult (AYA) cancers are rare and data reuse is critically important to drive discovery. However, research, clinical and administrative data are fragmented across multiple institutions and largely inaccessible for broader reuse. The National Childhood Cancer Registry (NCCR), a key component of the Childhood Cancer Data Initiative (CCDI), integrates rich and diverse data from cancer registries and multiple real-world sources under a unified governance framework. The newly launched NCCR Data Platform makes these data accessible to childhood and AYA cancer researchers for a wide range of research questions.</p>  
     category: Abstracts
-    tag: CCDI-NCCR
+    tag: CCDI-NCCR,CCDI Data
     conference: American Society of Pediatric Hematology/Oncology (ASPHO) 2025
     
   - id: Ecosystem_04282025
