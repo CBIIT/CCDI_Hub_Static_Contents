@@ -8,7 +8,8 @@
 #   category: 
 #   tag: 
 #---------------1----------------------
-#   conference: 
+#   conference: >-
+#       [conference name]
 #---------------2----------------------
 #   journal: >-
 #       [journal content]
@@ -18,7 +19,7 @@
 #
 # (Note: only one of these three cases can be in one item)
 
-bannerText: Publication list updated as of 5/14/25.
+bannerText: Publication list updated as of 6/30/25.
 
 publicationsList:
   - id: NCCR_06042025_2
@@ -28,7 +29,7 @@ publicationsList:
     date: June 2025
     summary: >-
       <p>Enhanced data collection can improve health outcomes in childhood cancer. This article is a result of a pilot project coordinated by the NCI undertaken by the Texas Cancer Registry (TCR) and Texas Children’s Hospital (TCH) to explore the value of gathering clinical data from electronic health records (EHR).</p>  
-    category: Abstract
+    category: Abstracts
     tag: CCDI-NCCR
     conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
@@ -39,7 +40,7 @@ publicationsList:
     date: June 2025
     summary: >-
       <p>In 2024, an estimated 14,910 US children (0-14 years) and adolescents (15-19 years) were diagnosed with cancer. Understanding survival disparities by sociodemographic factors can help monitor progress in cancer outcomes as well as identify groups that may need better access to care and clinical trials, guidance with health literacy, or help with healthcare navigation.</p>  
-    category: Abstract
+    category: Abstracts
     tag: CCDI-NCCR
     conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
@@ -50,7 +51,7 @@ publicationsList:
     date: June 2025
     summary: >-
       <p>The National Childhood Cancer Registry (NCCR) integrates multimodal data from central cancer registries and multiple real-world sources under a unified data infrastructure to enable scientific advances using population-based and research data. The Childhood Cancer Data Initiative (CCDI) Participant Index (CPI) is a new resource that enables patient matching across NCCR and other research datasets in the wider CCDI data ecosystem. In tandem with NCCR Data Platform, the CPI provides a highly accessible and interoperable data resource for childhood, adolescent and young adult (AYA) cancer researchers to answer a wide range of research questions.</p>  
-    category: Abstract
+    category: Abstracts
     tag: CCDI-NCCR
     conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
@@ -61,8 +62,8 @@ publicationsList:
     date: June 2025
     summary: >-
       <p>The NCCR Data Platform consolidates public health surveillance data from 22 NCCR participating cancer registries into a central location linked to real world data sources. This valuable resource allows researchers approved access to pooled data on longitudinal clinical, treatment, claims, demographic and outcomes data for rare childhood cancers in the U.S. Currently the NCCR Data Platform provides information on 1.4+ million cases from 1995 to 2021 stemming from seven population based or convenience sample sources. Data can be interactively explored within the Data Platform and manipulated to create customized cohorts. These cohorts can be requested for downloading through the NCCR Data Platform data request process.</p>  
-    category: Abstract
-    tag: CCDI-NCCR
+    category: Abstracts
+    tag: CCDI-NCCR,CCDI Data
     conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: NCCR_06032025_2
@@ -72,8 +73,8 @@ publicationsList:
     date: June 2025
     summary: >-
       <p>Cancer death rates have decreased over the years for children (0-14 years) and adolescents and young adults (AYA, 15-39 years). A significant portion of this improvement in survival rates can be attributed to treatment advances from cooperative clinical trials in the US. However, according to a Children’s Oncology Group (COG) study, only 20% of US cancer patients aged 0 to 19 years old enrolled in COG trials between 2004-2015. Many studies reported underrepresentation of racial/ethnic minorities as well as AYA in clinical trials.</p>  
-    category: Abstract
-    tag: CCDI-NCCR
+    category: Abstracts
+    tag: CCDI-NCCR,CCDI Data
     conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: NCCR_06032025_1
@@ -83,8 +84,8 @@ publicationsList:
     date: June 2025
     summary: >-
       <p>Privacy-Preserving Record Linkage (PPRL) techniques allow institutions/organizations to link data without releasing sensitive information through a broad range of processes, including secure multi-party computation, bloom filter encoding, and hashing, among others.</p>  
-    category: Abstract
-    tag: CCDI-NCCR
+    category: Abstracts
+    tag: CCDI-NCCR,CCDI Data
     conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
 
   - id: MCICOG_06022025
@@ -93,9 +94,9 @@ publicationsList:
     link: https://meetings.asco.org/2025-asco-annual-meeting/16395?presentation=246136#246136
     date: June 2025
     summary: >-
-      <p>The full, final text of this abstract will be available at 5:00 PM ET on May 22, 2025 on the conference website.</p>  
-    category: Abstract
-    tag: CCDI-MCI-COG
+      <p>Through collaboration with the National Cancer Institute as part of the Childhood Cancer Data Initiative, the Children’s Oncology Group offers prompt paired tissue and germline sequencing for newly diagnosed rare tumor subtypes.</p>  
+    category: Abstracts
+    tag: CCDI-MCI-COG,CCDI Data
     conference: American Society of Clinical Ontology (ASCO) 2025
 
   - id: MCICOG_06012025_2
@@ -104,9 +105,9 @@ publicationsList:
     link: https://meetings.asco.org/2025-asco-annual-meeting/16395?presentation=246435#246435
     date: June 2025
     summary: >-
-      <p>The NCI-Children’s Oncology Group (COG) Molecular Characterization Initiative (MCI) provides rapid, clinical sequencing of newly diagnosed central nervous system (CNS) tumors, rare tumors, soft tissue sarcomas (STS), or neuroblastoma (NB) to guide diagnosis and treatment for children with these rare cancers. Results: Between 3/31/22 and 11/1/24, the MCI resulted sequencing tests for 3,740 patients, including >2,500 patients with CNS tumors, ~700 patients with STS, 350 with rare tumors and 150 with NB.  89% of the >10,000 individual tests resulted within 2 weeks from receipt of nucleic acids for sequencing. Germline single nucleotide (SNV) or copy number (CNV) variants were identified in 528 (14.1%) patients, ranging from 10.4% (NB) to 25.1% (rare tumors). Common germline alterations included SNVs in TP53 (n=52,1.4%), CHEK2 (n=50,1.3%), DICER1 (n=35,0.93%), NF1 (n=29,0.78%), and ATM (n=24,0.64%). Somatic SNVs or CNVs were identified in 85% of samples overall. SNVs most commonly involved TP53 (N=309,8.3%), BRAF (n=222,6.9%) or CTNNB1 (n=166,4.4%). Targeted RNA sequencing identified gene fusions in 30% of samples (23% rare, 27% CNS, 40% STS). Methylation array resulted in positive subclassification of CNS tumors in 90% of patients, including subclassifying 522 patients with medulloblastoma. Follow up data has been returned for 971 patients (NCI-CCDI Hub), with 749 evaluating the utility of MCI testing including: resulted in enrollment on a clinical trial (yes, n=86,11.5%), resulted in patient being treated with a targeted therapy (yes, n=80,10.7%), or resulted in refining the pathologic diagnosis (yes, n=223,29.5%).</p>  
-    category: Abstract
-    tag: CCDI-MCI-COG
+      <p>The Molecular Characterization Initiative (MCI), a collaboration between the Children's Oncology Group (COG) and the NCIs Childhood Cancer Data Initiative (CCDI) which is intended to define a standardized genomic characterization of pediatric cancer, provides rapid, clinical sequencing for newly diagnosed central nervous system (CNS) tumors, rare tumors, soft tissue sarcomas (STS), or advanced stage neuroblastoma (NB) to guide diagnosis and treatment for these children</p>  
+    category: Abstracts
+    tag: CCDI-MCI-COG,CCDI Data
     conference: American Society of Clinical Ontology (ASCO) 2025
 
   - id: MCICOG_06012025_1
@@ -116,18 +117,62 @@ publicationsList:
     date: June 2025
     summary: >-
       <p> The Molecular Characterization Initiative (MCI), a partnership between the Children’s Oncology Group (COG) and the NCI’s Childhood Cancer Data Initiative (CCDI), provides standardized genomic profiling of tumors and germline for subjects with newly diagnosed pediatric soft tissue sarcomas (STS). Here, we report on STS patients <25 enrolled in MCI from July 2022 to July 2023.</p>  
-    category: Abstract
-    tag: CCDI-MCI-COG
+    category: Abstracts
+    tag: CCDI-MCI-COG,CCDI Data
     conference: American Society of Clinical Ontology (ASCO) 2025
 
+  - id: Ecosystem_05312025
+    title: >-
+      Confounding factors in assessing the enriched expression of somatic mutant allele in bulk tumor samples
+    link: https://doi.org/10.1101/2025.05.27.656366
+    date: May 2025
+    summary: >-
+      <p>Allele-specific expression (ASE) of somatic mutations can be caused by cis-activation of the mutant allele or silencing of the wildtype allele and has been investigated by examining the enrichment of mutant allele in RNA relative to DNA. Here we show that this mutation-based approach can be confounded by gene expression differences in tumor and normal cells which co-exist in most bulk tumor samples. We modeled mutant allele expression by incorporating tumor/normal expression difference, mutant allele dosage, tumor purity, and nonsense-mediated decay (NMD) efficiency, projecting that the enrichment can occur without ASE. This confounding effect is exacerbated with low tumor purity and is dependent on mutant allele dosage for NMD-sensitive mutations. The model was validated empirically using somatic insertions/deletions (indels) from 9,101 the Cancer Genome Atlas (TCGA) samples, showing three-fold higher enrichment in driver genes vs. non-drivers. To explore if the enriched mutant allele expression can be leveraged to complement DNA-based somatic mutation detection, we performed de novo somatic indel calling using TCGA RNA-Seq, increasing the TCGA driver indel repertoire by ∼14%, mostly in samples with lower tumor purity. Our study not only revealed confounding factors in ASE analysis but also demonstrated the utility of leveraging RNA-Seq for driver mutation analysis.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    type: Preprint
+
+  - id: Ecosystem_05222025
+    title: >-
+      AttentionAML: An Attention-based Deep Learning Framework for Accurate Molecular Categorization of Acute Myeloid Leukemia
+    link: https://doi.org/10.1101/2025.05.20.655179
+    date: May 2025
+    summary: >-
+      <p>Acute myeloid leukemia (AML) is an aggressive hematopoietic malignancy defined by aberrant clonal expansion of abnormal myeloid progenitor cells. Characterized by morphological, molecular, and genetic alterations, AML encompasses multiple distinct subtypes that would exhibit subtype-specific responses to treatment and prognosis, underscoring the critical need of accurately identifying AML subtypes for effective clinical management and tailored therapeutic approaches. Traditional wet lab approaches such as immunophenotyping, cytogenetic analysis, morphological analysis, or molecular profiling to identify AML subtypes are labor-intensive, costly, and time-consuming. To address these challenges, we propose AttentionAML, a novel attention-based deep learning framework for accurately categorizing AML subtypes based on transcriptomic profiling only. Benchmarking tests based on 1,661 AML patients suggested that AttentionAML outperformed state-of-the-art methods across all evaluated metrics (accuracy: 0.96, precision: 0.96, recall of 0.96, F1-score: 0.96, and Matthews correlation coefficient: 0.96). Furthermore, we also demonstrated the superiority of AttentionAML over conventional approaches in terms of AML patient clustering visualization and subtype-specific gene marker characterization. We believe AttentionAML will bring remarkable positive impacts on downstream AML risk stratification and personalized treatment design. To enhance its impact, a user-friendly Python package implementing AttentionAML is publicly available at https://github.com/wan-mlab/AttentionAML.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    type: Preprint
+
+  - id: NCCR_05072025_2
+    title: >-
+      Automated Provision of EHR Data to National Childhood Cancer Center (NCCR) Registries
+    link: https://onlinelibrary.wiley.com/doi/full/10.1002/pbc.31765?campaign=woletoc
+    date: May 2025
+    summary: >-
+      <p>The National Cancer Institute's (NCI) National Childhood Cancer Registry (NCCR), a major component of the Childhood Cancer Data Initiative (CCDI), is a central infrastructure that integrates childhood cancer data from central cancer registries and other sources to enhance utilization of pediatric cancer data. The NCCR currently includes >70% of the United States pediatric population. Currently Electronic Health Record (EHR) data in the NCCR are manually abstracted and transferred to cancer registries.</p>  
+    category: Abstracts
+    tag: CCDI-NCCR,CCDI Data
+    conference: American Society of Pediatric Hematology/Oncology (ASPHO) 2025
+
+  - id: NCCR_05072025_1
+    title: >-
+      Exploring the National Childhood Cancer Registry (NCCR) Data Platform for Advancing Cancer Research 
+    link: https://onlinelibrary.wiley.com/doi/full/10.1002/pbc.31765?campaign=woletoc
+    date: May 2025
+    summary: >-
+      <p>Childhood, adolescent and young adult (AYA) cancers are rare and data reuse is critically important to drive discovery. However, research, clinical and administrative data are fragmented across multiple institutions and largely inaccessible for broader reuse. The National Childhood Cancer Registry (NCCR), a key component of the Childhood Cancer Data Initiative (CCDI), integrates rich and diverse data from cancer registries and multiple real-world sources under a unified governance framework. The newly launched NCCR Data Platform makes these data accessible to childhood and AYA cancer researchers for a wide range of research questions.</p>  
+    category: Abstracts
+    tag: CCDI-NCCR,CCDI Data
+    conference: American Society of Pediatric Hematology/Oncology (ASPHO) 2025
+    
   - id: Ecosystem_04282025
     title: >-
       Automated Classification of Pediatric Sarcoma Using Digital Histopathy
     link: https://www.abstractsonline.com/pp8/#!/20273/presentation/3252
     date: April 2025
     summary: >-
-      <p>Abstract is embargoed at this time.</p>  
-    category: Abstract
+      <p>Pediatric sarcomas are challenging to accurately classify due to their rarity and the wide diversity of subtypes. The process requires highly specialized pathologists as well as molecular and genetic testing that is expensive, takes time, and is not universally available. Deep neural network models (DNNs) trained on histopathology slides can reduce the time and cost to diagnosis and attenuate disparities in care based on geographical location and socioeconomic status. Here, we demonstrate the efficacy of automated image analysis for assigning sarcoma diagnoses across centers by identifying Ewing Sarcoma (ES), distinguishing rhabdomyosarcoma (RMS) vs non-rhabdomyosarcoma soft tissue sarcomas (NRSTS), as well as classifying alveolar, embryonal, and spindle cell RMS subtypes.</p>  
+    category: Abstracts
     tag: CCDI Ecosystem
     conference: AACR Annual Meeting 2025 
 
@@ -138,7 +183,7 @@ publicationsList:
     date: April 2025
     summary: >-
       <p>Knowledge about molecular targets for pediatric cancer has accelerated exponentially in recent years thanks to the increased application of multi-omics profiling in both research and clinical settings. The efficacy of genomic-based clinical interventions may depend on whether observed genomic abnormalities are fundamental to the pathogenesis of a specific cancer subtype. At present such information is limited in pediatric cancer due to the rapid evolution of subtype discovery and classification as well as disease heterogeneity owing to the presence of many rare cancer types. To develop a comprehensive resource of molecular targets in pediatric cancer subtypes, we have integrated somatic variants in pediatric cancer samples (n=~5,500) currently hosted in PeCan Portal (http://pecan.stjude.coud) with those (n=~1,400) profiled by NCI’s Childhood Cancer Data Initiative (CCDI) molecular characterization program. To leverage the recently developed WHO CNS5 classification of CNS tumors, we reclassified 2,167 relevant samples based on molecular drivers and histology as a major update to our pediatric cancer ontology definitions, which have recently become a shared standard in the CCDI community. To determine driver genes in disease pathways relevant to specific cancer types, we analyzed the pathogenicity of SNVs and indels, CNVs, SVs and gene fusions and integrated the findings with driver genes reported in 176 publications. A total of 469 distinct driver genes were mapped to 40 pathways across the 22 major pediatric cancer types, which include 3 types of hematological malignancies (HM), 10 types of CNS tumor and 9 types of solid tumor (ST). Pathways with driver genes disrupted across the broad spectrum of cancer types include cell cycle, chromatin remodeling, PI-3K, RAS signaling and telomere maintenance. By contrast the vast majority (>90%) of the transcription factors (TF) are lineage-specific— among the 128 TF genes identified as driver genes, only 11 affect multiple lineages. These include MYC/MYCN which affect HM, ST and CNS tumors; ERG, EWSR1, FLI1 and WT1 which affect HM and ST; and KLF4, MED12, MN1, MYB and TCF4 which affect CNS and HM. These results highlight the importance of developing an infrastructure for exploring mutation prevalence in driver genes and pathways at the cancer subtype level, which will be supported in the upcoming release of the PeCan portal. This, coupled with new features for dynamic exploration of mutational signatures, global expression maps and gene-level transcription across the the cancer subtype classification tree, will greatly expand our knowledge of molecular targets and vulnerabilities in pediatric cancer, paving the way for novel therapeutic advancements.</p>  
-    category: Abstract
+    category: Abstracts
     tag: CCDI Ecosystem
     conference: AACR Annual Meeting 2025 
 
@@ -149,7 +194,7 @@ publicationsList:
     date: April 2025
     summary: >-
       <p>The Molecular Characterization Initiative is an NCI-sponsored program being conducted in collaboration with the Children’s Oncology Group (COG), that seeks to enroll cancer patients from ages 0-25 with a primary diagnosis of a CNS malignancy, soft-tissue sarcoma, rare cancer or high-risk neuroblastoma onto Project Every Child. Subsequent to enrollment, the submission of a disease-involved specimen (cancer) and matched comparator normal (blood or buccal) is subjected to DNA and RNA (tumor) or DNA (normal) extraction by the Biopathology Center, followed by comprehensive clinical molecular profiling at The Institute for Genomic Medicine. To-date, over 4100 patients from 27 states in the United States, from Canada, Australia and New Zealand have been enrolled and studied since project inception in March 2022. Each patient sample set is evaluated by comparative tumor:normal exome analysis, fusion/ITD panel testing of RNA and by DNA methylation profiling, with return of results within 21 days from receipt of specimens at Nationwide Children’s Hospital. Subsequent to return of clinical results, each patient’s data are de-identified and submitted to the Childhood Cancer Database, a public repository managed by the NCI. The data in this repository are publicly available, with institutional sign-off, for the purposes of fueling future discoveries impacting pediatric cancer. The size and scope of the Molecular Characterization Initiative will be equivalent to or greater than other large-scale clinical profiling efforts conducted in Germany (INFORM) and in Australia (Zero Childhood Cancer). The current status and unique results from the MCI will be presented, along with future plans and ongoing challenges.</p>  
-    category: Abstract
+    category: Abstracts
     tag: CCDI-MCI-COG
     conference: AACR Annual Meeting 2025 
 
@@ -161,8 +206,9 @@ publicationsList:
     summary: >-
       <p>Cancer is the leading cause of death by disease among US children. While previous studies have examined the impact of poverty on pediatric cancer outcomes, most relied on single time point measures, which may not capture the long-term, systemic effects of poverty. Persistent poverty, defined as having 20% or more of an area’s population below the poverty level for 30 years, represents a more comprehensive measure of sustained socioeconomic disadvantage.</p>  
     category: Secondary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,CCDI Data 
     journal: Pediatrics
+    pmid: 40254298
 
   - id: Ecosystem_04022025
     title: >-
@@ -172,7 +218,7 @@ publicationsList:
     summary: >-
       <p>Natural killer T cells (NKTs) are a promising platform for cancer immunotherapy, but few genes involved in the regulation of NKT therapeutic activity have been identified. To find regulators of NKT functional fitness, we developed a CRISPR/Cas9-based mutagenesis screen that uses a guide RNA (gRNA) library targeting 1,118 immune-related genes. Unmodified NKTs and NKTs expressing a GD2-specific chimeric antigen receptor (GD2.CAR) were transduced with the gRNA library and exposed to CD1d+ leukemia or CD1d-GD2+ neuroblastoma cells, respectively, over six challenge cycles in vitro. Quantification of gRNA abundance revealed enrichment of PRDM1-specific gRNAs in both NKTs and GD2.CAR NKTs, a result that was validated through targeted PRDM1 knockout. Transcriptional, phenotypic, and functional analyses demonstrated that CAR NKTs with PRDM1 knockout underwent central memory-like differentiation and resisted exhaustion. However, these cells downregulated the cytotoxic mediator granzyme B and showed reduced in vitro cytotoxicity and only moderate in vivo antitumor activity in a xenogeneic neuroblastoma model. In contrast, short hairpin RNA-mediated PRDM1 knockdown preserved effector function while promoting central memory differentiation, resulting in GD2.CAR NKTs with potent in vivo antitumor activity. Thus, we have identified PRDM1 as a regulator of NKT memory differentiation and effector function that can be exploited to improve the efficacy of NKT-based cancer immunotherapies.</p>  
     category: Secondary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,CCDI Data
     journal: Cancer Immunology Research
     pmid: 39820712
 
@@ -188,6 +234,17 @@ publicationsList:
     journal: >-
       JNCI: Journal of the National Cancer Institute
     pmid: 39799506
+
+  - id: Ecosystem_01022025
+    title: >-
+      RanBALL: An Ensemble Random Projection Model for Identifying Subtypes of B-Cell Acute Lymphoblastic Leukemia
+    link: https://doi.org/10.1101/2024.09.24.614777
+    date: January 2025
+    summary: >-
+      <p>As the most common pediatric malignancy, B-cell acute lymphoblastic leukemia (B-ALL) has multiple distinct subtypes characterized by recurrent and sporadic somatic and germline genetic alterations. Identifying B-ALL subtypes can facilitate risk stratification and enable tailored therapeutic design. Existing methods for B-ALL subtyping primarily depend on immunophenotyping, cytogenetic tests and genomic profiling, which would be costly, complicated, and laborious. To overcome these challenges, we present RanBALL (an ensemble Random projection-based model for identifying B-ALL subtypes), an accurate and cost-effective model for B-ALL subtype identification. By leveraging random projection (RP) and ensemble learning, RanBALL can preserve patient-to-patient distances after dimension reduction and yield robustly accurate classification performance for B-ALL subtyping. Benchmarking results based on > 1700 B-ALL patients demonstrated that RanBALL achieved remarkable performance (accuracy: 0.93, F1-score: 0.93, and Matthews correlation coefficient: 0.93), significantly outperforming state-of-the-art methods like ALLSorts in terms of all performance metrics. In addition, RanBALL performs better than tSNE in terms of visualizing B-ALL subtype information. We believe RanBALL will facilitate the discovery of B-ALL subtype-specific marker genes and therapeutic targets to have consequential positive impacts on downstream risk stratification and tailored treatment design. To extend its applicability and impacts, a Python-based RanBALL package is available at https://github.com/wan-mlab/RanBALL.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    type: Preprint
 
   - id: Ecosystem_01012025
     title: >-
@@ -208,7 +265,7 @@ publicationsList:
     date: November 2024
     summary: >-
       <p>Childhood cancers are rare diseases with approximately 16,000 cases diagnosed annually in the US. Childhood cancer research data are typically captured through multicenter clinical trials and available only to consortium members, or investigator-initiated research at a single institution. Cancer treatment is also delivered outside of clinical trials—real-world data generated as a by-product of clinical care are typically siloed in distinct institutional information systems (Electronic Health Records, Radiation Oncology, Laboratory, and Imaging) and are not available for general research use. While central cancer registries collect information on all reported cancers in their jurisdiction, their data have not been linked across registries and with real world data at the national level before. Finally, as patients and their families travel across the US for treatment, a single registry or institution may not hold all data representing a patient’s cancer journey. Data from all these sources typically reside at different institutions with different governance frameworks and have been encoded in a variety of standard and non-standard formats, making them unavailable for research use.</p>
-    category: Abstract
+    category: Abstracts
     tag: CCDI-NCCR
     conference: AMIA 2024 Annual Symposium
 
@@ -243,9 +300,9 @@ publicationsList:
     date: September 2024
     summary: >-
       <p>The National Childhood Cancer Registry (NCCR) is a central infrastructure that integrates childhood cancer data from central cancer registries and other sources to enhance access to and utilization of pediatric cancer data. The NCCR currently represents >70% of the United States pediatric population. Registries collect and publish cancer incidence and survival data for public health surveillance. Electronic health records (EHRs) are one data source. EHR data are currently obtained by manual collection at individual hospitals that then transfer data to population-based cancer registries. This study aimed to use automated data collection from hospital EHRs to broaden and standardize data reported to registries.</p>
-    category: Abstract
+    category: Abstracts
     tag: CCDI-NCCR
-    conference: >-
+    conference: >- 
       AACR 2024 Special Conference in Cancer Research: Advances in Pediatric Cancer Research
 
   - id: Ecosystem_09012024
@@ -255,7 +312,7 @@ publicationsList:
     date: September 2024
     summary: >-
       <p>Pediatric sarcomas are rare and diverse, with few highly specialized centers reviewing sufficient volume to hone histopathological expertise, resulting in frequent misclassification. Digitization of histology slides enables automated imaging analysis and training of artificial neural networks (ANNs) for sarcoma subtype classification. Such tools are reproducible, mitigate against inter-observer bias, and can be implemented at a distance, allowing for global access to more precise diagnostics. A limitation is insufficient high-quality data to train models and avoid overfitting. Here, we amass a digitized sarcoma histology dataset from multiple centers. We designed a computational pipeline to (1) harmonize images to remove center-specific artifacts, (2) mirror a traditional pathologist’s process by extracting imaging features at varying sizes and magnifications, and (3) implement the latest in deep learning backbones to perform automated classification of rhabdomyosarcoma (RMS) v. non-rhabdomyosarcoma (NRSTS) and further subtyping. We provide powerful proof of concept for the ability of these techniques to expand access to highly specialized care to the global pediatric sarcoma population. Methods: Hematoxylin & Eosin-stained images and limited clinical data were collected with representation from numerous centers. We optimized a pipeline for focus checking, resolution standardization, stain normalization, and image format conversion to generate a harmonized dataset of over 500 images. We tested varying tile sizes and overlaps, magnification powers, and single- vs. multi-scale concatenated-feature sets to optimize classification accuracy. Deep learning feature extraction was performed with two backbones (InceptionV3 and CTranspath). Using our previously developed SAMPLER method, we create statistical representations of each feature to train and test ANN classifiers for RMS vs NRSTS and further subtype predictions. Results: Optimal parameters were 224 pixel tile size and 112 micron spacing on center, yielding non-overlapping tiles when viewed at 20X, 0.5 microns per pixel (mpp). Single scale feature extraction at 0.5 and 1.0 outperformed 0.75 mpp. Multi-scale feature concatenation from the combination of 0.5 and 1.0 mpp provided the best overall classification performance. In matched analyses of all tested parameter combinations, CTranspath outperformed InceptionV3 with consistently higher area under curve. Conclusions: Our multi-institutional pediatric sarcoma histology dataset represents the broadest harmonized resource of this type to our knowledge. Using a multiscale approach and optimized tiling parameters, we demonstrate the superiority of vision transformer- over strict convolutional ANNs to provide gross distinction between sarcoma subtypes. Our harmonization procedures open the door for expansion of the dataset through ongoing multi-institutional collaboration, bringing promise for a future in which automated image review may accurately and remotely identify sarcoma histology, improving subtype-specific delivery of care.</p>
-    category: Abstract
+    category: Abstracts
     tag: CCDI Ecosystem
     conference: >-
       AACR Special Conference in Cancer Research: Advances in Pediatric Cancer Research
@@ -263,13 +320,14 @@ publicationsList:
   - id: Ecosystem_06062024
     title: >-
       IMMUNOTAR - Integrative prioritization of cell surface targets for cancer immunotherapy
-    link: https://www.biorxiv.org/content/10.1101/2024.06.04.597422v1
+    link: https://doi.org/10.1093/bioinformatics/btaf060
     date: June 2024
     summary: >-
       <p>Cancer remains a leading cause of mortality globally. Recent improvements in survival have been facilitated by the development of less toxic immunotherapies; however, identifying targets for immunotherapies remains a challenge in the field. To address this challenge, we developed IMMUNOTAR, a computational tool that systematically prioritizes and identifies candidate immunotherapeutic targets. IMMUNOTAR integrates user-provided RNA-sequencing or proteomics data with quantitative features extracted from publicly available databases based on predefined optimal immunotherapeutic target criteria and quantitatively prioritizes potential surface protein targets. We demonstrate the utility and flexibility of IMMUNOTAR using three distinct datasets, validating its effectiveness in identifying both known and new potential immunotherapeutic targets within the analyzed cancer phenotypes. Overall, IMMUNOTAR enables the compilation of data from multiple sources into a unified platform, allowing users to simultaneously evaluate surface proteins across diverse criteria. By streamlining target identification, IMMUNOTAR empowers researchers to efficiently allocate resources and accelerate immunotherapy development.</p>
     category: Secondary
     tag: CCDI Ecosystem
-    type: Preprint
+    journal: Bioinformatics
+    pmid: 39932005
 
   - id: MCICOG_06062024
     title: >-
@@ -278,7 +336,7 @@ publicationsList:
     date: June 2024
     summary: >-
       The Molecular Characterization Initiative (MCI) launched in 2022 under the NCI Childhood Cancer Data Initiative (CCDI) in partnership with the Children’s Oncology Group (COG). MCI represents a national strategy facilitating appropriate clinical and molecular characterization of childhood cancers while building an accessible data ecosystem. Since activation, 2400+ pediatric patients with CNS tumors have enrolled from 184 COG sites across the U.S. and globally. MCI provides free comprehensive genomic profiling for newly diagnosed CNS tumors, with results returned to physicians within 21 days. De-identified clinical and genomic data are deposited in the CCDI repository and may be accessed via the database of Genotypes and Phenotypes through a controlled data access request. Digital whole slide images corresponding to the extracted tissues are accessed through NCI Imaging Data Commons.
-    category: Abstract
+    category: Abstracts
     tag: CCDI-MCI-COG
     conference: 2024 AANP National Conference
 
@@ -289,7 +347,7 @@ publicationsList:
     date: May 2024
     summary: >-
       While cancer in children and adolescents is rare, it is the primary cause of death from disease for those over the age of 1. The ability to conduct high quality population-level research studies that leverages all available data is crucial in rare disease such as childhood cancer. However, data captured by research consortiums, NCI-supported Cancer Centers, hospitals, and other sources are typically stranded in institutional data silos and unavailable for secondary data analyses within and across institutions. These RWD are frequently encoded using source-specific data models that are not harmonized or interoperable with data from other sources. Most treating institutions report case information to central cancer registries in the North American Association of Central Cancer Registries (NAACCR) standard as part of legally-mandated cancer surveillance. However, cancer registries typically do not receive detailed diagnostic, treatment, or long-term follow-up information that are valuable for understanding a patient’s long-term health outcomes during and after a cancer diagnosis. Augmenting existing cancer registry data with harmonized data from other sources, such as electronic health records (EHRs), genomic data, and institutional datasets, would greatly enhance the value of cancer registries for surveillance and research.
-    category: Abstract
+    category: Abstracts
     tag: CCDI-NCCR
     conference: AMIA 2024 Clinical Informatics Conference
   
@@ -323,7 +381,7 @@ publicationsList:
     date: November 2023
     summary: >-
       The Childhood Cancer Data Initiative (CCDI), is a 10-year, $50 million per year, US federal investment to advance pediatric cancer research through both new data generation and development of platforms for sharing data. The goal of the initiative is to learn from every child, adolescent, and young adult by bringing together the research, advocacy, and care communities in an ambitious effort to build a Data Ecosystem that enables rapid and systematic data collection, sharing, access, and analysis. A key component of the CCDI is the NCI’s Molecular Characterization Initiative (MCI). The MCI was initiated in 2022 and is run in collaboration with the Children’s Oncology Group (COG). The MCI offers at no cost to patients and institutions, clinically annotated, genomic characterization of tumors and germline samples to patients and their physician. These data are then deposited in an NCI repository for secondary use by the community. Here, we detail the MCI soft tissue sarcoma (STS) workflow and describe the first year of enrollment experience.
-    category: Abstract
+    category: Abstracts
     tag: CCDI-MCI-COG
     conference: Connective Tissue Oncology Society (CTOS) 2023 Annual meeting
 
@@ -530,6 +588,18 @@ publicationsList:
     journal: Cancer Immunology Research
     pmid: 36484736
 
+  - id: Ecosystem_01122023
+    title: >-
+     GWAS Explorer: an open-source tool to explore, visualize, and access GWAS summary statistics in the PLCO Atlas
+    link: https://doi.org/10.1038/s41597-022-01921-2
+    date: January 2023
+    summary: >-
+      <p>The Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Trial is a prospective cohort study of nearly 155,000 U.S. volunteers aged 55–74 at enrollment in 1993–2001. We developed the PLCO Atlas Project, a large resource for multi-trait genome-wide association studies (GWAS), by genotyping participants with available DNA and genomic consent. Genotyping on high-density arrays and imputation was performed, and GWAS were conducted using a custom semi-automated pipeline. Association summary statistics were generated from a total of 110,562 participants of European, African and Asian ancestry. Application programming interfaces (APIs) and open-source software development kits (SKDs) enable exploring, visualizing and open data access through the PLCO Atlas GWAS Explorer website, promoting Findable, Accessible, Interoperable, and Re-usable (FAIR) principles. Currently the GWAS Explorer hosts association data for 90 traits and >78,000,000 genomic markers, focusing on cancer and cancer-related phenotypes. New traits will be posted as association data becomes available. The PLCO Atlas is a FAIR resource of high-quality genetic and phenotypic data with many potential reuse opportunities for cancer research and genetic epidemiology.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: Scientific Data
+    pmid: 36635305
+
   - id: Ecosystem_11142022
     title: >-
       CIViCdb 2022: evolution of an open-access cancer variant interpretation knowledgebase
@@ -538,7 +608,7 @@ publicationsList:
     summary: |
       CIViC (Clinical Interpretation of Variants in Cancer; civicdb.org) is a crowd-sourced, public domain knowledgebase composed of literature-derived evidence characterizing the clinical utility of cancer variants. As clinical sequencing becomes more prevalent in cancer management, the need for cancer variant interpretation has grown beyond the capability of any single institution. CIViC contains peer-reviewed, published literature curated and expertly-moderated into structured data units (Evidence Items) that can be accessed globally and in real time, reducing barriers to clinical variant knowledge sharing. We have extended CIViC's functionality to support emergent variant interpretation guidelines, increase interoperability with other variant resources, and promote widespread dissemination of structured curated data. To support the full breadth of variant interpretation from basic to translational, including integration of somatic and germline variant knowledge and inference of drug response, we have enabled curation of three new Evidence Types (Predisposing, Oncogenic and Functional). The growing CIViC knowledgebase has over 300 contributors and distributes clinically-relevant cancer variant data currently representing >3200 variants in >470 genes from >3100 publications.
     category: Primary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,CCDI Data
     journal: Nucleic Acids Research
     pmid: 36373660
 
