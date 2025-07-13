@@ -35,7 +35,7 @@ mciContent:
         diseaseTable:
           # update title date
           title: >-
-            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of May 12, 2025
+            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of June 9, 2025
           header:
             - ""
             - "Primary Diagnosis Disease Group"
@@ -43,16 +43,16 @@ mciContent:
           # Table Update, update the value part
           body:
             - name: Central Nervous System
-              value: 4306
+              value: 4431
             - name: Soft Tissue Sarcoma
-              value: 1343
+              value: 1381
             - name: Rare Tumors
-              value: 664
+              value: 684
             - name: Neuroblastoma
-              value: 458
+              value: 489
         # map update, the last attribute of value
         map:
-          title: Enrollment Counts by State as of May 12, 2025
+          title: Enrollment Counts by State as of June 9, 2025
           data:
             - - 110
               - 540
@@ -62,77 +62,77 @@ mciContent:
             - - 638
               - 420
               - "ALABAMA"
-              - 139
+              - 140
               # AL
             - - 550
               - 390
               - "ARKANSAS"
-              - 18
+              - 19
               # AR
             - - 240
               - 430
               - "ARIZONA"
-              - 89
+              - 92
               # AZ
             - - 100
               - 280
               - "CALIFORNIA"
-              - 528
+              - 539
               # CA
             - - 320
               - 290
               - "COLORADO"
-              - 36
+              - 40
               # CO
             - - 834
               - 228
               - "CONNECTICUT"
-              - 64
+              - 65
               # CT
             - - 790
               - 305
               - "DISTRICT OF COLUMBIA"
-              - 63
+              - 64
               # DC
             - - 810
               - 290
               - "DELAWARE"
-              - 67
+              - 68
               # DE
             - - 735
               - 500
               - "FLORIDA"
-              - 352
+              - 359
               # FL
             - - 720
               - 450
               - "GEORGIA"
-              - 194
+              - 198
               # GA
             - - 340
               - 630
               - "HAWAII"
-              - 19
+              - 20
               # HI
             - - 505
               - 250
               - "IOWA"
-              - 82
+              - 87
               # IA
             - - 240
               - 220
               - "IDAHO"
-              - 42
+              - 44
               # ID
             - - 600
               - 320
               - "ILLINOIS"
-              - 124
+              - 127
               # IL
             - - 638
               - 285
               - "INDIANA"
-              - 109
+              - 114
               # IN
             - - 490
               - 330
@@ -142,52 +142,52 @@ mciContent:
             - - 670
               - 330
               - "KENTUCKY"
-              - 68
+              - 69
               # KY
             - - 550
               - 460
               - "LOUISIANA"
-              - 50
+              - 54
               # LA
             - - 840
               - 208
               - "MASSACHUSETTS"
-              - 71
+              - 74
               # MA
             - - 785
               - 288
               - "MARYLAND"
-              - 103
+              - 107
               # MD
             - - 860
               - 120
               - "MAINE"
-              - 24
+              - 25
               # ME
             - - 645
               - 210
               - "MICHIGAN"
-              - 144
+              - 148
               # MI
             - - 515
               - 150
               - "MINNESOTA"
-              - 189
+              - 198
               # MN
             - - 530
               - 310
               - "MISSOURI"
-              - 154
+              - 157
               # MO
             - - 600
               - 420
               - "MISSISSIPPI"
-              - 64
+              - 65
               # MS
             - - 785
               - 355
               - "NORTH CAROLINA"
-              - 182
+              - 199
               # NC
             - - 440
               - 135
@@ -202,17 +202,17 @@ mciContent:
             - - 843
               - 185
               - "NEW HAMPSHIRE"
-              - 14
+              - 15
               # NH
             - - 815
               - 265
               - "NEW JERSEY"
-              - 83
+              - 88
               # NJ
             - - 330
               - 430
               - "NEW MEXICO"
-              - 38
+              - 39
               # NM
             - - 160
               - 260
@@ -222,37 +222,37 @@ mciContent:
             - - 795
               - 190
               - "NEW YORK"
-              - 381
+              - 399
               # NY
             - - 690
               - 300
               - "OHIO"
-              - 372
+              - 385
               # OH
             - - 490
               - 410
               - "OKLAHOMA"
-              - 84
+              - 86
               # OK
             - - 150
               - 200
               - "OREGON"
-              - 65
+              - 68
               # OR
             - - 780
               - 245
               - "PENNSYLVANIA"
-              - 250
+              - 260
               # PA
             - - 853
               - 222
               - "RHODE ISLAND"
-              - 43
+              - 46
               # RI
             - - 720
               - 395
               - "SOUTH CAROLINA"
-              - 84
+              - 86
               # SC
             - - 410
               - 195
@@ -262,22 +262,22 @@ mciContent:
             - - 675
               - 370
               - "TENNESSEE"
-              - 129
+              - 134
               # TN
             - - 480
               - 490
               - "TEXAS"
-              - 653
+              - 666
               # TX
             - - 240
               - 275
               - "UTAH"
-              - 115
+              - 117
               # UT
             - - 765
               - 310
               - "VIRGINIA"
-              - 103
+              - 106
               # VA
             - - 825
               - 170
@@ -287,12 +287,12 @@ mciContent:
             - - 150
               - 100
               - "WASHINGTON"
-              - 324
+              - 334
               # WA
             - - 570
               - 190
               - "WISCONSIN"
-              - 209
+              - 214
               # WI
             - - 720
               - 330
