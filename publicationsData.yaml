@@ -563,7 +563,19 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: Journal for ImmunoTherapy of Cancer
     pmid: 36882225
-
+    
+  - id: Ecosystem_04182023
+    title: >-
+      Intratumor childhood vaccine-specific CD4+ T-cell recall coordinates antitumor CD8+ T cells and eosinophils
+    link: https://doi.org/10.1136/jitc-2022-006463
+    date: April 2023
+    summary: >-
+      <p>Antitumor mechanisms of CD4+ T cells remain crudely defined, and means to effectively harness CD4+ T-cell help for cancer immunotherapy are lacking. Pre-existing memory CD4+ T cells hold potential to be leveraged for this purpose. Moreover, the role of pre-existing immunity in virotherapy, particularly recombinant poliovirus immunotherapy where childhood polio vaccine specific immunity is ubiquitous, remains unclear. Here we tested the hypothesis that childhood vaccine-specific memory T cells mediate antitumor immunotherapy and contribute to the antitumor efficacy of polio virotherapy.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Journal for ImmunoTherapy of Cancer
+    pmid: 37072349
+    
   - id: Ecosystem_04072023
     title: >-
       Anakinra for Refractory Cytokine Release Syndrome or Immune Effector Cell-Associated Neurotoxicity Syndrome after Chimeric Antigen Receptor T Cell Therapy
