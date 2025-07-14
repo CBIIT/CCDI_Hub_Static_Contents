@@ -39,7 +39,7 @@ newsList:
       CCDC adds 13 new data sets in recent release 
     highlight: >-
       <p>The July 2025 release of the CCDI Childhood Cancer Data Catalog (CCDC) features 13 new data sets from three existing resources: cBioPortal, Childhood Cancer Data Initiative, and dbGaP. Eight resources have updated counts, and additional updates were made to two others. The User Guide was also updated to reflect all data updates.</p>
-    type: News
+    type: CCDI Application Updates
     img: updateImgDashboard 
     latestUpdate: true
     
