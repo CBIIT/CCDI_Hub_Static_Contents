@@ -699,7 +699,7 @@ publicationsList:
   - id: Ecosystem_08242021
     title: >-
       Cancer Informatics for Cancer Centers: Scientific Drivers for Informatics, Data Science, and Care in Pediatric, Adolescent, and Young Adult Cancer
-    link: https://pubmed.ncbi.nlm.nih.gov/34428097/
+    link: https://doi.org/10.1200/cci.21.00040
     date: August 2021
     summary: >-
       Cancer Informatics for Cancer Centers (CI4CC) is a grassroots, nonprofit 501c3 organization intended to provide a focused national forum for engagement of senior cancer informatics leaders, primarily aimed at academic cancer centers anywhere in the world but with a special emphasis on the 70 National Cancer Institute–funded cancer centers. This consortium has regularly held topic-focused biannual face-to-face symposiums. These meetings are a place to review cancer informatics and data science priorities and initiatives, providing a forum for discussion of the strategic and pragmatic issues that we faced at our respective institutions and cancer centers. Here, we provide meeting highlights from the latest CI4CC Symposium, which was delayed from its original April 2020 schedule because of the COVID-19 pandemic and held virtually over three days (September 24, October 1, and October 8) in the fall of 2020. In addition to the content presented, we found that holding this event virtually once a week for 6 hours was a great way to keep the kind of deep engagement that a face-to-face meeting engenders. This is the second such publication of CI4CC Symposium highlights, the first covering the meeting that took place in Napa, California, from October 14-16, 2019. We conclude with some thoughts about using data science to learn from every child with cancer, focusing on emerging activities of the National Cancer Institute's Childhood Cancer Data Initiative.
@@ -707,3 +707,16 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: JCO Clinical Cancer Informatics
     pmid: 34428097
+    
+  - id: Ecosystem_08222021
+    title: >-
+      BATF targets T cell exhaustion for termination
+    link: https://doi.org/10.1038/s41590-021-00978-2
+    date: August 2021
+    summary: >-
+      New reports glean further insight into the role of the transcription factor BATF in pivoting the differentiation of CD8+ T cells away from undergoing T cell exhaustion and facilitating transition of these cells into potent effectors.
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Nature Immunology
+    pmid: 34282328
+    
