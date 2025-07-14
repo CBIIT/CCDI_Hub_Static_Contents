@@ -660,6 +660,18 @@ publicationsList:
     journal: Cancer 
     pmid: 35860918
 
+  - id: Ecosystem_06032022
+    title: >-
+      Lipid metabolism as a therapeutic vulnerability in BET inhibitor-resistant medulloblastoma
+    link: https://doi.org/10.1093/neuonc/noac079.447
+    date:  June 2022
+    summary: >-
+      <p>MYC-driven medulloblastomas are a particularly devastating group of pediatric brain tumors that exhibit resistance and continued progression despite standard of care treatments. Our preclinical work identified BET-bromodomain inhibitors as a potentially promising new class of drugs for children with medulloblastoma and other MYC-driven cancers, providing rationale to evaluate these agents in clinical trials. However, treatment with BET inhibitor (BETi) alone is unlikely to be sufficient to cure, with most tumors evolving to acquire resistance to single-agent targeted therapies. We applied an integrative genomics approach to identify genes and pathways mediating BETi response in medulloblastoma. These studies revealed that MYC-driven medulloblastoma cells with acquired resistance to BETi reinstate transcription of essential genes suppressed by drug and exhibit changes in cell state and new vulnerabilities not present in drug-sensitive cells. We now have a growing body of evidence showing that BET inhibition downregulates the expression of key lipid metabolism genes and metabolism-related signaling pathways, and that medulloblastoma cells with adaptive resistance to drug differentially express and exhibit preferential dependency on specific lipid metabolic genes and transcriptional regulators. Our studies explore the possibility of exploiting these metabolic vulnerabilities to overcome BETi resistance and provide a more efficacious upfront therapy.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Neuro-Oncology
+    pmid: 
+    
   - id: Ecosystem_06022022
     title: >-
       NCI Launches Pediatric Molecular Characterization Initiative
