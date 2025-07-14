@@ -516,6 +516,18 @@ publicationsList:
     journal: Journal of Clinical Oncology
     pmid: 37319399
 
+  - id: Ecosystem_06132023
+    title: >-
+      An immune-based tool platform for in vivo cell clearance
+    link: https://doi.org/10.26508/lsa.202201869
+    date: June 2023
+    summary: >-
+      <p>Immunological targeting of pathological cells has been successful in oncology and is expanding to other pathobiological contexts. Here, we present a flexible platform that allows labeling cells of interest with the surface-expressed model antigen ovalbumin (OVA), which can be eliminated via either antigen-specific T cells or newly developed OVA antibodies. We demonstrate that hepatocytes can be effectively targeted by either modality. In contrast, pro-fibrotic fibroblasts associated with pulmonary fibrosis are only eliminated by T cells in initial experiments, which reduced collagen deposition in a fibrosis model. This new experimental platform will facilitate development of immune-based approaches to clear potential pathological cell types in vivo.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Life Science Alliance
+    pmid: 37311583
+
   - id: Ecosystem_06022023
     title: >-
       The Childhood Cancer Data Initiative: Using the Power of Data to Learn From and Improve Outcomes for Every Child and Young Adult With Pediatric Cancer
