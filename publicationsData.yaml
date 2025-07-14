@@ -648,6 +648,18 @@ publicationsList:
     journal: Nucleic Acids Research
     pmid: 36373660
 
+  - id: Ecosystem_09272022
+    title: >-
+      Development of GPC2-directed chimeric antigen receptors using mRNA for pediatric brain tumors
+    link: https://doi.org/10.1136/jitc-2021-004450
+    date: November 2022
+    summary: >-
+      <p>Pediatric brain tumors are the leading cause of cancer death in children with an urgent need for innovative therapies. Glypican 2 (GPC2) is a cell surface oncoprotein expressed in neuroblastoma for which targeted immunotherapies have been developed. This work aimed to characterize GPC2 expression in pediatric brain tumors and develop an mRNA CAR T cell approach against this target.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Journal for Immunotherapy of Cancer
+    pmid: 36167467
+    
   - id: Ecosystem_07212022
     title: >-
       NCI launches the Molecular Characterization Initiative for pediatric tumors
