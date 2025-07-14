@@ -564,6 +564,18 @@ publicationsList:
     journal: Journal for ImmunoTherapy of Cancer
     pmid: 36882225
 
+  - id: Ecosystem_04072023
+    title: >-
+      Anakinra for refractory CRS or ICANS after CAR T-cell therapy
+    link: https://doi.org/10.1016/j.jtct.2023.04.001
+    date: April 2023
+    summary: >-
+      <p>Chimeric antigen receptor-engineered (CAR) T-cell therapy remains limited by significant toxicities such as cytokine release syndrome (CRS) and immune effector cell–associated neurotoxicity syndrome (ICANS). The optimal management of severe and/or refractory CRS/ICANS remains ill-defined. Anakinra has emerged as a promising agent based on preclinical data, but its safety and efficacy in CAR T-cell patients remains unknown.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Transplantation and Cellular Therapy
+    pmid: 37031746
+
   - id: Ecosystem_03022023
     title: >-
       Targeted long-read sequencing of the Ewing sarcoma 6p25.1 susceptibility locus identifies germline-somatic interactions with EWSR1-FLI1 binding
