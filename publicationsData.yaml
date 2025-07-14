@@ -552,17 +552,17 @@ publicationsList:
     journal: Advances in Radiation Oncology
     pmid: 38047226
 
-  - id: Ecosystem_03072023
+  - id: Ecosystem_04292023
     title: >-
-      Interaction between tumor cell TNFR2 and monocyte membrane-bound TNF-α triggers tumorigenic inflammation in neuroblastoma
-    link: https://pubmed.ncbi.nlm.nih.gov/36882225/
-    date: March 2023
+      Oncohistones and Disrupted Development in Pediatric-Type Diffuse High-Grade Glioma
+    link: https://doi.org/10.1007/s10555-023-10105-2
+    date: April 2023
     summary: >-
-      <p>Tumor progression and resistance to therapy in children with neuroblastoma (NB), a common childhood cancer, are often associated with infiltration of monocytes and macrophages that produce inflammatory cytokines. However, the mechanism by which tumor-supportive inflammation is initiated and propagated remains unknown. Here, we describe a novel protumorigenic circuit between NB cells and monocytes that is triggered and sustained by tumor necrosis factor alpha (TNF-α).</p>
-    category: Secondary
+      <p>Recurrent, clonal somatic mutations in histone H3 are molecular hallmarks that distinguish the genetic mechanisms underlying pediatric and adult high-grade glioma (HGG), define biological subgroups of diffuse glioma, and highlight connections between cancer, development, and epigenetics. These oncogenic mutations in histones, now termed “oncohistones”, were discovered through genome-wide sequencing of pediatric diffuse high-grade glioma. Up to 80% of diffuse midline glioma (DMG), including diffuse intrinsic pontine glioma (DIPG) and diffuse glioma arising in other midline structures including thalamus or spinal cord, contain histone H3 lysine 27 to methionine (K27M) mutations or, rarely, other alterations that result in a depletion of H3K27me3 similar to that induced by H3 K27M. This subgroup of glioma is now defined as diffuse midline glioma, H3K27-altered. In contrast, histone H3 Gly34Arg/Val (G34R/V) mutations are found in approximately 30% of diffuse glioma arising in the cerebral hemispheres of older adolescents and young adults, now classified as diffuse hemispheric glioma, H3G34-mutant. Here, we review how oncohistones modulate the epigenome and discuss the mutational landscape and invasive properties of histone mutant HGGs of childhood. The distinct mechanisms through which oncohistones and other mutations rewrite the epigenetic landscape provide novel insights into development and tumorigenesis and may present unique vulnerabilities for pHGGs. Lessons learned from these rare incurable brain tumors of childhood may have broader implications for cancer, as additional high- and low-frequency oncohistone mutations have been identified in other tumor types.</p>
+    category: Primary
     tag: CCDI Ecosystem
-    journal: Journal for ImmunoTherapy of Cancer
-    pmid: 36882225
+    journal: Cancer and Metastasis Reviews
+    pmid: 37119408
     
   - id: Ecosystem_04182023
     title: >-
@@ -588,6 +588,18 @@ publicationsList:
     journal: Transplantation and Cellular Therapy
     pmid: 37031746
 
+  - id: Ecosystem_03072023
+    title: >-
+      Interaction between tumor cell TNFR2 and monocyte membrane-bound TNF-α triggers tumorigenic inflammation in neuroblastoma
+    link: https://pubmed.ncbi.nlm.nih.gov/36882225/
+    date: March 2023
+    summary: >-
+      <p>Tumor progression and resistance to therapy in children with neuroblastoma (NB), a common childhood cancer, are often associated with infiltration of monocytes and macrophages that produce inflammatory cytokines. However, the mechanism by which tumor-supportive inflammation is initiated and propagated remains unknown. Here, we describe a novel protumorigenic circuit between NB cells and monocytes that is triggered and sustained by tumor necrosis factor alpha (TNF-α).</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: Journal for ImmunoTherapy of Cancer
+    pmid: 36882225
+    
   - id: Ecosystem_03022023
     title: >-
       Targeted long-read sequencing of the Ewing sarcoma 6p25.1 susceptibility locus identifies germline-somatic interactions with EWSR1-FLI1 binding
