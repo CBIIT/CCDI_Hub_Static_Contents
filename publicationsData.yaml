@@ -398,6 +398,18 @@ publicationsList:
     journal: The Lancet Oncology
     pmid: 38552658
 
+  - id: Ecosystem_12252023
+    title: >-
+     Missing the mark? Exploratory analysis of the 10-year-old cutoff as an independent marker of high-risk disease in pediatric B-ALL
+    link: https://doi.org/10.1002/pbc.30825
+    date: December 2023
+    summary: >-
+      This single-center, retrospective study evaluated age as a risk factor for relapsed/refractory disease and/or death in 153 children with B-cell acute lymphoblastic leukemia. The study sample included children near the 10-year age cutoff for high-risk disease (6.0-13.9 years at diagnosis) and without other high-risk features (high white cell count, unfavorable cytogenetics). Children 10.0-13.9 years treated per high-risk protocols did not have inferior outcomes compared with children aged 6.0-9.9 years initiating treatment per standard-risk protocols. The study indicates that, in the era of cytogenetics, an age threshold of 10 years might not be an independent prognostic marker. Multicenter analyses are needed.
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Pediatric Blood & Cancer
+    pmid: 38146039
+    
   - id: MCICOG_11012023
     title: >-
       Building a national molecular profiling strategy: A report from the NCI Childhood Cancer Data Initiative and the Childrens Oncology Group Soft Tissue Sarcoma Committee
