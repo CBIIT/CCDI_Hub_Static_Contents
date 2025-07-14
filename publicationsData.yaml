@@ -612,6 +612,18 @@ publicationsList:
     journal: The American Journal of Human Genetics
     pmid: 36787739
 
+  - id: Ecosystem_02242023
+    title: >-
+      Intracranial Cannula Implantation for Serial Locoregional Chimeric Antigen Receptor (CAR) T Cell Infusions in Mice
+    link: https://doi.org/10.3791/64886
+    date: February 2023
+    summary: >-
+      <p>Pediatric CNS tumors are responsible for the majority of cancer-related deaths in children and have poor prognoses, despite advancements in chemotherapy and radiotherapy. As many tumors lack efficacious treatments, there is a crucial need to develop more promising therapeutic options, such as immunotherapies; the use of chimeric antigen receptor (CAR) T cell therapy directed against CNS tumors is of particular interest. Cell surface targets such as B7-H3, IL13RA2, and the disialoganglioside GD2 are highly expressed on the surface of several pediatric and adult CNS tumors, raising the opportunity to use CAR T cell therapy against these and other surface targets. To evaluate the repeated locoregional delivery of CAR T cells in preclinical murine models, an indwelling catheter system that recapitulates indwelling catheters currently being used in human clinical trials was established. Unlike stereotactic delivery, the indwelling catheter system allows for repeated dosing without the use of multiple surgeries. This protocol describes the intratumoral placement of a fixed guide cannula that has been used to successfully test serial CAR T cell infusions in orthotopic murine models of pediatric brain tumors. Following orthotopic injection and engraftment of the tumor cells in mice, intratumoral placement of a fixed guide cannula is completed on a stereotactic apparatus and secured with screws and acrylic resin. Treatment cannulas are then inserted through the fixed guide cannula for repeated CAR T cell delivery. Stereotactic placement of the guide cannula can be adjusted to deliver CAR T cells directly into the lateral ventricle or other locations in the brain. This platform offers a reliable mechanism for the preclinical testing of repeated intracranial infusions of CAR T cells and other novel therapeutics for these devastating pediatric tumors.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: JoVE
+    pmid: 36912520
+    
   - id: Ecosystem_02032023
     title: >-
       LEF1 Drives a Central Memory Program and Supports Antitumor Activity of Natural Killer T Cells
