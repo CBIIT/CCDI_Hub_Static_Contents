@@ -385,6 +385,18 @@ publicationsList:
     tag: CCDI-MCI-COG
     conference: Connective Tissue Oncology Society (CTOS) 2023 Annual meeting
 
+  - id: Ecosystem_10302023
+    title: >-
+     Re-irradiation of recurrent IDH-wildtype glioblastoma in the bevacizumab and immunotherapy era: Target delineation, outcomes and patterns of recurrence
+    link: https://doi.org/10.1016/j.ctro.2023.100697
+    date: October 2023
+    summary: >-
+      While recurrent glioblastoma patients are often treated with re-irradiation, there is limited data on the use of re-irradiation in the setting of bevacizumab (BEV), temozolomide (TMZ) re-challenge, or immune checkpoint inhibition (ICI). We describe target delineation in patients with prior anti-angiogenic therapy, assess safety and efficacy of re-irradiation, and evaluate patterns of recurrence.
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Clinical and Translational Radiation Oncology
+    pmid: 38046107
+
   - id: Ecosystem_10272023
     title: >-
       Childhood cancer data initiative: Status report
@@ -396,7 +408,31 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: Pediatric Blood & Cancer
     pmid: 37889049
-  
+
+  - id: Ecosystem_10122023
+    title: >-
+      The INDIGO trial: Precision medicine finally comes to glioma
+    link: https://doi.org/10.1093/neuonc/noad162
+    date: October 2023
+    summary: >-
+      Picking new therapeutic targets for diseases is challenging because of our incomplete knowledge of normal physiology and disease pathogenesis. The likelihood of success for any new drug increases when there is genetic evidence linking its target to the disease of interest or intended outcome. There are now many approved cancer drugs that directly target oncogenes. Examples include BCR-ABL inhibitors for CML, HER2/NEU inhibitors for breast cancer, and EGFR inhibitors for lung cancer. Mutations in the gene encoding the enzyme isocitrate dehydrogenase 1 (IDH1) were first described in glioma over a decade ago and now diagnostically define subsets of glioma. In glioma, brain-penetrant mutant IDH inhibitors have undergone clinical testing, most recently in the INDIGO trial.1 The data from INDIGO suggest that low-grade glioma has finally joined the list of cancers that can be treated with a genotypically informed targeted agent.
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Neuro-Oncology
+    pmid: 37698505
+    
+  - id: Ecosystem_10042023
+    title: >-
+      Factors associated with long-term outcomes of CD19 CAR T-cell therapy for relapsed/refractory CLL
+    link: https://doi.org/10.1182/bloodadvances.2023011399
+    date: October 2023
+    summary: >-
+      High response rates have been reported after CD19-targeted chimeric antigen receptor–modified (CD19 CAR) T-cell therapy for relapsed/refractory (R/R) chronic lymphocytic leukemia (CLL), yet the factors associated with duration of response in this setting are poorly characterized. We analyzed long-term outcomes in 47 patients with R/R CLL and/or Richter transformation treated on our phase 1/2 clinical trial of CD19 CAR T-cell therapy with an updated median follow-up of 79.6 months. Median progression-free survival (PFS) was 8.9 months, and the 6-year PFS was 17.8%. Maximum standardized uptake value (hazard ratio [HR], 1.15; 95% confidence interval [CI], 1.07-1.23; P < .001) and bulky disease (≥5 cm; HR, 2.12; 95% CI, 1.06-4.26; P = .034) before lymphodepletion were associated with shorter PFS. Day +28 complete response by positron emission tomography–computed tomography (HR, 0.13; 95% CI, 0.04-0.40; P < .001), day +28 measurable residual disease (MRD) negativity by multiparameter flow cytometry (HR, 0.08; 95% CI, 0.03-0.22; P < .001), day +28 MRD negativity by next-generation sequencing (HR, 0.21; 95% CI, 0.08-0.51; P < .001), higher peak CD8+ CAR T-cell expansion (HR, 0.49; 95% CI; 0.36-0.68; P < .001), higher peak CD4+ CAR T-cell expansion (HR, 0.47; 95% CI; 0.33-0.69; P < .001), and longer CAR T-cell persistence (HR, 0.56; 95% CI, 0.44-0.72; P < .001) were associated with longer PFS. The 6-year duration of response and overall survival were 26.4% and 31.2%, respectively. CD19 CAR T-cell therapy achieved durable responses with curative potential in a subset of patients with R/R CLL. This trial was registered at www.clinicaltrials.gov as #NCT01865617.
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Blood Advances
+    pmid: 37774014
+    
   - id: Ecosystem_multi_10032023
     title: >-
       A multi-institutional pediatric dataset of clinical radiology MRIs by the Children’s Brain Tumor Network
