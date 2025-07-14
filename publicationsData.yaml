@@ -329,6 +329,18 @@ publicationsList:
     conference: >-
       AACR Special Conference in Cancer Research: Advances in Pediatric Cancer Research
 
+  - id: Ecosystem_06072024
+    title: >-
+      Capmatinib is an effective treatment for MET-fusion driven pediatric high-grade glioma and synergizes with radiotherapy
+    link: https://doi.org/10.1186/s12943-024-02027-6
+    date: June 2024
+    summary: >-
+      <p>Pediatric-type diffuse high-grade glioma (pHGG) is the most frequent malignant brain tumor in children and can be subclassified into multiple entities. Fusion genes activating the MET receptor tyrosine kinase often occur in infant-type hemispheric glioma (IHG) but also in other pHGG and are associated with devastating morbidity and mortality.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: Molecular Cancer
+    pmid: 38849845
+    
   - id: Ecosystem_06062024
     title: >-
       IMMUNOTAR - Integrative prioritization of cell surface targets for cancer immunotherapy
