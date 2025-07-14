@@ -635,7 +635,19 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: Scientific Data
     pmid: 36635305
-
+    
+  - id: Ecosystem_12162022
+    title: >-
+     Synthetic cytokine circuits that drive T cell infiltration into immune-excluded tumors
+    link: https://doi.org/10.1126/science.aba1624
+    date: December 2022
+    summary: >-
+      <p>CAR T cells are ineffective against solid tumors with immunosuppressive microenvironments. To overcome suppression, we engineered circuits in which tumor-specific synNotch receptors locally induce production of the inflammatory cytokine, interleukin-2 (IL-2). These cytokine delivery circuits can potently enhance CAR T cell infiltration and clearance of immune-excluded tumors (immunocompetent models of pancreatic cancer and melanoma) without systemic toxicity. The most effective IL-2 induction circuit acts in an autocrine and TCR/CAR-independent manner, bypassing suppression by host cells that either consume IL-2 or inhibit TCR signaling. These engineered autocrine cells are able to establish an effective foothold in the tumors, likely because synNotch-induced IL-2 production can cooperatively enable initiation of CAR-mediated T cell expansion and killing. Thus, it is possible to reconstitute synthetic T cell circuits that activate the outputs ultimately required for a robust anti-tumor response, but in a manner that evades key points of tumor suppression.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Science
+    pmid: 36520915
+    
   - id: Ecosystem_11142022
     title: >-
       CIViCdb 2022: evolution of an open-access cancer variant interpretation knowledgebase
