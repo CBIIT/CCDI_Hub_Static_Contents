@@ -31,6 +31,19 @@ altList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
+
+  - id: cbioportal_07252025
+    title: >-
+      Introducing the CCDI cBioPortal Cancer Data Explorer
+    date: July 25, 2025
+    slug: >-
+      CCDI has a new platform—the cBioPortal Cancer Data Explorer
+    highlight: >-
+      <p>Explore and analyze complex genomic data without needing to download or process large data sets with our new user-friendly instance of cBioPortal. Use the CCDI cBioPortal Cancer Data Explorer to search by gene, mutation, cancer type, or patient, and quickly visualize relationships, patterns, and trends in the data. The pilot version includes mutation data extracted from the genomic variant files of the Molecular Characterization Initiative. Over time, additional data will be added from the growing collection available in the CCDI Hub.</p>
+    type: CCDI Application Updates
+    img: updateImgCCDC2 
+    latestUpdate: true
+    
   - id: ccdc_07252025
     title: >-
       Thirteen new CCDC data sets available
@@ -53,7 +66,6 @@ newsList:
       <p>Learn how to use the Hub’s Explore Dashboard to find and access childhood cancer data that could fuel your research. Our new data tutorial video showcases the dashboard’s key features and illustrates how to build a cohort within the platform. <a href="https://www.youtube.com/watch?v=Eu8y1GDTszU">Watch the video today!</a></p>
     type: News
     img: updateImgDashboard 
-    latestUpdate: true
     
   - id: federation_06302025
     title: >-
