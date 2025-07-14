@@ -39,7 +39,7 @@ newsList:
     slug: >-
       CCDI has a new platform—the cBioPortal Cancer Data Explorer
     highlight: >-
-      <p>Explore and analyze complex genomic data without needing to download or process large data sets with our new user-friendly instance of cBioPortal. Use the CCDI cBioPortal Cancer Data Explorer to search by gene, mutation, cancer type, or patient, and quickly visualize relationships, patterns, and trends in the data. The pilot version includes mutation data extracted from the genomic variant files of the Molecular Characterization Initiative. Over time, additional data will be added from the growing collection available in the CCDI Hub.</p>
+      <p>Explore and analyze complex genomic data without needing to download or process large data sets with our new user-friendly instance of cBioPortal. Use the CCDI cBioPortal Cancer Data Explorer to search by gene, mutation, cancer type, or patient, and quickly visualize relationships, patterns, and trends in the data. The pilot version includes mutation data extracted from the genomic variant files of the Molecular Characterization Initiative. Over time, additional data will be added from the growing collection available in the CCDI Hub. <a href="https://cbioportal.ccdi.cancer.gov/">Visit the CCDI cBioPortal Cancer Data Explorer!</a></p>
     type: CCDI Application Updates
     img: updateImgCCDC2 
     latestUpdate: true
