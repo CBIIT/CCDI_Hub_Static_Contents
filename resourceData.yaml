@@ -86,12 +86,12 @@ toolsContent:
       <p>The Childhood Cancer Data Initiative (CCDI) Data Model is a structured framework developed to standardize and harmonize pediatric cancer data across diverse research platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their relationships to ensure consistent data representation. The model plays a central role in enabling data integration, sharing, and analysis within the CCDI Data Ecosystem. To interactively view the data model, please click <a href="/data-model">here</a>.</p>
       <p>Link: <a class="link" href="https://github.com/CBIIT/ccdi-model" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/ccdi-model</a></p>
       <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
-  - id: CCDI ecDNA
-    topic: CCDI ecDNA
-    content: >-
-      <p>The CCDI Extrachromosomal DNA (ecDNA) portal is a comprehensive catalog of circular extrachromosomal DNA associated with childhood cancers. ecDNA, which frequently harbors amplified oncogenes, is a key driver of tumor development and progression, and its presence is linked to poor outcomes across multiple pediatric cancer types. This resource enables researchers to explore the prevalence, structure, and gene content of ecDNA in pediatric tumors, supporting studies in cancer biology, diagnosis, and potential therapeutic targets.</p>
-      <p>Link: <a class="link" href="https://ccdi-ecdna.org/" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org/</a></p>
-      <p>Contact: <a href="mailto:support@ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">support@ccdi-ecdna.org</a>, <a href="mailto:lchavez@sbpdiscovery.org" target="_blank" rel="noopener noreferrer">lchavez@sbpdiscovery.org </a></p>
+  # - id: CCDI ecDNA
+  #   topic: CCDI ecDNA
+  #   content: >-
+  #     <p>The CCDI Extrachromosomal DNA (ecDNA) portal is a comprehensive catalog of circular extrachromosomal DNA associated with childhood cancers. ecDNA, which frequently harbors amplified oncogenes, is a key driver of tumor development and progression, and its presence is linked to poor outcomes across multiple pediatric cancer types. This resource enables researchers to explore the prevalence, structure, and gene content of ecDNA in pediatric tumors, supporting studies in cancer biology, diagnosis, and potential therapeutic targets.</p>
+  #     <p>Link: <a class="link" href="https://ccdi-ecdna.org/" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org/</a></p>
+  #     <p>Contact: <a href="mailto:support@ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">support@ccdi-ecdna.org</a>, <a href="mailto:lchavez@sbpdiscovery.org" target="_blank" rel="noopener noreferrer">lchavez@sbpdiscovery.org </a></p>
   - id: C3DC Data Model
     topic: C3DC Data Model
     content: >-
@@ -104,12 +104,12 @@ toolsContent:
       <p>The NCI’s Cancer Genomics Cloud (CGC), powered by Velsera, is a cloud-based platform that enables analysis, storage, and computation of large cancer datasets. The CGC provides a user-friendly portal to access and analyze more than 3 petabytes of data. It offers over 900 bioinformatics tools and workflows, allowing users—including those without programming experience—to perform complex analyses and collaborate with a global community of over 8,000 researchers.</p>
       <p>Link: <a class="link" href="https://www.cancergenomicscloud.org/" target="_blank" rel="noopener noreferrer">https://www.cancergenomicscloud.org/</a></p>
       <p>Contact: <a href="mailto:cgc-sb@velsera.com" target="_blank" rel="noopener noreferrer">cgc-sb@velsera.com</a></p>
-  - id: CIViC
-    topic: CIViC
-    content: >-
-      <p>CIViC is an open-access, open-source, community-driven knowledgebase for the clinical interpretation of cancer variants. The platform enables crowdsourced curation and expert moderation of literature-derived evidence, providing structured, peer-reviewed data on the clinical significance of somatic and germline mutations in cancer. CIViC supports variant interpretation for diagnosis, prognosis, and therapy selection, and integrates with emerging guidelines and other variant resources to advance precision oncology.</p>
-      <p>Link: <a class="link" href="https://civicdb.org/" target="_blank" rel="noopener noreferrer">https://civicdb.org/</a></p>
-      <p>Contact: <a href="mailto:help@civicdb.org" target="_blank" rel="noopener noreferrer">help@civicdb.org</a></p> 
+  # - id: CIViC
+  #   topic: CIViC
+  #   content: >-
+  #     <p>CIViC is an open-access, open-source, community-driven knowledgebase for the clinical interpretation of cancer variants. The platform enables crowdsourced curation and expert moderation of literature-derived evidence, providing structured, peer-reviewed data on the clinical significance of somatic and germline mutations in cancer. CIViC supports variant interpretation for diagnosis, prognosis, and therapy selection, and integrates with emerging guidelines and other variant resources to advance precision oncology.</p>
+  #     <p>Link: <a class="link" href="https://civicdb.org/" target="_blank" rel="noopener noreferrer">https://civicdb.org/</a></p>
+  #     <p>Contact: <a href="mailto:help@civicdb.org" target="_blank" rel="noopener noreferrer">help@civicdb.org</a></p> 
   - id: dbGaP
     topic: dbGaP
     content: >-
