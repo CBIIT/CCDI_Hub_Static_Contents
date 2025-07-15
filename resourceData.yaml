@@ -91,7 +91,7 @@ toolsContent:
     content: >-
       <p>The CCDI Extrachromosomal DNA (ecDNA) portal is a comprehensive catalog of circular extrachromosomal DNA associated with childhood cancers. ecDNA, which frequently harbors amplified oncogenes, is a key driver of tumor development and progression, and its presence is linked to poor outcomes across multiple pediatric cancer types. This resource enables researchers to explore the prevalence, structure, and gene content of ecDNA in pediatric tumors, supporting studies in cancer biology, diagnosis, and potential therapeutic targets.</p>
       <p>Link: <a class="link" href="https://ccdi-ecdna.org/" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org/</a></p>
-      <p>Contact: <a href="mailto:support@ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">support@ccdi-ecdna.org</a>, <a href="mailto:lchavez@sbpdiscovery.org " target="_blank" rel="noopener noreferrer">lchavez@sbpdiscovery.org </a></p>
+      <p>Contact: <a href="mailto:support@ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">support@ccdi-ecdna.org</a>, <a href="mailto:lchavez@sbpdiscovery.org" target="_blank" rel="noopener noreferrer">lchavez@sbpdiscovery.org </a></p>
   - id: C3DC Data Model
     topic: C3DC Data Model
     content: >-
