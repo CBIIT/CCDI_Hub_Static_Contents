@@ -265,8 +265,8 @@ publicationsList:
     date: December 2024
     summary: >-
       <p>Immune homeostasis requires a balance of inflammatory and suppressive activities. To design cells potentially useful for local immune suppression, we engineered conventional CD4+ T cells with synthetic Notch (synNotch) receptors driving antigen-triggered production of anti-inflammatory payloads. Screening a diverse library of suppression programs, we observed the strongest suppression of cytotoxic T cell attack by the production of both anti-inflammatory factors (interleukin-10, transforming growth factor–β1, programmed death ligand 1) and sinks for proinflammatory cytokines (interleukin-2 receptor subunit CD25). Engineered cells with bespoke regulatory programs protected tissues from immune attack without systemic suppression. Synthetic suppressor T cells protected transplanted beta cell organoids from cytotoxic T cells. They also protected specific tissues from unwanted chimeric antigen receptor (CAR) T cell cross-reaction. Synthetic suppressor T cells are a customizable platform to potentially treat autoimmune diseases, organ rejection, and CAR T cell toxicities with spatial precision.</p>
-    category: Secondary
-    tag: CCDI-NCCR
+    category: Primary
+    tag: CCDI Ecosystem
     journal: Science
     pmid: 39636990
     
@@ -336,7 +336,7 @@ publicationsList:
     date: June 2024
     summary: >-
       <p>Pediatric-type diffuse high-grade glioma (pHGG) is the most frequent malignant brain tumor in children and can be subclassified into multiple entities. Fusion genes activating the MET receptor tyrosine kinase often occur in infant-type hemispheric glioma (IHG) but also in other pHGG and are associated with devastating morbidity and mortality.</p>
-    category: Secondary
+    category: Primary
     tag: CCDI Ecosystem
     journal: Molecular Cancer
     pmid: 38849845
@@ -760,7 +760,7 @@ publicationsList:
     title: >-
       Development of GPC2-directed chimeric antigen receptors using mRNA for pediatric brain tumors
     link: https://doi.org/10.1136/jitc-2021-004450
-    date: November 2022
+    date: September 2022
     summary: >-
       <p>Pediatric brain tumors are the leading cause of cancer death in children with an urgent need for innovative therapies. Glypican 2 (GPC2) is a cell surface oncoprotein expressed in neuroblastoma for which targeted immunotherapies have been developed. This work aimed to characterize GPC2 expression in pediatric brain tumors and develop an mRNA CAR T cell approach against this target.</p>
     category: Primary
