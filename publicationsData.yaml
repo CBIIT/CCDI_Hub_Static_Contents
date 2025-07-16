@@ -19,7 +19,7 @@
 #
 # (Note: only one of these three cases can be in one item)
 
-bannerText: Publication list updated as of 6/30/25.
+bannerText: Publication list updated as of 7/25/25.
 
 publicationsList:
   - id: NCCR_06042025_2
@@ -258,6 +258,18 @@ publicationsList:
     journal: The Lancet Oncology
     pmid: 39701117
 
+  - id: Ecosystem_12062024
+    title: >-
+      Engineering synthetic suppressor T cells that execute locally targeted immunoprotective programs
+    link: https://doi.org/10.1126/science.adl4793
+    date: December 2024
+    summary: >-
+      <p>Immune homeostasis requires a balance of inflammatory and suppressive activities. To design cells potentially useful for local immune suppression, we engineered conventional CD4+ T cells with synthetic Notch (synNotch) receptors driving antigen-triggered production of anti-inflammatory payloads. Screening a diverse library of suppression programs, we observed the strongest suppression of cytotoxic T cell attack by the production of both anti-inflammatory factors (interleukin-10, transforming growth factor–β1, programmed death ligand 1) and sinks for proinflammatory cytokines (interleukin-2 receptor subunit CD25). Engineered cells with bespoke regulatory programs protected tissues from immune attack without systemic suppression. Synthetic suppressor T cells protected transplanted beta cell organoids from cytotoxic T cells. They also protected specific tissues from unwanted chimeric antigen receptor (CAR) T cell cross-reaction. Synthetic suppressor T cells are a customizable platform to potentially treat autoimmune diseases, organ rejection, and CAR T cell toxicities with spatial precision.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Science
+    pmid: 39636990
+    
   - id: NCCR_11122024
     title: >-
       NCI’s National Childhood Cancer Registry Data Platform: A New Data Sharing Resource to Analyze Cancer Surveillance and Real World Data
@@ -317,6 +329,18 @@ publicationsList:
     conference: >-
       AACR Special Conference in Cancer Research: Advances in Pediatric Cancer Research
 
+  - id: Ecosystem_06072024
+    title: >-
+      Capmatinib is an effective treatment for MET-fusion driven pediatric high-grade glioma and synergizes with radiotherapy
+    link: https://doi.org/10.1186/s12943-024-02027-6
+    date: June 2024
+    summary: >-
+      <p>Pediatric-type diffuse high-grade glioma (pHGG) is the most frequent malignant brain tumor in children and can be subclassified into multiple entities. Fusion genes activating the MET receptor tyrosine kinase often occur in infant-type hemispheric glioma (IHG) but also in other pHGG and are associated with devastating morbidity and mortality.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Molecular Cancer
+    pmid: 38849845
+    
   - id: Ecosystem_06062024
     title: >-
       IMMUNOTAR - Integrative prioritization of cell surface targets for cancer immunotherapy
@@ -374,6 +398,18 @@ publicationsList:
     journal: The Lancet Oncology
     pmid: 38552658
 
+  - id: Ecosystem_12252023
+    title: >-
+     Missing the mark? Exploratory analysis of the 10-year-old cutoff as an independent marker of high-risk disease in pediatric B-ALL
+    link: https://doi.org/10.1002/pbc.30825
+    date: December 2023
+    summary: >-
+      This single-center, retrospective study evaluated age as a risk factor for relapsed/refractory disease and/or death in 153 children with B-cell acute lymphoblastic leukemia. The study sample included children near the 10-year age cutoff for high-risk disease (6.0-13.9 years at diagnosis) and without other high-risk features (high white cell count, unfavorable cytogenetics). Children 10.0-13.9 years treated per high-risk protocols did not have inferior outcomes compared with children aged 6.0-9.9 years initiating treatment per standard-risk protocols. The study indicates that, in the era of cytogenetics, an age threshold of 10 years might not be an independent prognostic marker. Multicenter analyses are needed.
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Pediatric Blood & Cancer
+    pmid: 38146039
+    
   - id: MCICOG_11012023
     title: >-
       Building a national molecular profiling strategy: A report from the NCI Childhood Cancer Data Initiative and the Childrens Oncology Group Soft Tissue Sarcoma Committee
@@ -384,6 +420,18 @@ publicationsList:
     category: Abstracts
     tag: CCDI-MCI-COG
     conference: Connective Tissue Oncology Society (CTOS) 2023 Annual meeting
+
+  - id: Ecosystem_10302023
+    title: >-
+     Re-irradiation of recurrent IDH-wildtype glioblastoma in the bevacizumab and immunotherapy era: Target delineation, outcomes and patterns of recurrence
+    link: https://doi.org/10.1016/j.ctro.2023.100697
+    date: October 2023
+    summary: >-
+      While recurrent glioblastoma patients are often treated with re-irradiation, there is limited data on the use of re-irradiation in the setting of bevacizumab (BEV), temozolomide (TMZ) re-challenge, or immune checkpoint inhibition (ICI). We describe target delineation in patients with prior anti-angiogenic therapy, assess safety and efficacy of re-irradiation, and evaluate patterns of recurrence.
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Clinical and Translational Radiation Oncology
+    pmid: 38046107
 
   - id: Ecosystem_10272023
     title: >-
@@ -396,7 +444,31 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: Pediatric Blood & Cancer
     pmid: 37889049
-  
+
+  - id: Ecosystem_10122023
+    title: >-
+      The INDIGO trial: Precision medicine finally comes to glioma
+    link: https://doi.org/10.1093/neuonc/noad162
+    date: October 2023
+    summary: >-
+      Picking new therapeutic targets for diseases is challenging because of our incomplete knowledge of normal physiology and disease pathogenesis. The likelihood of success for any new drug increases when there is genetic evidence linking its target to the disease of interest or intended outcome. There are now many approved cancer drugs that directly target oncogenes. Examples include BCR-ABL inhibitors for CML, HER2/NEU inhibitors for breast cancer, and EGFR inhibitors for lung cancer. Mutations in the gene encoding the enzyme isocitrate dehydrogenase 1 (IDH1) were first described in glioma over a decade ago and now diagnostically define subsets of glioma. In glioma, brain-penetrant mutant IDH inhibitors have undergone clinical testing, most recently in the INDIGO trial.1 The data from INDIGO suggest that low-grade glioma has finally joined the list of cancers that can be treated with a genotypically informed targeted agent.
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Neuro-Oncology
+    pmid: 37698505
+    
+  - id: Ecosystem_10042023
+    title: >-
+      Factors associated with long-term outcomes of CD19 CAR T-cell therapy for relapsed/refractory CLL
+    link: https://doi.org/10.1182/bloodadvances.2023011399
+    date: October 2023
+    summary: >-
+      High response rates have been reported after CD19-targeted chimeric antigen receptor–modified (CD19 CAR) T-cell therapy for relapsed/refractory (R/R) chronic lymphocytic leukemia (CLL), yet the factors associated with duration of response in this setting are poorly characterized. We analyzed long-term outcomes in 47 patients with R/R CLL and/or Richter transformation treated on our phase 1/2 clinical trial of CD19 CAR T-cell therapy with an updated median follow-up of 79.6 months. Median progression-free survival (PFS) was 8.9 months, and the 6-year PFS was 17.8%. Maximum standardized uptake value (hazard ratio [HR], 1.15; 95% confidence interval [CI], 1.07-1.23; P < .001) and bulky disease (≥5 cm; HR, 2.12; 95% CI, 1.06-4.26; P = .034) before lymphodepletion were associated with shorter PFS. Day +28 complete response by positron emission tomography–computed tomography (HR, 0.13; 95% CI, 0.04-0.40; P < .001), day +28 measurable residual disease (MRD) negativity by multiparameter flow cytometry (HR, 0.08; 95% CI, 0.03-0.22; P < .001), day +28 MRD negativity by next-generation sequencing (HR, 0.21; 95% CI, 0.08-0.51; P < .001), higher peak CD8+ CAR T-cell expansion (HR, 0.49; 95% CI; 0.36-0.68; P < .001), higher peak CD4+ CAR T-cell expansion (HR, 0.47; 95% CI; 0.33-0.69; P < .001), and longer CAR T-cell persistence (HR, 0.56; 95% CI, 0.44-0.72; P < .001) were associated with longer PFS. The 6-year duration of response and overall survival were 26.4% and 31.2%, respectively. CD19 CAR T-cell therapy achieved durable responses with curative potential in a subset of patients with R/R CLL. This trial was registered at www.clinicaltrials.gov as #NCT01865617.
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Blood Advances
+    pmid: 37774014
+    
   - id: Ecosystem_multi_10032023
     title: >-
       A multi-institutional pediatric dataset of clinical radiology MRIs by the Children’s Brain Tumor Network
@@ -516,6 +588,18 @@ publicationsList:
     journal: Journal of Clinical Oncology
     pmid: 37319399
 
+  - id: Ecosystem_06132023
+    title: >-
+      An immune-based tool platform for in vivo cell clearance
+    link: https://doi.org/10.26508/lsa.202201869
+    date: June 2023
+    summary: >-
+      <p>Immunological targeting of pathological cells has been successful in oncology and is expanding to other pathobiological contexts. Here, we present a flexible platform that allows labeling cells of interest with the surface-expressed model antigen ovalbumin (OVA), which can be eliminated via either antigen-specific T cells or newly developed OVA antibodies. We demonstrate that hepatocytes can be effectively targeted by either modality. In contrast, pro-fibrotic fibroblasts associated with pulmonary fibrosis are only eliminated by T cells in initial experiments, which reduced collagen deposition in a fibrosis model. This new experimental platform will facilitate development of immune-based approaches to clear potential pathological cell types in vivo.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Life Science Alliance
+    pmid: 37311583
+
   - id: Ecosystem_06022023
     title: >-
       The Childhood Cancer Data Initiative: Using the Power of Data to Learn From and Improve Outcomes for Every Child and Young Adult With Pediatric Cancer
@@ -552,6 +636,42 @@ publicationsList:
     journal: Advances in Radiation Oncology
     pmid: 38047226
 
+  - id: Ecosystem_04292023
+    title: >-
+      Oncohistones and Disrupted Development in Pediatric-Type Diffuse High-Grade Glioma
+    link: https://doi.org/10.1007/s10555-023-10105-2
+    date: April 2023
+    summary: >-
+      <p>Recurrent, clonal somatic mutations in histone H3 are molecular hallmarks that distinguish the genetic mechanisms underlying pediatric and adult high-grade glioma (HGG), define biological subgroups of diffuse glioma, and highlight connections between cancer, development, and epigenetics. These oncogenic mutations in histones, now termed “oncohistones”, were discovered through genome-wide sequencing of pediatric diffuse high-grade glioma. Up to 80% of diffuse midline glioma (DMG), including diffuse intrinsic pontine glioma (DIPG) and diffuse glioma arising in other midline structures including thalamus or spinal cord, contain histone H3 lysine 27 to methionine (K27M) mutations or, rarely, other alterations that result in a depletion of H3K27me3 similar to that induced by H3 K27M. This subgroup of glioma is now defined as diffuse midline glioma, H3K27-altered. In contrast, histone H3 Gly34Arg/Val (G34R/V) mutations are found in approximately 30% of diffuse glioma arising in the cerebral hemispheres of older adolescents and young adults, now classified as diffuse hemispheric glioma, H3G34-mutant. Here, we review how oncohistones modulate the epigenome and discuss the mutational landscape and invasive properties of histone mutant HGGs of childhood. The distinct mechanisms through which oncohistones and other mutations rewrite the epigenetic landscape provide novel insights into development and tumorigenesis and may present unique vulnerabilities for pHGGs. Lessons learned from these rare incurable brain tumors of childhood may have broader implications for cancer, as additional high- and low-frequency oncohistone mutations have been identified in other tumor types.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Cancer and Metastasis Reviews
+    pmid: 37119408
+    
+  - id: Ecosystem_04182023
+    title: >-
+      Intratumor childhood vaccine-specific CD4+ T-cell recall coordinates antitumor CD8+ T cells and eosinophils
+    link: https://doi.org/10.1136/jitc-2022-006463
+    date: April 2023
+    summary: >-
+      <p>Antitumor mechanisms of CD4+ T cells remain crudely defined, and means to effectively harness CD4+ T-cell help for cancer immunotherapy are lacking. Pre-existing memory CD4+ T cells hold potential to be leveraged for this purpose. Moreover, the role of pre-existing immunity in virotherapy, particularly recombinant poliovirus immunotherapy where childhood polio vaccine specific immunity is ubiquitous, remains unclear. Here we tested the hypothesis that childhood vaccine-specific memory T cells mediate antitumor immunotherapy and contribute to the antitumor efficacy of polio virotherapy.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Journal for ImmunoTherapy of Cancer
+    pmid: 37072349
+    
+  - id: Ecosystem_04072023
+    title: >-
+      Anakinra for Refractory Cytokine Release Syndrome or Immune Effector Cell-Associated Neurotoxicity Syndrome after Chimeric Antigen Receptor T Cell Therapy
+    link: https://doi.org/10.1016/j.jtct.2023.04.001
+    date: April 2023
+    summary: >-
+      <p>Chimeric antigen receptor-engineered (CAR) T-cell therapy remains limited by significant toxicities such as cytokine release syndrome (CRS) and immune effector cell–associated neurotoxicity syndrome (ICANS). The optimal management of severe and/or refractory CRS/ICANS remains ill-defined. Anakinra has emerged as a promising agent based on preclinical data, but its safety and efficacy in CAR T-cell patients remains unknown.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Transplantation and Cellular Therapy
+    pmid: 37031746
+
   - id: Ecosystem_03072023
     title: >-
       Interaction between tumor cell TNFR2 and monocyte membrane-bound TNF-α triggers tumorigenic inflammation in neuroblastoma
@@ -563,7 +683,7 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: Journal for ImmunoTherapy of Cancer
     pmid: 36882225
-
+    
   - id: Ecosystem_03022023
     title: >-
       Targeted long-read sequencing of the Ewing sarcoma 6p25.1 susceptibility locus identifies germline-somatic interactions with EWSR1-FLI1 binding
@@ -576,6 +696,18 @@ publicationsList:
     journal: The American Journal of Human Genetics
     pmid: 36787739
 
+  - id: Ecosystem_02242023
+    title: >-
+      Intracranial Cannula Implantation for Serial Locoregional Chimeric Antigen Receptor (CAR) T Cell Infusions in Mice
+    link: https://doi.org/10.3791/64886
+    date: February 2023
+    summary: >-
+      <p>Pediatric CNS tumors are responsible for the majority of cancer-related deaths in children and have poor prognoses, despite advancements in chemotherapy and radiotherapy. As many tumors lack efficacious treatments, there is a crucial need to develop more promising therapeutic options, such as immunotherapies; the use of chimeric antigen receptor (CAR) T cell therapy directed against CNS tumors is of particular interest. Cell surface targets such as B7-H3, IL13RA2, and the disialoganglioside GD2 are highly expressed on the surface of several pediatric and adult CNS tumors, raising the opportunity to use CAR T cell therapy against these and other surface targets. To evaluate the repeated locoregional delivery of CAR T cells in preclinical murine models, an indwelling catheter system that recapitulates indwelling catheters currently being used in human clinical trials was established. Unlike stereotactic delivery, the indwelling catheter system allows for repeated dosing without the use of multiple surgeries. This protocol describes the intratumoral placement of a fixed guide cannula that has been used to successfully test serial CAR T cell infusions in orthotopic murine models of pediatric brain tumors. Following orthotopic injection and engraftment of the tumor cells in mice, intratumoral placement of a fixed guide cannula is completed on a stereotactic apparatus and secured with screws and acrylic resin. Treatment cannulas are then inserted through the fixed guide cannula for repeated CAR T cell delivery. Stereotactic placement of the guide cannula can be adjusted to deliver CAR T cells directly into the lateral ventricle or other locations in the brain. This platform offers a reliable mechanism for the preclinical testing of repeated intracranial infusions of CAR T cells and other novel therapeutics for these devastating pediatric tumors.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: JoVE
+    pmid: 36912520
+    
   - id: Ecosystem_02032023
     title: >-
       LEF1 Drives a Central Memory Program and Supports Antitumor Activity of Natural Killer T Cells
@@ -599,7 +731,19 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: Scientific Data
     pmid: 36635305
-
+    
+  - id: Ecosystem_12162022
+    title: >-
+     Synthetic cytokine circuits that drive T cell infiltration into immune-excluded tumors
+    link: https://doi.org/10.1126/science.aba1624
+    date: December 2022
+    summary: >-
+      <p>CAR T cells are ineffective against solid tumors with immunosuppressive microenvironments. To overcome suppression, we engineered circuits in which tumor-specific synNotch receptors locally induce production of the inflammatory cytokine, interleukin-2 (IL-2). These cytokine delivery circuits can potently enhance CAR T cell infiltration and clearance of immune-excluded tumors (immunocompetent models of pancreatic cancer and melanoma) without systemic toxicity. The most effective IL-2 induction circuit acts in an autocrine and TCR/CAR-independent manner, bypassing suppression by host cells that either consume IL-2 or inhibit TCR signaling. These engineered autocrine cells are able to establish an effective foothold in the tumors, likely because synNotch-induced IL-2 production can cooperatively enable initiation of CAR-mediated T cell expansion and killing. Thus, it is possible to reconstitute synthetic T cell circuits that activate the outputs ultimately required for a robust anti-tumor response, but in a manner that evades key points of tumor suppression.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Science
+    pmid: 36520915
+    
   - id: Ecosystem_11142022
     title: >-
       CIViCdb 2022: evolution of an open-access cancer variant interpretation knowledgebase
@@ -612,6 +756,18 @@ publicationsList:
     journal: Nucleic Acids Research
     pmid: 36373660
 
+  - id: Ecosystem_09272022
+    title: >-
+      Development of GPC2-directed chimeric antigen receptors using mRNA for pediatric brain tumors
+    link: https://doi.org/10.1136/jitc-2021-004450
+    date: September 2022
+    summary: >-
+      <p>Pediatric brain tumors are the leading cause of cancer death in children with an urgent need for innovative therapies. Glypican 2 (GPC2) is a cell surface oncoprotein expressed in neuroblastoma for which targeted immunotherapies have been developed. This work aimed to characterize GPC2 expression in pediatric brain tumors and develop an mRNA CAR T cell approach against this target.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Journal for Immunotherapy of Cancer
+    pmid: 36167467
+    
   - id: Ecosystem_07212022
     title: >-
       NCI launches the Molecular Characterization Initiative for pediatric tumors
@@ -624,6 +780,18 @@ publicationsList:
     journal: Cancer 
     pmid: 35860918
 
+  - id: Ecosystem_06032022
+    title: >-
+      Lipid metabolism as a therapeutic vulnerability in BET inhibitor-resistant medulloblastoma
+    link: https://doi.org/10.1093/neuonc/noac079.447
+    date:  June 2022
+    summary: >-
+      <p>MYC-driven medulloblastomas are a particularly devastating group of pediatric brain tumors that exhibit resistance and continued progression despite standard of care treatments. Our preclinical work identified BET-bromodomain inhibitors as a potentially promising new class of drugs for children with medulloblastoma and other MYC-driven cancers, providing rationale to evaluate these agents in clinical trials. However, treatment with BET inhibitor (BETi) alone is unlikely to be sufficient to cure, with most tumors evolving to acquire resistance to single-agent targeted therapies. We applied an integrative genomics approach to identify genes and pathways mediating BETi response in medulloblastoma. These studies revealed that MYC-driven medulloblastoma cells with acquired resistance to BETi reinstate transcription of essential genes suppressed by drug and exhibit changes in cell state and new vulnerabilities not present in drug-sensitive cells. We now have a growing body of evidence showing that BET inhibition downregulates the expression of key lipid metabolism genes and metabolism-related signaling pathways, and that medulloblastoma cells with adaptive resistance to drug differentially express and exhibit preferential dependency on specific lipid metabolic genes and transcriptional regulators. Our studies explore the possibility of exploiting these metabolic vulnerabilities to overcome BETi resistance and provide a more efficacious upfront therapy.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Neuro-Oncology
+    pmid: 
+    
   - id: Ecosystem_06022022
     title: >-
       NCI Launches Pediatric Molecular Characterization Initiative
@@ -663,7 +831,7 @@ publicationsList:
   - id: Ecosystem_08242021
     title: >-
       Cancer Informatics for Cancer Centers: Scientific Drivers for Informatics, Data Science, and Care in Pediatric, Adolescent, and Young Adult Cancer
-    link: https://pubmed.ncbi.nlm.nih.gov/34428097/
+    link: https://doi.org/10.1200/cci.21.00040
     date: August 2021
     summary: >-
       Cancer Informatics for Cancer Centers (CI4CC) is a grassroots, nonprofit 501c3 organization intended to provide a focused national forum for engagement of senior cancer informatics leaders, primarily aimed at academic cancer centers anywhere in the world but with a special emphasis on the 70 National Cancer Institute–funded cancer centers. This consortium has regularly held topic-focused biannual face-to-face symposiums. These meetings are a place to review cancer informatics and data science priorities and initiatives, providing a forum for discussion of the strategic and pragmatic issues that we faced at our respective institutions and cancer centers. Here, we provide meeting highlights from the latest CI4CC Symposium, which was delayed from its original April 2020 schedule because of the COVID-19 pandemic and held virtually over three days (September 24, October 1, and October 8) in the fall of 2020. In addition to the content presented, we found that holding this event virtually once a week for 6 hours was a great way to keep the kind of deep engagement that a face-to-face meeting engenders. This is the second such publication of CI4CC Symposium highlights, the first covering the meeting that took place in Napa, California, from October 14-16, 2019. We conclude with some thoughts about using data science to learn from every child with cancer, focusing on emerging activities of the National Cancer Institute's Childhood Cancer Data Initiative.
@@ -671,3 +839,16 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: JCO Clinical Cancer Informatics
     pmid: 34428097
+    
+  - id: Ecosystem_08222021
+    title: >-
+      BATF targets T cell exhaustion for termination
+    link: https://doi.org/10.1038/s41590-021-00978-2
+    date: August 2021
+    summary: >-
+      New reports glean further insight into the role of the transcription factor BATF in pivoting the differentiation of CD8+ T cells away from undergoing T cell exhaustion and facilitating transition of these cells into potent effectors.
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: Nature Immunology
+    pmid: 34282328
+    
