@@ -32,10 +32,10 @@ altList:
 
 newsList:
 
-  - id: cbioportal_07252025
+  - id: cbioportal_08042025
     title: >-
       Introducing the CCDI cBioPortal Cancer Data Explorer
-    date: July 25, 2025
+    date: August 4, 2025
     slug: >-
       CCDI has a new platform—the cBioPortal Cancer Data Explorer
     highlight: >-
@@ -44,10 +44,10 @@ newsList:
     img: updateImgCCDC2 
     latestUpdate: true
     
-  - id: ccdc_07252025
+  - id: ccdc_08042025
     title: >-
       Thirteen new CCDC data sets available
-    date: July 25, 2025
+    date: August 4, 2025
     slug: >-
       CCDC adds 13 new data sets in recent release 
     highlight: >-
