@@ -107,7 +107,7 @@ toolsContent:
   - id: CIViC
     topic: CIViC
     content: >-
-      <p>CIViC is an open-access, open-source, community-driven knowledgebase for the clinical interpretation of cancer variants. The platform enables crowdsourced curation and expert moderation of literature-derived evidence, providing structured, peer-reviewed data on the clinical significance of somatic and germline mutations in cancer. CIViC supports variant interpretation for diagnosis, prognosis, and therapy selection, and integrates with emerging guidelines and other variant resources to advance precision oncology.</p>
+      <p>Clinical Interpretation of Variants in Cancer (CIViC) is an open-access, open-source, community-driven knowledgebase for the clinical interpretation of cancer variants. The platform enables crowdsourced curation and expert moderation of literature-derived evidence, providing structured, peer-reviewed data on the clinical significance of somatic and germline mutations in cancer. CIViC supports variant interpretation for diagnosis, prognosis, and therapy selection, and integrates with emerging guidelines and other variant resources to advance precision oncology.</p>
       <p>Link: <a class="link" href="https://civicdb.org/" target="_blank" rel="noopener noreferrer">https://civicdb.org/</a></p>
       <p>Contact: <a href="mailto:help@civicdb.org" target="_blank" rel="noopener noreferrer">help@civicdb.org</a></p> 
   - id: dbGaP
