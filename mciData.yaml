@@ -369,7 +369,7 @@ mciContent:
           <p>For CNS patients only, a tumor classification by DNA methylation will have a clinical result returned to contacts indicated on the MCI Site Contact Form. For STS, RAR, NBL, and EWS patients, DNA methylation array data will be banked for research submission into the CCDI Data Ecosystem without return of results to sites.</p>
           <p>DNA methylation results will be returned for CNS patients with tissue submitted from a primary site or a metastatic site in the CNS only. Results from non-CNS metastatic tissue will be banked without return of results to sites.</p>
   - id: Accessing_MCI_Data
-    topic: Accessing MCI Data
+    topic: Accessing MCI Data and Tools
     list:
       - id: How_to_Access_MCI_Data
         subtopic: How to Access MCI Data
