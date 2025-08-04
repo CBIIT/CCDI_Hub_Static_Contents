@@ -23,7 +23,7 @@
 #   title: can change the content, no tag in it;
 #   body: can add, remove, edit items;
 introText: >-
-  <p>The CCDI Molecular Characterization Initiative (MCI) provides state-of-the-art molecular testing at no cost to newly diagnosed children, adolescents, and young adults (AYAs) with central nervous system (CNS) tumors, soft tissue sarcomas (STS), certain rare (RAR) childhood cancers, and certain neuroblastomas (NBL) being treated at a Children’s Oncology Group (COG)–affiliated hospital. The goal of this initiative is to enhance the understanding of the genetic factors involved in pediatric cancers and to provide timely, clinically relevant findings to doctors and families. This project uses Project:EveryChild (APEC14B1) to enroll participants, collect specimens, and annotate clinical data. The results of genetic testing will be shared with the treating physician and participants or their family, aiding in treatment decisions. This will also determine eligibility for certain planned COG clinical trials.</p><p>For an overview of this initiative, <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/data-ecosystem/molecular-characterization" target="_blank" rel="noopener noreferrer">access the MCI web page on cancer.gov</a>.</p>
+  <p>The CCDI Molecular Characterization Initiative (MCI) provides state-of-the-art molecular testing at no cost to newly diagnosed children, adolescents, and young adults (AYAs) up to age 25 with central nervous system (CNS) tumors, soft tissue sarcomas (STS), certain rare (RAR) childhood cancers, high-risk neuroblastomas (NBL), and metastatic Ewing sarcomas (EWS) being treated at a Children’s Oncology Group (COG)–affiliated hospital. AYAs aged 25-39 from a National Clinical Trials Network (NCTN) member institution can enroll in the MCI through COG's Project AYA if they are bring screened for eligibility to participate in a COG-sponsored clinical trial. The goal of this initiative is to enhance the understanding of the genetic factors involved in pediatric cancers and to provide timely, clinically relevant findings to doctors and families. This project uses Project:EveryChild (APEC14B1) to enroll participants, collect specimens, and annotate clinical data. The results of genetic testing will be shared with the treating physician and participants or their family, aiding in treatment decisions. This will also determine eligibility for certain planned COG clinical trials.</p><p>For an overview of this initiative, <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/data-ecosystem/molecular-characterization" target="_blank" rel="noopener noreferrer">access the MCI web page on cancer.gov</a>.</p>
 mciContent: 
   - id: MCI_Introduction
     topic: Enrollment and Participation
@@ -303,7 +303,7 @@ mciContent:
       - id: MCI_Participation
         subtopic: MCI Participation
         content: >-
-          <p>Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, and NBL tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI.</p>
+          <p>Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, NBL, and EWS tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI.</p>
   - id: Testing_and_Results
     topic: Testing and Results
     list:
@@ -366,10 +366,10 @@ mciContent:
             ABL1, ABL2, ACVR2A, AKT1, AKT2, AKT3, ALK, AR, ARHGAP26, ARHGAP6, AXL, BCOR, BRAF, BRD3, BRD4, C11orf95, CAMTA1, CCNB3, CCND1, CD274, CIC, CREB3L2, CRTC1, CSF1, CSF1R, CTNNB1, DNAJB1, EGF, EGFR, EPC1, ERBB2, ERBB4, ERG, ESR1, ESRRA, ETV1, ETV4, ETV5, ETV6, EWSR1, FGF1, FGFR1, FGFR2, FGFR3, FGR, FOS, FOSB, FOXO1, FOXO4, FOXR2, FUS, GLI1, GRB7, HMGA2, HRAS, HTN3, IDH1, IDH2, IGF1R, INSR, JAK1, JAK2, JAK3, JAZF1, KIT, KRAS, MAML1, MAML2, MAML3, MAP2K1, MAST1, MAST2, MBTD1, MDM2, MEAF6, MET, MGEA5, MKL2, MN1, MSANTD3, MSMB, MUSK, MYB, MYBL1, MYC, MYOD1, NCOA1, NCOA2, NCOA3, NDRG1, NFATC2, NFE2L2, NFIB, NOTCH1, NOTCH2, NR4A3, NRAS, NRG1, NTRK1, NTRK2, NTRK3, NUMBL, NUTM1, PAX3, PAX7, PAX8, PDGFB, PDGFD, PDGFRA, PDGFRB, PHF1, PHKB, PIK3CA, PKN1, PLAG1, PPARG, PRDM10, PRKACA, PRKACB, PRKCA, PRKCB, PRKCD, PRKD1, PRKD2, PRKD3, QKI, RAD51B, RAF1, RELA, RET, ROS1, RSPO2, RSPO3, SETD2, SS18, SS18L1, STAT6, TAF15, TCF12, TERT, TFE3, TFEB, TFG, THADA, TMPRSS2, TTYH1, USP6, VGLL2, WWTR1, YAP1, YWHAE
       - content: >-
           <h3>Will DNA methylation results be returned for all patients?</h3>
-          <p>For CNS patients only, a tumor classification by DNA methylation will have a clinical result returned to contacts indicated on the MCI Site Contact Form. For STS, RAR, and NBL patients, DNA methylation array data will be banked for research submission into the CCDI Data Ecosystem without return of results to sites.</p>
+          <p>For CNS patients only, a tumor classification by DNA methylation will have a clinical result returned to contacts indicated on the MCI Site Contact Form. For STS, RAR, NBL, and EWS patients, DNA methylation array data will be banked for research submission into the CCDI Data Ecosystem without return of results to sites.</p>
           <p>DNA methylation results will be returned for CNS patients with tissue submitted from a primary site or a metastatic site in the CNS only. Results from non-CNS metastatic tissue will be banked without return of results to sites.</p>
   - id: Accessing_MCI_Data
-    topic: Accessing MCI Data
+    topic: Accessing MCI Data and Tools
     list:
       - id: How_to_Access_MCI_Data
         subtopic: How to Access MCI Data
@@ -397,7 +397,8 @@ mciContent:
           <ul><li>Central nervous system group: <a href="mailto:MCICNS@childrensoncologygroup.org">MCICNS@childrensoncologygroup.org</a></li>
           <li>Soft tissue sarcoma group: <a href="mailto:MCISTS@childrensoncologygroup.org">MCISTS@childrensoncologygroup.org</a></li>
           <li>Rare tumor group: <a href="mailto:MCIRAR@childrensoncologygroup.org">MCIRAR@childrensoncologygroup.org</li></a>
-          <li>Neuroblastoma group: <a href="mailto:MCINBL@childrensoncologygroup.org">MCINBL@childrensoncologygroup.org</li></a></ul>
+          <li>Neuroblastoma group: <a href="mailto:MCINBL@childrensoncologygroup.org">MCINBL@childrensoncologygroup.org</li></a>
+          <li>Ewing sarcoma group: <a href="mailto:MCIEWS@childrensoncologygroup.org">MCIEWS@childrensoncologygroup.org</li></a></ul>
           <h4>MCI Data Contact</h4>
           <p>For questions related to MCI data or accessing the CCDI Data Ecosystem, contact <a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov">ncichildhoodcancerdatainitiative@mail.nih.gov</a>.</p>
           <h4>Project:EveryChild Contact</h4>
