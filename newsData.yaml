@@ -32,6 +32,30 @@ altList:
 
 newsList:
 
+  - id: cbioportal_08042025
+    title: >-
+      Introducing the CCDI cBioPortal Cancer Data Explorer
+    date: August 4, 2025
+    slug: >-
+      CCDI has a new platform—the cBioPortal Cancer Data Explorer
+    highlight: >-
+      <p>Explore and analyze complex genomic data without needing to download or process large data sets with our new user-friendly instance of cBioPortal. Use the CCDI cBioPortal Cancer Data Explorer to search by gene, mutation, cancer type, or patient, and quickly visualize relationships, patterns, and trends in the data. The pilot version includes mutation data extracted from the genomic variant files of the Molecular Characterization Initiative. Over time, additional data will be added from the growing collection available in the CCDI Hub. <a href="https://cbioportal.ccdi.cancer.gov/">Visit the CCDI cBioPortal Cancer Data Explorer!</a></p>
+    type: CCDI Application Updates
+    img: updateImgCCDC2 
+    latestUpdate: true
+    
+  - id: ccdc_08042025
+    title: >-
+      Thirteen new CCDC data sets available
+    date: August 4, 2025
+    slug: >-
+      CCDC adds 13 new data sets in recent release 
+    highlight: >-
+      <p>The July 2025 release of the CCDI Childhood Cancer Data Catalog (CCDC) features 13 new data sets from three existing resources: cBioPortal, Childhood Cancer Data Initiative, and dbGaP. Eight resources have updated counts, and additional updates were made to two others. The User Guide was also updated to reflect all data updates.</p>
+    type: CCDI Application Updates
+    img: updateImgCCDC 
+    latestUpdate: true
+    
   - id: hub_video_06302025
     title: >-
       New CCDI Hub data tutorial video released
@@ -42,7 +66,6 @@ newsList:
       <p>Learn how to use the Hub’s Explore Dashboard to find and access childhood cancer data that could fuel your research. Our new data tutorial video showcases the dashboard’s key features and illustrates how to build a cohort within the platform. <a href="https://www.youtube.com/watch?v=Eu8y1GDTszU">Watch the video today!</a></p>
     type: News
     img: updateImgDashboard 
-    latestUpdate: true
     
   - id: federation_06302025
     title: >-
@@ -53,8 +76,7 @@ newsList:
     highlight: >-
       <p>The Federation Resource API v1.2 enhances disease querying with sample-diagnosis and participant-diagnosis endpoints and updated CDEs for tumor grade, sample tumor status, and sample ID. This release also incorporates CPI integration via a new participant-mapping endpoint, enabling users to retrieve associated participant IDs from the CPI API with a single request. Additionally, ecDNA is now included in Federation Resource, expanding data access across multiple  resources.</p>
     type: CCDI Application Updates
-    img: updateImgecDNA 
-    latestUpdate: true
+    img: updateImgecDNA
     
   - id: ccdc_06302025
     title: New data sets and updated resource details in latest CCDC update
@@ -512,6 +534,19 @@ newsList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 releaseNotesList:
+  - id: hub_release_08042025
+    title: CCDI Hub Release 2.7.1
+    version: v2.7.1
+    date: August 4, 2025
+    slug: >-
+      Links to the CCDI cBioPortal Cancer Data Explorer and more
+    fullText: >-
+      <p>With the latest 2.7.1 release, CCDI Hub now includes links to the newly launched CCDI cBioPortal Cancer Data Explorer, a CCDI-hosted cBioPortal instance tailored to support pediatric cancer researchers and clinicians. Additional feature enhancements include numerous improvements to the Explore Dashboard, Cohort Analyzer, Global Search, Molecular Characterization Initiative (MCI), and Tools pages. Routine updates to publications, MCI enrollment, and relevant news are also available.</p><p>Additional details are listed below:</p><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Site Updates</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">General Site</span></h2><ul style="margin:0in 0in 8pt;"><li>Added links from the Home page and menu to the CCDI cBioPortal Cancer Data Explorer</li><li>Fixed placement of the Global Search banner</li><li>Improved mobile header and layout for the MCI page</li><li>Improved the Cohort Analyzer and underlying Cohort Selector features with better handling of long cohort names, streamlined participant management, updated messaging, and behavior of save interactions</li><li>Reorganized Resources menu and updated Tools page content</li><li>Updated news cards based on latest information</li><li>Updated MCI Enrollments by Diagnosis table and Enrollment Counts by State chart</li><li>Updated Publications page with additional cards</li><li>Updated Global Search Participants records with CPI mappings to enable direct addition of files to cart</li></ul><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Explore Dashboard</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Facets and Widgets</span></h2><ul style="margin:0in 0in 8pt;"><li>Improved behavior of “Clear All Filtered Selections” button to include text-based filters</li><li>Updated the binning logic of Age at Diagnosis to improve chart interpretation</li></ul><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Tables</span></h2><ul style="margin:0in 0in 8pt;"><li>Fixed typo in Cohort Selector deletion message and made other improvements in cohort management to support Cohort Analyzer function as described above</li><li>Implemented backend support for upcoming improvements to cohort imports from C3DC</li></ul>
+    type: Release Notes
+    img: updateImgHub
+    contentType:
+    latestUpdate: true
+    
   - id: hub_release_06302025
     title: CCDI Hub Release 2.7.0
     version: v2.7.0
@@ -523,7 +558,6 @@ releaseNotesList:
     type: Release Notes
     img: updateImgHub
     contentType: Clinical
-    latestUpdate: true
 
   - id: hub_release_05142025
     title: CCDI Hub Minor Release 2.6.1
