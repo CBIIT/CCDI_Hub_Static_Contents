@@ -62,22 +62,22 @@ mciContent:
             - - 638
               - 420
               - "ALABAMA"
-              - 147
+              - 150
               # AL
             - - 550
               - 390
               - "ARKANSAS"
-              - 21
+              - 25
               # AR
             - - 240
               - 430
               - "ARIZONA"
-              - 96
+              - 103
               # AZ
             - - 100
               - 280
               - "CALIFORNIA"
-              - 564
+              - 575
               # CA
             - - 320
               - 290
@@ -87,27 +87,27 @@ mciContent:
             - - 834
               - 228
               - "CONNECTICUT"
-              - 67
+              - 70
               # CT
             - - 790
               - 305
               - "DISTRICT OF COLUMBIA"
-              - 64
+              - 65
               # DC
             - - 810
               - 290
               - "DELAWARE"
-              - 72
+              - 74
               # DE
             - - 735
               - 500
               - "FLORIDA"
-              - 373
+              - 386
               # FL
             - - 720
               - 450
               - "GEORGIA"
-              - 202
+              - 204
               # GA
             - - 340
               - 630
@@ -117,22 +117,22 @@ mciContent:
             - - 505
               - 250
               - "IOWA"
-              - 90
+              - 91
               # IA
             - - 240
               - 220
               - "IDAHO"
-              - 44
+              - 45
               # ID
             - - 600
               - 320
               - "ILLINOIS"
-              - 133
+              - 140
               # IL
             - - 638
               - 285
               - "INDIANA"
-              - 120
+              - 122
               # IN
             - - 490
               - 330
@@ -142,22 +142,22 @@ mciContent:
             - - 670
               - 330
               - "KENTUCKY"
-              - 71
+              - 72
               # KY
             - - 550
               - 460
               - "LOUISIANA"
-              - 58
+              - 61
               # LA
             - - 840
               - 208
               - "MASSACHUSETTS"
-              - 69
+              - 79
               # MA
             - - 785
               - 288
               - "MARYLAND"
-              - 108
+              - 111
               # MD
             - - 860
               - 120
@@ -167,17 +167,17 @@ mciContent:
             - - 645
               - 210
               - "MICHIGAN"
-              - 150
+              - 152
               # MI
             - - 515
               - 150
               - "MINNESOTA"
-              - 203
+              - 209
               # MN
             - - 530
               - 310
               - "MISSOURI"
-              - 164
+              - 168
               # MO
             - - 600
               - 420
@@ -187,7 +187,7 @@ mciContent:
             - - 785
               - 355
               - "NORTH CAROLINA"
-              - 211
+              - 222
               # NC
             - - 440
               - 135
@@ -197,7 +197,7 @@ mciContent:
             - - 460
               - 285
               - "NEBRASKA"
-              - 70
+              - 71
               # NE
             - - 843
               - 185
@@ -207,42 +207,42 @@ mciContent:
             - - 815
               - 265
               - "NEW JERSEY"
-              - 91
+              - 93
               # NJ
             - - 330
               - 430
               - "NEW MEXICO"
-              - 39
+              - 41
               # NM
             - - 160
               - 260
               - "NEVADA"
-              - 4
+              - 5
               # NV
             - - 795
               - 190
               - "NEW YORK"
-              - 413
+              - 422
               # NY
             - - 690
               - 300
               - "OHIO"
-              - 399
+              - 412
               # OH
             - - 490
               - 410
               - "OKLAHOMA"
-              - 90
+              - 91
               # OK
             - - 150
               - 200
               - "OREGON"
-              - 70
+              - 74
               # OR
             - - 780
               - 245
               - "PENNSYLVANIA"
-              - 268
+              - 275
               # PA
             - - 853
               - 222
@@ -252,7 +252,7 @@ mciContent:
             - - 720
               - 395
               - "SOUTH CAROLINA"
-              - 95
+              - 96
               # SC
             - - 410
               - 195
@@ -262,37 +262,37 @@ mciContent:
             - - 675
               - 370
               - "TENNESSEE"
-              - 140
+              - 144
               # TN
             - - 480
               - 490
               - "TEXAS"
-              - 690
+              - 694
               # TX
             - - 240
               - 275
               - "UTAH"
-              - 120
+              - 122
               # UT
             - - 765
               - 310
               - "VIRGINIA"
-              - 110
+              - 114
               # VA
             - - 825
               - 170
               - "VERMONT"
-              - 26
+              - 27
               # VT
             - - 150
               - 100
               - "WASHINGTON"
-              - 341
+              - 354
               # WA
             - - 570
               - 190
               - "WISCONSIN"
-              - 219
+              - 220
               # WI
             - - 720
               - 330
