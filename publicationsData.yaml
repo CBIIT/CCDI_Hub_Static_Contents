@@ -22,6 +22,19 @@
 bannerText: Publication list updated as of 9/12/25.
 
 publicationsList:
+  - id: MCICOG_08062025
+    title: >-
+      Childhood Cancer Data Initiative: Expanded access to tumor molecular profiling for children, adolescents, and young adults 
+    link: https://doi.org/10.1093/jnci/djaf214
+    date: August 2025
+    summary: >-
+      <p>The Molecular Characterization Initiative (MCI), a key effort of the NCI’s Childhood Cancer Data Initiative (CCDI), was launched in 2022 in collaboration with the Children’s Oncology Group (COG) to bring comprehensive genomic and molecular profiling to children, adolescents and young adults diagnosed with cancer. The MCI provides paired tumor and germline molecular testing, with results returned to clinicians to inform care. De-identified data are made available to the research community through the CCDI Data Ecosystem to facilitate the discovery of new treatment strategies. This commentary outlines the MCI’s development, key accomplishments to date, and its role in laying the foundation for standardized clinical diagnostics in pediatric oncology.</p>  
+    category: Primary
+    tag: CCDI-MCI
+    journal: >-
+      JNCI: Journal of the National Cancer Institute
+    pmid: 40794906
+    
   - id: NCCR_06142025
     title: >-
       Enrollment in Children’s Oncology Group’s clinical trials: population-based linkage with the National Childhood Cancer Registry
