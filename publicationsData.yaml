@@ -19,9 +19,22 @@
 #
 # (Note: only one of these three cases can be in one item)
 
-bannerText: Publication list updated as of 8/4/25.
+bannerText: Publication list updated as of 9/12/25.
 
 publicationsList:
+  - id: NCCR_06142025
+    title: >-
+      Enrollment in Children’s Oncology Group’s clinical trials: population-based linkage with the National Childhood Cancer Registry
+    link: https://doi.org/10.1093/jnci/djaf134
+    date: June 2025
+    summary: >-
+      <p>Improvements in outcomes among children and adolescents diagnosed with cancer are attributable to many factors-including clinical trials such as those administered through the Children's Oncology Group (COG), as well as population-based resources like the National Childhood Cancer Registry (NCCR). The objective of this study was to link COG trial data with the NCCR to evaluate overall enrollment patterns.</p>  
+    category: Primary
+    tag: CCDI-NCCR
+    journal: >-
+      JNCI: Journal of the National Cancer Institute
+    pmid: 40515409
+    
   - id: NCCR_06042025_2
     title: >-
       Integrating Electronic Health Records to Enhance Surveillance of Childhood Cancer: Insights from a Pilot Project
