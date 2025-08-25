@@ -96,7 +96,7 @@ publicationsList:
     summary: >-
       <p>Through collaboration with the National Cancer Institute as part of the Childhood Cancer Data Initiative, the Children’s Oncology Group offers prompt paired tissue and germline sequencing for newly diagnosed rare tumor subtypes.</p>  
     category: Abstracts
-    tag: CCDI-MCI-COG,CCDI Data
+    tag: CCDI-MCI,CCDI Data
     conference: American Society of Clinical Ontology (ASCO) 2025
 
   - id: MCICOG_06012025_2
@@ -107,7 +107,7 @@ publicationsList:
     summary: >-
       <p>The Molecular Characterization Initiative (MCI), a collaboration between the Children's Oncology Group (COG) and the NCIs Childhood Cancer Data Initiative (CCDI) which is intended to define a standardized genomic characterization of pediatric cancer, provides rapid, clinical sequencing for newly diagnosed central nervous system (CNS) tumors, rare tumors, soft tissue sarcomas (STS), or advanced stage neuroblastoma (NB) to guide diagnosis and treatment for these children</p>  
     category: Abstracts
-    tag: CCDI-MCI-COG,CCDI Data
+    tag: CCDI-MCI,CCDI Data
     conference: American Society of Clinical Ontology (ASCO) 2025
 
   - id: MCICOG_06012025_1
@@ -118,7 +118,7 @@ publicationsList:
     summary: >-
       <p> The Molecular Characterization Initiative (MCI), a partnership between the Children’s Oncology Group (COG) and the NCI’s Childhood Cancer Data Initiative (CCDI), provides standardized genomic profiling of tumors and germline for subjects with newly diagnosed pediatric soft tissue sarcomas (STS). Here, we report on STS patients <25 enrolled in MCI from July 2022 to July 2023.</p>  
     category: Abstracts
-    tag: CCDI-MCI-COG,CCDI Data
+    tag: CCDI-MCI,CCDI Data
     conference: American Society of Clinical Ontology (ASCO) 2025
 
   - id: Ecosystem_05312025
@@ -195,7 +195,7 @@ publicationsList:
     summary: >-
       <p>The Molecular Characterization Initiative is an NCI-sponsored program being conducted in collaboration with the Children’s Oncology Group (COG), that seeks to enroll cancer patients from ages 0-25 with a primary diagnosis of a CNS malignancy, soft-tissue sarcoma, rare cancer or high-risk neuroblastoma onto Project Every Child. Subsequent to enrollment, the submission of a disease-involved specimen (cancer) and matched comparator normal (blood or buccal) is subjected to DNA and RNA (tumor) or DNA (normal) extraction by the Biopathology Center, followed by comprehensive clinical molecular profiling at The Institute for Genomic Medicine. To-date, over 4100 patients from 27 states in the United States, from Canada, Australia and New Zealand have been enrolled and studied since project inception in March 2022. Each patient sample set is evaluated by comparative tumor:normal exome analysis, fusion/ITD panel testing of RNA and by DNA methylation profiling, with return of results within 21 days from receipt of specimens at Nationwide Children’s Hospital. Subsequent to return of clinical results, each patient’s data are de-identified and submitted to the Childhood Cancer Database, a public repository managed by the NCI. The data in this repository are publicly available, with institutional sign-off, for the purposes of fueling future discoveries impacting pediatric cancer. The size and scope of the Molecular Characterization Initiative will be equivalent to or greater than other large-scale clinical profiling efforts conducted in Germany (INFORM) and in Australia (Zero Childhood Cancer). The current status and unique results from the MCI will be presented, along with future plans and ongoing challenges.</p>  
     category: Abstracts
-    tag: CCDI-MCI-COG
+    tag: CCDI-MCI
     conference: AACR Annual Meeting 2025 
 
   - id: Ecosystem_04212025
@@ -361,7 +361,7 @@ publicationsList:
     summary: >-
       The Molecular Characterization Initiative (MCI) launched in 2022 under the NCI Childhood Cancer Data Initiative (CCDI) in partnership with the Children’s Oncology Group (COG). MCI represents a national strategy facilitating appropriate clinical and molecular characterization of childhood cancers while building an accessible data ecosystem. Since activation, 2400+ pediatric patients with CNS tumors have enrolled from 184 COG sites across the U.S. and globally. MCI provides free comprehensive genomic profiling for newly diagnosed CNS tumors, with results returned to physicians within 21 days. De-identified clinical and genomic data are deposited in the CCDI repository and may be accessed via the database of Genotypes and Phenotypes through a controlled data access request. Digital whole slide images corresponding to the extracted tissues are accessed through NCI Imaging Data Commons.
     category: Abstracts
-    tag: CCDI-MCI-COG
+    tag: CCDI-MCI
     conference: 2024 AANP National Conference
 
   - id: NCCR_05222024
@@ -418,7 +418,7 @@ publicationsList:
     summary: >-
       The Childhood Cancer Data Initiative (CCDI), is a 10-year, $50 million per year, US federal investment to advance pediatric cancer research through both new data generation and development of platforms for sharing data. The goal of the initiative is to learn from every child, adolescent, and young adult by bringing together the research, advocacy, and care communities in an ambitious effort to build a Data Ecosystem that enables rapid and systematic data collection, sharing, access, and analysis. A key component of the CCDI is the NCI’s Molecular Characterization Initiative (MCI). The MCI was initiated in 2022 and is run in collaboration with the Children’s Oncology Group (COG). The MCI offers at no cost to patients and institutions, clinically annotated, genomic characterization of tumors and germline samples to patients and their physician. These data are then deposited in an NCI repository for secondary use by the community. Here, we detail the MCI soft tissue sarcoma (STS) workflow and describe the first year of enrollment experience.
     category: Abstracts
-    tag: CCDI-MCI-COG
+    tag: CCDI-MCI
     conference: Connective Tissue Oncology Society (CTOS) 2023 Annual meeting
 
   - id: Ecosystem_10302023
@@ -536,7 +536,7 @@ publicationsList:
       Characterization Initiative—all with the ultimate goal of developing novel prevention and intervention strategies for 
       childhood cancer.
     category: Secondary
-    tag: CCDI-MCI-COG
+    tag: CCDI-MCI
     journal: Pediatric Blood & Cancer
     pmid: 37449937
 
