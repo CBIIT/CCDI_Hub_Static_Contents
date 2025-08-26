@@ -31,10 +31,10 @@ altList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
-  - id: ccdc_08272025
+  - id: ccdc_09122025
     title: >-
       August marks 30th CCDC release
-    date: August 27, 2025
+    date: September 12, 2025
     slug: >-
       30th CCDC release continues tradition of steady progress
     highlight: >-
