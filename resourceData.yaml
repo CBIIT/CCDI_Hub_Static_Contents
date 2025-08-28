@@ -150,7 +150,7 @@ toolsContent:
 
 rareCancerIntroText: >-
   <p>The Childhood Cancer Data Initiative (CCDI) Pediatric, Adolescent, and Young Adult Rare Cancer Study is a longitudinal, observational study and registry for very rare pediatric, adolescent, and young adult (AYA) solid tumors. Across the duration of the study, the team will collect clinical, pathology, imaging data, and patient reported outcomes from children, adolescents, and young adults aged 39 or younger with very rare childhood cancers and who are within one year of diagnosis.</p>
-  <p>State-of-the-art clinical molecular characterization of tumor and germline samples will also be performed through the <a class="link" href="/MCI">CCDI Molecular Characterization Initiative</a> to potentially help inform treatment approaches. The de-identified data will be part of the CCDI Data Ecosystem.</p>
+  <p>State-of-the-art clinical molecular characterization of tumor and germline samples will also be performed through the <a href="/MCI">CCDI Molecular Characterization Initiative</a> to potentially help inform treatment approaches. The de-identified data will be part of the CCDI Data Ecosystem.</p>
   <p>For an overview of this program, <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/programs/rare-cancers" target="_blank" rel="noopener noreferrer">access the study’s web page on cancer.gov</a>.</p>
 rareCancerContent:
   - id: Rare_Cancer_Study_Introduction
