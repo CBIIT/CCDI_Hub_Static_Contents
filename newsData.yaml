@@ -31,6 +31,18 @@ altList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
+  - id: hub_10012025
+    title: >-
+      September CCDI Hub updates
+    date: October 01, 2025
+    slug: >-
+      Up-to-date MCI enrollment and publications
+    highlight: >-
+      <p>The CCDI Hub's <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with September enrollment counts and a new article about the Open Pediatric Cancer Project has been added to the <a href="https://ccdi.cancer.gov/publications">CCDI-Supported Publications list</a>.</p>
+    type: News & Other
+    img: updateImgMiscNews 
+    latestUpdate: true
+  
   - id: ccdc_09122025
     title: >-
       August marks 30th CCDC release
@@ -52,8 +64,7 @@ newsList:
     highlight: >-
       <p>Explore and analyze complex genomic data without needing to download or process large data sets with our new user-friendly instance of cBioPortal. Use the CCDI cBioPortal Cancer Data Explorer to search by gene, mutation, cancer type, or patient, and quickly visualize relationships, patterns, and trends in the data. The pilot version includes mutation data extracted from the genomic variant files of the Molecular Characterization Initiative. Over time, additional data will be added from the growing collection available in the CCDI Hub. <a href="https://cbioportal.ccdi.cancer.gov/">Visit the CCDI cBioPortal Cancer Data Explorer!</a></p>
     type: CCDI Application Updates
-    img: updateImgNewApplicationRelease 
-    latestUpdate: true
+    img: updateImgNewApplicationRelease
     
   - id: ccdc_08042025
     title: >-
