@@ -39,7 +39,7 @@ newsList:
       Up-to-date MCI enrollment and publications
     highlight: >-
       <p>The CCDI Hub's <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with September enrollment counts and a new article about the Open Pediatric Cancer Project has been added to the <a href="https://ccdi.cancer.gov/publications">CCDI-Supported Publications list</a>.</p>
-    type: News & Other
+    type: News
     img: updateImgMiscNews 
     latestUpdate: true
   
