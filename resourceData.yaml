@@ -147,3 +147,28 @@ toolsContent:
       <p>Link 1: Code for 6p25.1 microsatellite and germline variant analysis is available at: <a class="link" href="https://github.com/machiela-lab/EwS-Pacbio" target="_blank" rel="noopener noreferrer">https://github.com/machiela-lab/EwS-Pacbio</a></p>
       <p>Link 2: Code for gene expression analysis is available at: <a class="link" href="https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1" target="_blank" rel="noopener noreferrer">https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1</a></p>
       <p>Contact: <a href="mailto:mitchell.machiela@nih.gov" target="_blank" rel="noopener noreferrer">mitchell.machiela@nih.gov</a></p>
+
+rareCancerIntroText: >-
+  <p>The Childhood Cancer Data Initiative (CCDI) Pediatric, Adolescent, and Young Adult Rare Cancer Study is a longitudinal, observational study and registry for very rare pediatric, adolescent, and young adult (AYA) solid tumors. Across the duration of the study, the team will collect clinical, pathology, imaging data, and patient reported outcomes from children, adolescents, and young adults aged 39 or younger with very rare childhood cancers and who are within one year of diagnosis.</p>
+  <p>State-of-the-art clinical molecular characterization of tumor and germline samples will also be performed through the <a href="/MCI">CCDI Molecular Characterization Initiative</a> to potentially help inform treatment approaches. The de-identified data will be part of the CCDI Data Ecosystem.</p>
+  <p>For an overview of this program, <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/programs/rare-cancers" target="_blank" rel="noopener noreferrer">access the study’s web page on cancer.gov</a>.</p>
+rareCancerContent:
+  - id: Rare_Cancer_Study_Introduction
+    topic: Accessing Pediatric and AYA Rare Cancer Study Data
+    list:
+      - id: HOW_TO_ACCESS_STUDY_DATA
+        subtopic: HOW TO ACCESS STUDY DATA
+        content: >-
+          <h3>How can Pediatric and AYA Rare Cancer Study data be accessed through the CCDI Data Ecosystem?</h3>
+          <p>Study data can be accessed through the CCDI Data Ecosystem, which includes molecular characterization data, de-identified clinical reports, patient-reported outcomes, whole slide images of hematoxylin and eosin stained (H&E) tissue, along with additional data on demographics, diagnosis, treatment, and follow-up.</p>
+          <p>CCDI studies are summarized and indexed in the <a href="/explore">CCDI Hub Explore Dashboard</a>, where you can export row-level metadata for participants, samples, or files. You can search by the study name or by database of Genotypes and Phenotypes accession number (number forthcoming). <a class="link" href="/user-guide.pdf" target="_blank" rel="noopener noreferrer">This user guide</a> provides information on how to find, request, access, download, and analyze controlled-access data.</p>
+      - id: GERMLINE_FINDINGS 
+        subtopic: GERMLINE FINDINGS
+        content: >-
+          <h3>What steps should be taken if germline findings are detected?</h3>
+          <p>Clinically actionable findings include disorders listed in the American College of Medical Genetics and Genomics recommendations for the return of secondary findings. The participant’s physician should coordinate a referral for the participant and their family to do local genetic counseling. In this setting, familial cascade testing for the observed germline variant may be offered to the family where appropriate. Such testing typically takes the form of targeted Sanger or microarray analysis, performed in concert with pre and post-test genetic counseling on the significance of the genetic variant. Familial testing may be performed by the institutional molecular laboratory (if those services are available locally) or through typical send-out testing channels familiar to the clinician and counselor.</p>
+      - id: CONTACT_INFORMATION
+        subtopic: CONTACT INFORMATION
+        content: >-
+          <h3>Who should I contact with questions about CCDI Pediatric and AYA Rare Cancer Study results and data?</h3>
+          <p>For questions related to study data or accessing the CCDI Data Ecosystem, contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
