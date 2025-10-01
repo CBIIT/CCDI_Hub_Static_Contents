@@ -35,7 +35,7 @@ mciContent:
         diseaseTable:
           # update title date
           title: >-
-            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of August 11, 2025
+            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of September 8, 2025
           header:
             - ""
             - "Primary Diagnosis Disease Group"
@@ -43,16 +43,16 @@ mciContent:
           # Table Update, update the value part
           body:
             - name: Central Nervous System
-              value: 4679
+              value: 4800
             - name: Soft Tissue Sarcoma
-              value: 1449
+              value: 1487
             - name: Rare Tumors
-              value: 726
+              value: 748
             - name: Neuroblastoma
-              value: 557
+              value: 589
         # map update, the last attribute of value
         map:
-          title: Enrollment Counts by State as of August 11, 2025
+          title: Enrollment Counts by State as of September 8, 2025
           data:
             - - 110
               - 540
@@ -62,37 +62,37 @@ mciContent:
             - - 638
               - 420
               - "ALABAMA"
-              - 150
+              - 153
               # AL
             - - 550
               - 390
               - "ARKANSAS"
-              - 25
+              - 27
               # AR
             - - 240
               - 430
               - "ARIZONA"
-              - 103
+              - 104
               # AZ
             - - 100
               - 280
               - "CALIFORNIA"
-              - 575
+              - 592
               # CA
             - - 320
               - 290
               - "COLORADO"
-              - 41
+              - 46
               # CO
             - - 834
               - 228
               - "CONNECTICUT"
-              - 70
+              - 71
               # CT
             - - 790
               - 305
               - "DISTRICT OF COLUMBIA"
-              - 65
+              - 66
               # DC
             - - 810
               - 290
@@ -102,37 +102,37 @@ mciContent:
             - - 735
               - 500
               - "FLORIDA"
-              - 386
+              - 403
               # FL
             - - 720
               - 450
               - "GEORGIA"
-              - 204
+              - 209
               # GA
             - - 340
               - 630
               - "HAWAII"
-              - 21
+              - 22
               # HI
             - - 505
               - 250
               - "IOWA"
-              - 91
+              - 93
               # IA
             - - 240
               - 220
               - "IDAHO"
-              - 45
+              - 47
               # ID
             - - 600
               - 320
               - "ILLINOIS"
-              - 140
+              - 142
               # IL
             - - 638
               - 285
               - "INDIANA"
-              - 122
+              - 125
               # IN
             - - 490
               - 330
@@ -142,22 +142,22 @@ mciContent:
             - - 670
               - 330
               - "KENTUCKY"
-              - 72
+              - 73
               # KY
             - - 550
               - 460
               - "LOUISIANA"
-              - 61
+              - 65
               # LA
             - - 840
               - 208
               - "MASSACHUSETTS"
-              - 79
+              - 81
               # MA
             - - 785
               - 288
               - "MARYLAND"
-              - 111
+              - 114
               # MD
             - - 860
               - 120
@@ -167,37 +167,37 @@ mciContent:
             - - 645
               - 210
               - "MICHIGAN"
-              - 152
+              - 158
               # MI
             - - 515
               - 150
               - "MINNESOTA"
-              - 209
+              - 214
               # MN
             - - 530
               - 310
               - "MISSOURI"
-              - 168
+              - 172
               # MO
             - - 600
               - 420
               - "MISSISSIPPI"
-              - 65
+              - 66
               # MS
             - - 785
               - 355
               - "NORTH CAROLINA"
-              - 222
+              - 226
               # NC
             - - 440
               - 135
               - "NORTH DAKOTA"
-              - 24
+              - 25
               # ND
             - - 460
               - 285
               - "NEBRASKA"
-              - 71
+              - 75
               # NE
             - - 843
               - 185
@@ -207,7 +207,7 @@ mciContent:
             - - 815
               - 265
               - "NEW JERSEY"
-              - 93
+              - 95
               # NJ
             - - 330
               - 430
@@ -222,37 +222,37 @@ mciContent:
             - - 795
               - 190
               - "NEW YORK"
-              - 422
+              - 435
               # NY
             - - 690
               - 300
               - "OHIO"
-              - 412
+              - 428
               # OH
             - - 490
               - 410
               - "OKLAHOMA"
-              - 91
+              - 93
               # OK
             - - 150
               - 200
               - "OREGON"
-              - 74
+              - 77
               # OR
             - - 780
               - 245
               - "PENNSYLVANIA"
-              - 275
+              - 289
               # PA
             - - 853
               - 222
               - "RHODE ISLAND"
-              - 47
+              - 48
               # RI
             - - 720
               - 395
               - "SOUTH CAROLINA"
-              - 96
+              - 99
               # SC
             - - 410
               - 195
@@ -262,37 +262,37 @@ mciContent:
             - - 675
               - 370
               - "TENNESSEE"
-              - 144
+              - 148
               # TN
             - - 480
               - 490
               - "TEXAS"
-              - 694
+              - 709
               # TX
             - - 240
               - 275
               - "UTAH"
-              - 122
+              - 126
               # UT
             - - 765
               - 310
               - "VIRGINIA"
-              - 114
+              - 118
               # VA
             - - 825
               - 170
               - "VERMONT"
-              - 27
+              - 28
               # VT
             - - 150
               - 100
               - "WASHINGTON"
-              - 354
+              - 359
               # WA
             - - 570
               - 190
               - "WISCONSIN"
-              - 220
+              - 224
               # WI
             - - 720
               - 330
@@ -356,6 +356,8 @@ mciContent:
             NSD1, NSD2, NSD3, NT5C2, NTHL1, NTRK1, NTRK2, NTRK3, NUMA1, NUP214, NUP98, NUTM1, NUTM2A, NUTM2B, NUTM2D, NXN, NYNRIN, OLIG2, OMD, OTX2, P2RY8, PABPC1, PAFAH1B2, PALB2, PALLD, PARN, PATZ1, PAX3, PAX5, PAX6, PAX7, PAX8, PBRM1, PBX1, PCBP1, PCM1, PCSK7, PDCD1LG2, PDE4DIP, PDGFB, PDGFRA, PDGFRB, PER1, PHF6, PHOX2B, PICALM, PIGA, PIK3C2B, PIK3CA, PIK3CB, PIK3R1, PIK3R3, PIM1, PINK1, PLAG1, PLAGL1, PLAGL2, PLCG1, PLEC, PMEL, PML, PMS1, PMS2, POLD1, POLD3, POLE, POLG, POLQ, POLR2A, POT1, POU2AF1, POU2AF3, POU5F1, POU6F2, PPARG, PPFIBP1, PPM1D, PPP2R1A, PPP6C, PRCC, PRDM1, PRDM16, PRDM2, PREX2, PRF1, PRKACA, PRKAR1A, PRKCB, PRKD1, PRPF40B, PRRX1, PRSS1, PSIP1, PTCH1, PTCH2, PTEN, PTK6, PTPN11, PTPN13, PTPN6, PTPRB, PTPRC, PTPRD, PTPRK, PTPRT, PWWP2A, QKI, RAB27A, RABEP1, RAC1, RAD17, RAD21, RAD50, RAD51B, RAD51C, RAD51D, RAF1, RAG1, RAG2, RALGDS, RANBP17, RANBP2, RAP1B, RAP1GDS1, RARA, RASA2, RB1, RBM10, RBM15, RBM8A, RECQL, RECQL4, REL, RELA, REST, RET, RFWD3, RGPD3, RGS7, RHBDF2, RHOA, RHOH, RHPN2,
             RIT1, RMI2, RNF213, RNF43, ROBO2, ROS1, RPL10, RPL11, RPL15, RPL22, RPL23, RPL26, RPL27, RPL31, RPL35A, RPL5, RPN1, RPS10, RPS17, RPS19, RPS20, RPS24, RPS26, RPS27, RPS28, RPS29, RPS7, RRAS2, RSPO2, RSPO3, RTEL1, RUNX1, RUNX1T1, RUNX2, RXRA, S100A7, SALL4, SAMD9, SAMD9L, SBDS, SCG5, SCN9A, SDC4, SDHA, SDHAF2, SDHB, SDHC, SDHD, SEPTIN5, SEPTIN6, SEPTIN9, SET, SETBP1, SETD1B, SETD2, SETDB1, SF3B1, SFPQ, SFRP4, SGK1, SH2B3, SH2D1A, SH3GL1, SHOC2, SHROOM2, SHTN1, SIRPA, SIX1, SIX2, SKI, SLC29A3, SLC34A2, SLC45A3, SLX4, SMAD2, SMAD3, SMAD4, SMAD7, SMARCA4, SMARCB1, SMARCD1, SMARCE1, SMC1A, SMO, SNCAIP, SND1, SNX29, SOCS1, SOS1, SOS2, SOX2, SOX21, SPECC1, SPEN, SPINK1, SPOP, SPRED1, SRC, SRGAP3, SRP72, SRSF2, SRSF3, SS18, SS18L1, SSX1, SSX2, SSX4, STAG1, STAG2, STAT3, STAT5B, STAT6, STIL, STK11, STRN, STX11, STXBP2, SUB1, SUFU, SUPT3H, SUZ12, SYK, SYNCRIP, TACC3, TAF15, TAL1, TAL2, TBL1XR1, TBR1, TBX3, TCEA1, TCF12, TCF3, TCF4, TCF7L1, TCF7L2, TCL1A, TCL6, TEC, TENT5C, TERC, TERT, TET1, TET2, TFE3,
             TFEB, TFG, TFPT, TFRC, TGFBR1, TGFBR2, THRAP3, TINF2, TLX1, TLX3, TMEM127, TMPRSS2, TMSB4X, TNC, TNFAIP3, TNFRSF14, TNFRSF17, TNRC18, TOP1, TOP3A, TP53, TP63, TPM3, TPM4, TPR, TPTE2, TRA, TRAF7, TRB, TRD, TRG, TRIM24, TRIM27, TRIM28, TRIM33, TRIM37, TRIP11, TRIP13, TRRAP, TSC1, TSC2, TSHR, TSR2, TTL, TYK2, U2AF1, UBE2T, UBR5, UNC13D, USP44, USP6, USP8, USP9X, VAV1, VEGFA, VHL, VPS53, VTI1A, WAS, WDCP, WIF1, WNK2, WRAP53, WRN, WT1, WWOX, WWTR1, XPA, XPC, XPO1, XPO5, XRCC2, YAP1, YWHAE, ZBTB16, ZCCHC8, ZEB1, ZFHX3, ZFTA, ZIC1, ZMYM2, ZMYM3, ZNF331, ZNF384, ZNF429, ZNF479, ZNF521, ZNRF3, ZRSR2
+      - content: >-
+          <p>For reference table of variant classification and evidence criteria from clinical interpretation of results, please refer to this document: <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/MCI_IGM_ASCO_AMP_Table.pdf" target="_blank" rel="noopener noreferrer">MCI_IGM_ASCO_AMP_Table.pdf</a></p>     
       - content: >-
           <h3>What genes are included in the targeted RNA Solid Fusion assay?</h3>
           <p>The gene targets below are included in the Solid Tumor fusion assay (v2), which utilizes anchored multiplex PCR (ArcherDx) followed by next-generation sequencing to identify gene fusions or intragenic structural rearrangements, such as internal tandem duplications. Based on the methodology, if one fusion partner is encompassed in the assay, there is a high sensitivity to detect the other partner. For example, the assay targets critical regions within BRAF known to be involved in gene fusion events, which would allow this test to detect a fusion with a common partner such as KIAA1549. This assay would also enable detection of more rare or novel gene partners associated with a BRAF fusion if the tumor harbored such an event.</p>

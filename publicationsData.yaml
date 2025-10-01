@@ -19,9 +19,22 @@
 #
 # (Note: only one of these three cases can be in one item)
 
-bannerText: Publication list updated as of 9/12/25.
+bannerText: Publication list updated as of 10/1/25.
 
 publicationsList:
+  - id: Ecosystem_09022025
+    title: >-
+       The Open Pediatric Cancer Project
+    link: https://doi.org/10.1093/gigascience/giaf093
+    date: September 2025
+    summary: >-
+      <p>In 2019, the Open Pediatric Brain Tumor Atlas (OpenPBTA) was created as a global, collaborative open-science initiative to genomically characterize 1,074 pediatric brain tumors and 22 patient-derived cell lines. Here, we present an extension of the OpenPBTA called the Open Pediatric Cancer (OpenPedCan) Project, a harmonized open-source multiomic dataset from 6,112 pediatric cancer patients with 7,096 tumor events across more than 100 histologies. Combined with RNA sequencing (RNA-seq) from the Genotype-Tissue Expression and The Cancer Genome Atlas projects, OpenPedCan contains nearly 48,000 total biospecimens (24,002 tumor and 23,893 normal specimens).</p>  
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: >-
+      GigaScience
+    pmid: 40891528
+    
   - id: MCICOG_08062025
     title: >-
       Childhood Cancer Data Initiative: Expanded access to tumor molecular profiling for children, adolescents, and young adults 
