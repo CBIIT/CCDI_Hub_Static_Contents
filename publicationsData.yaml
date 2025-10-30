@@ -47,6 +47,43 @@ publicationsList:
     journal: >-
       JNCI: Journal of the National Cancer Institute
     pmid: 40794906
+
+  - id: Ecosystem_08012025_1
+    title: >-
+      Cancer survivorship for the PCP 
+    link: https://doi.org/10.1016/j.cppeds.2025.101823
+    date: August 2025
+    summary: >-
+      <p>The number of childhood cancer survivors (CCS) in the United States exceeds 500,000 and continues to rise. While recurrence risk diminishes over time, the prevalence of late effects from cancer treatment increases with age and affects over 60% of survivors. Primary care providers (PCPs) are ideally positioned to manage the long-term health needs of CCS, yet many feel ill-equipped due to a lack of concise guidelines. This article provides a comprehensive overview for PCPs on managing late effects in CCS. Key areas of focus include general health maintenance, psychological and neurocognitive care, immune function and vaccinations, as well as monitoring for endocrine, cardiovascular, pulmonary, and secondary malignancies. Emphasis is placed on regular screenings and lifestyle modifications. We advocate for proactive PCP involvement in the surveillance and management of late effects associated with childhood cancer treatment.</p>  
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: >-
+      Current Problems in Pediatric and Adolescent Health Care
+    pmid: 40992854
+
+  - id: Ecosystem_08012025_2
+    title: >-
+      Foreword: Issue 2 the primary care providers role: From vascular tumors/malformations to cancer, both survivorship and end of life care
+    link: https://doi.org/10.1016/j.cppeds.2025.101825
+    date: August 2025
+    summary: >-
+      <p>This continues our second installment on articles for CPPAH devoted to hematological disorders and concentrates on vascular tumors and cancer care in the pediatric population. These articles highlight the difficult conversations when initially presented with these challenging diagnoses and longitudinal care that follows. Where our first three articles in the last edition focused on the cellular aspect of the hematological system and diagnosis these three issues deal mostly with after the diagnosis of an oncological disorder and the aftermath. The authors share extremely helpful insights that will definitely change the way you communicate and practice the next time you are part of a pediatric patient’s cancer diagnosis.</p>  
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: >-
+      Current Problems in Pediatric and Adolescent Health Care
+    pmid: 40992852
+
+  - id: Ecosystem_07272025
+    title: >-
+      Impact of Physics Modeling on Monte Carlo Normal Tissue Dose Reconstructions for Passive Scattering Proton Therapy Patients
+    link: https://aapm.confex.com/aapm/2025am/meetingapp.cgi/Paper/19061
+    date: July 2025
+    summary: >-
+      <p>The National Cancer Institute’s Pediatric Proton and Photon Therapy Comparison Cohort aims to collect and analyze data from cancer centers across the United States and Canada to quantify differences in the risk of developing second malignancies among patients treated with proton versus photon radiotherapy. In this cohort, Monte Carlo (MC) simulations will be used to retroactively calculate dose estimates for passive scattering proton therapy patients. However, such high-energy simulations rely on physics models to estimate interaction probabilities, acting as a source of dose uncertainty. The purpose of this study is to investigate the impact of physics model selection on normal tissue dose reconstruction</p>  
+    category: Abstracts
+    tag: CCDI Ecosystem
+    conference: AAPM (American Association of Physicists in Medicine) 2025 Annual Meeting & Exhibition
     
   - id: NCCR_06142025
     title: >-
@@ -60,6 +97,17 @@ publicationsList:
     journal: >-
       JNCI: Journal of the National Cancer Institute
     pmid: 40515409
+
+- id: Ecosystem_06112025
+    title: >-
+      Multicenter Histology Image Integration and Multiscale Deep Learning for Machine Learning - Enabled Pediatric Sarcoma Classification
+    link: https://www.medrxiv.org/content/10.1101/2025.06.10.25328700v1
+    date: June 2025
+    summary: >-
+      <p>Pediatric sarcomas present diagnostic challenges due to their rarity and diverse subtypes, often requiring specialized pathology expertise and costly genetic tests. To overcome these barriers, we developed a computational pipeline leveraging deep learning methods to accurately classify pediatric sarcoma subtypes from digitized histology slides. To ensure classifier generalizability and minimize center-specific artifacts, we collected and harmonized a dataset comprising 867 whole slide images (WSIs) from three medical centers and the Children’s Oncology Group (COG). Multiple convolutional neural network (CNN) and vision transformer (ViT) architectures were systematically evaluated as feature extractors for SAMPLER-based WSI representations, and input parameters such as tile size combinations and resolutions were tested and optimized. Our analysis showed that advanced ViT foundation models (UNI, CONCH) significantly outperformed earlier approaches, and incorporating multiscale features can enhance classification accuracy. Our optimized models achieved high performance, distinguishing rhabdomyosarcoma (RMS) from non-rhabdomyosarcoma (NRSTS) with an AUC of 0.969±0.026 and differentiating RMS subtypes (alveolar vs. embryonal) with an AUC of 0.961±0.021. Additionally, a two-stage pipeline effectively identified scarce Ewing sarcoma images from other NRSTS (AUC 0.929). Compared to conventional transformer encoder architectures used for WSI representations, our SAMPLER based classifiers were more lightweight (0.111 MB vs. 1.9 MB) and three orders of magnitude faster to train. This study highlights that digital histopathology paired with rigorous image harmonization provides a powerful solution for pediatric sarcoma classification. Our models reduce inter-observer variability, augment diagnostic precision, and have the potential to increase global accessibility to robust diagnostics, improving time to diagnosis and subsequent treatment planning.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    type: Preprint
     
   - id: NCCR_06042025_2
     title: >-
