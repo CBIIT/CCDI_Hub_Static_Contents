@@ -98,7 +98,7 @@ publicationsList:
       JNCI: Journal of the National Cancer Institute
     pmid: 40515409
 
-- id: Ecosystem_06112025
+  - id: Ecosystem_06112025
     title: >-
       Multicenter Histology Image Integration and Multiscale Deep Learning for Machine Learning - Enabled Pediatric Sarcoma Classification
     link: https://www.medrxiv.org/content/10.1101/2025.06.10.25328700v1
