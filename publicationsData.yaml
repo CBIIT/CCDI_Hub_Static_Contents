@@ -170,7 +170,7 @@ publicationsList:
     link: https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf
     date: June 2025
     summary: >-
-      <p>Privacy-Preserving Record Linkage (PPRL) techniques allow institutions/organizations to link data without releasing sensitive information through a broad range of processes, including secure multi-party computation, bloom filter encoding, and hashing, among others.</p>  
+      <p>Privacy-Preserving Record Linkage (PPRL) techniques allow institutions/organizations to link data without releasing sensitive information through a broad range of processes, including secure multi-party computation, bloom filter encoding, and hashing, among others. During the hashing process, a series of cryptographic functions are applied to the input data to generate a set of hash tokens. After the input data have been hashed/tokenized, the linkage process compares the hash tokens in two or more files to identify sets of records that are believed to belong to the same entity. The hash tokens do not disclose any identifiers because a hash function is, by definition, a one-way function; meaning the original data cannot be derived from the hashed value.</p>  
     category: Abstracts
     tag: CCDI-NCCR,CCDI Data
     conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
