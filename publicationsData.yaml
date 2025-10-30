@@ -19,7 +19,7 @@
 #
 # (Note: only one of these three cases can be in one item)
 
-bannerText: Publication list updated as of 10/1/25.
+bannerText: Publication list updated as of 11/5/25.
 
 publicationsList:
   - id: Ecosystem_09022025
@@ -47,6 +47,43 @@ publicationsList:
     journal: >-
       JNCI: Journal of the National Cancer Institute
     pmid: 40794906
+
+  - id: Ecosystem_08012025_1
+    title: >-
+      Cancer survivorship for the PCP 
+    link: https://doi.org/10.1016/j.cppeds.2025.101823
+    date: August 2025
+    summary: >-
+      <p>The number of childhood cancer survivors (CCS) in the United States exceeds 500,000 and continues to rise. While recurrence risk diminishes over time, the prevalence of late effects from cancer treatment increases with age and affects over 60% of survivors. Primary care providers (PCPs) are ideally positioned to manage the long-term health needs of CCS, yet many feel ill-equipped due to a lack of concise guidelines. This article provides a comprehensive overview for PCPs on managing late effects in CCS. Key areas of focus include general health maintenance, psychological and neurocognitive care, immune function and vaccinations, as well as monitoring for endocrine, cardiovascular, pulmonary, and secondary malignancies. Emphasis is placed on regular screenings and lifestyle modifications. We advocate for proactive PCP involvement in the surveillance and management of late effects associated with childhood cancer treatment.</p>  
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: >-
+      Current Problems in Pediatric and Adolescent Health Care
+    pmid: 40992854
+
+  - id: Ecosystem_08012025_2
+    title: >-
+      Foreword: Issue 2 the primary care providers role: From vascular tumors/malformations to cancer, both survivorship and end of life care
+    link: https://doi.org/10.1016/j.cppeds.2025.101825
+    date: August 2025
+    summary: >-
+      <p>This continues our second installment on articles for CPPAH devoted to hematological disorders and concentrates on vascular tumors and cancer care in the pediatric population. These articles highlight the difficult conversations when initially presented with these challenging diagnoses and longitudinal care that follows. Where our first three articles in the last edition focused on the cellular aspect of the hematological system and diagnosis these three issues deal mostly with after the diagnosis of an oncological disorder and the aftermath. The authors share extremely helpful insights that will definitely change the way you communicate and practice the next time you are part of a pediatric patient’s cancer diagnosis.</p>  
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: >-
+      Current Problems in Pediatric and Adolescent Health Care
+    pmid: 40992852
+
+  - id: Ecosystem_07272025
+    title: >-
+      Impact of Physics Modeling on Monte Carlo Normal Tissue Dose Reconstructions for Passive Scattering Proton Therapy Patients
+    link: https://aapm.confex.com/aapm/2025am/meetingapp.cgi/Paper/19061
+    date: July 2025
+    summary: >-
+      <p>The National Cancer Institute’s Pediatric Proton and Photon Therapy Comparison Cohort aims to collect and analyze data from cancer centers across the United States and Canada to quantify differences in the risk of developing second malignancies among patients treated with proton versus photon radiotherapy. In this cohort, Monte Carlo (MC) simulations will be used to retroactively calculate dose estimates for passive scattering proton therapy patients. However, such high-energy simulations rely on physics models to estimate interaction probabilities, acting as a source of dose uncertainty. The purpose of this study is to investigate the impact of physics model selection on normal tissue dose reconstruction</p>  
+    category: Abstracts
+    tag: CCDI Ecosystem
+    conference: AAPM (American Association of Physicists in Medicine) 2025 Annual Meeting & Exhibition
     
   - id: NCCR_06142025
     title: >-
@@ -60,11 +97,22 @@ publicationsList:
     journal: >-
       JNCI: Journal of the National Cancer Institute
     pmid: 40515409
+
+  - id: Ecosystem_06112025
+    title: >-
+      Multicenter Histology Image Integration and Multiscale Deep Learning for Machine Learning - Enabled Pediatric Sarcoma Classification
+    link: https://www.medrxiv.org/content/10.1101/2025.06.10.25328700v1
+    date: June 2025
+    summary: >-
+      <p>Pediatric sarcomas present diagnostic challenges due to their rarity and diverse subtypes, often requiring specialized pathology expertise and costly genetic tests. To overcome these barriers, we developed a computational pipeline leveraging deep learning methods to accurately classify pediatric sarcoma subtypes from digitized histology slides. To ensure classifier generalizability and minimize center-specific artifacts, we collected and harmonized a dataset comprising 867 whole slide images (WSIs) from three medical centers and the Children’s Oncology Group (COG). Multiple convolutional neural network (CNN) and vision transformer (ViT) architectures were systematically evaluated as feature extractors for SAMPLER-based WSI representations, and input parameters such as tile size combinations and resolutions were tested and optimized. Our analysis showed that advanced ViT foundation models (UNI, CONCH) significantly outperformed earlier approaches, and incorporating multiscale features can enhance classification accuracy. Our optimized models achieved high performance, distinguishing rhabdomyosarcoma (RMS) from non-rhabdomyosarcoma (NRSTS) with an AUC of 0.969±0.026 and differentiating RMS subtypes (alveolar vs. embryonal) with an AUC of 0.961±0.021. Additionally, a two-stage pipeline effectively identified scarce Ewing sarcoma images from other NRSTS (AUC 0.929). Compared to conventional transformer encoder architectures used for WSI representations, our SAMPLER based classifiers were more lightweight (0.111 MB vs. 1.9 MB) and three orders of magnitude faster to train. This study highlights that digital histopathology paired with rigorous image harmonization provides a powerful solution for pediatric sarcoma classification. Our models reduce inter-observer variability, augment diagnostic precision, and have the potential to increase global accessibility to robust diagnostics, improving time to diagnosis and subsequent treatment planning.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    type: Preprint
     
   - id: NCCR_06042025_2
     title: >-
       Integrating Electronic Health Records to Enhance Surveillance of Childhood Cancer: Insights from a Pilot Project
-    link: https://www.naaccr2025hartford.com/program
+    link: https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf
     date: June 2025
     summary: >-
       <p>Enhanced data collection can improve health outcomes in childhood cancer. This article is a result of a pilot project coordinated by the NCI undertaken by the Texas Cancer Registry (TCR) and Texas Children’s Hospital (TCH) to explore the value of gathering clinical data from electronic health records (EHR).</p>  
@@ -75,7 +123,7 @@ publicationsList:
   - id: NCCR_06042025_1
     title: >-
       Disparities in Childhood and Adolescent Cancer Survival in California
-    link: https://www.naaccr2025hartford.com/program
+    link: https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf
     date: June 2025
     summary: >-
       <p>In 2024, an estimated 14,910 US children (0-14 years) and adolescents (15-19 years) were diagnosed with cancer. Understanding survival disparities by sociodemographic factors can help monitor progress in cancer outcomes as well as identify groups that may need better access to care and clinical trials, guidance with health literacy, or help with healthcare navigation.</p>  
@@ -86,7 +134,7 @@ publicationsList:
   - id: NCCR_06032025_4
     title: >-
       Evaluation of Data Completeness of Multimodal Data for Longitudinal, Patient Outcomes Analyses Using the NCCR Data Platform and Interoperability Resources with the CCDI Data Ecosystem
-    link: https://www.naaccr2025hartford.com/program
+    link: https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf
     date: June 2025
     summary: >-
       <p>The National Childhood Cancer Registry (NCCR) integrates multimodal data from central cancer registries and multiple real-world sources under a unified data infrastructure to enable scientific advances using population-based and research data. The Childhood Cancer Data Initiative (CCDI) Participant Index (CPI) is a new resource that enables patient matching across NCCR and other research datasets in the wider CCDI data ecosystem. In tandem with NCCR Data Platform, the CPI provides a highly accessible and interoperable data resource for childhood, adolescent and young adult (AYA) cancer researchers to answer a wide range of research questions.</p>  
@@ -97,7 +145,7 @@ publicationsList:
   - id: NCCR_06032025_3
     title: >-
       Best Practices for Managing Data Sets from the National Childhood Cancer Registry (NCCR) Data Platform
-    link: https://www.naaccr2025hartford.com/program
+    link: https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf
     date: June 2025
     summary: >-
       <p>The NCCR Data Platform consolidates public health surveillance data from 22 NCCR participating cancer registries into a central location linked to real world data sources. This valuable resource allows researchers approved access to pooled data on longitudinal clinical, treatment, claims, demographic and outcomes data for rare childhood cancers in the U.S. Currently the NCCR Data Platform provides information on 1.4+ million cases from 1995 to 2021 stemming from seven population based or convenience sample sources. Data can be interactively explored within the Data Platform and manipulated to create customized cohorts. These cohorts can be requested for downloading through the NCCR Data Platform data request process.</p>  
@@ -108,7 +156,7 @@ publicationsList:
   - id: NCCR_06032025_2
     title: >-
       Socio-Demographic Characteristics of Children and AYA Cancer Patients Enrolled and Not Enrolled in COG Clinical Trials Using the NCCR Data Platform
-    link: https://www.naaccr2025hartford.com/program
+    link: https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf
     date: June 2025
     summary: >-
       <p>Cancer death rates have decreased over the years for children (0-14 years) and adolescents and young adults (AYA, 15-39 years). A significant portion of this improvement in survival rates can be attributed to treatment advances from cooperative clinical trials in the US. However, according to a Children’s Oncology Group (COG) study, only 20% of US cancer patients aged 0 to 19 years old enrolled in COG trials between 2004-2015. Many studies reported underrepresentation of racial/ethnic minorities as well as AYA in clinical trials.</p>  
@@ -119,10 +167,10 @@ publicationsList:
   - id: NCCR_06032025_1
     title: >-
       An Evaluation of Privacy-Preserving Record Linkage Results Using NCCR and VPR Data
-    link: https://www.naaccr2025hartford.com/program
+    link: https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf
     date: June 2025
     summary: >-
-      <p>Privacy-Preserving Record Linkage (PPRL) techniques allow institutions/organizations to link data without releasing sensitive information through a broad range of processes, including secure multi-party computation, bloom filter encoding, and hashing, among others.</p>  
+      <p>Privacy-Preserving Record Linkage (PPRL) techniques allow institutions/organizations to link data without releasing sensitive information through a broad range of processes, including secure multi-party computation, bloom filter encoding, and hashing, among others. During the hashing process, a series of cryptographic functions are applied to the input data to generate a set of hash tokens. After the input data have been hashed/tokenized, the linkage process compares the hash tokens in two or more files to identify sets of records that are believed to belong to the same entity. The hash tokens do not disclose any identifiers because a hash function is, by definition, a one-way function; meaning the original data cannot be derived from the hashed value.</p>  
     category: Abstracts
     tag: CCDI-NCCR,CCDI Data
     conference: NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
