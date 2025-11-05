@@ -171,3 +171,15 @@ rareCancerContent:
         content: >-
           <h3>Who should I contact with questions about CCDI Pediatric and AYA Rare Cancer Study results and data?</h3>
           <p>For questions related to study data or accessing the CCDI Data Ecosystem, contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
+
+ccdiEventArchiveIntroText: >-
+  <p>CCDI Event Archive intro content.</p>
+ccdiEventArchiveContent:
+  - id: CCDI_Event_Archive_1
+    topic: CCDI Event Archive 1
+    content: >-
+      <p>CCDI Event Archive content 1.</p>
+  - id: CCDI_Event_Archive_2
+    topic: CCDI Event Archive 2
+    content: >-
+      <p>CCDI Event Archive content 2.</p>
