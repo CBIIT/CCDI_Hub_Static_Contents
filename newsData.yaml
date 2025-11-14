@@ -31,10 +31,10 @@ altList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
-  - id: hub_11142025
+  - id: hub_11172025
     title: >-
       October 2025 CCDI Hub updates
-    date: November 14, 2025
+    date: November 17, 2025
     slug: >-
       Browse the latest MCI enrollment and publications
     highlight: >-
@@ -43,10 +43,10 @@ newsList:
     img: updateImgMiscNews 
     latestUpdate: true
 
-  - id: federation_11142025
+  - id: federation_11172025
     title: >-
       IUSCCC joins CCDI data federation
-    date: November 14, 2025
+    date: November 17, 2025
     slug: >-
       CCDI welcomes the IUSCCC into the data federation
     highlight: >-
