@@ -31,6 +31,30 @@ altList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
+  - id: hub_11172025
+    title: >-
+      October 2025 CCDI Hub updates
+    date: November 17, 2025
+    slug: >-
+      Browse the latest MCI enrollment and publications
+    highlight: >-
+      <p>The CCDI Hub's <a href="https://ccdi.cancer.gov/publications">CCDI-Supported Publications list</a> has been updated with four new publications and the <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with enrollment counts for the month of October.</p>
+    type: News
+    img: updateImgMiscNews 
+    latestUpdate: true
+
+  - id: federation_11172025
+    title: >-
+      IUSCCC joins CCDI data federation
+    date: November 17, 2025
+    slug: >-
+      CCDI welcomes the IUSCCC into the data federation
+    highlight: >-
+      <p>Introducing the newest addition to the CCDI Data Federation: the Indiana Pediatric Solid Tumor program at the Indiana University Simon Comprehensive Cancer Center (IUSCCC), a program that focuses on diagnosing, treating, and researching childhood solid tumors. CCDI Data Federation allows users to query member data simultaneously, as if accessing a single database. Current members include Kids First Data Resource Center, the Pediatric Cancer Data Commons, St. Jude Cloud, the Treehouse Childhood Cancer Initiative, and CCDI ecDNA. </p>
+    type: CCDI Application Updates
+    img: updateImgecDNA
+    latestUpdate: true
+
   - id: hub_10012025
     title: >-
       September 2025 CCDI Hub updates
@@ -53,7 +77,6 @@ newsList:
       <p>The CCDI cBioPortal Cancer Data Explorer is the latest tool resource to be added to the Childhood Cancer Data Catalog (CCDC). In this same release, four existing resources were updated along with restoring removed data sets. The <a href="https://datacatalog.ccdi.cancer.gov/User%20Guide%20for%20CCDC%20v1.5.3.pdf">CCDC User Guide</a> has been revised to include all of these changes.</p>
     type: CCDI Application Updates
     img: updateImgCCDC 
-    latestUpdate: true
     
   - id: cbioportal_08042025
     title: >-
@@ -566,7 +589,6 @@ releaseNotesList:
     type: Release Notes
     img: updateImgReleaseNotes
     contentType: Clinical,Genomics/Omics
-    latestUpdate: true
 
   - id: hub_release_08042025
     title: CCDI Hub Release 2.7.1
