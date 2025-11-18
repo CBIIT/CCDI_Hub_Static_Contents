@@ -50,6 +50,9 @@ mciContent:
               value: 779
             - name: Neuroblastoma
               value: 623
+            - name: Ewing Sarcoma
+              value: 1
+              
         # map update, the last attribute of value
         map:
           title: Enrollment Counts by State as of October 14, 2025
