@@ -36,7 +36,7 @@ newsList:
       Annual GENIE update now available in the Childhood Cancer Data Catalog
     date: December 4, 2025
     slug: >-
-      Last CCDC release of the year adds one new resource and updated contact information
+      Last release of the year adds one new resource and updated contact information
     highlight: >-
       <p>The Childhood Cancer Data Catalog (CCDC)’s last update of 2025 features the annual update to GENIE’s data set plus a new resource, the Pediatric Cancer Registry | Florida Association of Pediatric Tumor Programs, Inc. (FAPTP). Resource contact links have been updated to better indicate whether the contact is an email address or an external web page.</p>
     type: CCDI Application Updates
@@ -50,7 +50,7 @@ newsList:
     slug: >-
       One new data set and 11 updated resources in the CCDC 
     highlight: >-
-      <p>The CCDI’s Texas Pediatric Patient Derived Xenograft is the newest data set to be added to the Childhood Cancer Data Catalog (CCDC). 11 existing resources have also been updated to reflect the latest counts, disease lists, publications, and URLs.</p>
+      <p>The CCDI’s Texas Pediatric Patient Derived Xenograft is the newest data set to be added to the Childhood Cancer Data Catalog (CCDC). Eleven existing resources have also been updated to reflect the latest counts, disease lists, publications, and URLs.</p>
     type: CCDI Application Updates
     img: updateImgCCDC 
     latestUpdate: true
