@@ -176,10 +176,10 @@ ccdiEventArchiveIntroText: >-
   <p>CCDI Event Archive intro content.</p>
 ccdiEventArchiveContent:
   - id: CCDI_Event_Archive_1
-    topic: CCDI Event Archive 1
+    topic: Past Events
     content: >-
       <p>CCDI Event Archive content 1.</p>
   - id: CCDI_Event_Archive_2
-    topic: CCDI Event Archive 2
+    topic: Webinars
     content: >-
-      <p>CCDI Event Archive content 2.</p>
+      <p><li>Webinar1</li><li>Webinar2</li><li>Webinar3</li><li>Webinar4</li></p>
