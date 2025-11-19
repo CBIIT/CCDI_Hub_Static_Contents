@@ -178,7 +178,9 @@ ccdiEventArchiveContent:
   - id: CCDI_Event_Archive_1
     topic: Past Events and Webinars
     content: >-
-      <p>Watch the New Childhood Cancer Data Initiative Vision Video<br>10/15/20<br><br>Childhood Cancer Data Initiative Webinar: Current Programs and Progress<br>9/13/21<br><br>NCI Childhood Cancer Data Initiative Annual Symposium 2021<br>11/9/21</p>
+      <p>Watch the New Childhood Cancer Data Initiative Vision Video<br>10/15/20<br><br>
+      Childhood Cancer Data Initiative Webinar: Current Programs and Progress<br>9/13/21<br><br>
+      NCI Childhood Cancer Data Initiative Annual Symposium 2021<br>11/9/21</p>
   - id: CCDI_Event_Archive_2
     topic: Contact
     content: >-
