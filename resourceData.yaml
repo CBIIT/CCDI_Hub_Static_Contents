@@ -176,10 +176,10 @@ ccdiEventArchiveIntroText: >-
   <p>CCDI Event Archive intro content.</p>
 ccdiEventArchiveContent:
   - id: CCDI_Event_Archive_1
-    topic: Past Events
+    topic: Past Events and Webinars
     content: >-
-      <p>CCDI Event Archive content 1.</p>
+      <p>Watch the New Childhood Cancer Data Initiative Vision Video<br>10/15/20<br><br>Childhood Cancer Data Initiative Webinar: Current Programs and Progress<br>9/13/21<br><br>NCI Childhood Cancer Data Initiative Annual Symposium 2021<br>11/9/21</p>
   - id: CCDI_Event_Archive_2
-    topic: Webinars
+    topic: Contact
     content: >-
-      <p>Webinar1<br>Webinar2<br>Webinar3<br>Webinar4</p>
+      <p>If you have questions about a specific event or would like more information, please contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>./p>
