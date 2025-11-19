@@ -182,4 +182,4 @@ ccdiEventArchiveContent:
   - id: CCDI_Event_Archive_2
     topic: Webinars
     content: >-
-      <p><li>Webinar1</li><li>Webinar2</li><li>Webinar3</li><li>Webinar4</li></p>
+      <p>Webinar1<br>Webinar2<br>Webinar3<br>Webinar4</p>
