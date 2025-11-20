@@ -173,7 +173,7 @@ rareCancerContent:
           <p>For questions related to study data or accessing the CCDI Data Ecosystem, contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
 
 ccdiEventAnnouncementsIntroText: >-
-  <p>The CCDI Events Archive provides access to past events, webinars, workshops, and key training sessions organized by the Childhood Cancer Data Initiative (CCDI). This resource is designed to offer the research and clinical community a comprehensive record of CCDI’s scientific symposia, technical forums, special lectures, and training opportunities. Each entry below provides direct access to presentation materials, recordings, or summary documents whenever available.</p>
+  <p>The CCDI Events Announcements page brings together news announcements and details on past events, webinars, and workshops.</p>
 ccdiEventAnnouncementsContent:
   - id: CCDI_Event_Archive_1
     topic: Past Events and Webinars
