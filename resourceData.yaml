@@ -178,7 +178,7 @@ ccdiEventAnnouncementsContent:
   - id: CCDI_Event_Archive_1
     topic: Past Events and Webinars
     content: >-
-      <p><a href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Watch+the+New+Childhood+Cancer+Data+Initiative+Vision+Video.pdf%E2%80%9D%20target="> Watch the New Childhood Cancer Data Initiative Vision Video</a><br>11/9/21<br><br>
+      <p><a href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Watch+the+New+Childhood+Cancer+Data+Initiative+Vision+Video.pdf” target="_blank" rel="noopener noreferrer">Watch the New Childhood Cancer Data Initiative Vision Video</a><br>11/9/21<br><br>
       Childhood Cancer Data Initiative Webinar: Current Programs and Progress<br>9/13/21<br><br>
       NCI Childhood Cancer Data Initiative Annual Symposium 2021<br>11/9/21<br><br>
       Kids First Spring Webinar: Empowering Discovery through a Wide Variety of Data Types<br>5/11/22<br><br> 
