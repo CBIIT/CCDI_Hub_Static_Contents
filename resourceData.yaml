@@ -176,7 +176,7 @@ ccdiEventAnnouncementsIntroText: >-
   <p>The CCDI Events Announcements page brings together news announcements and details on past events, webinars, and workshops.</p>
 ccdiEventAnnouncementsContent:
   - id: CCDI_Event_Archive_1
-    topic: Past Events and Webinars
+    topic: Past Events, Webinars, and Workshops
     content: >-
       <p>
       <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Navigating+CCDI+Hub%E2%80%99s+Explore+Dashboard+and+Data+Access.pdf" target="_blank" rel="noopener noreferrer">Navigating CCDI Hub’s Explore Dashboard and Data Access</a><br>11/13/23<br><br>
