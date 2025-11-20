@@ -35,7 +35,7 @@ mciContent:
         diseaseTable:
           # update title date
           title: >-
-            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of October 14, 2025
+            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of November 10, 2025
           header:
             - ""
             - "Primary Diagnosis Disease Group"
@@ -43,15 +43,15 @@ mciContent:
           # Table Update, update the value part
           body:
             - name: Central Nervous System
-              value: 4963
+              value: 5090
             - name: Soft Tissue Sarcoma
-              value: 1528
+              value: 1558
             - name: Rare Tumors
-              value: 779
+              value: 791
             - name: Neuroblastoma
-              value: 623
+              value: 655
             - name: Ewing Sarcoma
-              value: 1
+              value: 41
               
         # map update, the last attribute of value
         map:
