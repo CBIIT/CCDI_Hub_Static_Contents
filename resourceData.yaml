@@ -1,0 +1,198 @@
+# Resource section static pages content
+
+# Federation page content
+# id is not editable
+# topic and content are editable
+federationIntroText: <p>Data federation enables users to pull data from across various resources as if they were accessing a single virtual database, rather than consolidating all data into a single centralized repository. The data remain at the original source but become searchable and findable to the research community through a standard application programming interface (API). This allows the creation of a virtual cohort and facilitates large-scale analytic research by making deidentified participant-level data (non-PHI/PII) findable across the sources.</p><p>The Childhood Cancer Data Initiative (CCDI) is piloting data federation with Kids First Data Resource Center, the Pediatric Cancer Data Commons, St. Jude Cloud, and the Treehouse Childhood Cancer Initiative. These resources provide information about genomic, clinical, imaging, and biospecimen data in these data sets.</p><p>The CCDI Data Federation Resource has since expanded to include CCDI ecDNA and Pediatric Solid Tumor Program-IUSCCC, both of which have implemented the Federation API. This list will continue to grow as more organizations adopt CCDI’s data federation API.</p>
+federationContent: 
+  - id: Data_Access
+    topic: Data Access
+    content: >- 
+      <p>Researchers can search for deidentified individual-level data through the API, which provides metadata that aids in the creation of virtual cohorts across multiple data types from participating resources by accessing CCDI’s Data Federation Resource API.</p>
+      <p>To access the CCDI Data Federation Resource API, please click <a class="link" href="https://cbiit.github.io/ccdi-federation-api-aggregation/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+      <p>To access participating nodes API, please click <a class="link" href="https://cbiit.github.io/ccdi-federation-api-spec" target="_blank" rel="noopener noreferrer">here</a>.</p>
+      <p>The API does not deliver files. Rather, it provides an open-access subset of the metadata (e.g., demographics) that match a user’s search criteria and provides the location of the complete data set. The data are accessible according to the policies at each contributing resource.</p>
+  - id: Additional_Available_Resources
+    topic: Additional Available Resources
+    content: >-
+      <p>The CCDI Data Federation Resource offers a suite of resources including the <a class="link" href="https://cbiit.github.io/ccdi-federation-api-aggregation/swagger-aggr.yml" target="_blank" rel="noopener noreferrer">OpenAPI Specification</a>, <a class="link" href="https://ccdi.cancer.gov/data-federation-data-model" target="_blank" rel="noopener noreferrer">Data Model Navigator</a>, <a class="link" href="https://github.com/CBIIT/ccdi-federation-api-spec/wiki" target="_blank" rel="noopener noreferrer">Data Federation Resource Wiki</a>, and <a class="link" href="https://github.com/CBIIT/ccdi-federation-api" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+      to support participating node development. You may also get assistance or report an <a class="link" href="https://github.com/CBIIT/ccdi-federation-api-spec/issues/new/choose" target="_blank" rel="noopener noreferrer">issue</a>. Read more about CCDI Federation API in the <a class="link" href="https://cbiit.github.io/ccdi-federation-api/blog/09-25-2024-introducing-the-federation-api.html" target="_blank" rel="noopener noreferrer">blog</a>.</p>
+  - id: Contribute_Federation
+    topic: Contribute to CCDI Data Federation Resource
+    content: >- 
+      <p>We invite the community to join us in empowering research through CCDI data federation. Organizations that implement CCDI’s data federation API harmonize data according to CCDI standards to ensure data are searchable.</p>
+      <p>If interested in becoming a member of the CCDI Data Federation Resource, please send an email to <a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">ncichildhoodcancerdatainitiative@mail.nih.gov</a>.</p>
+  - id: Contact
+    topic: Contact
+    content: >- 
+      <p><a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">Email us</a> with questions related to CCDI federated data or accessing the CCDI Data Ecosystem.</p>
+
+
+# CPI page content
+# id is not editable
+# topic and content are editable
+cpiIntroText: <p>The Childhood Cancer Data Initiative (CCDI) Participant Index (CPI) maps research participant identifiers across multiple studies and institutions, collectively referred to as “Domains”. By mappings these identifiers, CPI enables researchers to connect data associated with the same individual across different datasets stored in sources such as the CCDI Hub and National Childhood Cancer Registry (NCCR). This mapping capability enhances the discovery of multimodal data, facilitating the exploration of complex research questions, and ultimately supporting the development of innovative therapies for pediatric cancers.</p>
+cpiContent: 
+  - id: CPI_Components
+    topic: Components
+    content: >- 
+      <p>“Identifiers” and “Domains” make up the structure of the CPI. These elements are essential for organizing and mapping participant data across various studies and organizations. The key components include:</p>
+      <ul><li><b>Identifier</b>: A public identifier (Participant ID) appearing in a research dataset accessible to researchers (e.g., Kids First ID, GENIE ID).</li>
+      <li><b>Domain</b>: Groups of unique participant IDs categorized as follows:<ul><li><b>Organizational Identifier</b>: A project/network of unique participant identifiers (e.g. Children's Oncology Group, AACR GENIE, Pediatric Cancer Data Commons).</li>
+      <li><b>Data Set</b>: A single dataset for a particular study where data files for the participants can be found (e.g., dbGaP accession numbers).</li>
+      <li><b>Study</b>: Programmatic references to research initiatives (e.g., TARGET, Gabriella Miller Kids First).</li></ul></li></ul>
+      <p>Further information on CPI components and functions can be found at <a href="https://participantindex-docs.ccdi.cancer.gov" target="_blank" rel="noopener noreferrer">participantindex-docs.ccdi.cancer.gov</a>.</p>
+  - id: Core_Functions_of_the_CPI
+    topic: Core Functions of the CPI
+    content: >-
+     <p>The CPI API functions as a reference service that allows software applications to communicate with each other, providing information on participants’ research IDs to authorized applications. Integration with the CPI is currently under development for applications like the CCDI Hub and Federation Data Resource.<p>
+     <p>The CPI addresses key questions such as:</p>
+     <ul><li><b>Which participants and domains are associated with mine?</b> Authorized applications can input participant ID(s) and retrieve all associated IDs along with their respective domains. This helps in mapping participants across different data sets and studies.</li>
+     <li><b>What are the current domains in the CPI and their participant statistics?</b> Authorized users can access comprehensive information about each domain within the CPI database. This includes the domain name, description, category, and a URL linking to additional data, offering context about where a participant’s data is present. Also available are participant statistics for each domain, including the number of participants mapped to various domains, along with the total counts of participants.</li></ul>
+  - id: CPI_Request_Access
+    topic: Request Access
+    content: >- 
+     <p>The CPI API will be made available to applications and services authorized by NCI. Interested system owners may initiate a request for access by emailing <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
+  - id: Contribute_to_the_CPI
+    topic: Contribute to the CPI
+    content: >- 
+      <p>We invite the community to join us in empowering childhood cancer research. By contributing to the CPI, you can help expand the scope and depth of participant information available to researchers, which could facilitate more comprehensive studies and potentially leading to groundbreaking discoveries. To contribute:</p>
+      <ol><li><b>Submit a Contribution Request</b>: Contact the <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">CPI Support Team</a> to express your interest.</li>
+      <li><b>Data Preparation</b>: Once a request is received, the CPI Support Team will provide the CPI Submission Template for participant ID and domain categorization.</li>
+      <li><b>Data Submission</b>: Follow the provided instructions to submit your data to the CPI.</li></ol>
+  - id: CPI_Contact
+    topic: Contact
+    content: >- 
+      <p>For more information or to request access to the CPI API, please contact the CPI support team at <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
+
+cbioportalIntroText: >-
+  <p>To make complex genomic data more accessible, the Childhood Cancer Data Initiative (CCDI) is launching a user-friendly instance of cBioPortal that allows users—regardless of computational expertise—to explore and analyze without needing to download or process large datasets.</p>
+  <p>cBioPortal is an open-source, web-based platform designed to explore cancer data from large studies. Users can search by gene, mutation, cancer type, or patient and quickly visualize relationships, patterns, and trends in the data. CCDI’s customized instance “CCDI cBioPortal Cancer Data Explorer” is tailored to support pediatric cancer researchers and clinicians by enabling them to:</p>
+  <ul><li>Access standardized genomic and clinical data</li><li>Explore findings without the need to download or process large datasets</li><li>Facilitate collaborative and translational research by bridging basic science and clinical insights</li></ul>
+  <p>The pilot version of CCDI cBioPortal Cancer Data Explorer includes mutation data extracted from the genomic variant files of the <a href="/MCI">Molecular Characterization Initiative</a> (MCI). Over time, additional data will be added from the growing collection available in the <a href="/explore">CCDI Data Hub</a>.</p>
+
+cbioportalContent:
+  - id: cbioportal_Contact
+    topic: Contact 
+    content: >-
+      <p>For more information, email us at <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
+
+toolsIntroText:
+toolsContent:
+  - id: CCDI Data Model 
+    topic: CCDI Data Model 
+    content: >-
+      <p>The Childhood Cancer Data Initiative (CCDI) Data Model is a structured framework developed to standardize and harmonize pediatric cancer data across diverse research platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their relationships to ensure consistent data representation. The model plays a central role in enabling data integration, sharing, and analysis within the CCDI Data Ecosystem. To interactively view the data model, please click <a href="/data-model">here</a>.</p>
+      <p>Link: <a class="link" href="https://github.com/CBIIT/ccdi-model" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/ccdi-model</a></p>
+      <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
+  - id: CCDI ecDNA
+    topic: CCDI ecDNA
+    content: >-
+      <p>The CCDI Extrachromosomal DNA (ecDNA) portal is a comprehensive catalog of circular extrachromosomal DNA associated with childhood cancers. ecDNA, which frequently harbors amplified oncogenes, is a key driver of tumor development and progression, and its presence is linked to poor outcomes across multiple pediatric cancer types. This resource enables researchers to explore the prevalence, structure, and gene content of ecDNA in pediatric tumors, supporting studies in cancer biology, diagnosis, and potential therapeutic targets.</p>
+      <p>Link: <a class="link" href="https://ccdi-ecdna.org/" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org/</a></p>
+      <p>Contact: <a href="mailto:support@ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">support@ccdi-ecdna.org</a>, <a href="mailto:lchavez@sbpdiscovery.org" target="_blank" rel="noopener noreferrer">lchavez@sbpdiscovery.org </a></p>
+  - id: C3DC Data Model
+    topic: C3DC Data Model
+    content: >-
+      <p>The Childhood Cancer Clinical Data Commons (C3DC) Data Model is a structured framework designed to standardize and harmonize pediatric cancer clinical data across diverse studies and platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their interrelationships to ensure consistent and interoperable data representation. By supporting the harmonization of data from multiple sources, the model enables researchers to work with integrated datasets, promoting efficient data sharing, analysis, and collaboration.</p>
+      <p>Link: <a class="link" href="https://github.com/CBIIT/c3dc-model" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/c3dc-model</a></p>
+      <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
+  - id: Cancer Genomics Cloud
+    topic: Cancer Genomics Cloud
+    content: >-
+      <p>The NCI’s Cancer Genomics Cloud (CGC), powered by Velsera, is a cloud-based platform that enables analysis, storage, and computation of large cancer datasets. The CGC provides a user-friendly portal to access and analyze more than 3 petabytes of data. It offers over 900 bioinformatics tools and workflows, allowing users—including those without programming experience—to perform complex analyses and collaborate with a global community of over 8,000 researchers.</p>
+      <p>Link: <a class="link" href="https://www.cancergenomicscloud.org/" target="_blank" rel="noopener noreferrer">https://www.cancergenomicscloud.org/</a></p>
+      <p>Contact: <a href="mailto:cgc-sb@velsera.com" target="_blank" rel="noopener noreferrer">cgc-sb@velsera.com</a></p>
+  - id: CIViC
+    topic: CIViC
+    content: >-
+      <p>Clinical Interpretation of Variants in Cancer (CIViC) is an open-access, open-source, community-driven knowledgebase for the clinical interpretation of cancer variants. The platform enables crowdsourced curation and expert moderation of literature-derived evidence, providing structured, peer-reviewed data on the clinical significance of somatic and germline mutations in cancer. CIViC supports variant interpretation for diagnosis, prognosis, and therapy selection, and integrates with emerging guidelines and other variant resources to advance precision oncology.</p>
+      <p>Link: <a class="link" href="https://civicdb.org/" target="_blank" rel="noopener noreferrer">https://civicdb.org/</a></p>
+      <p>Contact: <a href="mailto:help@civicdb.org" target="_blank" rel="noopener noreferrer">help@civicdb.org</a></p> 
+  - id: dbGaP
+    topic: dbGaP
+    content: >-
+      <p>dbGaP (Database of Genotypes and Phenotypes) is a resource developed by the National Center for Biotechnology Information (NCBI) to store and distribute data from studies exploring the relationship between genetic variation (genotypes) and observable traits in humans (phenotypes). It houses genomic, imaging, clinical, and other types of individual-level data. To protect participant privacy, access to controlled-access data requires researchers to submit a <a class="link" href="https://sharing.nih.gov/accessing-data/accessing-genomic-data/how-to-request-and-access-datasets-from-dbgap" target="_blank" rel="noopener noreferrer">data access request</a>.</p>
+      <p>Link: <a class="link" href="https://www.ncbi.nlm.nih.gov/gap/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/gap/</a></p>
+      <p>Contact: <a href="mailto:dbgap-help@ncbi.nlm.nih.gov" target="_blank" rel="noopener noreferrer">dbgap-help@ncbi.nlm.nih.gov</a></p>
+  - id: GWAS Explorer
+    topic: GWAS Explorer
+    content: >-
+      <p>GWAS Explorer allows genetics researchers to search, visualize, and download aggregated association results from genome-wide association studies (GWAS). It provides association summary statistics for over 200 cancer and cancer-related phenotypes, harmonized from large-scale GWAS efforts. Interactive tools are available to visualize and examine association results utilizing dynamic Manhattan and Miami plots, stratify data by sex and ancestry, and review diagnostic plots (e.g., Q-q plots).</p>
+      <p>Link: <a class="link" href="https://exploregwas.cancer.gov/#/" target="_blank" rel="noopener noreferrer">https://exploregwas.cancer.gov/#/</a></p>
+      <p>Contact: <a href="mailto:NCIExploreGWASWebAdmin@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIExploreGWASWebAdmin@mail.nih.gov</a></p>
+  - id: MCI_JSON2TSV
+    topic: MCI_JSON2TSV
+    content: >-
+      <p>The MCI_JSON2TSV script is a Python-based command-line interface developed by the NCI’s Childhood Cancer Data Initiative (CCDI). Its primary function is to convert Molecular Characterization Initiative’s de-identified clinical report and clinical data files submitted in JSON format into tab-separated values (TSV) files. It can generate a single TSV that combines all case report form types, or, if preferred, create separate TSVs by form type or parsed variant results, making it easier to analyze, share, and integrate data with downstream systems.</p>
+      <p>Link: <a class="link" href="https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV</a></p>
+      <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
+  - id: RanBALL
+    topic: RanBALL
+    content: >-
+      <p>RanBALL is an ensemble machine learning model that uses random projection and support vector machines to accurately and cost-effectively identify B-cell acute lymphoblastic leukemia (B-ALL) subtypes using only transcriptomic profiling data. This tool improved clinical diagnosis, risk stratification, and personalized treatment for B-ALL patients through effective classification and visualization.</p>
+      <p>Link: <a class="link" href="https://github.com/wan-mlab/RanBALL" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/RanBALL</a></p>
+      <p>Contact: <a href="mailto:lli@unmc.edu" target="_blank" rel="noopener noreferrer">lli@unmc.edu</a></p>
+  - id: AttentionAML
+    topic: AttentionAML
+    content: >-
+      <p>AttentionAML is a novel deep learning framework that uses an attention-based multilayer perceptron (MLP) model to accurately identify acute myeloid leukemia (AML) subtypes from transcriptomic data alone. A user-friendly Python package is available to help researchers implement the model. It enables precise classification and clustering of AML subtypes, and facilitates improved risk stratification and personalized treatment planning.</p>
+      <p>Link: <a class="link" href="https://github.com/wan-mlab/AttentionAML" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/AttentionAML</a></p>
+      <p>Contact: <a href="mailto:swan@unmc.edu" target="_blank" rel="noopener noreferrer">swan@unmc.edu</a></p>
+  - id: EwS-Pacbio
+    topic: EwS-Pacbio
+    content: >-
+      <p>The EwS-Pacbio repository provides tools for analyzing long-read targeted sequencing FASTQ files to investigate microsatellites and germline variants associated with Ewing sarcoma (EwS) susceptibility. Leveraging PacBio sequencing technology, the resource enables high-resolution investigation of genetic risk factors, including variant analysis and microsatellite profiling. It includes workflows and visualizations fused in associated publications, supporting deeper insights into EwS-related genetic mechanisms.</p>
+      <p>Link 1: Code for 6p25.1 microsatellite and germline variant analysis is available at: <a class="link" href="https://github.com/machiela-lab/EwS-Pacbio" target="_blank" rel="noopener noreferrer">https://github.com/machiela-lab/EwS-Pacbio</a></p>
+      <p>Link 2: Code for gene expression analysis is available at: <a class="link" href="https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1" target="_blank" rel="noopener noreferrer">https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1</a></p>
+      <p>Contact: <a href="mailto:mitchell.machiela@nih.gov" target="_blank" rel="noopener noreferrer">mitchell.machiela@nih.gov</a></p>
+
+rareCancerIntroText: >-
+  <p>The Childhood Cancer Data Initiative (CCDI) Pediatric, Adolescent, and Young Adult Rare Cancer Study is a longitudinal, observational study and registry for very rare pediatric, adolescent, and young adult (AYA) solid tumors. Across the duration of the study, the team will collect clinical, pathology, imaging data, and patient reported outcomes from children, adolescents, and young adults aged 39 or younger with very rare childhood cancers and who are within one year of diagnosis.</p>
+  <p>State-of-the-art clinical molecular characterization of tumor and germline samples will also be performed through the <a href="/MCI">CCDI Molecular Characterization Initiative</a> to potentially help inform treatment approaches. The de-identified data will be part of the CCDI Data Ecosystem.</p>
+  <p>For an overview of this program, <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/programs/rare-cancers" target="_blank" rel="noopener noreferrer">access the study’s web page on cancer.gov</a>.</p>
+rareCancerContent:
+  - id: Rare_Cancer_Study_Introduction
+    topic: Accessing Pediatric and AYA Rare Cancer Study Data
+    list:
+      - id: HOW_TO_ACCESS_STUDY_DATA
+        subtopic: HOW TO ACCESS STUDY DATA
+        content: >-
+          <h3>How can Pediatric and AYA Rare Cancer Study data be accessed through the CCDI Data Ecosystem?</h3>
+          <p>Study data can be accessed through the CCDI Data Ecosystem, which includes molecular characterization data, de-identified clinical reports, patient-reported outcomes, whole slide images of hematoxylin and eosin stained (H&E) tissue, along with additional data on demographics, diagnosis, treatment, and follow-up.</p>
+          <p>CCDI studies are summarized and indexed in the <a href="/explore">CCDI Hub Explore Dashboard</a>, where you can export row-level metadata for participants, samples, or files. You can search by the study name or by database of Genotypes and Phenotypes accession number (number forthcoming). <a class="link" href="/user-guide.pdf" target="_blank" rel="noopener noreferrer">This user guide</a> provides information on how to find, request, access, download, and analyze controlled-access data.</p>
+      - id: GERMLINE_FINDINGS 
+        subtopic: GERMLINE FINDINGS
+        content: >-
+          <h3>What steps should be taken if germline findings are detected?</h3>
+          <p>Clinically actionable findings include disorders listed in the American College of Medical Genetics and Genomics recommendations for the return of secondary findings. The participant’s physician should coordinate a referral for the participant and their family to do local genetic counseling. In this setting, familial cascade testing for the observed germline variant may be offered to the family where appropriate. Such testing typically takes the form of targeted Sanger or microarray analysis, performed in concert with pre and post-test genetic counseling on the significance of the genetic variant. Familial testing may be performed by the institutional molecular laboratory (if those services are available locally) or through typical send-out testing channels familiar to the clinician and counselor.</p>
+      - id: CONTACT_INFORMATION
+        subtopic: CONTACT INFORMATION
+        content: >-
+          <h3>Who should I contact with questions about CCDI Pediatric and AYA Rare Cancer Study results and data?</h3>
+          <p>For questions related to study data or accessing the CCDI Data Ecosystem, contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
+
+ccdiEventAnnouncementsIntroText: >-
+  <p>The CCDI Events Announcements page brings together news announcements and details on past events, webinars, and workshops.</p>
+ccdiEventAnnouncementsContent:
+  - id: CCDI_Event_Archive_1
+    topic: Past Events, Webinars, and Workshops
+    content: >-
+      <p>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Navigating+CCDI+Hub%E2%80%99s+Explore+Dashboard+and+Data+Access.pdf" target="_blank" rel="noopener noreferrer">Navigating CCDI Hub’s Explore Dashboard and Data Access</a><br>11/13/23<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Using+NCCR_Explorer+and+NCCR+Data+in+SEER_Stat.pdf" target="_blank" rel="noopener noreferrer">Using NCCR*Explorer and NCCR Data in SEER*Stat</a><br>10/24/23<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/The+First+Childhood+Cancer+Data+Initiative+Community+Forum.pdf" target="_blank" rel="noopener noreferrer">The First Childhood Cancer Data Initiative Community Forum</a><br>9/11/23<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Using+the+Childhood+Cancer+Data+Initiative%E2%80%99s+Molecular+Targets+Platform.pdf" target="_blank" rel="noopener noreferrer">Using the Childhood Cancer Data Initiative’s Molecular Targets Platform</a><br>8/21/23<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Using+the+CCDI+Hub+and+Childhood+Cancer+Data+Catalog.pdf" target="_blank" rel="noopener noreferrer">Using the CCDI Hub and Childhood Cancer Data Catalog</a><br>6/29/23<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Attend+the+2023+NCI+Childhood+Cancer+Data+Initiative+Annual+Symposium.pdf" target="_blank" rel="noopener noreferrer">Attend the 2023 NCI Childhood Cancer Data Initiative Annual Symposium</a><br>3/24/23<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/CCDI+Workshop_+Advancing+a+National+Initiative+for+Rare+Cancers+in+Children%2C+Adolescents%2C+and+Young+Adults.pdf" target="_blank" rel="noopener noreferrer">CCDI Workshop: Advancing a National Initiative for Rare Cancers in Children, Adolescents, and Young Adults</a><br>11/18/22<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/CCDI+Workshop_+The+Importance+of+Electronic+Health+Record+(EHR)+Data+in+Clinical+Care+and+Research.pdf" target="_blank" rel="noopener noreferrer">CCDI Workshop: The Importance of Electronic Health Record (EHR) Data in Clinical Care and Research</a><br>11/2/22<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/New+Optimized+Workflow+Offers+Comprehensive+Characterization+of+Childhood+Cancers.pdf" target="_blank" rel="noopener noreferrer">New Optimized Workflow Offers Comprehensive Characterization of Childhood Cancers</a><br>6/9/22<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Special+Lecture+Series_+The+NCI+Childhood+Cancer+Data+Initiative+(CCDI)%E2%80%94Learning+from+Every+Childhood+Cancer+Patient.pdf" target="_blank" rel="noopener noreferrer">Special Lecture Series: The NCI Childhood Cancer Data Initiative (CCDI)—Learning from Every Childhood Cancer Patient</a><br>5/23/22<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/NCI+Childhood+Cancer+Data+Initiative+Annual+Symposium+2021.pdf" target="_blank" rel="noopener noreferrer">NCI Childhood Cancer Data Initiative Annual Symposium 2021</a><br>11/9/21<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Childhood+Cancer+Data+Initiative+Webinar_+Current+Programs+and+Progress.pdf" target="_blank" rel="noopener noreferrer">Childhood Cancer Data Initiative Webinar: Current Programs and Progress</a><br>9/13/21<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Watch+the+New+Childhood+Cancer+Data+Initiative+Vision+Video.pdf" target="_blank" rel="noopener noreferrer">Watch the New Childhood Cancer Data Initiative Vision Video</a><br>10/15/20</p>
+  - id: CCDI_Event_Archive_2
+    topic: Contact
+    content: >-
+      <p>If you have questions about a specific event or would like more information, please contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>

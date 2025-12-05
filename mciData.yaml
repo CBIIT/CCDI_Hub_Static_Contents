@@ -1,4 +1,29 @@
-introText: <p>The CCDI Molecular Characterization Initiative (MCI) provides state-of-the-art molecular testing at no cost to newly diagnosed children, adolescents, and young adults (AYAs) with central nervous system (CNS) tumors, soft tissue sarcomas (STS), certain rare (RAR) childhood cancers, and certain neuroblastomas (NBL) being treated at a Children’s Oncology Group (COG)–affiliated hospital. The goal of this initiative is to enhance the understanding of the genetic factors involved in pediatric cancers and to provide timely, clinically relevant findings to doctors and families. This project uses Project:EveryChild (APEC14B1) to enroll participants, collect specimens, and annotate clinical data. The results of genetic testing will be shared with the treating physician and participants or their family, aiding in treatment decisions. This will also determine eligibility for certain planned COG clinical trials.</p><p>For an overview of this initiative, <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/data-ecosystem/molecular-characterization" target="_blank" rel="noopener noreferrer">access the MCI web page on cancer.gov</a>.</p>
+# introText:
+#   can edit, can have tags <p>, <a>;
+# id:
+#   not editable;
+# topic:
+#   can change the content, no tag in it;
+# subtopic:
+#   can change the content, no tag in it;
+# content:
+#   can have tags <p>, <h3>, <a>, <ul>, <li>;
+#   linkout <a> have to follow the pattern <a class="link" href="" target="_blank" rel="noopener noreferrer"></a>
+# diseaseTable:
+#   title: can freely change the content, no tag in it;
+#   header: cannot add or remove header item in array, can only change the content;
+#   body: can add or remove items in array and change the content for name and value;
+#   map: only the last number in one object can be changed. First and section numbers are for location on map;
+# table:
+#   title: can change the content, no tag in it;
+#   header: cannot add or remove header item in array, can only change the content;
+#   body: cannot add or remove body item in array, can only change the content;
+#   footer: can freely change the content, no tag in it;
+# searchTable:
+#   title: can change the content, no tag in it;
+#   body: can add, remove, edit items;
+introText: >-
+  <p>The CCDI Molecular Characterization Initiative (MCI) provides state-of-the-art molecular testing at no cost to newly diagnosed children, adolescents, and young adults (AYAs) up to age 25 with central nervous system (CNS) tumors, soft tissue sarcomas (STS), certain rare (RAR) childhood cancers, high-risk neuroblastomas (NBL), and metastatic Ewing sarcomas (EWS) being treated at a Children’s Oncology Group (COG)–affiliated hospital. AYAs aged 25-39 from a National Clinical Trials Network (NCTN) member institution can enroll in the MCI through COG's Project AYA if they are being screened for eligibility to participate in a COG-sponsored clinical trial. The goal of this initiative is to enhance the understanding of the genetic factors involved in pediatric cancers and to provide timely, clinically relevant findings to doctors and families. This project uses Project:EveryChild (APEC14B1) to enroll participants, collect specimens, and annotate clinical data. The results of genetic testing will be shared with the treating physician and participants or their family, aiding in treatment decisions. This will also determine eligibility for certain planned COG clinical trials.</p><p>For an overview of this initiative, <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/data-ecosystem/molecular-characterization" target="_blank" rel="noopener noreferrer">access the MCI web page on cancer.gov</a>.</p>
 mciContent: 
   - id: MCI_Introduction
     topic: Enrollment and Participation
@@ -8,41 +33,29 @@ mciContent:
         content: >-
           <p>The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.</p>
         diseaseTable:
-          title: "Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of November 12, 2024"
+          # update title date
+          title: >-
+            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of November 10, 2025
           header:
             - ""
             - "Primary Diagnosis Disease Group"
             - "Number of Participants"
+          # Table Update, update the value part
           body:
-            - name: "Central Nervous System"
-              value: 3503
-            - name: "Soft Tissue Sarcoma"
-              value: 1061
-            - name: "Rare Tumors"
-              value: 497
-            - name: "Neuroblastoma"
-              value: 265
-            - name: "Ewing Sarcoma"
-              value: 16
-            - name: "Osteosarcoma"
-              value: 10
-            - name: "Germ Cell Tumor"
-              value: 11
-            - name: "Myeloid Leukemia"
-              value: 4
-            - name: "Renal"
-              value: 8
-            - name: "Liver Tumor"
-              value: 4
-            - name: "Non-Hodgkin Lymphoma"
-              value: 3
-            - name: "Lymphoblastic Leukemia"
-              value: 2
-            - name: "Langerhans Cell Histiocytosis"
-              value: 1
-            - name: "Lymphoproliferative Disease"
-              value: 1
+            - name: Central Nervous System
+              value: 5090
+            - name: Soft Tissue Sarcoma
+              value: 1558
+            - name: Rare Tumors
+              value: 791
+            - name: Neuroblastoma
+              value: 655
+            - name: Ewing Sarcoma
+              value: 41
+              
+        # map update, the last attribute of value
         map:
+          title: Enrollment Counts by State as of November 10, 2025
           data:
             - - 110
               - 540
@@ -52,77 +65,77 @@ mciContent:
             - - 638
               - 420
               - "ALABAMA"
-              - 107
+              - 162
               # AL
             - - 550
               - 390
               - "ARKANSAS"
-              - 15
+              - 28
               # AR
             - - 240
               - 430
               - "ARIZONA"
-              - 75
+              - 109
               # AZ
             - - 100
               - 280
               - "CALIFORNIA"
-              - 415
+              - 620
               # CA
             - - 320
               - 290
               - "COLORADO"
-              - 22
+              - 48
               # CO
             - - 834
               - 228
               - "CONNECTICUT"
-              - 52
+              - 77
               # CT
             - - 790
               - 305
               - "DISTRICT OF COLUMBIA"
-              - 48
+              - 78
               # DC
             - - 810
               - 290
               - "DELAWARE"
-              - 52
+              - 78
               # DE
             - - 735
               - 500
               - "FLORIDA"
-              - 277
+              - 430
               # FL
             - - 720
               - 450
               - "GEORGIA"
-              - 159
+              - 221
               # GA
             - - 340
               - 630
               - "HAWAII"
-              - 15
+              - 25
               # HI
             - - 505
               - 250
               - "IOWA"
-              - 71
+              - 98
               # IA
             - - 240
               - 220
               - "IDAHO"
-              - 35
+              - 48
               # ID
             - - 600
               - 320
               - "ILLINOIS"
-              - 90
+              - 148
               # IL
             - - 638
               - 285
               - "INDIANA"
-              - 91
+              - 132
               # IN
             - - 490
               - 330
@@ -132,168 +145,168 @@ mciContent:
             - - 670
               - 330
               - "KENTUCKY"
-              - 57
+              - 81
               # KY
             - - 550
               - 460
               - "LOUISIANA"
-              - 39
+              - 66
               # LA
             - - 840
               - 208
               - "MASSACHUSETTS"
-              - 46
+              - 84
               # MA
             - - 785
               - 288
               - "MARYLAND"
-              - 79
+              - 124
               # MD
             - - 860
               - 120
               - "MAINE"
-              - 19
+              - 29
               # ME
             - - 645
               - 210
               - "MICHIGAN"
-              - 117
+              - 165
               # MI
             - - 515
               - 150
               - "MINNESOTA"
-              - 143
+              - 225
               # MN
             - - 530
               - 310
               - "MISSOURI"
-              - 116
+              - 186
               # MO
             - - 600
               - 420
               - "MISSISSIPPI"
-              - 49
+              - 67
               # MS
             - - 785
               - 355
               - "NORTH CAROLINA"
-              - 144
+              - 245
               # NC
             - - 440
               - 135
               - "NORTH DAKOTA"
-              - 20
+              - 27
               # ND
             - - 460
               - 285
               - "NEBRASKA"
-              - 54
+              - 78
               # NE
             - - 843
               - 185
               - "NEW HAMPSHIRE"
-              - 11
+              - 15
               # NH
             - - 815
               - 265
               - "NEW JERSEY"
-              - 63
+              - 96
               # NJ
             - - 330
               - 430
               - "NEW MEXICO"
-              - 34
+              - 44
               # NM
             - - 160
               - 260
               - "NEVADA"
-              - 3
+              - 6
               # NV
             - - 795
               - 190
               - "NEW YORK"
-              - 296
+              - 460
               # NY
             - - 690
               - 300
               - "OHIO"
-              - 273
+              - 447
               # OH
             - - 490
               - 410
               - "OKLAHOMA"
-              - 73
+              - 100
               # OK
             - - 150
               - 200
               - "OREGON"
-              - 40
+              - 85
               # OR
             - - 780
               - 245
               - "PENNSYLVANIA"
-              - 184
+              - 309
               # PA
             - - 853
               - 222
               - "RHODE ISLAND"
-              - 37
+              - 50
               # RI
             - - 720
               - 395
               - "SOUTH CAROLINA"
-              - 70
+              - 107
               # SC
             - - 410
               - 195
               - "SOUTH DAKOTA"
-              - 11
+              - 13
               # SD
             - - 675
               - 370
               - "TENNESSEE"
-              - 97
+              - 164
               # TN
             - - 480
               - 490
               - "TEXAS"
-              - 520
+              - 754
               # TX
             - - 240
               - 275
               - "UTAH"
-              - 94
+              - 137
               # UT
             - - 765
               - 310
               - "VIRGINIA"
-              - 91
+              - 121
               # VA
             - - 825
               - 170
               - "VERMONT"
-              - 20
+              - 29
               # VT
             - - 150
               - 100
               - "WASHINGTON"
-              - 266
+              - 377
               # WA
             - - 570
               - 190
               - "WISCONSIN"
-              - 163
+              - 239
               # WI
             - - 720
               - 330
               - "WEST VIRGINIA"
-              - 7
+              - 9
               # WV
 
       - id: MCI_Participation
         subtopic: MCI Participation
         content: >-
-          <p>Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, and NBL tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI.</p>
+          <p>Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, NBL, and EWS tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI. For a list of ineligible participants whose data have been removed, please refer to this list: <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/phs002790_MCI_Ineligibile_patient_list_COG_Aug2025.txt" target="_blank" rel="noopener noreferrer">phs002790_MCI_Ineligibile_patient_list_COG_Aug2025.txt</a></p>
   - id: Testing_and_Results
     topic: Testing and Results
     list:
@@ -347,6 +360,8 @@ mciContent:
             RIT1, RMI2, RNF213, RNF43, ROBO2, ROS1, RPL10, RPL11, RPL15, RPL22, RPL23, RPL26, RPL27, RPL31, RPL35A, RPL5, RPN1, RPS10, RPS17, RPS19, RPS20, RPS24, RPS26, RPS27, RPS28, RPS29, RPS7, RRAS2, RSPO2, RSPO3, RTEL1, RUNX1, RUNX1T1, RUNX2, RXRA, S100A7, SALL4, SAMD9, SAMD9L, SBDS, SCG5, SCN9A, SDC4, SDHA, SDHAF2, SDHB, SDHC, SDHD, SEPTIN5, SEPTIN6, SEPTIN9, SET, SETBP1, SETD1B, SETD2, SETDB1, SF3B1, SFPQ, SFRP4, SGK1, SH2B3, SH2D1A, SH3GL1, SHOC2, SHROOM2, SHTN1, SIRPA, SIX1, SIX2, SKI, SLC29A3, SLC34A2, SLC45A3, SLX4, SMAD2, SMAD3, SMAD4, SMAD7, SMARCA4, SMARCB1, SMARCD1, SMARCE1, SMC1A, SMO, SNCAIP, SND1, SNX29, SOCS1, SOS1, SOS2, SOX2, SOX21, SPECC1, SPEN, SPINK1, SPOP, SPRED1, SRC, SRGAP3, SRP72, SRSF2, SRSF3, SS18, SS18L1, SSX1, SSX2, SSX4, STAG1, STAG2, STAT3, STAT5B, STAT6, STIL, STK11, STRN, STX11, STXBP2, SUB1, SUFU, SUPT3H, SUZ12, SYK, SYNCRIP, TACC3, TAF15, TAL1, TAL2, TBL1XR1, TBR1, TBX3, TCEA1, TCF12, TCF3, TCF4, TCF7L1, TCF7L2, TCL1A, TCL6, TEC, TENT5C, TERC, TERT, TET1, TET2, TFE3,
             TFEB, TFG, TFPT, TFRC, TGFBR1, TGFBR2, THRAP3, TINF2, TLX1, TLX3, TMEM127, TMPRSS2, TMSB4X, TNC, TNFAIP3, TNFRSF14, TNFRSF17, TNRC18, TOP1, TOP3A, TP53, TP63, TPM3, TPM4, TPR, TPTE2, TRA, TRAF7, TRB, TRD, TRG, TRIM24, TRIM27, TRIM28, TRIM33, TRIM37, TRIP11, TRIP13, TRRAP, TSC1, TSC2, TSHR, TSR2, TTL, TYK2, U2AF1, UBE2T, UBR5, UNC13D, USP44, USP6, USP8, USP9X, VAV1, VEGFA, VHL, VPS53, VTI1A, WAS, WDCP, WIF1, WNK2, WRAP53, WRN, WT1, WWOX, WWTR1, XPA, XPC, XPO1, XPO5, XRCC2, YAP1, YWHAE, ZBTB16, ZCCHC8, ZEB1, ZFHX3, ZFTA, ZIC1, ZMYM2, ZMYM3, ZNF331, ZNF384, ZNF429, ZNF479, ZNF521, ZNRF3, ZRSR2
       - content: >-
+          <p>For reference table of variant classification and evidence criteria from clinical interpretation of results, please refer to this document: <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/MCI_IGM_ASCO_AMP_Table.pdf" target="_blank" rel="noopener noreferrer">MCI_IGM_ASCO_AMP_Table.pdf</a></p>     
+      - content: >-
           <h3>What genes are included in the targeted RNA Solid Fusion assay?</h3>
           <p>The gene targets below are included in the Solid Tumor fusion assay (v2), which utilizes anchored multiplex PCR (ArcherDx) followed by next-generation sequencing to identify gene fusions or intragenic structural rearrangements, such as internal tandem duplications. Based on the methodology, if one fusion partner is encompassed in the assay, there is a high sensitivity to detect the other partner. For example, the assay targets critical regions within BRAF known to be involved in gene fusion events, which would allow this test to detect a fusion with a common partner such as KIAA1549. This assay would also enable detection of more rare or novel gene partners associated with a BRAF fusion if the tumor harbored such an event.</p>
           <p>Here are the gene targets included in this assay.</p>
@@ -356,25 +371,21 @@ mciContent:
             ABL1, ABL2, ACVR2A, AKT1, AKT2, AKT3, ALK, AR, ARHGAP26, ARHGAP6, AXL, BCOR, BRAF, BRD3, BRD4, C11orf95, CAMTA1, CCNB3, CCND1, CD274, CIC, CREB3L2, CRTC1, CSF1, CSF1R, CTNNB1, DNAJB1, EGF, EGFR, EPC1, ERBB2, ERBB4, ERG, ESR1, ESRRA, ETV1, ETV4, ETV5, ETV6, EWSR1, FGF1, FGFR1, FGFR2, FGFR3, FGR, FOS, FOSB, FOXO1, FOXO4, FOXR2, FUS, GLI1, GRB7, HMGA2, HRAS, HTN3, IDH1, IDH2, IGF1R, INSR, JAK1, JAK2, JAK3, JAZF1, KIT, KRAS, MAML1, MAML2, MAML3, MAP2K1, MAST1, MAST2, MBTD1, MDM2, MEAF6, MET, MGEA5, MKL2, MN1, MSANTD3, MSMB, MUSK, MYB, MYBL1, MYC, MYOD1, NCOA1, NCOA2, NCOA3, NDRG1, NFATC2, NFE2L2, NFIB, NOTCH1, NOTCH2, NR4A3, NRAS, NRG1, NTRK1, NTRK2, NTRK3, NUMBL, NUTM1, PAX3, PAX7, PAX8, PDGFB, PDGFD, PDGFRA, PDGFRB, PHF1, PHKB, PIK3CA, PKN1, PLAG1, PPARG, PRDM10, PRKACA, PRKACB, PRKCA, PRKCB, PRKCD, PRKD1, PRKD2, PRKD3, QKI, RAD51B, RAF1, RELA, RET, ROS1, RSPO2, RSPO3, SETD2, SS18, SS18L1, STAT6, TAF15, TCF12, TERT, TFE3, TFEB, TFG, THADA, TMPRSS2, TTYH1, USP6, VGLL2, WWTR1, YAP1, YWHAE
       - content: >-
           <h3>Will DNA methylation results be returned for all patients?</h3>
-          <p>For CNS patients only, a tumor classification by DNA methylation will have a clinical result returned to contacts indicated on the MCI Site Contact Form. For STS, RAR, and NBL patients, DNA methylation array data will be banked for research submission into the CCDI Data Ecosystem without return of results to sites.</p>
+          <p>For CNS patients only, a tumor classification by DNA methylation will have a clinical result returned to contacts indicated on the MCI Site Contact Form. For STS, RAR, NBL, and EWS patients, DNA methylation array data will be banked for research submission into the CCDI Data Ecosystem without return of results to sites.</p>
           <p>DNA methylation results will be returned for CNS patients with tissue submitted from a primary site or a metastatic site in the CNS only. Results from non-CNS metastatic tissue will be banked without return of results to sites.</p>
   - id: Accessing_MCI_Data
-    topic: Accessing MCI Data
+    topic: Accessing MCI Data and Tools
     list:
       - id: How_to_Access_MCI_Data
         subtopic: How to Access MCI Data
         content: >-
           <h3>How can MCI data be accessed through the CCDI Data Ecosystem?</h3>
-          <p>Separately, molecular characterization data and deidentified clinical reports are submitted to the CCDI Data Ecosystem, along with additional data encompassing demographics, diagnosis, treatment, and follow-up directly from COG. Data are hosted in the 
-          <a class="link" href="https://datacommons.cancer.gov/repository/cancer-data-service" target="_blank" rel="noopener noreferrer">Cancer Data Service (CDS)</a>
-          , which is a data repository under the <a class="link" href="https://datascience.cancer.gov/data-commons" target="_blank" rel="noopener noreferrer">Cancer Research Data Commons</a>' infrastructure. Please see the 
-          <a class="link" href="../../../assets/about/CCDI_Usage_Instructions_Nov2024_v2.5.0.pdf" target="_blank" rel="noopener noreferrer">instructions</a> on how to access the data associated with this study, <a class="link" href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002790" target="_blank" rel="noopener noreferrer">phs002790</a>
-          . For the CCDI studies, the database of Genotypes and Phenotypes (dbGaP) maintains a list of the subject IDs, sample IDs, and consents. Authorization through dbGaP is required to access controlled-access data and clinical/phenotypic files.</p>
-          <p>Users can analyze CCDI data on the <a class="link" href="https://www.cancergenomicscloud.org/" target="_blank" rel="noopener noreferrer">Cancer Genomics Cloud</a> through the 
-          <a class="link" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcgc.sbgenomics.com%2Fdatasets%2Ffile-repository&data=05%7C01%7Ccarol.bastiani%40nih.gov%7C7708699b96a144ce602208db6d0ace70%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C638223665394038536%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=SyqbQFpBXs7Iqo6Ji2bSpdE3wQBcfAql9Gkacq7%2FBoI%3D&reserved=0" target="_blank" rel="noopener noreferrer">Cancer Data Service Explorer</a>
-          (CDS Explorer). The CDS Explorer provides a user-friendly interface for exploring the data in the CDS. <a class="link" href="https://docs.cancergenomicscloud.org/docs/import-cds-data" target="_blank" rel="noopener noreferrer">Here is a tutorial</a> 
-          on how to import CDS data. To see a preview of MCI data prior to going through the data authorization process, <a class="link" href="https://datacatalog.ccdi.cancer.gov/dataset/CCDI-phs002790" target="_blank" rel="noopener noreferrer">visit MCI’s page</a> in the CCDI Childhood Cancer Data Catalog.</p>
-          <p>For investigators planning to use data from different resources: If you intend to utilize data from institutions that enroll patients in the Molecular Characterization Initiative, please note that the data available on this site may be identical to the data collected from the submitting clinical sites.</p>
+          <p>MCI data can be accessed through the CCDI Data Ecosystem, which includes molecular characterization data, deidentified clinical reports, and whole slide images of hematoxylin and eosin (H&E) stained tissue, along with additional data on demographics, diagnosis, treatment, and follow-up.</p>
+          <p>CCDI studies are summarized and indexed in the <a href="/explore">CCDI Hub Explore Dashboard</a>, where you can export row-level metadata for participants, samples, or files. To download study metadata, open the Studies filter set from the left-hand menu, expand the Study Name category, and scroll to find the Molecular Characterization Initiative. Alternatively in the Studies filter set, you can expand the dbGaP Accession category and scroll to find accession phs002790. Select the checkbox next to either Molecular Characterization Initiative or phs002790, then locate the Metadata column under Studies and click to download the study’s metadata. Then, select the cohorts of your interest.</p>
+          <p>Alternatively, the shopping cart feature on the dashboard allows users to select and manage files of interest. You can download a comma-separated values (CSV) file manifest or export the manifest directly to the Cancer Genomics Cloud (CGC) for further analysis. This <a class="link" href="/user-guide.pdf" target="_blank" rel="noopener noreferrer">user guide</a> provides information on how to find, request, access, download, and analyze controlled-access data. For questions, contact <a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov">ncichildhoodcancerdatainitiative@mail.nih.gov</a>.</p>
+          <p>A subset of MCI participants have data accessible through the <a class="link" href="https://cbioportal.ccdi.cancer.gov/" target="_blank" rel="noopener noreferrer">CCDI cBioPortal Cancer Data Explorer</a>. This user-friendly instance of cBioPortal allows users with any level of computational expertise to explore and analyze data with no additional downloading or processing requirements.</p>
+          <p>MCI H&E-stained images in Digital Imaging and Communications in Medicine (DICOM) format are accessible as open-access through the Imaging Data Commons (IDC). Researchers can explore and visualize these images and their accompanying manifests using the <a class="link" href="https://portal.imaging.datacommons.cancer.gov/explore/" target="_blank" rel="noopener noreferrer">IDC Portal</a>. To learn more about the images, supporting metadata, and attribution requirements, please visit <a class="link" href="https://zenodo.org/records/14009669" target="_blank" rel="noopener noreferrer">Zenodo Collection</a>.</p>
+          <p>Note for investigators planning to use data from different resources: If you intend to utilize data from institutions that enroll patients in the Molecular Characterization Initiative, please note that the data available on this site may be identical to the data collected from the submitting clinical sites.</p>
       - id: Germline_Findings
         subtopic: Germline Findings
         content: >-
@@ -391,7 +402,8 @@ mciContent:
           <ul><li>Central nervous system group: <a href="mailto:MCICNS@childrensoncologygroup.org">MCICNS@childrensoncologygroup.org</a></li>
           <li>Soft tissue sarcoma group: <a href="mailto:MCISTS@childrensoncologygroup.org">MCISTS@childrensoncologygroup.org</a></li>
           <li>Rare tumor group: <a href="mailto:MCIRAR@childrensoncologygroup.org">MCIRAR@childrensoncologygroup.org</li></a>
-          <li>Neuroblastoma group: <a href="mailto:MCINBL@childrensoncologygroup.org">MCINBL@childrensoncologygroup.org</li></a></ul>
+          <li>Neuroblastoma group: <a href="mailto:MCINBL@childrensoncologygroup.org">MCINBL@childrensoncologygroup.org</li></a>
+          <li>Ewing sarcoma group: <a href="mailto:MCIEWS@childrensoncologygroup.org">MCIEWS@childrensoncologygroup.org</li></a></ul>
           <h4>MCI Data Contact</h4>
           <p>For questions related to MCI data or accessing the CCDI Data Ecosystem, contact <a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov">ncichildhoodcancerdatainitiative@mail.nih.gov</a>.</p>
           <h4>Project:EveryChild Contact</h4>
