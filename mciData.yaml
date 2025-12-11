@@ -35,7 +35,7 @@ mciContent:
         diseaseTable:
           # update title date
           title: >-
-            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of October 14, 2025
+            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of November 10, 2025
           header:
             - ""
             - "Primary Diagnosis Disease Group"
@@ -43,16 +43,19 @@ mciContent:
           # Table Update, update the value part
           body:
             - name: Central Nervous System
-              value: 4963
+              value: 5090
             - name: Soft Tissue Sarcoma
-              value: 1528
+              value: 1558
             - name: Rare Tumors
-              value: 779
+              value: 791
             - name: Neuroblastoma
-              value: 623
+              value: 655
+            - name: Ewing Sarcoma
+              value: 41
+              
         # map update, the last attribute of value
         map:
-          title: Enrollment Counts by State as of October 14, 2025
+          title: Enrollment Counts by State as of November 10, 2025
           data:
             - - 110
               - 540
@@ -62,7 +65,7 @@ mciContent:
             - - 638
               - 420
               - "ALABAMA"
-              - 158
+              - 162
               # AL
             - - 550
               - 390
@@ -72,12 +75,12 @@ mciContent:
             - - 240
               - 430
               - "ARIZONA"
-              - 107
+              - 109
               # AZ
             - - 100
               - 280
               - "CALIFORNIA"
-              - 613
+              - 620
               # CA
             - - 320
               - 290
@@ -87,27 +90,27 @@ mciContent:
             - - 834
               - 228
               - "CONNECTICUT"
-              - 75
+              - 77
               # CT
             - - 790
               - 305
               - "DISTRICT OF COLUMBIA"
-              - 70
+              - 78
               # DC
             - - 810
               - 290
               - "DELAWARE"
-              - 76
+              - 78
               # DE
             - - 735
               - 500
               - "FLORIDA"
-              - 416
+              - 430
               # FL
             - - 720
               - 450
               - "GEORGIA"
-              - 214
+              - 221
               # GA
             - - 340
               - 630
@@ -117,7 +120,7 @@ mciContent:
             - - 505
               - 250
               - "IOWA"
-              - 97
+              - 98
               # IA
             - - 240
               - 220
@@ -127,12 +130,12 @@ mciContent:
             - - 600
               - 320
               - "ILLINOIS"
-              - 145
+              - 148
               # IL
             - - 638
               - 285
               - "INDIANA"
-              - 127
+              - 132
               # IN
             - - 490
               - 330
@@ -142,7 +145,7 @@ mciContent:
             - - 670
               - 330
               - "KENTUCKY"
-              - 77
+              - 81
               # KY
             - - 550
               - 460
@@ -157,27 +160,27 @@ mciContent:
             - - 785
               - 288
               - "MARYLAND"
-              - 122
+              - 124
               # MD
             - - 860
               - 120
               - "MAINE"
-              - 28
+              - 29
               # ME
             - - 645
               - 210
               - "MICHIGAN"
-              - 162
+              - 165
               # MI
             - - 515
               - 150
               - "MINNESOTA"
-              - 219
+              - 225
               # MN
             - - 530
               - 310
               - "MISSOURI"
-              - 177
+              - 186
               # MO
             - - 600
               - 420
@@ -187,17 +190,17 @@ mciContent:
             - - 785
               - 355
               - "NORTH CAROLINA"
-              - 237
+              - 245
               # NC
             - - 440
               - 135
               - "NORTH DAKOTA"
-              - 25
+              - 27
               # ND
             - - 460
               - 285
               - "NEBRASKA"
-              - 76
+              - 78
               # NE
             - - 843
               - 185
@@ -207,12 +210,12 @@ mciContent:
             - - 815
               - 265
               - "NEW JERSEY"
-              - 97
+              - 96
               # NJ
             - - 330
               - 430
               - "NEW MEXICO"
-              - 43
+              - 44
               # NM
             - - 160
               - 260
@@ -222,27 +225,27 @@ mciContent:
             - - 795
               - 190
               - "NEW YORK"
-              - 448
+              - 460
               # NY
             - - 690
               - 300
               - "OHIO"
-              - 439
+              - 447
               # OH
             - - 490
               - 410
               - "OKLAHOMA"
-              - 99
+              - 100
               # OK
             - - 150
               - 200
               - "OREGON"
-              - 81
+              - 85
               # OR
             - - 780
               - 245
               - "PENNSYLVANIA"
-              - 297
+              - 309
               # PA
             - - 853
               - 222
@@ -252,27 +255,27 @@ mciContent:
             - - 720
               - 395
               - "SOUTH CAROLINA"
-              - 105
+              - 107
               # SC
             - - 410
               - 195
               - "SOUTH DAKOTA"
-              - 12
+              - 13
               # SD
             - - 675
               - 370
               - "TENNESSEE"
-              - 157
+              - 164
               # TN
             - - 480
               - 490
               - "TEXAS"
-              - 734
+              - 754
               # TX
             - - 240
               - 275
               - "UTAH"
-              - 133
+              - 137
               # UT
             - - 765
               - 310
@@ -287,12 +290,12 @@ mciContent:
             - - 150
               - 100
               - "WASHINGTON"
-              - 372
+              - 377
               # WA
             - - 570
               - 190
               - "WISCONSIN"
-              - 231
+              - 239
               # WI
             - - 720
               - 330
@@ -303,7 +306,7 @@ mciContent:
       - id: MCI_Participation
         subtopic: MCI Participation
         content: >-
-          <p>Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, NBL, and EWS tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI.</p>
+          <p>Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, NBL, and EWS tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI. For a list of ineligible participants whose data have been removed, please refer to this list: <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/phs002790_MCI_Ineligibile_patient_list_COG_Aug2025.txt" target="_blank" rel="noopener noreferrer">phs002790_MCI_Ineligibile_patient_list_COG_Aug2025.txt</a></p>
   - id: Testing_and_Results
     topic: Testing and Results
     list:
