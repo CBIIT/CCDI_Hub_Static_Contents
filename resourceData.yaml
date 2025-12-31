@@ -64,10 +64,10 @@ cpiContent:
     topic: Contact
     content: >- 
       <p>For more information or to request access to the CPI API, please contact the CPI support team at <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
-CPI_Cross_Dataset_Linkages_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/990d1a9ae48c1c6c72ee8e3b5e0a9e0679b8a80b/Image/Resources/CPI/CPI_Cross_Dataset_Linkages_Icon.svg
-CPI_Domain_Coverage_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/3e674d7a598a034ee2b8ec29e104c2f3a74af5de/Image/Resources/CPI/CPI_Domain_Coverage_Icon.svg
-CPI_Total_Mapped_Participants_Ids_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/3e674d7a598a034ee2b8ec29e104c2f3a74af5de/Image/Resources/CPI/CPI_Total_Mapped_Participants_Ids_Icon.svg
-CPI_Unique_Participants_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/3e674d7a598a034ee2b8ec29e104c2f3a74af5de/Image/Resources/CPI/CPI_Unique_Participants_Icon.svg
+CPI_Cross_Dataset_Linkages_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Cross_Dataset_Linkages_Icon.svg
+CPI_Domain_Coverage_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Domain_Coverage_Icon.svg
+CPI_Total_Mapped_Participants_Ids_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Total_Mapped_Participants_Ids_Icon.svg
+CPI_Unique_Participants_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Unique_Participants_Icon.svg
 CPI_Header_URL: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/CPI/CPI_Header.png?raw=true
 CPI_Img_URL: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/CPI/CPI_Img.png?raw=true
 
