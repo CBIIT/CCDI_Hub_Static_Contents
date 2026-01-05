@@ -205,7 +205,7 @@ publicationsList:
     summary: >-
       <p> The Molecular Characterization Initiative (MCI), a partnership between the Children’s Oncology Group (COG) and the NCI’s Childhood Cancer Data Initiative (CCDI), provides standardized genomic profiling of tumors and germline for subjects with newly diagnosed pediatric soft tissue sarcomas (STS). Here, we report on STS patients <25 enrolled in MCI from July 2022 to July 2023.</p>  
     category: Abstracts
-    tag: CCDI-MCI,CCDI Data
+    tag: CCDI-MCI,CCDI Data, Test
     conference: American Society of Clinical Ontology (ASCO) 2025
 
   - id: Ecosystem_05312025
