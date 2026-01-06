@@ -152,6 +152,18 @@ toolsContent:
       <p>Link 1: Code for 6p25.1 microsatellite and germline variant analysis is available at: <a class="link" href="https://github.com/machiela-lab/EwS-Pacbio" target="_blank" rel="noopener noreferrer">https://github.com/machiela-lab/EwS-Pacbio</a></p>
       <p>Link 2: Code for gene expression analysis is available at: <a class="link" href="https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1" target="_blank" rel="noopener noreferrer">https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1</a></p>
       <p>Contact: <a href="mailto:mitchell.machiela@nih.gov" target="_blank" rel="noopener noreferrer">mitchell.machiela@nih.gov</a></p>
+  - id: Methylscape
+    topic: Methylscape
+    content: >-
+      <p>Methylscape is a clinically reportable genome-wide DNA methylation profiling tool that classifies central nervous system tumors by comparing their epigenetic signatures to reference datasets, enabling more precise and objective tumor diagnosis beyond histopathology alone.  </p>
+      <p>Link: <a class="link" href="https://methylscape.ccr.cancer.gov/" 
+      <p>Contact: <a href="mailto:NCIMethylscapeWebAdmin@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIMethylscapeWebAdmin@mail.nih.gov</a></p>
+  - id: Tucan
+    topic: Tucan
+    content: >-
+      <p>Tucan is a methylation-based classification model for pediatric solid tumors. Tucan can distinguish 91 different pediatric solid tumor subtypes and works with both methylation array data or nanopore based methylation data as input.</p>
+      <p>Link: <a class="link" href="https://github.com/UMCUGenetics/tucan" 
+      <p>Contact: <a href="mailto:l.a.kester@prinsesmaximacentrum.nl" target="_blank" rel="noopener noreferrer">l.a.kester@prinsesmaximacentrum.nl</a></p>
 
 rareCancerIntroText: >-
   <p>The Childhood Cancer Data Initiative (CCDI) Pediatric, Adolescent, and Young Adult Rare Cancer Study is a longitudinal, observational study and registry for very rare pediatric, adolescent, and young adult (AYA) solid tumors. Across the duration of the study, the team will collect clinical, pathology, imaging data, and patient reported outcomes from children, adolescents, and young adults aged 39 or younger with very rare childhood cancers and who are within one year of diagnosis.</p>
