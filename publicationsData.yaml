@@ -464,6 +464,18 @@ publicationsList:
     tag: CCDI-MCI
     conference: 2024 AANP National Conference
 
+  - id: Ecosystem_AI_05202024
+    title: >-
+      Nextflow pipeline for Visium and H&E data from patient-derived xenograft samples 
+    link: https://doi.org/10.1016/j.crmeth.2024.100759
+    date: May 2024
+    summary: >-
+      <p>We designed a Nextflow DSL2-based pipeline, Spatial Transcriptomics Quantification (STQ), for simultaneous processing of 10x Genomics Visium spatial transcriptomics data and a matched hematoxylin and eosin (H&E)-stained whole-slide image (WSI), optimized for patient-derived xenograft (PDX) cancer specimens. Our pipeline enables the classification of sequenced transcripts for deconvolving the mouse and human species and mapping the transcripts to reference transcriptomes. We align the H&E WSI with the spatial layout of the Visium slide and generate imaging and quantitative morphology features for each Visium spot. The pipeline design enables multiple analysis workflows, including single or dual reference genome input and stand-alone image analysis. We show the utility of our pipeline on a dataset from Visium profiling of four melanoma PDX samples. The clustering of Visium spots and clustering of H&E imaging features reveal similar patterns arising from the two data modalities.</p>
+    category: Secondary
+    tag: CCDI Ecosystem,AI
+    journal: Cell Reports Methods
+    pmid: 38626768
+  
   - id: NCCR_05222024
     title: >-
       Harmonization of Real-World Data to Common Data Elements for the National Childhood Cancer Registry
