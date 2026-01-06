@@ -598,10 +598,9 @@ publicationsList:
       through the NCI Childhood Cancer Data Initiative via the Cancer Data Service. Through ongoing efforts to continuously 
       build these imaging repositories, our aim is to accelerate discovery and translational AI models with real-world data, to 
       ultimately empower precision medicine for children.
-    category: Primary
+    category: Secondary
     tag: CCDI Ecosystem,AI
     journal: ArXiv
-    pmid: 38106459
 
   - id: Ecosystem_09132023
     title: >-
