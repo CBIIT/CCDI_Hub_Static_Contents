@@ -19,9 +19,22 @@
 #
 # (Note: only one of these three cases can be in one item)
 
-bannerText: Publication list updated as of 11/17/25.
+bannerText: Publication list updated as of 1/8/26.
 
 publicationsList:
+  - id: Ecosystem_11142025
+    title: >-
+       The impact of focused federal initiatives on pediatric cancer research
+    link: https://doi.org/10.1002/cncr.70172
+    date: November 2025
+    summary: >-
+      <p>Research progress in recent decades has led to improved outcomes for children, adolescents, and young adults (AYAs) with cancer, but cancer remains the leading cause of disease-related death in children in the United States. Moreover, more than 30% of successfully treated children experience potentially debilitating and life-threatening late effects of treatment,affecting quality of life. The lower incidence of cancers in children when compared with cancers in adults poses significant challenges to the design and conduct of clinical trials. Historically, pediatric cancer research has faced challenges such as limited market incentives for pharmaceutical development, low industry engagement, and insufficient data-sharing infrastructure, hindering the development of new therapies.</p>  
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: >-
+      Cancer
+    pmid: 41237091
+  
   - id: Ecosystem_09022025
     title: >-
        The Open Pediatric Cancer Project
@@ -106,7 +119,7 @@ publicationsList:
     summary: >-
       <p>Pediatric sarcomas present diagnostic challenges due to their rarity and diverse subtypes, often requiring specialized pathology expertise and costly genetic tests. To overcome these barriers, we developed a computational pipeline leveraging deep learning methods to accurately classify pediatric sarcoma subtypes from digitized histology slides. To ensure classifier generalizability and minimize center-specific artifacts, we collected and harmonized a dataset comprising 867 whole slide images (WSIs) from three medical centers and the Children’s Oncology Group (COG). Multiple convolutional neural network (CNN) and vision transformer (ViT) architectures were systematically evaluated as feature extractors for SAMPLER-based WSI representations, and input parameters such as tile size combinations and resolutions were tested and optimized. Our analysis showed that advanced ViT foundation models (UNI, CONCH) significantly outperformed earlier approaches, and incorporating multiscale features can enhance classification accuracy. Our optimized models achieved high performance, distinguishing rhabdomyosarcoma (RMS) from non-rhabdomyosarcoma (NRSTS) with an AUC of 0.969±0.026 and differentiating RMS subtypes (alveolar vs. embryonal) with an AUC of 0.961±0.021. Additionally, a two-stage pipeline effectively identified scarce Ewing sarcoma images from other NRSTS (AUC 0.929). Compared to conventional transformer encoder architectures used for WSI representations, our SAMPLER based classifiers were more lightweight (0.111 MB vs. 1.9 MB) and three orders of magnitude faster to train. This study highlights that digital histopathology paired with rigorous image harmonization provides a powerful solution for pediatric sarcoma classification. Our models reduce inter-observer variability, augment diagnostic precision, and have the potential to increase global accessibility to robust diagnostics, improving time to diagnosis and subsequent treatment planning.</p>
     category: Secondary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,AI
     type: Preprint
     
   - id: NCCR_06042025_2
@@ -227,7 +240,7 @@ publicationsList:
     summary: >-
       <p>Acute myeloid leukemia (AML) is an aggressive hematopoietic malignancy defined by aberrant clonal expansion of abnormal myeloid progenitor cells. Characterized by morphological, molecular, and genetic alterations, AML encompasses multiple distinct subtypes that would exhibit subtype-specific responses to treatment and prognosis, underscoring the critical need of accurately identifying AML subtypes for effective clinical management and tailored therapeutic approaches. Traditional wet lab approaches such as immunophenotyping, cytogenetic analysis, morphological analysis, or molecular profiling to identify AML subtypes are labor-intensive, costly, and time-consuming. To address these challenges, we propose AttentionAML, a novel attention-based deep learning framework for accurately categorizing AML subtypes based on transcriptomic profiling only. Benchmarking tests based on 1,661 AML patients suggested that AttentionAML outperformed state-of-the-art methods across all evaluated metrics (accuracy: 0.96, precision: 0.96, recall of 0.96, F1-score: 0.96, and Matthews correlation coefficient: 0.96). Furthermore, we also demonstrated the superiority of AttentionAML over conventional approaches in terms of AML patient clustering visualization and subtype-specific gene marker characterization. We believe AttentionAML will bring remarkable positive impacts on downstream AML risk stratification and personalized treatment design. To enhance its impact, a user-friendly Python package implementing AttentionAML is publicly available at https://github.com/wan-mlab/AttentionAML.</p>
     category: Secondary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,AI
     type: Preprint
 
   - id: NCCR_05072025_2
@@ -260,7 +273,7 @@ publicationsList:
     summary: >-
       <p>Pediatric sarcomas are challenging to accurately classify due to their rarity and the wide diversity of subtypes. The process requires highly specialized pathologists as well as molecular and genetic testing that is expensive, takes time, and is not universally available. Deep neural network models (DNNs) trained on histopathology slides can reduce the time and cost to diagnosis and attenuate disparities in care based on geographical location and socioeconomic status. Here, we demonstrate the efficacy of automated image analysis for assigning sarcoma diagnoses across centers by identifying Ewing Sarcoma (ES), distinguishing rhabdomyosarcoma (RMS) vs non-rhabdomyosarcoma soft tissue sarcomas (NRSTS), as well as classifying alveolar, embryonal, and spindle cell RMS subtypes.</p>  
     category: Abstracts
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,AI
     conference: AACR Annual Meeting 2025 
 
   - id: Ecosystem_04272025
@@ -330,7 +343,7 @@ publicationsList:
     summary: >-
       <p>As the most common pediatric malignancy, B-cell acute lymphoblastic leukemia (B-ALL) has multiple distinct subtypes characterized by recurrent and sporadic somatic and germline genetic alterations. Identifying B-ALL subtypes can facilitate risk stratification and enable tailored therapeutic design. Existing methods for B-ALL subtyping primarily depend on immunophenotyping, cytogenetic tests and genomic profiling, which would be costly, complicated, and laborious. To overcome these challenges, we present RanBALL (an ensemble Random projection-based model for identifying B-ALL subtypes), an accurate and cost-effective model for B-ALL subtype identification. By leveraging random projection (RP) and ensemble learning, RanBALL can preserve patient-to-patient distances after dimension reduction and yield robustly accurate classification performance for B-ALL subtyping. Benchmarking results based on > 1700 B-ALL patients demonstrated that RanBALL achieved remarkable performance (accuracy: 0.93, F1-score: 0.93, and Matthews correlation coefficient: 0.93), significantly outperforming state-of-the-art methods like ALLSorts in terms of all performance metrics. In addition, RanBALL performs better than tSNE in terms of visualizing B-ALL subtype information. We believe RanBALL will facilitate the discovery of B-ALL subtype-specific marker genes and therapeutic targets to have consequential positive impacts on downstream risk stratification and tailored treatment design. To extend its applicability and impacts, a Python-based RanBALL package is available at https://github.com/wan-mlab/RanBALL.</p>
     category: Secondary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,AI
     type: Preprint
 
   - id: Ecosystem_01012025
@@ -412,7 +425,7 @@ publicationsList:
     summary: >-
       <p>Pediatric sarcomas are rare and diverse, with few highly specialized centers reviewing sufficient volume to hone histopathological expertise, resulting in frequent misclassification. Digitization of histology slides enables automated imaging analysis and training of artificial neural networks (ANNs) for sarcoma subtype classification. Such tools are reproducible, mitigate against inter-observer bias, and can be implemented at a distance, allowing for global access to more precise diagnostics. A limitation is insufficient high-quality data to train models and avoid overfitting. Here, we amass a digitized sarcoma histology dataset from multiple centers. We designed a computational pipeline to (1) harmonize images to remove center-specific artifacts, (2) mirror a traditional pathologist’s process by extracting imaging features at varying sizes and magnifications, and (3) implement the latest in deep learning backbones to perform automated classification of rhabdomyosarcoma (RMS) v. non-rhabdomyosarcoma (NRSTS) and further subtyping. We provide powerful proof of concept for the ability of these techniques to expand access to highly specialized care to the global pediatric sarcoma population. Methods: Hematoxylin & Eosin-stained images and limited clinical data were collected with representation from numerous centers. We optimized a pipeline for focus checking, resolution standardization, stain normalization, and image format conversion to generate a harmonized dataset of over 500 images. We tested varying tile sizes and overlaps, magnification powers, and single- vs. multi-scale concatenated-feature sets to optimize classification accuracy. Deep learning feature extraction was performed with two backbones (InceptionV3 and CTranspath). Using our previously developed SAMPLER method, we create statistical representations of each feature to train and test ANN classifiers for RMS vs NRSTS and further subtype predictions. Results: Optimal parameters were 224 pixel tile size and 112 micron spacing on center, yielding non-overlapping tiles when viewed at 20X, 0.5 microns per pixel (mpp). Single scale feature extraction at 0.5 and 1.0 outperformed 0.75 mpp. Multi-scale feature concatenation from the combination of 0.5 and 1.0 mpp provided the best overall classification performance. In matched analyses of all tested parameter combinations, CTranspath outperformed InceptionV3 with consistently higher area under curve. Conclusions: Our multi-institutional pediatric sarcoma histology dataset represents the broadest harmonized resource of this type to our knowledge. Using a multiscale approach and optimized tiling parameters, we demonstrate the superiority of vision transformer- over strict convolutional ANNs to provide gross distinction between sarcoma subtypes. Our harmonization procedures open the door for expansion of the dataset through ongoing multi-institutional collaboration, bringing promise for a future in which automated image review may accurately and remotely identify sarcoma histology, improving subtype-specific delivery of care.</p>
     category: Abstracts
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,AI
     conference: >-
       AACR Special Conference in Cancer Research: Advances in Pediatric Cancer Research
 
@@ -451,6 +464,18 @@ publicationsList:
     tag: CCDI-MCI
     conference: 2024 AANP National Conference
 
+  - id: Ecosystem_AI_05202024
+    title: >-
+      Nextflow pipeline for Visium and H&E data from patient-derived xenograft samples 
+    link: https://doi.org/10.1016/j.crmeth.2024.100759
+    date: May 2024
+    summary: >-
+      <p>We designed a Nextflow DSL2-based pipeline, Spatial Transcriptomics Quantification (STQ), for simultaneous processing of 10x Genomics Visium spatial transcriptomics data and a matched hematoxylin and eosin (H&E)-stained whole-slide image (WSI), optimized for patient-derived xenograft (PDX) cancer specimens. Our pipeline enables the classification of sequenced transcripts for deconvolving the mouse and human species and mapping the transcripts to reference transcriptomes. We align the H&E WSI with the spatial layout of the Visium slide and generate imaging and quantitative morphology features for each Visium spot. The pipeline design enables multiple analysis workflows, including single or dual reference genome input and stand-alone image analysis. We show the utility of our pipeline on a dataset from Visium profiling of four melanoma PDX samples. The clustering of Visium spots and clustering of H&E imaging features reveal similar patterns arising from the two data modalities.</p>
+    category: Secondary
+    tag: CCDI Ecosystem,AI
+    journal: Cell Reports Methods
+    pmid: 38626768
+  
   - id: NCCR_05222024
     title: >-
       Harmonization of Real-World Data to Common Data Elements for the National Childhood Cancer Registry
@@ -573,10 +598,9 @@ publicationsList:
       through the NCI Childhood Cancer Data Initiative via the Cancer Data Service. Through ongoing efforts to continuously 
       build these imaging repositories, our aim is to accelerate discovery and translational AI models with real-world data, to 
       ultimately empower precision medicine for children.
-    category: Primary
-    tag: CCDI Ecosystem
+    category: Secondary
+    tag: CCDI Ecosystem,AI
     journal: ArXiv
-    pmid: 38106459
 
   - id: Ecosystem_09132023
     title: >-
@@ -598,7 +622,7 @@ publicationsList:
       modern AI-powered approaches. These changes can improve the performance of predictive models, and ultimately the 
       ability to advance brain cancer treatments and patient outcomes through the development of such models.
     category: Primary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,AI
     journal: Neuro-Oncology Advances
     pmid: 37841693
 
@@ -635,7 +659,7 @@ publicationsList:
     summary: >-
       Increasing evidence suggests that besides mutational and molecular alterations, the immune component of the tumor microenvironment also substantially impacts tumor behavior and complicates treatment response, particularly to immunotherapies. Although the standard method for characterizing tumor immune profile is through performing integrated genomic analysis on tissue biopsies, the dynamic change in the immune composition of the tumor microenvironment makes this approach not feasible, especially for brain tumors. Radiomics is a rapidly growing field that uses advanced imaging techniques and computational algorithms to extract numerous quantitative features from medical images. Recent advances in machine learning methods are facilitating biological validation of radiomic signatures and allowing them to 'mine' for a variety of significant correlates, including genetic, immunologic, and histologic data. Radiomics has the potential to be used as a non-invasive approach to predict the presence and density of immune cells within the microenvironment, as well as to assess the expression of immune-related genes and pathways. This information can be essential for patient stratification, informing treatment decisions and predicting patients' response to immunotherapies. This is particularly important for tumors with difficult surgical access such as gliomas. In this review, we provide an overview of the glioma microenvironment, describe novel approaches for clustering patients based on their tumor immune profile, and discuss the latest progress on utilization of radiomics for immune profiling of glioma based on current literature.
     category: Primary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,AI
     journal: npj Precision Oncology
     pmid: 37337080
 
