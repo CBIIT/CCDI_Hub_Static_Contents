@@ -15,6 +15,13 @@ altList:
   updateImgReleaseNotes: A hand holding digital human icons with abstract graphs and network data, symbolizing the CCDI Hub Site & Data Release, representing human resources and data analysis.
   updateImgecDNA: Abstract visualization of a glowing digital network with interconnected blue and yellow nodes on a dark background.
 
+contentTypeUrlList:
+  Clinical: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Release_Clinical_Icon.svg
+  Genomics/Omics: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Release_Genomics_Icon.svg
+  Imaging: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Release_Imaging_Icon.svg
+  Xenograft: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Release_Xenograft_Icon.svg
+  Epidemiologic: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Release_Epidemiologic_Icon.svg
+
 # newsList:
 #   id: name_MMDDYYYY * Note: cannot have duplicate id for 2 different items;
 #   title: >-
