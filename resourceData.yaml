@@ -26,8 +26,8 @@ federationContent:
     topic: Contact
     content: >- 
       <p><a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">Email us</a> with questions related to CCDI federated data or accessing the CCDI Data Ecosystem.</p>
-Federation_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/Federation/Federation_Header.png?raw=true
-CCDI_Federation_Data_Access: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/Federation/CCDI_Federation_Data_Access.png?raw=true
+Federation_Header: https://github.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/Federation_Header.png
+CCDI_Federation_Data_Access: https://github.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Data_Access.png
 
 # CPI page content
 # id is not editable
@@ -84,6 +84,7 @@ cbioportalContent:
     topic: Contact 
     content: >-
       <p>For more information, email us at <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
+CBioPortal_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/CBioPortal/CBioPortal_Header.png?raw=true
 
 toolsIntroText:
 toolsContent:
