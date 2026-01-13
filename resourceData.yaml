@@ -84,7 +84,7 @@ cbioportalContent:
     topic: Contact 
     content: >-
       <p>For more information, email us at <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
-CBioPortal_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/CBioPortal/CBioPortal_Header.png?raw=true
+CBioPortal_Header: https://github.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CBioPortal/CBioPortal_Header.png
 
 toolsIntroText:
 toolsContent:
