@@ -217,3 +217,4 @@ ccdiEventAnnouncementsContent:
     topic: Contact
     content: >-
       <p>If you have questions about a specific event or would like more information, please contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
+CCDI_Event_Announcements_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Data_Usage_Policies_Header.png?raw=true
