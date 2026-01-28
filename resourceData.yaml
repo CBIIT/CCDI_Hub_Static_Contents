@@ -79,85 +79,91 @@ cbioportalContent:
 
 toolsIntroText:
 toolsContent:
-  - id: CCDI Data Model 
-    topic: CCDI Data Model 
-    content: >-
-      <p>The Childhood Cancer Data Initiative (CCDI) Data Model is a structured framework developed to standardize and harmonize pediatric cancer data across diverse research platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their relationships to ensure consistent data representation. The model plays a central role in enabling data integration, sharing, and analysis within the CCDI Data Ecosystem. To interactively view the data model, please click <a href="/data-model">here</a>.</p>
-      <p>Link: <a class="link" href="https://github.com/CBIIT/ccdi-model" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/ccdi-model</a></p>
-      <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
-  - id: CCDI ecDNA
-    topic: CCDI ecDNA
-    content: >-
-      <p>The CCDI Extrachromosomal DNA (ecDNA) portal is a comprehensive catalog of circular extrachromosomal DNA associated with childhood cancers. ecDNA, which frequently harbors amplified oncogenes, is a key driver of tumor development and progression, and its presence is linked to poor outcomes across multiple pediatric cancer types. This resource enables researchers to explore the prevalence, structure, and gene content of ecDNA in pediatric tumors, supporting studies in cancer biology, diagnosis, and potential therapeutic targets.</p>
-      <p>Link: <a class="link" href="https://ccdi-ecdna.org/" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org/</a></p>
-      <p>Contact: <a href="mailto:support@ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">support@ccdi-ecdna.org</a>, <a href="mailto:lchavez@sbpdiscovery.org" target="_blank" rel="noopener noreferrer">lchavez@sbpdiscovery.org </a></p>
-  - id: C3DC Data Model
-    topic: C3DC Data Model
-    content: >-
-      <p>The Childhood Cancer Clinical Data Commons (C3DC) Data Model is a structured framework designed to standardize and harmonize pediatric cancer clinical data across diverse studies and platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their interrelationships to ensure consistent and interoperable data representation. By supporting the harmonization of data from multiple sources, the model enables researchers to work with integrated datasets, promoting efficient data sharing, analysis, and collaboration. To interactively view the data model, please click <a class="link" href="https://clinicalcommons.ccdi.cancer.gov/data_model" target="_blank" rel="noopener noreferrer">here.</a></p>
-      <p>Link: <a class="link" href="https://github.com/CBIIT/c3dc-model" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/c3dc-model</a></p>
-      <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
-  - id: Cancer Genomics Cloud
-    topic: Cancer Genomics Cloud
-    content: >-
-      <p>The NCI’s Cancer Genomics Cloud (CGC), powered by Velsera, is a cloud-based platform that enables analysis, storage, and computation of large cancer datasets. The CGC provides a user-friendly portal to access and analyze more than 3 petabytes of data. It offers over 900 bioinformatics tools and workflows, allowing users—including those without programming experience—to perform complex analyses and collaborate with a global community of over 8,000 researchers.</p>
-      <p>Link: <a class="link" href="https://www.cancergenomicscloud.org/" target="_blank" rel="noopener noreferrer">https://www.cancergenomicscloud.org/</a></p>
-      <p>Contact: <a href="mailto:cgc-sb@velsera.com" target="_blank" rel="noopener noreferrer">cgc-sb@velsera.com</a></p>
-  - id: CIViC
-    topic: CIViC
-    content: >-
-      <p>Clinical Interpretation of Variants in Cancer (CIViC) is an open-access, open-source, community-driven knowledgebase for the clinical interpretation of cancer variants. The platform enables crowdsourced curation and expert moderation of literature-derived evidence, providing structured, peer-reviewed data on the clinical significance of somatic and germline mutations in cancer. CIViC supports variant interpretation for diagnosis, prognosis, and therapy selection, and integrates with emerging guidelines and other variant resources to advance precision oncology.</p>
-      <p>Link: <a class="link" href="https://civicdb.org/" target="_blank" rel="noopener noreferrer">https://civicdb.org/</a></p>
-      <p>Contact: <a href="mailto:help@civicdb.org" target="_blank" rel="noopener noreferrer">help@civicdb.org</a></p> 
-  - id: dbGaP
-    topic: dbGaP
-    content: >-
-      <p>dbGaP (Database of Genotypes and Phenotypes) is a resource developed by the National Center for Biotechnology Information (NCBI) to store and distribute data from studies exploring the relationship between genetic variation (genotypes) and observable traits in humans (phenotypes). It houses genomic, imaging, clinical, and other types of individual-level data. To protect participant privacy, access to controlled-access data requires researchers to submit a <a class="link" href="https://sharing.nih.gov/accessing-data/accessing-genomic-data/how-to-request-and-access-datasets-from-dbgap" target="_blank" rel="noopener noreferrer">data access request</a>.</p>
-      <p>Link: <a class="link" href="https://www.ncbi.nlm.nih.gov/gap/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/gap/</a></p>
-      <p>Contact: <a href="mailto:dbgap-help@ncbi.nlm.nih.gov" target="_blank" rel="noopener noreferrer">dbgap-help@ncbi.nlm.nih.gov</a></p>
-  - id: GWAS Explorer
-    topic: GWAS Explorer
-    content: >-
-      <p>GWAS Explorer allows genetics researchers to search, visualize, and download aggregated association results from genome-wide association studies (GWAS). It provides association summary statistics for over 200 cancer and cancer-related phenotypes, harmonized from large-scale GWAS efforts. Interactive tools are available to visualize and examine association results utilizing dynamic Manhattan and Miami plots, stratify data by sex and ancestry, and review diagnostic plots (e.g., Q-q plots).</p>
-      <p>Link: <a class="link" href="https://exploregwas.cancer.gov/#/" target="_blank" rel="noopener noreferrer">https://exploregwas.cancer.gov/#/</a></p>
-      <p>Contact: <a href="mailto:NCIExploreGWASWebAdmin@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIExploreGWASWebAdmin@mail.nih.gov</a></p>
-  - id: MCI_JSON2TSV
-    topic: MCI_JSON2TSV
-    content: >-
-      <p>The MCI_JSON2TSV script is a Python-based command-line interface developed by the NCI’s Childhood Cancer Data Initiative (CCDI). Its primary function is to convert Molecular Characterization Initiative’s de-identified clinical report and clinical data files submitted in JSON format into tab-separated values (TSV) files. It can generate a single TSV that combines all case report form types, or, if preferred, create separate TSVs by form type or parsed variant results, making it easier to analyze, share, and integrate data with downstream systems.</p>
-      <p>Link: <a class="link" href="https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV</a></p>
-      <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
-  - id: RanBALL
-    topic: RanBALL
-    content: >-
-      <p>RanBALL is an ensemble machine learning model that uses random projection and support vector machines to accurately and cost-effectively identify B-cell acute lymphoblastic leukemia (B-ALL) subtypes using only transcriptomic profiling data. This tool improved clinical diagnosis, risk stratification, and personalized treatment for B-ALL patients through effective classification and visualization.</p>
-      <p>Link: <a class="link" href="https://github.com/wan-mlab/RanBALL" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/RanBALL</a></p>
-      <p>Contact: <a href="mailto:lli@unmc.edu" target="_blank" rel="noopener noreferrer">lli@unmc.edu</a></p>
-  - id: AttentionAML
-    topic: AttentionAML
-    content: >-
-      <p>AttentionAML is a novel deep learning framework that uses an attention-based multilayer perceptron (MLP) model to accurately identify acute myeloid leukemia (AML) subtypes from transcriptomic data alone. A user-friendly Python package is available to help researchers implement the model. It enables precise classification and clustering of AML subtypes, and facilitates improved risk stratification and personalized treatment planning.</p>
-      <p>Link: <a class="link" href="https://github.com/wan-mlab/AttentionAML" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/AttentionAML</a></p>
-      <p>Contact: <a href="mailto:swan@unmc.edu" target="_blank" rel="noopener noreferrer">swan@unmc.edu</a></p>
-  - id: EwS-Pacbio
-    topic: EwS-Pacbio
-    content: >-
-      <p>The EwS-Pacbio repository provides tools for analyzing long-read targeted sequencing FASTQ files to investigate microsatellites and germline variants associated with Ewing sarcoma (EwS) susceptibility. Leveraging PacBio sequencing technology, the resource enables high-resolution investigation of genetic risk factors, including variant analysis and microsatellite profiling. It includes workflows and visualizations fused in associated publications, supporting deeper insights into EwS-related genetic mechanisms.</p>
-      <p>Link 1: Code for 6p25.1 microsatellite and germline variant analysis is available at: <a class="link" href="https://github.com/machiela-lab/EwS-Pacbio" target="_blank" rel="noopener noreferrer">https://github.com/machiela-lab/EwS-Pacbio</a></p>
-      <p>Link 2: Code for gene expression analysis is available at: <a class="link" href="https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1" target="_blank" rel="noopener noreferrer">https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1</a></p>
-      <p>Contact: <a href="mailto:mitchell.machiela@nih.gov" target="_blank" rel="noopener noreferrer">mitchell.machiela@nih.gov</a></p>
-  - id: Methylscape
-    topic: Methylscape
-    content: >-
-      <p>Methylscape is a clinically reportable genome-wide DNA methylation profiling tool that classifies central nervous system tumors by comparing their epigenetic signatures to reference datasets, enabling more precise and objective tumor diagnosis beyond histopathology alone.  </p>
-      <p>Link: <a class="link" href="https://methylscape.ccr.cancer.gov/" target="_blank" rel="noopener noreferrer">https://methylscape.ccr.cancer.gov/</a></p> 
-      <p>Contact: <a href="mailto:NCIMethylscapeWebAdmin@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIMethylscapeWebAdmin@mail.nih.gov</a></p>
-  - id: Tucan
-    topic: Tucan
-    content: >-
-      <p>Tucan is a methylation-based classification model for pediatric solid tumors. Tucan can distinguish 91 different pediatric solid tumor subtypes and works with both methylation array data or nanopore based methylation data as input.</p>
-      <p>Link: <a class="link" href="https://github.com/UMCUGenetics/tucan" target="_blank" rel="noopener noreferrer">https://github.com/UMCUGenetics/tucan</a></p> 
-      <p>Contact: <a href="mailto:l.a.kester@prinsesmaximacentrum.nl" target="_blank" rel="noopener noreferrer">l.a.kester@prinsesmaximacentrum.nl</a></p>
+  - id: CCDI_Supported_Tools
+    topic: CCDI-supported tools
+    list:
+      - id: CCDI_Data_Model
+        subtopic: CCDI Data Model
+        content: >-
+          <p>The Childhood Cancer Data Initiative (CCDI) Data Model is a structured framework developed to standardize and harmonize pediatric cancer data across diverse research platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their relationships to ensure consistent data representation. The model plays a central role in enabling data integration, sharing, and analysis within the CCDI Data Ecosystem. To interactively view the data model, please click <a href="/data-model">here</a>.</p>
+          <p>Link: <a class="link" href="https://github.com/CBIIT/ccdi-model" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/ccdi-model</a></p>
+          <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
+      - id: CCDI_ecDNA
+        subtopic: CCDI ecDNA
+        content: >-
+          <p>The CCDI Extrachromosomal DNA (ecDNA) portal is a comprehensive catalog of circular extrachromosomal DNA associated with childhood cancers. ecDNA, which frequently harbors amplified oncogenes, is a key driver of tumor development and progression, and its presence is linked to poor outcomes across multiple pediatric cancer types. This resource enables researchers to explore the prevalence, structure, and gene content of ecDNA in pediatric tumors, supporting studies in cancer biology, diagnosis, and potential therapeutic targets.</p>
+          <p>Link: <a class="link" href="https://ccdi-ecdna.org/" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org/</a></p>
+          <p>Contact: <a href="mailto:support@ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">support@ccdi-ecdna.org</a>, <a href="mailto:lchavez@sbpdiscovery.org" target="_blank" rel="noopener noreferrer">lchavez@sbpdiscovery.org </a></p>
+      - id: C3DC_Data_Model
+        subtopic: C3DC Data Model
+        content: >-
+          <p>The Childhood Cancer Clinical Data Commons (C3DC) Data Model is a structured framework designed to standardize and harmonize pediatric cancer clinical data across diverse studies and platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their interrelationships to ensure consistent and interoperable data representation. By supporting the harmonization of data from multiple sources, the model enables researchers to work with integrated datasets, promoting efficient data sharing, analysis, and collaboration. To interactively view the data model, please click <a class="link" href="https://clinicalcommons.ccdi.cancer.gov/data_model" target="_blank" rel="noopener noreferrer">here.</a></p>
+          <p>Link: <a class="link" href="https://github.com/CBIIT/c3dc-model" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/c3dc-model</a></p>
+          <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
+  - id: Additional_Tools_of_Interest
+    topic: Additional tools of interest
+    list:
+      - id: Cancer_Genomics_Cloud
+        subtopic: Cancer Genomics Cloud
+        content: >-
+          <p>The NCI's Cancer Genomics Cloud (CGC), powered by Velsera, is a cloud-based platform that enables analysis, storage, and computation of large cancer datasets. The CGC provides a user-friendly portal to access and analyze more than 3 petabytes of data. It offers over 900 bioinformatics tools and workflows, allowing users—including those without programming experience—to perform complex analyses and collaborate with a global community of over 8,000 researchers.</p>
+          <p>Link: <a class="link" href="https://www.cancergenomicscloud.org/" target="_blank" rel="noopener noreferrer">https://www.cancergenomicscloud.org/</a></p>
+          <p>Contact: <a href="mailto:cgc-sb@velsera.com" target="_blank" rel="noopener noreferrer">cgc-sb@velsera.com</a></p>
+      - id: CIViC
+        subtopic: CIViC
+        content: >-
+          <p>Clinical Interpretation of Variants in Cancer (CIViC) is an open-access, open-source, community-driven knowledgebase for the clinical interpretation of cancer variants. The platform enables crowdsourced curation and expert moderation of literature-derived evidence, providing structured, peer-reviewed data on the clinical significance of somatic and germline mutations in cancer. CIViC supports variant interpretation for diagnosis, prognosis, and therapy selection, and integrates with emerging guidelines and other variant resources to advance precision oncology.</p>
+          <p>Link: <a class="link" href="https://civicdb.org/" target="_blank" rel="noopener noreferrer">https://civicdb.org/</a></p>
+          <p>Contact: <a href="mailto:help@civicdb.org" target="_blank" rel="noopener noreferrer">help@civicdb.org</a></p> 
+      - id: dbGaP
+        subtopic: dbGaP
+        content: >-
+          <p>dbGaP (Database of Genotypes and Phenotypes) is a resource developed by the National Center for Biotechnology Information (NCBI) to store and distribute data from studies exploring the relationship between genetic variation (genotypes) and observable traits in humans (phenotypes). It houses genomic, imaging, clinical, and other types of individual-level data. To protect participant privacy, access to controlled-access data requires researchers to submit a <a class="link" href="https://sharing.nih.gov/accessing-data/accessing-genomic-data/how-to-request-and-access-datasets-from-dbgap" target="_blank" rel="noopener noreferrer">data access request</a>.</p>
+          <p>Link: <a class="link" href="https://www.ncbi.nlm.nih.gov/gap/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/gap/</a></p>
+          <p>Contact: <a href="mailto:dbgap-help@ncbi.nlm.nih.gov" target="_blank" rel="noopener noreferrer">dbgap-help@ncbi.nlm.nih.gov</a></p>
+      - id: GWAS_Explorer
+        subtopic: GWAS Explorer
+        content: >-
+          <p>GWAS Explorer allows genetics researchers to search, visualize, and download aggregated association results from genome-wide association studies (GWAS). It provides association summary statistics for over 200 cancer and cancer-related phenotypes, harmonized from large-scale GWAS efforts. Interactive tools are available to visualize and examine association results utilizing dynamic Manhattan and Miami plots, stratify data by sex and ancestry, and review diagnostic plots (e.g., Q-q plots).</p>
+          <p>Link: <a class="link" href="https://exploregwas.cancer.gov/#/" target="_blank" rel="noopener noreferrer">https://exploregwas.cancer.gov/#/</a></p>
+          <p>Contact: <a href="mailto:NCIExploreGWASWebAdmin@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIExploreGWASWebAdmin@mail.nih.gov</a></p>
+      - id: MCI_JSON2TSV
+        subtopic: MCI_JSON2TSV
+        content: >-
+          <p>The MCI_JSON2TSV script is a Python-based command-line interface developed by the NCI's Childhood Cancer Data Initiative (CCDI). Its primary function is to convert Molecular Characterization Initiative's de-identified clinical report and clinical data files submitted in JSON format into tab-separated values (TSV) files. It can generate a single TSV that combines all case report form types, or, if preferred, create separate TSVs by form type or parsed variant results, making it easier to analyze, share, and integrate data with downstream systems.</p>
+          <p>Link: <a class="link" href="https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV</a></p>
+          <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
+      - id: RanBALL
+        subtopic: RanBALL
+        content: >-
+          <p>RanBALL is an ensemble machine learning model that uses random projection and support vector machines to accurately and cost-effectively identify B-cell acute lymphoblastic leukemia (B-ALL) subtypes using only transcriptomic profiling data. This tool improved clinical diagnosis, risk stratification, and personalized treatment for B-ALL patients through effective classification and visualization.</p>
+          <p>Link: <a class="link" href="https://github.com/wan-mlab/RanBALL" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/RanBALL</a></p>
+          <p>Contact: <a href="mailto:lli@unmc.edu" target="_blank" rel="noopener noreferrer">lli@unmc.edu</a></p>
+      - id: AttentionAML
+        subtopic: AttentionAML
+        content: >-
+          <p>AttentionAML is a novel deep learning framework that uses an attention-based multilayer perceptron (MLP) model to accurately identify acute myeloid leukemia (AML) subtypes from transcriptomic data alone. A user-friendly Python package is available to help researchers implement the model. It enables precise classification and clustering of AML subtypes, and facilitates improved risk stratification and personalized treatment planning.</p>
+          <p>Link: <a class="link" href="https://github.com/wan-mlab/AttentionAML" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/AttentionAML</a></p>
+          <p>Contact: <a href="mailto:swan@unmc.edu" target="_blank" rel="noopener noreferrer">swan@unmc.edu</a></p>
+      - id: EwS_Pacbio
+        subtopic: EwS-Pacbio
+        content: >-
+          <p>The EwS-Pacbio repository provides tools for analyzing long-read targeted sequencing FASTQ files to investigate microsatellites and germline variants associated with Ewing sarcoma (EwS) susceptibility. Leveraging PacBio sequencing technology, the resource enables high-resolution investigation of genetic risk factors, including variant analysis and microsatellite profiling. It includes workflows and visualizations fused in associated publications, supporting deeper insights into EwS-related genetic mechanisms.</p>
+          <p>Link 1: Code for 6p25.1 microsatellite and germline variant analysis is available at: <a class="link" href="https://github.com/machiela-lab/EwS-Pacbio" target="_blank" rel="noopener noreferrer">https://github.com/machiela-lab/EwS-Pacbio</a></p>
+          <p>Link 2: Code for gene expression analysis is available at: <a class="link" href="https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1" target="_blank" rel="noopener noreferrer">https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1</a></p>
+          <p>Contact: <a href="mailto:mitchell.machiela@nih.gov" target="_blank" rel="noopener noreferrer">mitchell.machiela@nih.gov</a></p>
+      - id: Methylscape
+        subtopic: Methylscape
+        content: >-
+          <p>Methylscape is a clinically reportable genome-wide DNA methylation profiling tool that classifies central nervous system tumors by comparing their epigenetic signatures to reference datasets, enabling more precise and objective tumor diagnosis beyond histopathology alone.  </p>
+          <p>Link: <a class="link" href="https://methylscape.ccr.cancer.gov/" target="_blank" rel="noopener noreferrer">https://methylscape.ccr.cancer.gov/</a></p> 
+          <p>Contact: <a href="mailto:NCIMethylscapeWebAdmin@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIMethylscapeWebAdmin@mail.nih.gov</a></p>
+      - id: Tucan
+        subtopic: Tucan
+        content: >-
+          <p>Tucan is a methylation-based classification model for pediatric solid tumors. Tucan can distinguish 91 different pediatric solid tumor subtypes and works with both methylation array data or nanopore based methylation data as input.</p>
+          <p>Link: <a class="link" href="https://github.com/UMCUGenetics/tucan" target="_blank" rel="noopener noreferrer">https://github.com/UMCUGenetics/tucan</a></p> 
+          <p>Contact: <a href="mailto:l.a.kester@prinsesmaximacentrum.nl" target="_blank" rel="noopener noreferrer">l.a.kester@prinsesmaximacentrum.nl</a></p>
 
 rareCancerIntroText: >-
   <p>The Childhood Cancer Data Initiative (CCDI) Pediatric, Adolescent, and Young Adult Rare Cancer Study is a longitudinal, observational study and registry for very rare pediatric, adolescent, and young adult (AYA) solid tumors. Across the duration of the study, the team will collect clinical, pathology, imaging data, and patient reported outcomes from children, adolescents, and young adults aged 39 or younger with very rare childhood cancers and who are within one year of diagnosis.</p>
