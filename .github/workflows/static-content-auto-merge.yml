@@ -34,9 +34,9 @@ on:
         required: true
         type: choice
         options:
-          - qa
-          - stage
-          - prod
+          - sandbox
+          - sandbox-1
+          #- prod
 
   # Allow other workflows to call this workflow
   workflow_call:
