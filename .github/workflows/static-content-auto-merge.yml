@@ -1,39 +1,119 @@
-name: Auto-Merge After Frontend Deployment
+# ============================================================================
+# AUTO-MERGE WORKFLOW FOR CCDI_Hub_Static_Contents REPOSITORY
+# ============================================================================
+# This workflow should be placed in: CBIIT/CCDI_Hub_Static_Contents
+# Location: .github/workflows/static-content-auto-merge.yml
+#
+# Triggers:
+#   - Repository dispatch from ccdi-hub-deployments watcher workflow
+#   - Manual dispatch for testing or ad-hoc merges
+#   - Workflow call from other workflows
+#
+# Behavior:
+#   - Receives a version tag and target environment
+#   - Merges the version tag into the corresponding branch (qa/stage/prod)
+#   - Creates an issue on merge conflicts for manual resolution
+# ============================================================================
+
+name: Auto-Merge Static Content
 
 on:
+  # Triggered by ccdi-hub-deployments watcher workflow
   repository_dispatch:
-    types: [frontend-deployment-success]
+    types: [static-content-deploy]
+
+  # Manual trigger for testing or monthly releases
+  workflow_dispatch:
+    inputs:
+      version_tag:
+        description: 'Version tag to merge (e.g., 2.9.0.1)'
+        required: true
+        type: string
+      environment:
+        description: 'Target environment/branch to merge into'
+        required: true
+        type: choice
+        options:
+          - qa
+          - stage
+          - prod
+
+  # Allow other workflows to call this workflow
+  workflow_call:
+    inputs:
+      version_tag:
+        description: 'Version tag to merge'
+        required: true
+        type: string
+      environment:
+        description: 'Target environment/branch'
+        required: true
+        type: string
 
 permissions:
   contents: write
   pull-requests: write
+  issues: write
 
 jobs:
   auto-merge:
-    name: Auto-Merge Branches
+    name: Merge Version Tag to Environment
     runs-on: ubuntu-latest
 
     steps:
-      - name: Validate Deployment Environment
-        id: validate
+      - name: Parse Inputs
+        id: inputs
         run: |
-          DEPLOYED_ENV="${{ github.event.client_payload.environment }}"
-          echo "Deployed environment: ${DEPLOYED_ENV}"
-
-          if [[ "${DEPLOYED_ENV}" == "qa" ]]; then
-            echo "source_branch=qa" >> $GITHUB_OUTPUT
-            echo "target_branch=stage" >> $GITHUB_OUTPUT
-            echo "merge_message=Auto-merge QA to stage after successful QA frontend deployment" >> $GITHUB_OUTPUT
-          elif [[ "${DEPLOYED_ENV}" == "stage" ]]; then
-            echo "source_branch=stage" >> $GITHUB_OUTPUT
-            echo "target_branch=prod" >> $GITHUB_OUTPUT
-            echo "merge_message=Auto-merge stage to prod after successful stage frontend deployment" >> $GITHUB_OUTPUT
+          # Determine inputs based on trigger type
+          if [[ "${{ github.event_name }}" == "repository_dispatch" ]]; then
+            VERSION_TAG="${{ github.event.client_payload.version_tag }}"
+            ENVIRONMENT="${{ github.event.client_payload.environment }}"
+            TRIGGERED_BY="${{ github.event.client_payload.triggered_by }}"
+            SOURCE_WORKFLOW="${{ github.event.client_payload.source_workflow }}"
+          elif [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            VERSION_TAG="${{ inputs.version_tag }}"
+            ENVIRONMENT="${{ inputs.environment }}"
+            TRIGGERED_BY="manual workflow dispatch"
+            SOURCE_WORKFLOW="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          elif [[ "${{ github.event_name }}" == "workflow_call" ]]; then
+            VERSION_TAG="${{ inputs.version_tag }}"
+            ENVIRONMENT="${{ inputs.environment }}"
+            TRIGGERED_BY="workflow call"
+            SOURCE_WORKFLOW="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           else
-            echo "::error::Invalid environment '${DEPLOYED_ENV}'. Expected 'qa' or 'stage'."
+            echo "::error::Unsupported event type: ${{ github.event_name }}"
             exit 1
           fi
 
-          echo "Will merge ${DEPLOYED_ENV} -> $(echo $GITHUB_OUTPUT | grep target_branch | cut -d'=' -f2)"
+          # Validate inputs
+          if [[ -z "${VERSION_TAG}" ]]; then
+            echo "::error::version_tag is required"
+            exit 1
+          fi
+
+          if [[ -z "${ENVIRONMENT}" ]]; then
+            echo "::error::environment is required"
+            exit 1
+          fi
+
+          # Validate environment
+          if [[ "${ENVIRONMENT}" != "qa" && "${ENVIRONMENT}" != "stage" && "${ENVIRONMENT}" != "prod" ]]; then
+            echo "::error::Invalid environment '${ENVIRONMENT}'. Expected 'qa', 'stage', or 'prod'."
+            exit 1
+          fi
+
+          echo "version_tag=${VERSION_TAG}" >> $GITHUB_OUTPUT
+          echo "environment=${ENVIRONMENT}" >> $GITHUB_OUTPUT
+          echo "triggered_by=${TRIGGERED_BY}" >> $GITHUB_OUTPUT
+          echo "source_workflow=${SOURCE_WORKFLOW}" >> $GITHUB_OUTPUT
+
+          echo "============================================="
+          echo "Merge Configuration"
+          echo "============================================="
+          echo "Version Tag: ${VERSION_TAG}"
+          echo "Target Branch: ${ENVIRONMENT}"
+          echo "Triggered By: ${TRIGGERED_BY}"
+          echo "============================================="
 
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -46,50 +126,70 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Fetch All Branches
+      - name: Validate Tag Exists
+        id: validate_tag
         run: |
-          git fetch origin ${{ steps.validate.outputs.source_branch }}
-          git fetch origin ${{ steps.validate.outputs.target_branch }}
+          VERSION_TAG="${{ steps.inputs.outputs.version_tag }}"
+
+          # Fetch all tags
+          git fetch --tags
+
+          # Check if tag exists
+          if ! git rev-parse "refs/tags/${VERSION_TAG}" >/dev/null 2>&1; then
+            echo "::error::Tag '${VERSION_TAG}' does not exist in repository"
+            echo "Available tags:"
+            git tag -l | head -20
+            exit 1
+          fi
+
+          TAG_COMMIT=$(git rev-parse "refs/tags/${VERSION_TAG}")
+          echo "tag_commit=${TAG_COMMIT}" >> $GITHUB_OUTPUT
+          echo "Tag '${VERSION_TAG}' found at commit: ${TAG_COMMIT}"
+
+      - name: Fetch Target Branch
+        run: |
+          ENVIRONMENT="${{ steps.inputs.outputs.environment }}"
+          git fetch origin "${ENVIRONMENT}"
 
       - name: Perform Merge
         id: merge
         run: |
-          SOURCE_BRANCH="${{ steps.validate.outputs.source_branch }}"
-          TARGET_BRANCH="${{ steps.validate.outputs.target_branch }}"
-          MERGE_MESSAGE="${{ steps.validate.outputs.merge_message }}"
+          VERSION_TAG="${{ steps.inputs.outputs.version_tag }}"
+          ENVIRONMENT="${{ steps.inputs.outputs.environment }}"
+          TAG_COMMIT="${{ steps.validate_tag.outputs.tag_commit }}"
+          TRIGGERED_BY="${{ steps.inputs.outputs.triggered_by }}"
+          SOURCE_WORKFLOW="${{ steps.inputs.outputs.source_workflow }}"
 
           echo "============================================="
-          echo "Merging ${SOURCE_BRANCH} -> ${TARGET_BRANCH}"
+          echo "Merging tag ${VERSION_TAG} -> ${ENVIRONMENT}"
           echo "============================================="
 
           # Checkout target branch
-          git checkout "${TARGET_BRANCH}"
+          git checkout "${ENVIRONMENT}"
 
           # Get current commit before merge
           BEFORE_COMMIT=$(git rev-parse HEAD)
-          echo "Target branch ${TARGET_BRANCH} currently at: ${BEFORE_COMMIT}"
-
-          # Get source branch commit
-          SOURCE_COMMIT=$(git rev-parse "origin/${SOURCE_BRANCH}")
-          echo "Source branch ${SOURCE_BRANCH} at: ${SOURCE_COMMIT}"
+          echo "Target branch ${ENVIRONMENT} currently at: ${BEFORE_COMMIT}"
 
           # Check if merge is needed
-          if git merge-base --is-ancestor "origin/${SOURCE_BRANCH}" HEAD; then
-            echo "::notice::No merge needed - ${TARGET_BRANCH} already contains all changes from ${SOURCE_BRANCH}"
+          if git merge-base --is-ancestor "${TAG_COMMIT}" HEAD; then
+            echo "::notice::No merge needed - ${ENVIRONMENT} already contains tag ${VERSION_TAG}"
             echo "merge_performed=false" >> $GITHUB_OUTPUT
             exit 0
           fi
 
           # Perform the merge
+          MERGE_MESSAGE="Merge static content version ${VERSION_TAG} into ${ENVIRONMENT}
+
+          Version Tag: ${VERSION_TAG}
+          Target Branch: ${ENVIRONMENT}
+          Triggered By: ${TRIGGERED_BY}
+          Source: ${SOURCE_WORKFLOW}
+
+          Auto-generated by GitHub Actions"
+
           echo "Performing merge..."
-          if git merge "origin/${SOURCE_BRANCH}" --no-ff -m "${MERGE_MESSAGE}
-
-          Triggered by: Jenkins Frontend Deployment
-          Source: ${SOURCE_BRANCH} (${SOURCE_COMMIT})
-          Target: ${TARGET_BRANCH}
-          Jenkins Build: ${{ github.event.client_payload.build_url }}
-
-          Auto-generated by GitHub Actions"; then
+          if git merge "${TAG_COMMIT}" --no-ff -m "${MERGE_MESSAGE}"; then
             echo "merge_performed=true" >> $GITHUB_OUTPUT
             AFTER_COMMIT=$(git rev-parse HEAD)
             echo "after_commit=${AFTER_COMMIT}" >> $GITHUB_OUTPUT
@@ -99,20 +199,21 @@ jobs:
             echo "merge_performed=false" >> $GITHUB_OUTPUT
             echo "merge_failed=true" >> $GITHUB_OUTPUT
 
+            # Show conflict details
+            echo "Conflicting files:"
+            git diff --name-only --diff-filter=U
+
             # Abort the merge
             git merge --abort
-
-            # Create an issue or PR for manual resolution
-            echo "Creating notification for manual resolution..."
             exit 1
           fi
 
       - name: Push Changes
         if: steps.merge.outputs.merge_performed == 'true'
         run: |
-          TARGET_BRANCH="${{ steps.validate.outputs.target_branch }}"
-          echo "Pushing changes to ${TARGET_BRANCH}..."
-          git push origin "${TARGET_BRANCH}"
+          ENVIRONMENT="${{ steps.inputs.outputs.environment }}"
+          echo "Pushing changes to ${ENVIRONMENT}..."
+          git push origin "${ENVIRONMENT}"
           echo "Push successful!"
 
       - name: Create Issue on Merge Failure
@@ -120,35 +221,44 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const sourceBranch = '${{ steps.validate.outputs.source_branch }}';
-            const targetBranch = '${{ steps.validate.outputs.target_branch }}';
-            const buildUrl = '${{ github.event.client_payload.build_url }}' || 'N/A';
+            const versionTag = '${{ steps.inputs.outputs.version_tag }}';
+            const environment = '${{ steps.inputs.outputs.environment }}';
+            const triggeredBy = '${{ steps.inputs.outputs.triggered_by }}';
+            const sourceWorkflow = '${{ steps.inputs.outputs.source_workflow }}';
 
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `Merge conflict: ${sourceBranch} -> ${targetBranch}`,
+              title: `Merge conflict: ${versionTag} -> ${environment}`,
               body: `## Auto-Merge Failed
 
-            The automatic merge from \`${sourceBranch}\` to \`${targetBranch}\` failed due to merge conflicts.
+            The automatic merge of version tag \`${versionTag}\` into \`${environment}\` failed due to merge conflicts.
 
             ### Details
-            - **Source Branch:** ${sourceBranch}
-            - **Target Branch:** ${targetBranch}
-            - **Jenkins Build:** ${buildUrl}
-            - **Workflow Run:** ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}
+            - **Version Tag:** ${versionTag}
+            - **Target Branch:** ${environment}
+            - **Triggered By:** ${triggeredBy}
+            - **Source Workflow:** ${sourceWorkflow}
+            - **This Workflow Run:** ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}
 
             ### Action Required
-            Please manually resolve the conflicts and merge the branches:
+            Please manually resolve the conflicts and merge:
 
             \`\`\`bash
-            git checkout ${targetBranch}
-            git pull origin ${targetBranch}
-            git merge origin/${sourceBranch}
+            git checkout ${environment}
+            git pull origin ${environment}
+            git merge ${versionTag}
             # Resolve conflicts
             git add .
-            git commit -m "Resolve merge conflicts: ${sourceBranch} -> ${targetBranch}"
-            git push origin ${targetBranch}
+            git commit -m "Resolve merge conflicts: ${versionTag} -> ${environment}"
+            git push origin ${environment}
+            \`\`\`
+
+            ### Alternative: Create a PR
+            \`\`\`bash
+            git checkout -b merge-${versionTag}-to-${environment} ${versionTag}
+            git push origin merge-${versionTag}-to-${environment}
+            # Then create a PR from merge-${versionTag}-to-${environment} to ${environment}
             \`\`\`
 
             /cc @CBIIT/ccdi-hub-team`,
@@ -158,12 +268,12 @@ jobs:
       - name: Summary
         if: always()
         run: |
-          echo "============================================="
-          echo "Auto-Merge Summary"
-          echo "============================================="
-          echo "Environment Deployed: ${{ github.event.client_payload.environment }}"
-          echo "Source Branch: ${{ steps.validate.outputs.source_branch }}"
-          echo "Target Branch: ${{ steps.validate.outputs.target_branch }}"
-          echo "Merge Performed: ${{ steps.merge.outputs.merge_performed || 'N/A' }}"
-          echo "Jenkins Build: ${{ github.event.client_payload.build_url }}"
-          echo "============================================="
+          echo "## Static Content Auto-Merge Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Field | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|-------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Version Tag | ${{ steps.inputs.outputs.version_tag }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Target Branch | ${{ steps.inputs.outputs.environment }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Triggered By | ${{ steps.inputs.outputs.triggered_by }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Merge Performed | ${{ steps.merge.outputs.merge_performed || 'N/A' }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Workflow Run | ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }} |" >> $GITHUB_STEP_SUMMARY
