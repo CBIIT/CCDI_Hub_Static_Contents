@@ -26,7 +26,8 @@ federationContent:
     topic: Contact
     content: >- 
       <p><a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">Email us</a> with questions related to CCDI federated data or accessing the CCDI Data Ecosystem.</p>
-
+Federation_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/Federation/Federation_Header.png?raw=true
+CCDI_Federation_Data_Access: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/Federation/CCDI_Federation_Data_Access.png?raw=true
 
 # CPI page content
 # id is not editable
@@ -65,6 +66,13 @@ cpiContent:
     content: >- 
       <p>For more information or to request access to the CPI API, please contact the CPI support team at <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
 
+CPI_Cross_Dataset_Linkages_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Cross_Dataset_Linkages_Icon.svg
+CPI_Domain_Coverage_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Domain_Coverage_Icon.svg
+CPI_Total_Mapped_Participants_Ids_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Total_Mapped_Participants_Ids_Icon.svg
+CPI_Unique_Participants_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Unique_Participants_Icon.svg
+CPI_Header_URL: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/CPI/CPI_Header.png?raw=true
+CPI_Img_URL: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/CPI/CPI_Img.png?raw=true
+
 cbioportalIntroText: >-
   <p>To make complex genomic data more accessible, the Childhood Cancer Data Initiative (CCDI) is launching a user-friendly instance of cBioPortal that allows users—regardless of computational expertise—to explore and analyze without needing to download or process large datasets.</p>
   <p>cBioPortal is an open-source, web-based platform designed to explore cancer data from large studies. Users can search by gene, mutation, cancer type, or patient and quickly visualize relationships, patterns, and trends in the data. CCDI’s customized instance “CCDI cBioPortal Cancer Data Explorer” is tailored to support pediatric cancer researchers and clinicians by enabling them to:</p>
@@ -76,6 +84,7 @@ cbioportalContent:
     topic: Contact 
     content: >-
       <p>For more information, email us at <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
+CBioPortal_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/CBioPortal/CBioPortal_Header.png?raw=true
 
 toolsIntroText:
 toolsContent:
@@ -164,6 +173,7 @@ toolsContent:
           <p>Tucan is a methylation-based classification model for pediatric solid tumors. Tucan can distinguish 91 different pediatric solid tumor subtypes and works with both methylation array data or nanopore based methylation data as input.</p>
           <p>Link: <a class="link" href="https://github.com/UMCUGenetics/tucan" target="_blank" rel="noopener noreferrer">https://github.com/UMCUGenetics/tucan</a></p> 
           <p>Contact: <a href="mailto:l.a.kester@prinsesmaximacentrum.nl" target="_blank" rel="noopener noreferrer">l.a.kester@prinsesmaximacentrum.nl</a></p>
+Tools_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Data_Usage_Policies_Header.png?raw=true
 
 rareCancerIntroText: >-
   <p>The Childhood Cancer Data Initiative (CCDI) Pediatric, Adolescent, and Young Adult Rare Cancer Study is a longitudinal, observational study and registry for very rare pediatric, adolescent, and young adult (AYA) solid tumors. Across the duration of the study, the team will collect clinical, pathology, imaging data, and patient reported outcomes from children, adolescents, and young adults aged 39 or younger with very rare childhood cancers and who are within one year of diagnosis.</p>
@@ -214,3 +224,4 @@ ccdiEventAnnouncementsContent:
     topic: Contact
     content: >-
       <p>If you have questions about a specific event or would like more information, please contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
+CCDI_Event_Announcements_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Data_Usage_Policies_Header.png?raw=true
