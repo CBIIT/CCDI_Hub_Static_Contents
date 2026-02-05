@@ -19,11 +19,24 @@
 #
 # (Note: only one of these three cases can be in one item)
 
-bannerText: Publication list updated as of 1/8/26.
+bannerText: Publication list updated as of 2/19/26.
 
 Publications_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Publications_Header.png?raw=true
 
 publicationsList:
+  - id: Ecosystem_12102025
+    title: >-
+       Building Pediatric Cancer Cohorts and Accessing Data Using Childhood Cancer Data Initiative Tools
+    link: https://doi.org/10.1200/CCI-25-00217
+    date: December 2025
+    summary: >-
+      <p>Data sharing is necessary to advance understanding of the etiology and biology of cancer in children, adolescents, and young adults; drive therapeutic discoveries; and improve treatment outcomes. To meet this critical need, the National Cancer Institute's Childhood Cancer Data Initiative (CCDI) provides innovative, user-friendly tools and resources that enable researchers and pediatric oncologists to access and analyze the large volume of diverse childhood cancer data (over 1 million files) that has been collected and harmonized from multiple studies, including CCDI's Molecular Characterization Initiative, Pediatric MATCH, Childhood Cancer Survivor Study, etc. This article outlines how to find, request, access, download, and analyze data indexed in the CCDI Hub Explore Dashboard and Childhood Cancer Clinical Data Commons (C3DC), key components of the CCDI Data Ecosystem, to accelerate progress in pediatric cancer research.</p>  
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: >-
+      JCO Clinical Cancer Informatics
+    pmid: 41370779
+    
   - id: Ecosystem_11142025
     title: >-
        The impact of focused federal initiatives on pediatric cancer research
@@ -315,7 +328,7 @@ publicationsList:
   - id: Ecosystem_04022025
     title: >-
       PRDM1 Is a Key Regulator of the NKT-cell Central Memory Program and Effector Function
-    link: https://pubmed.ncbi.nlm.nih.gov/39820712/
+    link: https://doi.org/10.1158/2326-6066.cir-24-0259
     date: April 2025
     summary: >-
       <p>Natural killer T cells (NKTs) are a promising platform for cancer immunotherapy, but few genes involved in the regulation of NKT therapeutic activity have been identified. To find regulators of NKT functional fitness, we developed a CRISPR/Cas9-based mutagenesis screen that uses a guide RNA (gRNA) library targeting 1,118 immune-related genes. Unmodified NKTs and NKTs expressing a GD2-specific chimeric antigen receptor (GD2.CAR) were transduced with the gRNA library and exposed to CD1d+ leukemia or CD1d-GD2+ neuroblastoma cells, respectively, over six challenge cycles in vitro. Quantification of gRNA abundance revealed enrichment of PRDM1-specific gRNAs in both NKTs and GD2.CAR NKTs, a result that was validated through targeted PRDM1 knockout. Transcriptional, phenotypic, and functional analyses demonstrated that CAR NKTs with PRDM1 knockout underwent central memory-like differentiation and resisted exhaustion. However, these cells downregulated the cytotoxic mediator granzyme B and showed reduced in vitro cytotoxicity and only moderate in vivo antitumor activity in a xenogeneic neuroblastoma model. In contrast, short hairpin RNA-mediated PRDM1 knockdown preserved effector function while promoting central memory differentiation, resulting in GD2.CAR NKTs with potent in vivo antitumor activity. Thus, we have identified PRDM1 as a regulator of NKT memory differentiation and effector function that can be exploited to improve the efficacy of NKT-based cancer immunotherapies.</p>  
@@ -323,6 +336,18 @@ publicationsList:
     tag: CCDI Ecosystem,CCDI Data
     journal: Cancer Immunology Research
     pmid: 39820712
+
+  - id: Ecosystem_03282025
+    title: >-
+      Rising Incidence of Early-Onset Liver Cancer and Intrahepatic Bile Duct Cancer: Analysis of the National Childhood Cancer Registry Database
+    link: https://doi.org/10.3390/cancers17071133
+    date: March 2025
+    summary: >-
+      <p>Early-onset cancer is an emerging global health concern, including in the United States. However, data on early-onset liver and intrahepatic bile duct cancer remain limited. This study aims to fill this gap by analyzing trends in early-onset liver and intrahepatic bile duct cancer in the United States over the past two decades. </p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: Cancers
+    pmid: 40227653
 
   - id: NCCR_01122025
     title: >-
@@ -336,6 +361,18 @@ publicationsList:
     journal: >-
       JNCI: Journal of the National Cancer Institute
     pmid: 39799506
+
+  - id: Ecosystem_01042025
+    title: >-
+      Declining Incidence of Childhood Cancers: An Updated Analysis of the National Childhood Cancer Registry Data (2018–2021)
+    link: 
+    date: January 2025
+    summary: >-
+      <p>In October, we published a letter describing the incidence trends of common pediatric cancers (leukemia, lymphoma, central nervous system, sarcoma, gonadal/germ cell) in pediatric (age 0–14) and adolescent/young adult (AYA) (age 15–39) populations. We analyzed the December 2022 National Childhood Cancer Registry (NCCR) data submission, which included years 1997–2020 and the following states: CA, CT, GA, HI, ID, IL, IA, KY, LA, MA, NJ, NM, NY, TX, and UT (this file also included the Seattle cancer registry). Our initial letter found that pediatric cancer incidence remained relatively stable through 2020, with some, albeit slight, heterogeneity by age group, cancer site, and accreditation status of the reporting facility (a finding we found quite peculiar).</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: Pediatric Blood & Cancer
+    pmid: 39754540
 
   - id: Ecosystem_01022025
     title: >-
@@ -371,6 +408,18 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: Science
     pmid: 39636990
+
+  - id: Ecosystem_11252024
+    title: >-
+      Automated Electronic Health Record Data Extraction and Curation Using ExtractEHR
+    link: https://doi.org/10.1200/CCI.24.00100
+    date: November 2024
+    summary: >-
+      <p>Although the potential transformative effect of electronic health record (EHR) data on clinical research in adult patient populations has been very extensively discussed, the effect on pediatric oncology research has been limited. Multiple factors contribute to this more limited effect, including the paucity of pediatric cancer cases in commercial EHR-derived cancer data sets and phenotypic case identification challenges in pediatric federated EHR data.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: JCO Clinical Cancer Informatics
+    pmid: 39586036    
     
   - id: NCCR_11122024
     title: >-
@@ -394,6 +443,18 @@ publicationsList:
     tag: CCDI-NCCR
     journal: Pediatric Hematology and Oncology
     pmid: 39449234
+
+  - id: Ecosystem_10042024
+    title: >-
+      Understanding the 2020 pediatric cancer deficit: Insights from the National Childhood Cancer Registry
+    link: https://doi.org/10.1002/pbc.31345
+    date: October 2024
+    summary: >-
+      <p>Incidence of common pediatric cancers (leukemia, lymphoma, central nervous system, sarcoma, gonadal/germ cell) have remained steady in the United States. Then, the COVID-19 pandemic disrupted cancer control systems.3 We explore whether the COVID-19 pandemic disrupted these trends in pediatric and adolescent young adult (AYA) populations.</p>
+    category: Secondary 
+    tag: CCDI Ecosystem
+    journal: Pediatric Blood & Cancer
+    pmid: 39367593
 
   - id: Ecosystem_10012024
     title: >-
