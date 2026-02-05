@@ -607,7 +607,7 @@ publicationsList:
   - id: Ecosystem_09132023
     title: >-
       Radio-pathomic approaches in pediatric neuro-oncology: Opportunities and challenges
-    link: https://pubmed.ncbi.nlm.nih.gov/37841693/
+    link: https://doi.org/10.1093/noajnl/vdad119
     date: September 2023
     summary: >-
       With medical software platforms moving to cloud environments with scalable storage and computing, the translation of 
@@ -656,7 +656,7 @@ publicationsList:
   - id: Ecosystem_06192023
     title: >-
       Radiomics for characterization of the glioma immune microenvironment
-    link: https://pubmed.ncbi.nlm.nih.gov/37337080
+    link: https://doi.org/10.1038/s41698-023-00413-9
     date: June 2023
     summary: >-
       Increasing evidence suggests that besides mutational and molecular alterations, the immune component of the tumor microenvironment also substantially impacts tumor behavior and complicates treatment response, particularly to immunotherapies. Although the standard method for characterizing tumor immune profile is through performing integrated genomic analysis on tissue biopsies, the dynamic change in the immune composition of the tumor microenvironment makes this approach not feasible, especially for brain tumors. Radiomics is a rapidly growing field that uses advanced imaging techniques and computational algorithms to extract numerous quantitative features from medical images. Recent advances in machine learning methods are facilitating biological validation of radiomic signatures and allowing them to 'mine' for a variety of significant correlates, including genetic, immunologic, and histologic data. Radiomics has the potential to be used as a non-invasive approach to predict the presence and density of immune cells within the microenvironment, as well as to assess the expression of immune-related genes and pathways. This information can be essential for patient stratification, informing treatment decisions and predicting patients' response to immunotherapies. This is particularly important for tumors with difficult surgical access such as gliomas. In this review, we provide an overview of the glioma microenvironment, describe novel approaches for clustering patients based on their tumor immune profile, and discuss the latest progress on utilization of radiomics for immune profiling of glioma based on current literature.
