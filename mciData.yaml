@@ -308,12 +308,12 @@ mciContent:
         content: >-
           <p>Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, NBL, and EWS tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI. For a list of ineligible participants whose data have been removed, please refer to this list: <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/phs002790_MCI_Ineligibile_patient_list_COG_Aug2025.txt" target="_blank" rel="noopener noreferrer">phs002790_MCI_Ineligibile_patient_list_COG_Aug2025.txt</a></p>
   - id: Testing_and_Results
-    topic: Testing and Results
+    topic: MCI Testing Types and Results
     list:
       - id: Testing Types
         subtopic: Testing Types
         content: >-
-          <h3>What types of testing will be conducted on the specimens submitted for MCI?</h3>
+          <h3>What types of clinical testing are conducted on the specimens submitted for MCI?</h3>
           <p>The Steve and Cindy Rasmussen Institute for Genomic Medicine (IGM) at Nationwide Children’s Hospital in Columbus, OH, will conduct:</p>
           <ul><li>Enhanced paired tumor–normal exome sequencing (ES)</li>
           <li>A targeted RNA Solid Tumor Fusion assay*</li>
@@ -341,8 +341,8 @@ mciContent:
       - id: MCI_Results_Reporting
         subtopic: MCI Results Reporting
         content: >-
-          <h3>When and how are MCI results provided?</h3>
-          <p>Results from molecular testing are returned within 21 days of receipt of all required materials at the COG Biobank hosted by the Biopathology Center (BPC) at Nationwide Children’s Hospital. Once nucleic acid has been received within IGM from the BPC, results will be issued into the portal within 14 days. As each test is resulted, an email will be sent to the clinician and clinical research associate contacts listed on a contact form filled out by the participant’s care team. The email will include a link to the secure web portal where results can be accessed. Participants will receive results from their treating physician.</p>
+          <h3>When and how are MCI clinical testing results provided?</h3>
+          <p>Results are returned within 21 days of receipt of all required materials at the COG Biobank hosted by the Biopathology Center (BPC) at Nationwide Children’s Hospital. Once nucleic acid has been received within IGM from the BPC, results will be issued into the portal within 14 days. As each test is resulted, an email will be sent to the clinician and clinical research associate contacts listed on a contact form filled out by the participant’s care team. The email will include a link to the secure web portal where results can be accessed. Participants will receive results from their treating physician.</p>
       - content: >-
           <h3>What type of results will be reported for exome sequencing (ES)?</h3>
           <p>Somatic disease–germline comparator sequencing is a paired tumor–normal exome analysis which incorporates an exome reagent assaying the coding regions of more than 19,000 protein-coding genes. In the setting of both germline and somatic analysis, only cancer-related genomic variation is reported.</p>
@@ -380,6 +380,7 @@ mciContent:
         subtopic: How to Access MCI Data
         content: >-
           <h3>How can MCI data be accessed through the CCDI Data Ecosystem?</h3>
+          <p>In addition to clinical characterization data, CCDI leverages residual biospecimens for deeper research characterization, such as whole genome sequences (WGS), transcriptomics, proteomics, metabolomics, and other emerging technologies like spatial transcriptomics (learn more about research characterization in this paper). </p>
           <p>MCI data can be accessed through the CCDI Data Ecosystem, which includes molecular characterization data, deidentified clinical reports, and whole slide images of hematoxylin and eosin (H&E) stained tissue, along with additional data on demographics, diagnosis, treatment, and follow-up.</p>
           <p>CCDI studies are summarized and indexed in the <a href="/explore">CCDI Hub Explore Dashboard</a>, where you can export row-level metadata for participants, samples, or files. To download study metadata, open the Studies filter set from the left-hand menu, expand the Study Name category, and scroll to find the Molecular Characterization Initiative. Alternatively in the Studies filter set, you can expand the dbGaP Accession category and scroll to find accession phs002790. Select the checkbox next to either Molecular Characterization Initiative or phs002790, then locate the Metadata column under Studies and click to download the study’s metadata. Then, select the cohorts of your interest.</p>
           <p>Alternatively, the shopping cart feature on the dashboard allows users to select and manage files of interest. You can download a comma-separated values (CSV) file manifest or export the manifest directly to the Cancer Genomics Cloud (CGC) for further analysis. This <a class="link" href="/user-guide.pdf" target="_blank" rel="noopener noreferrer">user guide</a> provides information on how to find, request, access, download, and analyze controlled-access data. For questions, contact <a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov">ncichildhoodcancerdatainitiative@mail.nih.gov</a>.</p>
