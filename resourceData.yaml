@@ -38,7 +38,7 @@ cpiContent:
     topic: Components
     content: >- 
       <p>“Identifiers” and “Domains” make up the structure of the CPI. These elements are essential for organizing and mapping participant data across various studies and organizations. The key components include:</p>
-      <ul><li><b>Identifier</b>: A public identifier appearing in a research dataset accessible to researchers (e.g., Kids First ID, GENIE ID).</li><ul><li><b>Domain ID Type</b>: specified whether the Domain ID corresponds to a participant PDX, cell line, or organoid.</li></ul>
+      <ul><li><b>Identifier</b>: A public identifier appearing in a research dataset accessible to researchers (e.g., Kids First ID, GENIE ID).<ul><li><b>Domain ID Type</b>: specified whether the Domain ID corresponds to a participant PDX, cell line, or organoid.</li></ul></li>
       <li><b>Domain</b>: Groups of unique participant IDs categorized as follows:<ul><li><b>Organizational Identifier</b>: A project/network of unique participant identifiers (e.g. Children's Oncology Group, AACR GENIE, Pediatric Cancer Data Commons). As part of CCDI’s privacy-preserving data integration approach, certain organizational identifiers are designated as restricted (Children’s Oncology Group (COG) IDs and National Childhood Cancer Registry (NCCR) IDs). These identifiers are used exclusively for data mapping and are not disclosed to users; NCCR data presence is indicated only after a k-anonymity threshold of five is satisfied.</li>
       <li><b>Data Set</b>: A single dataset for a particular study where data files for the participants can be found (e.g., dbGaP accession numbers).</li>
       <li><b>Study</b>: Programmatic references to research initiatives (e.g., TARGET, Gabriella Miller Kids First).</li></ul></li></ul>
