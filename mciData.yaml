@@ -307,6 +307,11 @@ mciContent:
               - "WEST VIRGINIA"
               - 10
               # WV
+            - - 320
+              - 570
+              - "WYOMING"
+              - 0
+              # WY
 
       - id: MCI_Participation
         subtopic: MCI Participation
