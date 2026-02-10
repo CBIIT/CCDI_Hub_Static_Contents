@@ -55,7 +55,7 @@ mciContent:
               
         # map update, the last attribute of value
         map:
-          title: Enrollment Counts by State as of December 8, 2025
+          title: Enrollment Counts by State as of January 12, 2026
           data:
             - - 110
               - 540
@@ -65,37 +65,37 @@ mciContent:
             - - 638
               - 420
               - "ALABAMA"
-              - 163
+              - 167
               # AL
             - - 550
               - 390
               - "ARKANSAS"
-              - 28
+              - 30
               # AR
             - - 240
               - 430
               - "ARIZONA"
-              - 110
+              - 116
               # AZ
             - - 100
               - 280
               - "CALIFORNIA"
-              - 634
+              - 654
               # CA
             - - 320
               - 290
               - "COLORADO"
-              - 50
+              - 51
               # CO
             - - 834
               - 228
               - "CONNECTICUT"
-              - 79
+              - 80
               # CT
             - - 790
               - 305
               - "DISTRICT OF COLUMBIA"
-              - 81
+              - 84
               # DC
             - - 810
               - 290
@@ -105,37 +105,37 @@ mciContent:
             - - 735
               - 500
               - "FLORIDA"
-              - 438
+              - 449
               # FL
             - - 720
               - 450
               - "GEORGIA"
-              - 225
+              - 231
               # GA
             - - 340
               - 630
               - "HAWAII"
-              - 25
+              - 26
               # HI
             - - 505
               - 250
               - "IOWA"
-              - 98
+              - 101
               # IA
             - - 240
               - 220
               - "IDAHO"
-              - 50
+              - 51
               # ID
             - - 600
               - 320
               - "ILLINOIS"
-              - 152
+              - 159
               # IL
             - - 638
               - 285
               - "INDIANA"
-              - 135
+              - 139
               # IN
             - - 490
               - 330
@@ -145,7 +145,7 @@ mciContent:
             - - 670
               - 330
               - "KENTUCKY"
-              - 88
+              - 90
               # KY
             - - 550
               - 460
@@ -155,42 +155,42 @@ mciContent:
             - - 840
               - 208
               - "MASSACHUSETTS"
-              - 86
+              - 89
               # MA
             - - 785
               - 288
               - "MARYLAND"
-              - 126
+              - 132
               # MD
             - - 860
               - 120
               - "MAINE"
-              - 30
+              - 31
               # ME
             - - 645
               - 210
               - "MICHIGAN"
-              - 170
+              - 177
               # MI
             - - 515
               - 150
               - "MINNESOTA"
-              - 230
+              - 233
               # MN
             - - 530
               - 310
               - "MISSOURI"
-              - 195
+              - 205
               # MO
             - - 600
               - 420
               - "MISSISSIPPI"
-              - 67
+              - 68
               # MS
             - - 785
               - 355
               - "NORTH CAROLINA"
-              - 254
+              - 259
               # NC
             - - 440
               - 135
@@ -200,7 +200,7 @@ mciContent:
             - - 460
               - 285
               - "NEBRASKA"
-              - 78
+              - 79
               # NE
             - - 843
               - 185
@@ -210,7 +210,7 @@ mciContent:
             - - 815
               - 265
               - "NEW JERSEY"
-              - 98
+              - 102
               # NJ
             - - 330
               - 430
@@ -225,27 +225,27 @@ mciContent:
             - - 795
               - 190
               - "NEW YORK"
-              - 466
+              - 479
               # NY
             - - 690
               - 300
               - "OHIO"
-              - 458
+              - 470
               # OH
             - - 490
               - 410
               - "OKLAHOMA"
-              - 106
+              - 109
               # OK
             - - 150
               - 200
               - "OREGON"
-              - 88
+              - 90
               # OR
             - - 780
               - 245
               - "PENNSYLVANIA"
-              - 316
+              - 322
               # PA
             - - 853
               - 222
@@ -255,7 +255,7 @@ mciContent:
             - - 720
               - 395
               - "SOUTH CAROLINA"
-              - 111
+              - 116
               # SC
             - - 410
               - 195
@@ -265,22 +265,22 @@ mciContent:
             - - 675
               - 370
               - "TENNESSEE"
-              - 172
+              - 175
               # TN
             - - 480
               - 490
               - "TEXAS"
-              - 770
+              - 791
               # TX
             - - 240
               - 275
               - "UTAH"
-              - 129
+              - 141
               # UT
             - - 765
               - 310
               - "VIRGINIA"
-              - 124
+              - 129
               # VA
             - - 825
               - 170
@@ -290,17 +290,17 @@ mciContent:
             - - 150
               - 100
               - "WASHINGTON"
-              - 385
+              - 397
               # WA
             - - 570
               - 190
               - "WISCONSIN"
-              - 244
+              - 248
               # WI
             - - 720
               - 330
               - "WEST VIRGINIA"
-              - 9
+              - 10
               # WV
 
       - id: MCI_Participation
