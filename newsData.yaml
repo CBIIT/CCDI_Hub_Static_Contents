@@ -4,16 +4,41 @@
 altList:
   updateImgCCDC: Young boy on a swing outdoors, symbolizing childhood health, linking to the CCDC site
   updateImgNewApplicationRelease: A laptop screen showing a major new release of a resource, featuring a healthcare website with a child and a doctor interacting, set against a desk with stationary items
-  updateImgMolecular: Illustration of a person connected to a computer screen displaying a DNA sequence analysis, symbolizing the relationship between human genetics and data analysis.
+  updateImgMCI: Illustration of a person connected to a computer screen displaying a DNA sequence analysis, symbolizing the relationship between human genetics and data analysis.
   updateImgSymposium: Simple icon of two human figures raising their arms together on a blue gradient background.
   updateImgMTP: A medical professional using a tablet with digital interface graphics and abstract data connections, representing advanced healthcare technology.
   updateImgMTP2: A laptop displaying a molecular targets platform with large arrows pointing upward, symbolizing growth and progress in the field.
-  updateImgMolecularCharacterization: updateImgMolecularCharacterization
+  updateImgMCI2: updateImgMCI2
   updateImgMiscNews: Magnifying glass focusing on a network of people icons, representing detailed analysis or review.
   updateImgEHR: updateImgEHR
   updateImgC3DC: A person using a laptop at a desk with the C3DC website displayed, focusing on access and visualization of data sets within the C3DC community.
   updateImgReleaseNotes: A hand holding digital human icons with abstract graphs and network data, symbolizing the CCDI Hub Site & Data Release, representing human resources and data analysis.
-  updateImgecDNA: Abstract visualization of a glowing digital network with interconnected blue and yellow nodes on a dark background.
+  updateImgFederation: Abstract visualization of a glowing digital network with interconnected blue and yellow nodes on a dark background.
+
+# contentTypeUrlList:
+#   list for contentTypeUrl
+contentTypeUrlList:
+  Clinical: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Release_Clinical_Icon.svg
+  Genomics/Omics: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Release_Genomics_Icon.svg
+  Imaging: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Release_Imaging_Icon.svg
+  Xenograft: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Release_Xenograft_Icon.svg
+  Epidemiologic: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Release_Epidemiologic_Icon.svg
+
+# newsImgUrlList:
+#   list for newsImgUrl
+newsImgUrlList:
+    updateImgCCDC: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_CCDC.png?raw=true,
+    updateImgNewApplicationRelease: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_New_Application_Release.png?raw=true,
+    updateImgMCI: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_MCI.png?raw=true,
+    updateImgSymposium: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_Symposium.png?raw=true,
+    updateImgMTP: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_MTP.png?raw=true,
+    updateImgMTP2: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_MTP_2.png?raw=true,
+    updateImgMCI2: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_MCI_2.png?raw=true,
+    updateImgMiscNews: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_Misc_News.png?raw=true,
+    updateImgEHR: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_EHR.png?raw=true,
+    updateImgC3DC: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_C3DC.png?raw=true,
+    updateImgReleaseNotes: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_Release_Notes.png?raw=true,
+    updateImgFederation: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_Federation.png?raw=true,
 
 # newsList:
 #   id: name_MMDDYYYY * Note: cannot have duplicate id for 2 different items;
@@ -31,6 +56,18 @@ altList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
+  - id: ccdc_02192026
+    title: >-
+      Three new resources and over 40 new data sets in the CCDI Data Catalog
+    date: February 19, 2026
+    slug: >-
+      The February Childhood Cancer Data Catalog (CCDC) release includes 48 new data sets from new and previously existing resources
+    highlight: >-
+      <p>The CONCORD*Explorer, NF Data Portal, and scMINER resources were added to the CCDC with 16 new data sets as part of the 1.5.7 release. 32 new data sets were also added to existing resources, with notable additions to cBioPortal, Gene Expression Omnibus (GEO), and dbGaP. Counts, dbGaP accessions, and references were updated for numerous other resources and “Available Files” links to download clinical data were added to four more TARGET data sets.</p>
+    type: CCDI Application Updates
+    img: updateImgCCDC 
+    latestUpdate: true
+    
   - id: ccdc_12162025
     title: >-
       Annual GENIE update now available in the Childhood Cancer Data Catalog
@@ -40,8 +77,7 @@ newsList:
     highlight: >-
       <p>The Childhood Cancer Data Catalog (CCDC)’s last update of 2025 features the annual update to GENIE’s data set plus a new resource, the Pediatric Cancer Registry | Florida Association of Pediatric Tumor Programs, Inc. (FAPTP). Resource contact links have been updated to better indicate whether the contact is an email address or an external web page.</p>
     type: CCDI Application Updates
-    img: updateImgCCDC 
-    latestUpdate: true
+    img: updateImgCCDC
     
   - id: ccdc_11192025
     title: >-
@@ -74,7 +110,7 @@ newsList:
     highlight: >-
       <p>Introducing the newest addition to the CCDI Data Federation: the Indiana Pediatric Solid Tumor program at the Indiana University Simon Comprehensive Cancer Center (IUSCCC), a program that focuses on diagnosing, treating, and researching childhood solid tumors. CCDI Data Federation allows users to query member data simultaneously, as if accessing a single database. Current members include Kids First Data Resource Center, the Pediatric Cancer Data Commons, St. Jude Cloud, the Treehouse Childhood Cancer Initiative, and CCDI ecDNA. </p>
     type: CCDI Application Updates
-    img: updateImgecDNA
+    img: updateImgFederation
 
   - id: hub_10012025
     title: >-
@@ -140,7 +176,7 @@ newsList:
     highlight: >-
       <p>The Federation Resource API v1.2 enhances disease querying with sample-diagnosis and participant-diagnosis endpoints and updated CDEs for tumor grade, sample tumor status, and sample ID. This release also incorporates CPI integration via a new participant-mapping endpoint, enabling users to retrieve associated participant IDs from the CPI API with a single request. Additionally, ecDNA is now included in Federation Resource, expanding data access across multiple  resources.</p>
     type: CCDI Application Updates
-    img: updateImgecDNA
+    img: updateImgFederation
     
   - id: ccdc_06302025
     title: New data sets and updated resource details in latest CCDC update
@@ -172,7 +208,7 @@ newsList:
     highlight: >-
       <p>The Childhood Cancer Catalog of Circular Extrachromosomal DNA (ecDNA), developed by the Sanford Burnham Prebys Medical Discovery Institute, is a pediatric cancer genomics platform focused on circular ecDNA (<a class="link" href="https://ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org</a>). The platform incudes an API that aligns with the CCDI Data Federation Specification. eCDNA includes curated amplicon data from over 3,200 patients and 3,800 biosamples, derived from whole-genome sequencing datasets from major pediatric cancer databases.</p>
     type: News
-    img: updateImgecDNA
+    img: updateImgFederation
 
   - id: hub_federation_02142025
     title: >-
@@ -504,7 +540,7 @@ newsList:
     highlight: >-
       <p>CCDI has facilitated the release of data from children and young adults diagnosed with pediatric brain tumors and other solid and hematologic malignancies. The data was collected from the Children’s Brain Tumor Network, the Pacific Pediatric Neuro-Oncology Consortium, and the Children’s Hospital of Philadelphia Division for Genomic Diagnostics. They include tumor and germline WGS, RNA-Seq, Clinical Panel Sequencing, and other omics and molecular data. <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002517.v1.p1" rel="noreferrer noopener" target="_blank">Access these data through dbGaP</a>.</p>
     type: News
-    img: updateImgMolecularCharacterization
+    img: updateImgMCI2
 
   - id: ccdc_07192023
     title: >-
@@ -570,7 +606,7 @@ newsList:
     highlight: >-
       <p>De-identified molecular characterization data (T/N WES, methylation, and Archer fusion), clinical reports, and demographic and phenotypic data from <a href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/data-ecosystem/molecular-characterization?cid=eb_govdel" rel="noreferrer noopener" target="_blank">CCDI Molecular Characterization Initiative</a> participants are released each month under accession number <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002790.v2.p1" rel="noreferrer noopener" target="_blank">phs00290.v2.p1</a>. The data are accessible through Cancer Genomics Cloud, a secure workspace that allow users to upload their own data for aggregated analysis. Access can be requested through dbGaP’s <a href="https://www.youtube.com/watch?v=m0xp_cCO7kA" rel="noreferrer noopener" target="_blank">controlled-access process</a>. To date, there are data associated with 1,145 participants.</p>
     type: CCDI Application Updates
-    img: updateImgMolecular
+    img: updateImgMCI
 
   - id: symposium_03242023
     title: >-
@@ -598,6 +634,19 @@ newsList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 releaseNotesList:
+  - id: hub_release_02192026
+    title: CCDI Hub Release 2.9.2
+    version: v2.9.2
+    date: February 19, 2026
+    slug: >-
+      Standard monthly updates plus a few fixes and new features
+    fullText: >-
+      <p>The February 2026 patch release of the CCDI Hub includes three bug fixes, resolution of container vulnerabilities, new content on the CCDI Participant Index (CPI) page, and new organization and functionality on the Tools and Publications resource pages, respectively. Molecular Characterization Initiative (MCI) enrollment counts, publications, tools, news feed, and release notes have also been updated.</p><p>Additional details are listed below:</p><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">Statistics at a Glance</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">v2.9.2 Summary</span></h2><ul style="margin:0in 0in 8pt;"><li> <strong>20th</strong> Release</li><li> <strong>40</strong> Studies</li><li> <strong>59,795</strong> Participants</li><li> <strong>68,140</strong> Samples</li><li> <strong>1,238,181</strong> Files</li></ul><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Site Updates</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">General Site</span></h2><ul style="margin:0in 0in 8pt;"><li>Fixed bug related to file counts on the Studies listing page</li><li>Fixed links to the CCDI cBioPortal Cancer Data Explorer that were directing to an invalid study ID</li><li>Resolved container vulnerabilities</li><li>Updated description on the CCDI Participant Index (CPI) resource page</li><li>Updated publications through the end of January, added tooltips, and fixed "Read More" links for consistent behavior</li><li>Updated tools list with addition of STQ and added subcategories</li></ul><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Molecular Characterization Initiative page</span></h2><ul style="margin:0in 0in 8pt;"><li>Updated MCI enrollment through January</li></ul>
+    type: Release Notes
+    img: updateImgReleaseNotes
+    contentType: 
+    latestUpdate: true
+    
   - id: hub_release_01082025
     title: CCDI Hub Release 2.9.1
     version: v2.9.1
@@ -605,7 +654,7 @@ releaseNotesList:
     slug: >-
       Updated tools, publications, and MCI enrollment
     fullText: >-
-      <p>The January 2026 patch release of the CCDI Hub has provided a key update to OpenSearch. Two publications have been addition along with a new tag to indicate AI applicability for relevant publications. Two tools of interest have been added to the Tools resource page and the MCI page was updated with December enrollment and a revised flow diagram. A new CCDI Data Ecosystem and AI Readiness pdf has been added to the About menu, and a news topic for this release has been added to the feed.</p><p>Additional details are listed below:</p><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">Statistics at a Glance</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">v2.9.1 Summary</span></h2><ul style="margin:0in 0in 8pt;"><li> <strong>19th</strong> Release</li><li> <strong>40</strong> Studies</li><li> <strong>59,795</strong> Participants</li><li> <strong>68,140</strong> Samples</li><li> <strong>1,238,181</strong> Files</li></ul><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Site Updates</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">General Site</span></h2><ul style="margin:0in 0in 8pt;"><li>Added AI tag to relevant publications and added two new publications</li><li>Added CCDI Data Ecosystem and AI Readiness pdf</li><li>Added Methylscape and Tucan entries and links from the Tools page</li><li>Added news entry for 2.9.1 release notes</li></ul><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Molecular Characterization Initiative page</span></h2><ul style="margin:0in 0in 8pt;"><li>Updated MCI CCDI Data Ecosystem flow diagram</li><li>Updated MCI enrollment through December</li></ul>
+      <p>The January 2026 patch release of the CCDI Hub has provided a key update to OpenSearch. Two publications have been added along with a new tag to indicate AI applicability for relevant publications. Two tools of interest have been added to the Tools resource page and the MCI page was updated with December enrollment and a revised flow diagram. A new CCDI Data Ecosystem and AI Readiness pdf has been added to the About menu, and a news topic for this release has been added to the feed.</p><p>Additional details are listed below:</p><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">Statistics at a Glance</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">v2.9.1 Summary</span></h2><ul style="margin:0in 0in 8pt;"><li> <strong>19th</strong> Release</li><li> <strong>40</strong> Studies</li><li> <strong>59,795</strong> Participants</li><li> <strong>68,140</strong> Samples</li><li> <strong>1,238,181</strong> Files</li></ul><h1 style="font-weight: normal; margin: 30pt 0in 0in;"><span style="color: #2f5496; font-size: 16pt;">CCDI Hub Site Updates</span></h1><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">General Site</span></h2><ul style="margin:0in 0in 8pt;"><li>Added AI tag to relevant publications and added two new publications</li><li>Added CCDI Data Ecosystem and AI Readiness pdf</li><li>Added Methylscape and Tucan entries and links from the Tools page</li><li>Added news entry for 2.9.1 release notes</li></ul><h2 style="font-weight: normal; margin: 2pt 0in 0in;"><span style="color: #2f5496; font-size: 13pt;">Molecular Characterization Initiative page</span></h2><ul style="margin:0in 0in 8pt;"><li>Updated MCI CCDI Data Ecosystem flow diagram</li><li>Updated MCI enrollment through December</li></ul><p><i>Edited 2/19/2026 to correct typo in release update summary</i></p>
     type: Release Notes
     img: updateImgReleaseNotes
     contentType: 
@@ -623,7 +672,6 @@ releaseNotesList:
     type: Release Notes
     img: updateImgReleaseNotes
     contentType: Clinical,Genomics/Omics
-    latestUpdate: true
 
     
   - id: hub_release_09122025
