@@ -177,8 +177,12 @@ toolsContent:
         subtopic: STQ
         content: >-
           <p>The Spatial Transcriptomics Quantification pipeline (STQ) enables deconvolution of mouse and human reads, alignment of imaging and spatial gene expression, and extraction of quantitative morphology and imaging features for 10x Genomics Visium spatial transcriptomics data together with matching H&E whole-slide images, facilitating integrated analysis of spatial gene expression and histology. Its utility in integrating transcriptomic and image-derived features support multimodal characterization of tumor microenvironments.</p>
-          <p>Link: <a class="link" href="https://github.com/TheJacksonLaboratory/STQ" target="_blank" rel="noopener noreferrer">https://github.com/TheJacksonLaboratory/STQ</a></p> 
-          <p>Contact: <a href="mailto:sergii.domanskyi@jax.org" target="_blank" rel="noopener noreferrer">sergii.domanskyi@jax.org</a></p>
+      - id: M-PACT
+        subtopic: M-PACT
+        content: >-
+          <p>M-PACT is a deep learning-based classifier that uses DNA methylation profiles from cell-free DNA in cerebrospinal fluid to noninvasively identify pediatric central nervous system (CNS) tumor types with high accuracy (≈92% in benchmark cohorts). M-PACT overcomes challenges of low tumor DNA abundance and sparse methylation data in liquid biopsies, enabling accurate tumor classification and cellular deconvolution without requiring tissue biopsies.</p>
+          <p>Link: <a class="link" href="https://mpact.stjude.org" target="_blank" rel="noopener noreferrer">https://mpact.stjude.org</a></p> 
+          <p>Contact: <a href="mailto:paul.northcott@stjude.org" target="_blank" rel="noopener noreferrer">paul.northcott@stjude.org</a></p>
 Tools_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Data_Usage_Policies_Header.png?raw=true
 
 rareCancerIntroText: >-
