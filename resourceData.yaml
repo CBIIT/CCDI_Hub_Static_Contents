@@ -112,10 +112,16 @@ toolsContent:
   - id: Additional_Tools_of_Interest
     topic: Additional tools of interest
     list:
+      - id: AttentionAML
+        subtopic: AttentionAML
+        content: >-
+          <p>AttentionAML is a novel deep learning framework that uses an attention-based multilayer perceptron (MLP) model to accurately identify acute myeloid leukemia (AML) subtypes from transcriptomic data alone. A user-friendly Python package is available to help researchers implement the model. It enables precise classification and clustering of AML subtypes, and facilitates improved risk stratification and personalized treatment planning.</p>
+          <p>Link: <a class="link" href="https://github.com/wan-mlab/AttentionAML" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/AttentionAML</a></p>
+          <p>Contact: <a href="mailto:swan@unmc.edu" target="_blank" rel="noopener noreferrer">swan@unmc.edu</a></p>      
       - id: caDSR
         subtopic: caDSR
         content: >-
-          <p>The Cancer Data Standards Repository is one of the largest CDE registries developed by the National Cancer Institute (NCI) and contains over <b>76,600 CDEs</b> covering many aspects of cancer research. There are over 490 pediatric CDEs used by various entities like CCDI Data Ecosystem and Pediatric Clinical Data commons. The </b>Pediatric Cancer Core Common Data Elements (CDEs)</b> were created to standardize data collection and sharing for pediatric cancer research. To explore these standards, visit the caDSR homepage and select "Pediatric Cancer Core CDEs" under the Favorites column for a custom report of key CDEs.</p>
+          <p>The Cancer Data Standards Repository is one of the largest CDE registries developed by the National Cancer Institute (NCI) and contains over <b>76,600 CDEs</b> covering many aspects of cancer research. There are over 490 pediatric CDEs used by various entities like CCDI Data Ecosystem and Pediatric Clinical Data commons. The <b>Pediatric Cancer Core Common Data Elements (CDEs)</b> were created to standardize data collection and sharing for pediatric cancer research. To explore these standards, visit the caDSR homepage and select "Pediatric Cancer Core CDEs" under the Favorites column for a custom report of key CDEs.</p>
           <p>Link: <a class="link" href="https://cadsr.cancer.gov/onedata/Home.jsp" target="_blank" rel="noopener noreferrer">https://cadsr.cancer.gov/onedata/Home.jsp</a></p>
           <p>Contact: <a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">ncichildhoodcancerdatainitiative@mail.nih.gov</a></p>
       - id: Cancer_Genomics_Cloud
@@ -136,6 +142,13 @@ toolsContent:
           <p>dbGaP (Database of Genotypes and Phenotypes) is a resource developed by the National Center for Biotechnology Information (NCBI) to store and distribute data from studies exploring the relationship between genetic variation (genotypes) and observable traits in humans (phenotypes). It houses genomic, imaging, clinical, and other types of individual-level data. To protect participant privacy, access to controlled-access data requires researchers to submit a <a class="link" href="https://sharing.nih.gov/accessing-data/accessing-genomic-data/how-to-request-and-access-datasets-from-dbgap" target="_blank" rel="noopener noreferrer">data access request</a>.</p>
           <p>Link: <a class="link" href="https://www.ncbi.nlm.nih.gov/gap/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/gap/</a></p>
           <p>Contact: <a href="mailto:dbgap-help@ncbi.nlm.nih.gov" target="_blank" rel="noopener noreferrer">dbgap-help@ncbi.nlm.nih.gov</a></p>
+      - id: EwS_Pacbio
+        subtopic: EwS-Pacbio
+        content: >-
+          <p>The EwS-Pacbio repository provides tools for analyzing long-read targeted sequencing FASTQ files to investigate microsatellites and germline variants associated with Ewing sarcoma (EwS) susceptibility. Leveraging PacBio sequencing technology, the resource enables high-resolution investigation of genetic risk factors, including variant analysis and microsatellite profiling. It includes workflows and visualizations fused in associated publications, supporting deeper insights into EwS-related genetic mechanisms.</p>
+          <p>Link 1: Code for 6p25.1 microsatellite and germline variant analysis is available at: <a class="link" href="https://github.com/machiela-lab/EwS-Pacbio" target="_blank" rel="noopener noreferrer">https://github.com/machiela-lab/EwS-Pacbio</a></p>
+          <p>Link 2: Code for gene expression analysis is available at: <a class="link" href="https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1" target="_blank" rel="noopener noreferrer">https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1</a></p>
+          <p>Contact: <a href="mailto:mitchell.machiela@nih.gov" target="_blank" rel="noopener noreferrer">mitchell.machiela@nih.gov</a></p>           
       - id: GDC
         subtopic: GDC
         content: >-
@@ -154,47 +167,42 @@ toolsContent:
           <p>The MCI_JSON2TSV script is a Python-based command-line interface developed by the NCI's Childhood Cancer Data Initiative (CCDI). Its primary function is to convert Molecular Characterization Initiative's de-identified clinical report and clinical data files submitted in JSON format into tab-separated values (TSV) files. It can generate a single TSV that combines all case report form types, or, if preferred, create separate TSVs by form type or parsed variant results, making it easier to analyze, share, and integrate data with downstream systems.</p>
           <p>Link: <a class="link" href="https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV</a></p>
           <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
-      - id: RanBALL
-        subtopic: RanBALL
-        content: >-
-          <p>RanBALL is an ensemble machine learning model that uses random projection and support vector machines to accurately and cost-effectively identify B-cell acute lymphoblastic leukemia (B-ALL) subtypes using only transcriptomic profiling data. This tool improved clinical diagnosis, risk stratification, and personalized treatment for B-ALL patients through effective classification and visualization.</p>
-          <p>Link: <a class="link" href="https://github.com/wan-mlab/RanBALL" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/RanBALL</a></p>
-          <p>Contact: <a href="mailto:lli@unmc.edu" target="_blank" rel="noopener noreferrer">lli@unmc.edu</a></p>
-      - id: AttentionAML
-        subtopic: AttentionAML
-        content: >-
-          <p>AttentionAML is a novel deep learning framework that uses an attention-based multilayer perceptron (MLP) model to accurately identify acute myeloid leukemia (AML) subtypes from transcriptomic data alone. A user-friendly Python package is available to help researchers implement the model. It enables precise classification and clustering of AML subtypes, and facilitates improved risk stratification and personalized treatment planning.</p>
-          <p>Link: <a class="link" href="https://github.com/wan-mlab/AttentionAML" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/AttentionAML</a></p>
-          <p>Contact: <a href="mailto:swan@unmc.edu" target="_blank" rel="noopener noreferrer">swan@unmc.edu</a></p>
-      - id: EwS_Pacbio
-        subtopic: EwS-Pacbio
-        content: >-
-          <p>The EwS-Pacbio repository provides tools for analyzing long-read targeted sequencing FASTQ files to investigate microsatellites and germline variants associated with Ewing sarcoma (EwS) susceptibility. Leveraging PacBio sequencing technology, the resource enables high-resolution investigation of genetic risk factors, including variant analysis and microsatellite profiling. It includes workflows and visualizations fused in associated publications, supporting deeper insights into EwS-related genetic mechanisms.</p>
-          <p>Link 1: Code for 6p25.1 microsatellite and germline variant analysis is available at: <a class="link" href="https://github.com/machiela-lab/EwS-Pacbio" target="_blank" rel="noopener noreferrer">https://github.com/machiela-lab/EwS-Pacbio</a></p>
-          <p>Link 2: Code for gene expression analysis is available at: <a class="link" href="https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1" target="_blank" rel="noopener noreferrer">https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1</a></p>
-          <p>Contact: <a href="mailto:mitchell.machiela@nih.gov" target="_blank" rel="noopener noreferrer">mitchell.machiela@nih.gov</a></p>
       - id: Methylscape
         subtopic: Methylscape
         content: >-
           <p>Methylscape is a clinically reportable genome-wide DNA methylation profiling tool that classifies central nervous system tumors by comparing their epigenetic signatures to reference datasets, enabling more precise and objective tumor diagnosis beyond histopathology alone.  </p>
           <p>Link: <a class="link" href="https://methylscape.ccr.cancer.gov/" target="_blank" rel="noopener noreferrer">https://methylscape.ccr.cancer.gov/</a></p> 
           <p>Contact: <a href="mailto:NCIMethylscapeWebAdmin@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIMethylscapeWebAdmin@mail.nih.gov</a></p>
-      - id: Tucan
-        subtopic: Tucan
-        content: >-
-          <p>Tucan is a methylation-based classification model for pediatric solid tumors. Tucan can distinguish 91 different pediatric solid tumor subtypes and works with both methylation array data or nanopore based methylation data as input.</p>
-          <p>Link: <a class="link" href="https://github.com/UMCUGenetics/tucan" target="_blank" rel="noopener noreferrer">https://github.com/UMCUGenetics/tucan</a></p> 
-          <p>Contact: <a href="mailto:l.a.kester@prinsesmaximacentrum.nl" target="_blank" rel="noopener noreferrer">l.a.kester@prinsesmaximacentrum.nl</a></p>
-      - id: STQ
-        subtopic: STQ
-        content: >-
-          <p>The Spatial Transcriptomics Quantification pipeline (STQ) enables deconvolution of mouse and human reads, alignment of imaging and spatial gene expression, and extraction of quantitative morphology and imaging features for 10x Genomics Visium spatial transcriptomics data together with matching H&E whole-slide images, facilitating integrated analysis of spatial gene expression and histology. Its utility in integrating transcriptomic and image-derived features support multimodal characterization of tumor microenvironments.</p>
       - id: M-PACT
         subtopic: M-PACT
         content: >-
           <p>M-PACT is a deep learning-based classifier that uses DNA methylation profiles from cell-free DNA in cerebrospinal fluid to noninvasively identify pediatric central nervous system (CNS) tumor types with high accuracy (≈92% in benchmark cohorts). M-PACT overcomes challenges of low tumor DNA abundance and sparse methylation data in liquid biopsies, enabling accurate tumor classification and cellular deconvolution without requiring tissue biopsies.</p>
           <p>Link: <a class="link" href="https://mpact.stjude.org" target="_blank" rel="noopener noreferrer">https://mpact.stjude.org</a></p> 
           <p>Contact: <a href="mailto:paul.northcott@stjude.org" target="_blank" rel="noopener noreferrer">paul.northcott@stjude.org</a></p>
+      - id: PMTL
+        subtopic: PMTL
+        content: >-
+          <p>In 2018, the United States Food & Drug Administration (FDA) published the Pediatric Molecular Target Lists (PMTL). Briefly, these lists contain targets that are <b>important for studies of pediatric cancer</b>; one list defines molecular targets that are relevant to the growth of pediatric cancer, while the other defines molecular targets that are explicitly not relevant. The targets in these lists have </b>special legal requirements</b> associated with drug development.</p>
+          <p>Link: <a class="link" href="https://github.com/wan-mlab/RanBALL" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/RanBALL</a></p>
+          <p>Contact: <a href="mailto:lli@unmc.edu" target="_blank" rel="noopener noreferrer">lli@unmc.edu</a></p>
+      - id: RanBALL
+        subtopic: RanBALL
+        content: >-
+          <p>RanBALL is an ensemble machine learning model that uses random projection and support vector machines to accurately and cost-effectively identify B-cell acute lymphoblastic leukemia (B-ALL) subtypes using only transcriptomic profiling data. This tool improved clinical diagnosis, risk stratification, and personalized treatment for B-ALL patients through effective classification and visualization.</p>
+          <p>Link: <a class="link" href="https://github.com/wan-mlab/RanBALL" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/RanBALL</a></p>
+          <p>Contact: <a href="mailto:lli@unmc.edu" target="_blank" rel="noopener noreferrer">lli@unmc.edu</a></p>      
+      - id: STQ
+        subtopic: STQ
+        content: >-
+          <p>The Spatial Transcriptomics Quantification pipeline (STQ) enables deconvolution of mouse and human reads, alignment of imaging and spatial gene expression, and extraction of quantitative morphology and imaging features for 10x Genomics Visium spatial transcriptomics data together with matching H&E whole-slide images, facilitating integrated analysis of spatial gene expression and histology. Its utility in integrating transcriptomic and image-derived features support multimodal characterization of tumor microenvironments.</p>
+          <p>Link: <a class="link" href="https://github.com/TheJacksonLaboratory/STQ" target="_blank" rel="noopener noreferrer">https://github.com/TheJacksonLaboratory/STQ</a></p>
+          <p>Contact: <a href="mailto:sergii.domanskyi@jax.org" target="_blank" rel="noopener noreferrer">sergii.domanskyi@jax.org</p>
+      - id: Tucan
+        subtopic: Tucan
+        content: >-
+          <p>Tucan is a methylation-based classification model for pediatric solid tumors. Tucan can distinguish 91 different pediatric solid tumor subtypes and works with both methylation array data or nanopore based methylation data as input.</p>
+          <p>Link: <a class="link" href="https://github.com/UMCUGenetics/tucan" target="_blank" rel="noopener noreferrer">https://github.com/UMCUGenetics/tucan</a></p> 
+          <p>Contact: <a href="mailto:l.a.kester@prinsesmaximacentrum.nl" target="_blank" rel="noopener noreferrer">l.a.kester@prinsesmaximacentrum.nl</a></p>
 Tools_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Data_Usage_Policies_Header.png?raw=true
 
 rareCancerIntroText: >-
