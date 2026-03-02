@@ -136,6 +136,12 @@ toolsContent:
           <p>dbGaP (Database of Genotypes and Phenotypes) is a resource developed by the National Center for Biotechnology Information (NCBI) to store and distribute data from studies exploring the relationship between genetic variation (genotypes) and observable traits in humans (phenotypes). It houses genomic, imaging, clinical, and other types of individual-level data. To protect participant privacy, access to controlled-access data requires researchers to submit a <a class="link" href="https://sharing.nih.gov/accessing-data/accessing-genomic-data/how-to-request-and-access-datasets-from-dbgap" target="_blank" rel="noopener noreferrer">data access request</a>.</p>
           <p>Link: <a class="link" href="https://www.ncbi.nlm.nih.gov/gap/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/gap/</a></p>
           <p>Contact: <a href="mailto:dbgap-help@ncbi.nlm.nih.gov" target="_blank" rel="noopener noreferrer">dbgap-help@ncbi.nlm.nih.gov</a></p>
+      - id: GDC
+        subtopic: GDC
+        content: >-
+          <p>The GDC Data Portal is a robust data-driven platform that allows cancer researchers and bioinformaticians to search and download cancer data for analysis.</p>
+          <p>Link: <a class="link" href="https://portal.gdc.cancer.gov/" target="_blank" rel="noopener noreferrer">https://portal.gdc.cancer.gov/</a></p>
+          <p>Contact: <a href="mailto:support@nci-gdc.datacommons.io" target="_blank" rel="noopener noreferrer">support@nci-gdc.datacommons.io</a></p>
       - id: GWAS_Explorer
         subtopic: GWAS Explorer
         content: >-
