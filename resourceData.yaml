@@ -184,7 +184,7 @@ toolsContent:
         content: >-
           <p>In 2018, the United States Food & Drug Administration (FDA) published the Pediatric Molecular Target Lists (PMTL). Briefly, these lists contain targets that are <b>important for studies of pediatric cancer</b>; one list defines molecular targets that are relevant to the growth of pediatric cancer, while the other defines molecular targets that are explicitly not relevant. The targets in these lists have <b>special legal requirements</b> associated with drug development.</p>
           <p>Link: <a class="link" href=https://cbiit.github.io/ccdi-pmtl-pages/" target="_blank" rel="noopener noreferrer">https://cbiit.github.io/ccdi-pmtl-pages/</a></p>
-          <p>Contact: <a href="mailto:rosane.charlaborbach@fda.hhs.gov" target="_blank" rel="noopener noreferrer">rosane.charlaborbach@fda.hhs.gov</a></p>
+          <p>Contact: <a href="mailto:OCEPeRC@fda.hhs.gov" target="_blank" rel="noopener noreferrer">OCEPeRC@fda.hhs.gov</a></p>
       - id: RanBALL
         subtopic: RanBALL
         content: >-
