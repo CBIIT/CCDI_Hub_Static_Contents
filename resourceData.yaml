@@ -229,6 +229,8 @@ rareCancerContent:
         content: >-
           <h3>Who should I contact with questions about CCDI Pediatric and AYA Rare Cancer Study results and data?</h3>
           <p>For questions related to study data or accessing the CCDI Data Ecosystem, contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
+RCI_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/RCI/Rare_Cancer_Header.png?raw=true
+RCI_Data_Flow_Chart_URL: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/RCI/RCI_data_flow_chart.png?raw=true
 
 ccdiEventAnnouncementsIntroText: >-
   <p>The CCDI Events Announcements page brings together news announcements and details on past events, webinars, and workshops.</p>
