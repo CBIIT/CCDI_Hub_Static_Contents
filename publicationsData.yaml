@@ -19,7 +19,7 @@
 #
 # (Note: only one of these three cases can be in one item)
 
-bannerText: Publication list updated as of 2/19/26.
+bannerText: Publication list updated as of 3/26/26.
 
 Publications_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Publications_Header.png?raw=true
 
@@ -62,6 +62,17 @@ publicationsList:
     journal: >-
       GigaScience
     pmid: 40891528
+
+  - id: Ecosystem_08072025
+    title: >-
+      Extrachromosomal DNA associates with poor survival across a broad spectrum of childhood solid tumors
+    link: https://doi.org/10.1101/2025.07.22.24308163
+    date: August 2025
+    summary: >-
+      <p>Circular extrachromosomal DNA (ecDNA) is a common form of oncogene amplification in aggressive cancers. The frequency and diversity of ecDNA has been catalogued in adult and some childhood cancers; however, its role in most pediatric cancers is not well-understood. To address this gap, we accessed large pediatric cancer genomics data repositories and identified ecDNA from whole genome sequencing data using cloud computing. This retrospective cohort comprises 3,631 solid tumor biopsies from 2,968 patients covering all major childhood solid tumor types. Aggressive tumor types had particularly high incidences of ecDNA. Pediatric patients whose tumors harbored extrachromosomal DNA had significantly poorer five-year overall survival than children whose tumors contained only chromosomal amplifications. We catalogue known and potentially novel oncogenes recurrently amplified on ecDNA and show that ecDNA often evolves during disease progression. These results highlight patient populations that could potentially benefit from future ecDNA-directed therapies. To facilitate discovery, we developed an interactive catalogue of ecDNA in childhood cancer at https://ccdi-ecdna.org/.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    type: Preprint
     
   - id: MCICOG_08062025
     title: >-
@@ -206,7 +217,7 @@ publicationsList:
   - id: MCICOG_06022025
     title: >-
       Understanding the Molecular Landscape of Rare Tumors Through the CCDI-COG Molecular Characterization Initiative
-    link: https://meetings.asco.org/2025-asco-annual-meeting/16395?presentation=246136#246136
+    link: https://ascopubs.org/doi/10.1200/JCO.2025.43.16_suppl.10012
     date: June 2025
     summary: >-
       <p>Through collaboration with the National Cancer Institute as part of the Childhood Cancer Data Initiative, the Children’s Oncology Group offers prompt paired tissue and germline sequencing for newly diagnosed rare tumor subtypes.</p>  
@@ -217,7 +228,7 @@ publicationsList:
   - id: MCICOG_06012025_2
     title: >-
       CCDI-COG Molecular Characterization Initiative: The Expanding Data on Childhood Cancer 
-    link: https://meetings.asco.org/2025-asco-annual-meeting/16395?presentation=246435#246435
+    link: https://doi.org/10.1200/JCO.2025.43.16_suppl.10013
     date: June 2025
     summary: >-
       <p>The Molecular Characterization Initiative (MCI), a collaboration between the Children's Oncology Group (COG) and the NCIs Childhood Cancer Data Initiative (CCDI) which is intended to define a standardized genomic characterization of pediatric cancer, provides rapid, clinical sequencing for newly diagnosed central nervous system (CNS) tumors, rare tumors, soft tissue sarcomas (STS), or advanced stage neuroblastoma (NB) to guide diagnosis and treatment for these children</p>  
@@ -228,7 +239,7 @@ publicationsList:
   - id: MCICOG_06012025_1
     title: >-
       Integrated Molecular Characterization of Pediatric Soft Tissue Sarcomas: A Report from the COG and CCDI Molecular Characterization Initiative
-    link: https://meetings.asco.org/2025-asco-annual-meeting/16393?presentation=247352#247352
+    link: https://doi.org/10.1200/JCO.2025.43.16_suppl.10025
     date: June 2025
     summary: >-
       <p> The Molecular Characterization Initiative (MCI), a partnership between the Children’s Oncology Group (COG) and the NCI’s Childhood Cancer Data Initiative (CCDI), provides standardized genomic profiling of tumors and germline for subjects with newly diagnosed pediatric soft tissue sarcomas (STS). Here, we report on STS patients <25 enrolled in MCI from July 2022 to July 2023.</p>  
@@ -349,6 +360,19 @@ publicationsList:
     journal: Cancers
     pmid: 40227653
 
+  - id: Ecosystem_02012025
+    title: >-
+      The childhood cancer data initiative: enabling data sharing to drive research advances and transform pediatric cancer diagnosis and treatment
+    link: https://doi.org/10.1097/mop.0000000000001422
+    date: February 2025
+    summary: >-
+      <p>With growing emphasis on data-driven research in pediatric oncology, particularly in the context of advances in molecular characterization and precision medicine, there is an urgent need for comprehensive data-sharing initiatives. This review explores how the Childhood Cancer Data Initiative (CCDI) addresses this critical need.</p>
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: >-
+      Current Opinion in Pediatrics
+    pmid: 39699099
+    
   - id: NCCR_01122025
     title: >-
       Making the case for an International Childhood Cancer Data Partnership
