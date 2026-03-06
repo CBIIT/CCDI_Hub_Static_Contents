@@ -82,3 +82,9 @@ pmtlContent:
             - "GD2"
             - "GD2 (Disialoganglioside)"
             - "Feedback from the FDA indicated that the FDA Target should not be mapped to any gene. Though incompatible with the Molecular Targets Platform, it will remain in the table for reference"
+  - id: Contact_Information
+    topic: Contact Information
+    list:
+      - id: Contact_Information_PMTL
+        content: >-
+          <p>For questions related to the FDA Pediatric Molecular Target Lists, please contact <a href="mailto:OCEPeRC@fda.hhs.gov">OCEPeRC@fda.hhs.gov</a>. For all other inquiries, please contact the <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov">CCDI mailbox</a>.</p>
