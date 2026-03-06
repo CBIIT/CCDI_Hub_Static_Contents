@@ -161,6 +161,12 @@ toolsContent:
           <p>GWAS Explorer allows genetics researchers to search, visualize, and download aggregated association results from genome-wide association studies (GWAS). It provides association summary statistics for over 200 cancer and cancer-related phenotypes, harmonized from large-scale GWAS efforts. Interactive tools are available to visualize and examine association results utilizing dynamic Manhattan and Miami plots, stratify data by sex and ancestry, and review diagnostic plots (e.g., Q-q plots).</p>
           <p>Link: <a class="link" href="https://exploregwas.cancer.gov/#/" target="_blank" rel="noopener noreferrer">https://exploregwas.cancer.gov/#/</a></p>
           <p>Contact: <a href="mailto:NCIExploreGWASWebAdmin@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIExploreGWASWebAdmin@mail.nih.gov</a></p>
+      - id: Kids First Data Resource
+        subtopic: Kids First Data Resource
+        content: >-
+          <p>Gabriella Miller Kids First Data Resource Center (DRC)'s cloud-based platform provides access to large-scale pediatric genomic and clinical data for childhood cancer research. This helps researchers uncover new insights into the biology of childhood cancer and structural birth defects, including the discovery of shared genetic pathways between these disorders.</p>
+          <p>Link: <a class="link" href="https://portal.kidsfirstdrc.org/login" target="_blank" rel="noopener noreferrer">https://portal.kidsfirstdrc.org/login/</a></p>
+          <p>Contact: <a href="mailto:support@kidsfirstdrc.org" target="_blank" rel="noopener noreferrer">support@kidsfirstdrc.org</a></p>   
       - id: MCI_JSON2TSV
         subtopic: MCI_JSON2TSV
         content: >-
