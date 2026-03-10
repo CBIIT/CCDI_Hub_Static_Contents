@@ -35,55 +35,9 @@ pmtlContent:
             <li><a class="link" href="https://www.fda.gov/media/161463/download?attachment" target="_blank" rel="noopener noreferrer">Relevant Molecular Targets</a> – Targets with scientific evidence (such as gene expression data, genetic alterations, or published research) suggesting they may play a role in the growth or progression of pediatric cancers.</li>
             <li><a class="link" href="https://www.fda.gov/media/161462/download?attachment" target="_blank" rel="noopener noreferrer">Non-Relevant Molecular Targets (Leading to Waiver)</a> – Targets with evidence indicating they are not associated with pediatric tumor growth and may therefore qualify for waiver of early pediatric assessment./li>
           </ol>
-          <p>These lists are updated regularly as new scientific data becomes available and are posted on the <a class="link" href="https://fda.gov/oncology/pediatric-onc-coe/pediatric-molecular-target-lists" target="_blank" rel="noopener noreferrer">FDA Oncology Center of Excellence website</a>. They fulfill statutory requirements under <a class="link" href="https://www.fda.gov/media/159091/download?attachment" target="_blank" rel="noopener noreferrer">FDARA</a> and help guide industry in planning initial Pediatric Study Plans for oncology drugs and biologics in development, consistent with <a class="link" href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/fdara-implementation-guidance-pediatric-studies-molecularly-targeted-oncology-drugs-amendments-sec" target="_blank" rel="noopener noreferrer">PREA</a>. </p>
-  - id: FDA_PMTL_Mapping_Description
-    topic: FDA PMTL Mapping Description
-    list:
-      - id: FDA_PMTL_Mapping_Description_Table
-        content: >-
-          <p>The table below contains a description of each potential value in the Mapping Description column. These describe the action(s) taken to map targets within the published FDA PMTL into the computable, gene-level targets used in the Molecular Targets Platform. Many FDA targets required more than one action to reach Molecular Targets Platform compatibility; these are all listed for each target when appropriate (e.g. “Separate list and standardize symbol”). </p>
-        table:
-          title: FDA PMTL Mapping Description
-          header:
-            - "Mapping Description"
-            - "Example FDA Target"
-            - "Example Target Symbol(s) after reformatting"
-            - "Description"
-          body:
-            - "Unchanged from FDA list"
-            - "PTEN"
-            - "PTEN"
-            - "FDA Target appears exactly as in the FDA publication"
-            - "Standardize symbol"
-            - "Thymidylate synthase"
-            - "TYMS"
-            - "FDA Target was mapped to a single HGNC approved symbol"
-            - "Separate list"
-            - "JAK1, 2, and 3"
-            - "JAK1, JAK2, JAK3"
-            - "FDA Targets in a human-readable list were separated into unique targets"
-            - "Separate gene fusion"
-            - "BRD3-NUTM1"
-            - "BRD3, NUTM1"
-            - "FDA Target gene fusions were separated into component genes as unique targets"
-            - "Separate gene abnormalities"
-            - "EZH2 | Gene Abnormalities: SMARCB1, SMARCA4"
-            - "EZH2, SMARCB1, SMARCA4"
-            - "FDA Targets and their listed gene abnormalities were separated into unique targets"
-            - "Unpack complex target"
-            - "BET bromodomain family"
-            - "BRD2, BRD3, BRD4, BRDT"
-            - "FDA Targets consisting of multiple genes (such as gene families or complex proteins) were separated into unique, gene-level targets"
-            - "Fix human error"
-            - "IDH1 and IHD2"
-            - "IDH1, IDH2"
-            - "FDA Targets containing typos or mismatched citations were corrected. Details given for each instance"
-            - "Cannot be mapped to gene-level target"
-            - "GD2"
-            - "GD2 (Disialoganglioside)"
-            - "Feedback from the FDA indicated that the FDA Target should not be mapped to any gene. Though incompatible with the Molecular Targets Platform, it will remain in the table for reference"
-  - id: Contact_Information
-    topic: Contact Information
+          <p>These lists are updated regularly as new scientific data becomes available and are posted on the <a class="link" href="https://fda.gov/oncology/pediatric-onc-coe/pediatric-molecular-target-lists" target="_blank" rel="noopener noreferrer">FDA Oncology Center of Excellence website</a>. They fulfill statutory requirements under <a class="link" href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/fdara-implementation-guidance-pediatric-studies-molecularly-targeted-oncology-drugs-amendments-sec" target="_blank" rel="noopener noreferrer">FDARA</a> and help guide industry in planning initial Pediatric Study Plans for oncology drugs and biologics in development, consistent with PREA.</p>
+  - id: Contact
+    topic: Contact
     list:
       - id: Contact_Information_PMTL
         content: >-
