@@ -32,7 +32,7 @@ publicationsList:
     summary: >-
       <p>Data sharing is necessary to advance understanding of the etiology and biology of cancer in children, adolescents, and young adults; drive therapeutic discoveries; and improve treatment outcomes. To meet this critical need, the National Cancer Institute's Childhood Cancer Data Initiative (CCDI) provides innovative, user-friendly tools and resources that enable researchers and pediatric oncologists to access and analyze the large volume of diverse childhood cancer data (over 1 million files) that has been collected and harmonized from multiple studies, including CCDI's Molecular Characterization Initiative, Pediatric MATCH, Childhood Cancer Survivor Study, etc. This article outlines how to find, request, access, download, and analyze data indexed in the CCDI Hub Explore Dashboard and Childhood Cancer Clinical Data Commons (C3DC), key components of the CCDI Data Ecosystem, to accelerate progress in pediatric cancer research.</p>  
     category: Primary
-    tag: CCDI Ecosystem,test
+    tag: CCDI Ecosystem
     journal: >-
       JCO Clinical Cancer Informatics
     pmid: 41370779
