@@ -240,7 +240,7 @@ RCI_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/R
 RCI_Data_Flow_Chart_URL: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/RCI/RCI_data_flow_chart.png?raw=true
 RCI_DOWNLOAD_CONFIG:
   url: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/PDF/Resources/RCI/rare-cancer-study_contact.pdf
-  filename: Pediatric_Adolescent_and_Young_Adult_Rare_Cancer_Study_Data_Access_User_Guide.pdf
+  filename: rare-cancer-study_contact.pdf
 
 ccdiEventAnnouncementsIntroText: >-
   <p>The CCDI Events Announcements page brings together news announcements and details on past events, webinars, and workshops.</p>
