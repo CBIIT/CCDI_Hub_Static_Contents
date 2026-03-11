@@ -220,18 +220,18 @@ rareCancerContent:
     topic: Accessing Pediatric and AYA Rare Cancer Study Data
     list:
       - id: HOW_TO_ACCESS_STUDY_DATA
-        subtopic: HOW TO ACCESS STUDY DATA
+        subtopic: How to Access Study Data
         content: >-
           <h3>How can Pediatric and AYA Rare Cancer Study data be accessed through the CCDI Data Ecosystem?</h3>
           <p>Study data can be accessed through the CCDI Data Ecosystem, which includes molecular characterization data, de-identified clinical reports, patient-reported outcomes, whole slide images of hematoxylin and eosin stained (H&E) tissue, along with additional data on demographics, diagnosis, treatment, and follow-up.</p>
           <p>CCDI studies are summarized and indexed in the <a href="/explore">CCDI Hub Explore Dashboard</a>, where you can export row-level metadata for participants, samples, or files. You can search by the study name or by database of Genotypes and Phenotypes accession number (number forthcoming). <a class="link" href="/user-guide.pdf" target="_blank" rel="noopener noreferrer">This user guide</a> provides information on how to find, request, access, download, and analyze controlled-access data.</p>
       - id: GERMLINE_FINDINGS 
-        subtopic: GERMLINE FINDINGS
+        subtopic: Germline Findings
         content: >-
           <h3>What steps should be taken if germline findings are detected?</h3>
           <p>Clinically actionable findings include disorders listed in the American College of Medical Genetics and Genomics recommendations for the return of secondary findings. The participant’s physician should coordinate a referral for the participant and their family to do local genetic counseling. In this setting, familial cascade testing for the observed germline variant may be offered to the family where appropriate. Such testing typically takes the form of targeted Sanger or microarray analysis, performed in concert with pre and post-test genetic counseling on the significance of the genetic variant. Familial testing may be performed by the institutional molecular laboratory (if those services are available locally) or through typical send-out testing channels familiar to the clinician and counselor.</p>
       - id: CONTACT_INFORMATION
-        subtopic: CONTACT INFORMATION
+        subtopic: Contact Information
         content: >-
           <h3>Who should I contact with questions about CCDI Pediatric and AYA Rare Cancer Study results and data?</h3>
           <p><a href="#" data-action="download-contact-form">Download the CCDI Pediatric and AYA Rare Cancer Study Contact Form</a>, complete it, and submit to <a class="link" href="mailto:NCICCDIRCI@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCICCDIRCI@mail.nih.gov</a> if you are interested in participating.</p>
