@@ -24,6 +24,32 @@ bannerText: Publication list updated as of 3/26/26.
 Publications_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Publications_Header.png?raw=true
 
 publicationsList:
+  - id: Ecosystem_01102026
+    title: >-
+       IL-18 metabolically reprograms CAR-expressing natural killer T cells and enhances their antitumor activity
+    link: https://doi.org/10.1016/j.ymthe.2026.01.001
+    date: January 2026
+    summary: >-
+      <p>Invariant natural killer T cells (NKTs) have intrinsic antitumor properties that make them promising candidates for chimeric antigen receptor (CAR) immunotherapies. Transgenic cytokine expression can enhance cellular therapy potency, and we hypothesized that co-expressing interleukin-18 (IL-18) alone or with IL-15 would boost CAR-NKT therapeutic potential. To test this, we generated retroviral constructs expressing IL-15 and/or IL-18 with an inducible caspase-9 safety switch and co-transduced them with a GD2-specific CAR into human NKTs. Co-expression of IL-18 or IL-15/IL-18 increased CAR-NKT cytotoxicity, proliferation, and cytokine secretion in vitro compared to IL-15 alone. IL-18 also enhanced GPC3.CAR and CD19.CAR NKT activity against hepatocellular carcinoma and B cell leukemia cells, respectively. In a metastatic neuroblastoma model, IL-18-expressing GD2.CAR-NKTs controlled tumors more effectively than IL-15-only cells, but mice in the IL-15/IL-18 group developed severe toxicities not observed in the IL-18-only group. Mechanistically, IL-18 induced a transcriptional program distinct from IL-15, marked by lower exhaustion signatures and enrichment of metabolic pathways. Finally, targeted metabolomics showed that IL-18 drives broad metabolic reprogramming in CAR-NKTs including increased oxidative phosphorylation, glycolysis, glutaminolysis, and purine metabolism. These findings support the use of IL-18 in developing the next generation of cytokine-armed CAR-NKT cancer immunotherapies.</p>  
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: >-
+      Molecular Therapy
+    pmid: 41520178
+
+  - id: Ecosystem_12152025
+    title: >-
+       Facts and Hopes of Chimeric Antigen Receptor-Redirected NK T Cells
+    link: https://doi.org/10.1158/1078-0432.ccr-25-0197
+    date: December 2025
+    summary: >-
+      <p>Chimeric antigen receptor (CAR)-engineered invariant NK T cells (CAR-NKT) are a novel cell platform for cancer immunotherapy. Unlike conventional T cells, NKTs are characterized by innate antitumor properties, minimal alloreactivity, and a unique ability to modulate the tumor microenvironment. This article provides a comprehensive overview of preclinical and early clinical studies evaluating CAR-NKTs in both autologous and allogeneic clinical settings. We discuss the contributions of CAR signaling domains, cytokine coexpression, and other functional measures that correlate with CAR-NKT persistence, function, and metabolic fitness. We also discuss the critical role of immunocompetent animal models in elucidating the interactions of CAR-NKTs with the tumor microenvironment and other components of the immune system. Finally, we review strategies that combine CAR-NKTs with other therapeutic approaches to promote potential synergistic benefits in patients with cancer.</p>  
+    category: Primary
+    tag: CCDI Ecosystem,Review
+    journal: >-
+      Clinical Cancer Research
+    pmid: 41118265
+    
   - id: Ecosystem_12102025
     title: >-
        Building Pediatric Cancer Cohorts and Accessing Data Using Childhood Cancer Data Initiative Tools
@@ -95,7 +121,7 @@ publicationsList:
     summary: >-
       <p>The number of childhood cancer survivors (CCS) in the United States exceeds 500,000 and continues to rise. While recurrence risk diminishes over time, the prevalence of late effects from cancer treatment increases with age and affects over 60% of survivors. Primary care providers (PCPs) are ideally positioned to manage the long-term health needs of CCS, yet many feel ill-equipped due to a lack of concise guidelines. This article provides a comprehensive overview for PCPs on managing late effects in CCS. Key areas of focus include general health maintenance, psychological and neurocognitive care, immune function and vaccinations, as well as monitoring for endocrine, cardiovascular, pulmonary, and secondary malignancies. Emphasis is placed on regular screenings and lifestyle modifications. We advocate for proactive PCP involvement in the surveillance and management of late effects associated with childhood cancer treatment.</p>  
     category: Secondary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,Review
     journal: >-
       Current Problems in Pediatric and Adolescent Health Care
     pmid: 40992854
@@ -140,13 +166,15 @@ publicationsList:
   - id: Ecosystem_06112025
     title: >-
       Multicenter Histology Image Integration and Multiscale Deep Learning for Machine Learning-Enabled Pediatric Sarcoma Classification
-    link: https://doi.org/10.1101/2025.06.10.25328700
-    date: June 2025
+    link: https://doi.org/10.1158/0008-5472.CAN-25-2275
+    date: January 2026
     summary: >-
-      <p>Pediatric sarcomas present diagnostic challenges due to their rarity and diverse subtypes, often requiring specialized pathology expertise and costly genetic tests. To overcome these barriers, we developed a computational pipeline leveraging deep learning methods to accurately classify pediatric sarcoma subtypes from digitized histology slides. To ensure classifier generalizability and minimize center-specific artifacts, we collected and harmonized a dataset comprising 867 whole slide images (WSIs) from three medical centers and the Children’s Oncology Group (COG). Multiple convolutional neural network (CNN) and vision transformer (ViT) architectures were systematically evaluated as feature extractors for SAMPLER-based WSI representations, and input parameters such as tile size combinations and resolutions were tested and optimized. Our analysis showed that advanced ViT foundation models (UNI, CONCH) significantly outperformed earlier approaches, and incorporating multiscale features can enhance classification accuracy. Our optimized models achieved high performance, distinguishing rhabdomyosarcoma (RMS) from non-rhabdomyosarcoma (NRSTS) with an AUC of 0.969±0.026 and differentiating RMS subtypes (alveolar vs. embryonal) with an AUC of 0.961±0.021. Additionally, a two-stage pipeline effectively identified scarce Ewing sarcoma images from other NRSTS (AUC 0.929). Compared to conventional transformer encoder architectures used for WSI representations, our SAMPLER based classifiers were more lightweight (0.111 MB vs. 1.9 MB) and three orders of magnitude faster to train. This study highlights that digital histopathology paired with rigorous image harmonization provides a powerful solution for pediatric sarcoma classification. Our models reduce inter-observer variability, augment diagnostic precision, and have the potential to increase global accessibility to robust diagnostics, improving time to diagnosis and subsequent treatment planning.</p>
+      <p>Pediatric sarcomas present diagnostic challenges due to their rarity and diverse subtypes, often requiring specialized pathology expertise and costly genetic tests. To overcome these barriers, we developed a computational pipeline leveraging deep learning methods to accurately classify pediatric sarcoma subtypes from digitized histology slides. To ensure classifier generalizability and minimize center-specific artifacts, a dataset comprising 867 whole slide images (WSIs) from three medical centers and the Children's Oncology Group (COG) was collected and harmonized. Multiple convolutional neural network (CNN) and vision transformer (ViT) architectures were systematically evaluated as feature extractors for SAMPLER-based WSI representations, and input parameters, such as tile size combinations and resolutions, were tested and optimized. The analysis showed that advanced ViT foundation models (UNI, CONCH) significantly outperformed earlier approaches, and incorporating multiscale features enhanced classification accuracy. The optimized models achieved high performance, distinguishing rhabdomyosarcoma (RMS) from non-rhabdomyosarcoma (NRSTS) with an AUC of 0.969 and differentiating RMS subtypes (alveolar vs. embryonal) with an AUC of 0.961. Additionally, a two-stage pipeline effectively identified scarce Ewing sarcoma images from other NRSTS (AUC 0.929). Compared to conventional transformer encoder architectures used for WSI representations, these SAMPLER based classifiers were three orders of magnitude faster to train, despite operating entirely without a GPU. This study highlights that digital histopathology paired with rigorous image harmonization provides a powerful solution for pediatric sarcoma classification.</p>
     category: Secondary
     tag: CCDI Ecosystem,AI
-    type: Preprint
+    journal: >-
+      Cancer Research
+    pmid: 41481196
     
   - id: NCCR_06042025_2
     title: >-
@@ -250,13 +278,15 @@ publicationsList:
   - id: Ecosystem_05312025
     title: >-
       Confounding factors in assessing the enriched expression of somatic mutant allele in bulk tumor samples
-    link: https://doi.org/10.1101/2025.05.27.656366
-    date: May 2025
+    link: https://doi.org/10.1101/gr.281003.125
+    date: March 2026
     summary: >-
-      <p>Allele-specific expression (ASE) of somatic mutations can be caused by cis-activation of the mutant allele or silencing of the wildtype allele and has been investigated by examining the enrichment of mutant allele in RNA relative to DNA. Here we show that this mutation-based approach can be confounded by gene expression differences in tumor and normal cells which co-exist in most bulk tumor samples. We modeled mutant allele expression by incorporating tumor/normal expression difference, mutant allele dosage, tumor purity, and nonsense-mediated decay (NMD) efficiency, projecting that the enrichment can occur without ASE. This confounding effect is exacerbated with low tumor purity and is dependent on mutant allele dosage for NMD-sensitive mutations. The model was validated empirically using somatic insertions/deletions (indels) from 9,101 the Cancer Genome Atlas (TCGA) samples, showing three-fold higher enrichment in driver genes vs. non-drivers. To explore if the enriched mutant allele expression can be leveraged to complement DNA-based somatic mutation detection, we performed de novo somatic indel calling using TCGA RNA-Seq, increasing the TCGA driver indel repertoire by ∼14%, mostly in samples with lower tumor purity. Our study not only revealed confounding factors in ASE analysis but also demonstrated the utility of leveraging RNA-Seq for driver mutation analysis.</p>
+      <p>Allele-specific expression (ASE) of somatic mutations can be caused by cis-activation of the mutant allele or silencing of the wild-type allele and has been investigated by examining the enrichment of mutant allele in RNA relative to DNA. Here we show that this mutation-based approach can be confounded by gene expression differences in tumor and normal cells that coexist in most bulk tumor samples. We model mutant allele expression by incorporating tumor/normal expression difference, mutant allele dosage, tumor purity, and nonsense-mediated decay (NMD) efficiency, projecting that such enrichments can occur without ASE. This confounding effect is exacerbated with low tumor purity and is dependent on mutant allele dosage for NMD-triggering mutations. The model predictions are validated by a pan-cancer bulk tumor analysis with somatic insertions/deletions (indels) from 9,101 The Cancer Genome Atlas (TCGA) samples. A single-cell analysis in five cutaneous squamous cell carcinomas demonstrates the robustness of this model to intratumor heterogeneity. As a byproduct of this confounding effect, we evaluate whether the inverse relationship between mutant allele enrichment in RNA and tumor purity could be leveraged to complement DNA-based somatic mutation detection in low purity samples. Indeed, our de novo somatic indel calling from TCGA RNA-seq increases the TCGA driver indel repertoire by ~ 14%, especially in samples with purity < 0.4, including actionable EGFR indels in lung adenocarcinoma and FLT3 in acute myeloid leukemia. Our study not only reveals confounders in somatic mutant ASE analysis but also demonstrates their utility in RNA-based mutation calling.</p>
     category: Secondary
     tag: CCDI Ecosystem
-    type: Preprint
+    journal: >-
+      Genome Research
+    pmid: 41781335
 
   - id: Ecosystem_05222025
     title: >-
@@ -343,7 +373,7 @@ publicationsList:
     date: April 2025
     summary: >-
       <p>Natural killer T cells (NKTs) are a promising platform for cancer immunotherapy, but few genes involved in the regulation of NKT therapeutic activity have been identified. To find regulators of NKT functional fitness, we developed a CRISPR/Cas9-based mutagenesis screen that uses a guide RNA (gRNA) library targeting 1,118 immune-related genes. Unmodified NKTs and NKTs expressing a GD2-specific chimeric antigen receptor (GD2.CAR) were transduced with the gRNA library and exposed to CD1d+ leukemia or CD1d-GD2+ neuroblastoma cells, respectively, over six challenge cycles in vitro. Quantification of gRNA abundance revealed enrichment of PRDM1-specific gRNAs in both NKTs and GD2.CAR NKTs, a result that was validated through targeted PRDM1 knockout. Transcriptional, phenotypic, and functional analyses demonstrated that CAR NKTs with PRDM1 knockout underwent central memory-like differentiation and resisted exhaustion. However, these cells downregulated the cytotoxic mediator granzyme B and showed reduced in vitro cytotoxicity and only moderate in vivo antitumor activity in a xenogeneic neuroblastoma model. In contrast, short hairpin RNA-mediated PRDM1 knockdown preserved effector function while promoting central memory differentiation, resulting in GD2.CAR NKTs with potent in vivo antitumor activity. Thus, we have identified PRDM1 as a regulator of NKT memory differentiation and effector function that can be exploited to improve the efficacy of NKT-based cancer immunotherapies.</p>  
-    category: Secondary
+    category: Primary
     tag: CCDI Ecosystem,CCDI Data
     journal: Cancer Immunology Research
     pmid: 39820712
@@ -368,7 +398,7 @@ publicationsList:
     summary: >-
       <p>With growing emphasis on data-driven research in pediatric oncology, particularly in the context of advances in molecular characterization and precision medicine, there is an urgent need for comprehensive data-sharing initiatives. This review explores how the Childhood Cancer Data Initiative (CCDI) addresses this critical need.</p>
     category: Primary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,Review
     journal: >-
       Current Opinion in Pediatrics
     pmid: 39699099
@@ -401,13 +431,15 @@ publicationsList:
   - id: Ecosystem_01022025
     title: >-
       RanBALL: An Ensemble Random Projection Model for Identifying Subtypes of B-Cell Acute Lymphoblastic Leukemia
-    link: https://doi.org/10.1101/2024.09.24.614777
-    date: January 2025
+    link: https://doi.org/10.1002/aisy.202500965
+    date: October 2025
     summary: >-
-      <p>As the most common pediatric malignancy, B-cell acute lymphoblastic leukemia (B-ALL) has multiple distinct subtypes characterized by recurrent and sporadic somatic and germline genetic alterations. Identifying B-ALL subtypes can facilitate risk stratification and enable tailored therapeutic design. Existing methods for B-ALL subtyping primarily depend on immunophenotyping, cytogenetic tests and genomic profiling, which would be costly, complicated, and laborious. To overcome these challenges, we present RanBALL (an ensemble Random projection-based model for identifying B-ALL subtypes), an accurate and cost-effective model for B-ALL subtype identification. By leveraging random projection (RP) and ensemble learning, RanBALL can preserve patient-to-patient distances after dimension reduction and yield robustly accurate classification performance for B-ALL subtyping. Benchmarking results based on > 1700 B-ALL patients demonstrated that RanBALL achieved remarkable performance (accuracy: 0.93, F1-score: 0.93, and Matthews correlation coefficient: 0.93), significantly outperforming state-of-the-art methods like ALLSorts in terms of all performance metrics. In addition, RanBALL performs better than tSNE in terms of visualizing B-ALL subtype information. We believe RanBALL will facilitate the discovery of B-ALL subtype-specific marker genes and therapeutic targets to have consequential positive impacts on downstream risk stratification and tailored treatment design. To extend its applicability and impacts, a Python-based RanBALL package is available at https://github.com/wan-mlab/RanBALL.</p>
+      <p>As the most common pediatric malignancy, B-cell acute lymphoblastic leukemia (B-ALL) has multiple distinct subtypes characterized by recurrent and sporadic somatic and germline genetic alterations. Identifying B-ALL subtypes can facilitate risk stratification and enable tailored therapeutic design. Existing methods for B-ALL subtyping primarily depend on immunophenotyping, cytogenetic tests, and genomic profiling, which can be costly, complicated, and laborious. To overcome these challenges, RanBALL (an ensemble random projection-based model for identifying B-ALL subtypes) is presented, an accurate and cost-effective model for B-ALL subtype identification. By leveraging random projection (RP) and ensemble learning, RanBALL can preserve patient-to-patient distances after dimension reduction and yield robustly accurate classification performance for B-ALL subtyping. Benchmarking results based on >1700 B-ALL patients demonstrate that RanBALL achieves remarkable performance (accuracy: 0.93, F1-score: 0.93, and Matthews correlation coefficient: 0.93), significantly outperforming state-of-the-art methods like ALLSorts in terms of all performance metrics. In addition, RanBALL performs better than t-SNE in terms of visualizing B-ALL subtype information. We believe RanBALL will facilitate the discovery of B-ALL subtype-specific marker genes and therapeutic targets to have consequential positive impacts on downstream risk stratification and tailored treatment design is believed. To extend its applicability and impacts, a Python-based RanBALL package is available at https://github.com/wan-mlab/RanBALL.</p>
     category: Secondary
     tag: CCDI Ecosystem,AI
-    type: Preprint
+    journal: >-
+      Advanced Intelligent Systems
+    pmid: 41246237
 
   - id: Ecosystem_01012025
     title: >-
@@ -483,11 +515,11 @@ publicationsList:
   - id: Ecosystem_10012024
     title: >-
       CAR-redirected natural killer T cells demonstrate superior antitumor activity to CAR-T cells through multimodal CD1d-dependent mechanisms
-    link: https://pubmed.ncbi.nlm.nih.gov/39354225/
+    link: https://doi.org/10.1038/s43018-024-00830-0
     date: October 2024
     summary: >-
       <p>Human natural killer T (NKT) cells have been proposed as a promising cell platform for chimeric antigen receptor (CAR) therapy in solid tumors. Here we generated murine CAR-NKT cells and compared them with CAR-T cells in immune-competent mice. Both CAR-NKT cells and CAR-T cells showed similar antitumor effects in vitro, but CAR-NKT cells showed superior antitumor activity in vivo via CD1d-dependent immune responses in the tumor microenvironment. Specifically, we show that CAR-NKT cells eliminate CD1d-expressing M2-like macrophages. In addition, CAR-NKT cells promote epitope spreading and activation of endogenous T cell responses against tumor-associated neoantigens. Finally, we observed that CAR-NKT cells can co-express PD1 and TIM3 and show an exhaustion phenotype in a model of high tumor burden. PD1 blockade as well as vaccination augmented the antitumor activity of CAR-NKT cells. In summary, our results demonstrate the multimodal function of CAR-NKT cells in solid tumors, further supporting the rationale for developing CAR-NKT therapies in the clinic.</p>
-    category: Secondary 
+    category: Primary 
     tag: CCDI Ecosystem
     journal: Nature Cancer
     pmid: 39354225
@@ -597,6 +629,19 @@ publicationsList:
     journal: The Lancet Oncology
     pmid: 38552658
 
+  - id: Ecosystem_01022024
+    title: >-
+       IL-12 reprograms CAR-expressing natural killer T cells to long-lived Th1-polarized cells with potent antitumor activity
+    link: https://doi.org/10.1038/s41467-023-44310-y
+    date: January 2024
+    summary: >-
+      <p>Human natural killer T cells (NKTs) are innate-like T lymphocytes increasingly used for cancer immunotherapy. Here we show that human NKTs expressing the pro-inflammatory cytokine interleukin-12 (IL-12) undergo extensive and sustained molecular and functional reprogramming. Specifically, IL-12 instructs and maintains a Th1-polarization program in NKTs in vivo without causing their functional exhaustion. Furthermore, using CD62L as a marker of memory cells in human NKTs, we observe that IL-12 maintains long-term CD62L-expressing memory NKTs in vivo. Notably, IL-12 initiates a de novo programming of memory NKTs in CD62L-negative NKTs indicating that human NKTs circulating in the peripheral blood possess an intrinsic differentiation hierarchy, and that IL-12 plays a role in promoting their differentiation to long-lived Th1-polarized memory cells. Human NKTs engineered to co-express a Chimeric Antigen Receptor (CAR) coupled with the expression of IL-12 show enhanced antitumor activity in leukemia and neuroblastoma tumor models, persist long-term in vivo and conserve the molecular signature driven by the IL-12 expression. Thus IL-12 reveals an intrinsic plasticity of peripheral human NKTs that may play a crucial role in the development of cell therapeutics.</p>  
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: >-
+      Nature Communications
+    pmid: 38167707
+
   - id: Ecosystem_12252023
     title: >-
      Missing the mark? Exploratory analysis of the 10-year-old cutoff as an independent marker of high-risk disease in pediatric B-ALL
@@ -608,6 +653,19 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: Pediatric Blood & Cancer
     pmid: 38146039
+
+  - id: Ecosystem_11012023
+    title: >-
+       Refining chimeric antigen receptors via barcoded protein domain combination pooled screening
+    link: https://doi.org/10.1016/j.ymthe.2023.09.008
+    date: November 2023
+    summary: >-
+      <p>Chimeric antigen receptor (CAR)-T cells represent a promising frontier in cancer immunotherapy. However, the current process for developing new CAR constructs is time consuming and inefficient. To address this challenge and expedite the evaluation and comparison of full-length CAR designs, we have devised a novel cloning strategy. This strategy involves the sequential assembly of individual CAR domains using blunt ligation, with each domain being assigned a unique DNA barcode. Applying this method, we successfully generated 360 CAR constructs that specifically target clinically validated tumor antigens CD19 and GD2. By quantifying changes in barcode frequencies through next-generation sequencing, we characterize CARs that best mediate proliferation and expansion of transduced T cells. The screening revealed a crucial role for the hinge domain in CAR functionality, with CD8a and IgG4 hinges having opposite effects in the surface expression, cytokine production, and antitumor activity in CD19- versus GD2-based CARs. Importantly, we discovered two novel CD19-CAR architectures containing the IgG4 hinge domain that mediate superior in vivo antitumor activity compared with the construct used in Kymriah, a U.S. Food and Drug Administration (FDA)-approved therapy. This novel screening approach represents a major advance in CAR engineering, enabling accelerated development of cell-based cancer immunotherapies.</p>  
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: >-
+      Molecular Therapy
+    pmid: 37705245
     
   - id: MCICOG_11012023
     title: >-
@@ -687,7 +745,7 @@ publicationsList:
       ultimately empower precision medicine for children.
     category: Secondary
     tag: CCDI Ecosystem,AI
-    journal: ArXiv
+    type: Preprint
 
   - id: Ecosystem_09132023
     title: >-
@@ -709,7 +767,7 @@ publicationsList:
       modern AI-powered approaches. These changes can improve the performance of predictive models, and ultimately the 
       ability to advance brain cancer treatments and patient outcomes through the development of such models.
     category: Primary
-    tag: CCDI Ecosystem,AI
+    tag: CCDI Ecosystem,AI,Review
     journal: Neuro-Oncology Advances
     pmid: 37841693
 
@@ -746,7 +804,7 @@ publicationsList:
     summary: >-
       Increasing evidence suggests that besides mutational and molecular alterations, the immune component of the tumor microenvironment also substantially impacts tumor behavior and complicates treatment response, particularly to immunotherapies. Although the standard method for characterizing tumor immune profile is through performing integrated genomic analysis on tissue biopsies, the dynamic change in the immune composition of the tumor microenvironment makes this approach not feasible, especially for brain tumors. Radiomics is a rapidly growing field that uses advanced imaging techniques and computational algorithms to extract numerous quantitative features from medical images. Recent advances in machine learning methods are facilitating biological validation of radiomic signatures and allowing them to 'mine' for a variety of significant correlates, including genetic, immunologic, and histologic data. Radiomics has the potential to be used as a non-invasive approach to predict the presence and density of immune cells within the microenvironment, as well as to assess the expression of immune-related genes and pathways. This information can be essential for patient stratification, informing treatment decisions and predicting patients' response to immunotherapies. This is particularly important for tumors with difficult surgical access such as gliomas. In this review, we provide an overview of the glioma microenvironment, describe novel approaches for clustering patients based on their tumor immune profile, and discuss the latest progress on utilization of radiomics for immune profiling of glioma based on current literature.
     category: Primary
-    tag: CCDI Ecosystem,AI
+    tag: CCDI Ecosystem,AI,Review
     journal: npj Precision Oncology
     pmid: 37337080
 
@@ -842,7 +900,7 @@ publicationsList:
     summary: >-
       <p>Recurrent, clonal somatic mutations in histone H3 are molecular hallmarks that distinguish the genetic mechanisms underlying pediatric and adult high-grade glioma (HGG), define biological subgroups of diffuse glioma, and highlight connections between cancer, development, and epigenetics. These oncogenic mutations in histones, now termed “oncohistones”, were discovered through genome-wide sequencing of pediatric diffuse high-grade glioma. Up to 80% of diffuse midline glioma (DMG), including diffuse intrinsic pontine glioma (DIPG) and diffuse glioma arising in other midline structures including thalamus or spinal cord, contain histone H3 lysine 27 to methionine (K27M) mutations or, rarely, other alterations that result in a depletion of H3K27me3 similar to that induced by H3 K27M. This subgroup of glioma is now defined as diffuse midline glioma, H3K27-altered. In contrast, histone H3 Gly34Arg/Val (G34R/V) mutations are found in approximately 30% of diffuse glioma arising in the cerebral hemispheres of older adolescents and young adults, now classified as diffuse hemispheric glioma, H3G34-mutant. Here, we review how oncohistones modulate the epigenome and discuss the mutational landscape and invasive properties of histone mutant HGGs of childhood. The distinct mechanisms through which oncohistones and other mutations rewrite the epigenetic landscape provide novel insights into development and tumorigenesis and may present unique vulnerabilities for pHGGs. Lessons learned from these rare incurable brain tumors of childhood may have broader implications for cancer, as additional high- and low-frequency oncohistone mutations have been identified in other tumor types.</p>
     category: Primary
-    tag: CCDI Ecosystem
+    tag: CCDI Ecosystem,Review
     journal: Cancer and Metastasis Reviews
     pmid: 37119408
     
@@ -873,11 +931,11 @@ publicationsList:
   - id: Ecosystem_03072023
     title: >-
       Interaction between tumor cell TNFR2 and monocyte membrane-bound TNF-α triggers tumorigenic inflammation in neuroblastoma
-    link: https://pubmed.ncbi.nlm.nih.gov/36882225/
+    link: https://doi.org/10.1136/jitc-2022-005478
     date: March 2023
     summary: >-
       <p>Tumor progression and resistance to therapy in children with neuroblastoma (NB), a common childhood cancer, are often associated with infiltration of monocytes and macrophages that produce inflammatory cytokines. However, the mechanism by which tumor-supportive inflammation is initiated and propagated remains unknown. Here, we describe a novel protumorigenic circuit between NB cells and monocytes that is triggered and sustained by tumor necrosis factor alpha (TNF-α).</p>
-    category: Secondary
+    category: Primary
     tag: CCDI Ecosystem
     journal: Journal for ImmunoTherapy of Cancer
     pmid: 36882225
@@ -905,15 +963,28 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: JoVE
     pmid: 36912520
+
+  - id: Ecosystem_02232023
+    title: >-
+       Natural killer T cells and other innate-like T lymphocytes as emerging platforms for allogeneic cancer cell therapy
+    link: https://doi.org/10.1182/blood.2022016201
+    date: February 2023
+    summary: >-
+      <p>T cells expressing chimeric antigen receptors (CARs) have achieved major clinical success in patients with hematologic malignancies. However, these treatments remain largely ineffective for solid cancers and require significant time and resources to be manufactured in an autologous setting. Developing alternative immune effector cells as cancer immunotherapy agents that can be employed in allogeneic settings is crucial for the advancement of cell therapy. Unlike T cells, Vα24-invariant natural killer T cells (NKTs) are not alloreactive and can therefore be generated from allogeneic donors for rapid infusion into numerous patients without the risk of graft-versus-host disease. Additionally, NKT cells demonstrate inherent advantages over T-cell products, including the ability to traffic to tumor tissues, target tumor-associated macrophages, transactivate NK cells, and cross-prime tumor-specific CD8 T cells. Both unmodified NKTs, which specifically recognize CD1d-bound glycolipid antigens expressed by certain types of tumors, and CAR-redirected NKTs are being developed as the next generation of allogeneic cell therapy products. In this review, we describe studies on the biology of NKTs and other types of innate-like T cells and summarize the clinical experiences of unmodified and CAR-redirected NKTs, including recent interim reports on allogeneic NKTs.</p>  
+    category: Primary
+    tag: CCDI Ecosystem,Review
+    journal: >-
+      Blood
+    pmid: 36347021
     
   - id: Ecosystem_02032023
     title: >-
       LEF1 Drives a Central Memory Program and Supports Antitumor Activity of Natural Killer T Cells
-    link: https://pubmed.ncbi.nlm.nih.gov/36484736/
+    link: https://doi.org/10.1158/2326-6066.cir-22-0333
     date: February 2023
     summary: >-
       <p>Vα24-invariant natural killer T cells (NKT) possess innate antitumor properties that can be exploited for cancer immunotherapy. We have shown previously that the CD62L+ central memory-like subset of these cells drives the in vivo antitumor activity of NKTs, but molecular mediators of NKT central memory differentiation remain unknown. Here, we demonstrate that relative to CD62L- cells, CD62L+ NKTs express a higher level of the gene encoding the Wnt/β-catenin transcription factor lymphoid enhancer binding factor 1 (LEF1) and maintain active Wnt/β-catenin signaling. CRISPR/Cas9-mediated LEF1 knockout reduced CD62L+ frequency after antigenic stimulation, whereas Wnt/β-catenin activator Wnt3a ligand increased CD62L+ frequency. LEF1 overexpression promoted NKT expansion and limited exhaustion following serial tumor challenge and was sufficient to induce a central memory-like transcriptional program in NKTs. In mice, NKTs expressing a GD2-specific chimeric-antigen receptor (CAR) with LEF1 demonstrated superior control of neuroblastoma xenograft tumors compared with control CAR-NKTs. These results identify LEF1 as a transcriptional activator of the NKT central memory program and advance development of NKT cell-based immunotherapy.</p>
-    category: Secondary
+    category: Primary
     tag: CCDI Ecosystem
     journal: Cancer Immunology Research
     pmid: 36484736
