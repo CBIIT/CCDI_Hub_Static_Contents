@@ -56,6 +56,18 @@ newsImgUrlList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
+  - id: federation_03262026
+    title: >-
+      CCDI Data now searchable in Data Federation API
+    date: March 26, 2026
+    slug: >-
+      CCDI data now searchable via Data Federation API v1.2.3 for cross-resource cohort discovery
+    highlight: >-
+      <p>CCDI Data Federation API version 1.2.3 expands harmonized data coverage and now enables discovery of CCDI-managed data. Researchers can build cross-resource cohorts using participant, sample, and file-level metadata alongside other participating pediatric cancer resources. This strengthens the CCDI Data Ecosystem and supports comprehensive pediatric cancer research. </p>
+    type: CCDI Application Updates
+    img: updateImgFederation 
+    latestUpdate: true
+    
   - id: ccdc_02192026
     title: >-
       Three new resources and over 40 new data sets in the CCDI Data Catalog
@@ -658,7 +670,6 @@ releaseNotesList:
     type: Release Notes
     img: updateImgReleaseNotes
     contentType: 
-    latestUpdate: true
     
   - id: hub_release_01082025
     title: CCDI Hub Release 2.9.1
