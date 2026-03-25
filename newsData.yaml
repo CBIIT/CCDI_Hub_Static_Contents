@@ -67,6 +67,7 @@ newsList:
     type: CCDI Application Updates
     img: updateImgFederation 
     latestUpdate: true
+    latestUpdateOrder: 1
     
   - id: ccdc_02192026
     title: >-
@@ -79,6 +80,7 @@ newsList:
     type: CCDI Application Updates
     img: updateImgCCDC 
     latestUpdate: true
+    latestUpdateOrder: 2
     
   - id: ccdc_12162025
     title: >-
@@ -658,6 +660,7 @@ releaseNotesList:
     img: updateImgReleaseNotes
     contentType: Clinical,Genomics/Omics,Imaging
     latestUpdate: true
+    latestUpdateOrder: 3
     
   - id: hub_release_02192026
     title: CCDI Hub Release 2.9.2
