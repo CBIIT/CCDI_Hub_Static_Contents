@@ -36,7 +36,7 @@ dataUsagePoliciesContent:
     content: >-
       <p>For any questions or concerns related to CCDI-managed data, email CCDI at <a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">ncichildhoodcancerdatainitiative@mail.nih.gov</a>.</p>
       <p className="calloutBox">For information on sharing NCI-funded cancer research data, <a href="https://datascience.cancer.gov/data-sharing/policy-guidance" target="_blank" rel="noopener noreferrer">NCI‘s official data sharing policy guidance</a> details the people, policies, requirements, and resources you need to start sharing your data.</p>
-Data_Usage_Policies_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Data_Usage_Policies_Header.png?raw=true
+Data_Usage_Policies_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Data_Usage_Policies_Header.png
 
 # About page content
 # upperTitle, upperText, lowerTitle, lowerText, aboutText are editable
@@ -56,4 +56,4 @@ aboutData:
     <ul><li>Answering your questions about the CCDI Hub and its features</li><li>Providing support for using the CCDI Hub Explore Dashboard.</li><li>Receiving feedback on how we can improve the CCDI Hub Explore Dashboard: recommendations for additional filtering or search functionalities, suggestions for enhancing the user interface or navigation, feedback on performance or responsiveness of the dashboard, etc.</li></ul>
     <p>We look forward to hearing from you and enhancing the CCDI Hub to better serve the pediatric cancer research community.</p>
 
-About_Img: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/About_Img.png?raw=true
+About_Img: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/About_Img.png
