@@ -21,7 +21,7 @@
 
 bannerText: Publication list updated as of 3/26/26.
 
-Publications_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Publications_Header.png?raw=true
+Publications_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png
 
 publicationsList:
   - id: Ecosystem_01102026
