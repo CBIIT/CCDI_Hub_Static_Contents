@@ -19,7 +19,7 @@
 #
 # (Note: only one of these three cases can be in one item)
 
-bannerText: Publication list updated as of 4/__/26.
+bannerText: Publication list updated as of 4/15/26.
 
 Publications_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png
 
@@ -30,9 +30,9 @@ publicationsList:
     link: https://doi.org/10.1016/j.jaad.2026.02.019
     date: February 2026
     summary: >-
-      <p>No abstract as online ahead of print.</p>  
+      <p>Cutaneous T-cell lymphoma (CTCL) is a group of non-Hodgkin lymphomas characterized by malignant T-cell infiltration of the skin.1 While CTCL usually presents in older adults, recent studies suggest increasing incidence among individuals under 40 years in the United States (US).1,2 However, it remains unclear how pediatric, adolescent, and young adult populations have been affected. To address this, we characterized incidence trends of CTCL in these populations within the US.</p>  
     category: Secondary
-    tag: CCDI-NCCR
+    tag: CCDI-NCCR, CCDI Data
     journal: >-
       Journal of the American Academy of Dermatology
     pmid: 41688023
@@ -95,7 +95,7 @@ publicationsList:
     link: https://doi.org/10.1371/journal.pone.0333401
     date: October 2025
     summary: >-
-      <p>Rates of pediatric differentiated thyroid cancer (DTC) have been increasing, yet disparities in incidence, diagnosis, and treatment across race and ethnicity have not been fully explored.</p>  
+      <p>Rates of pediatric differentiated thyroid cancer (DTC) have been increasing, yet disparities in incidence, diagnosis, and treatment across race and ethnicity have not been fully explored. We assessed temporal trends in the incidence of pediatric DTC using data from 2000–2022 (excluding 2020 due to COVID-19) from the National Childhood Cancer Registry. Annual percent changes (APC) were calculated using joinpoint regression analysis overall and by race, ethnicity, age, and clinical factors. Differences in cancer presentation and treatment by race and ethnicity were evaluated using data from Surveillance, Epidemiology, and End Results (SEER) for 18 registries for 2006–2018, while accounting for socioeconomic status (SES).</p>  
     category: Secondary
     tag: CCDI-NCCR, CCDI Data
     journal: >-
@@ -418,11 +418,11 @@ publicationsList:
 
   - id: NCCR_03012025
     title: >-
-      Clinical presentations and decreasing incidence of melanoma in pediatric and adolescent and young adult patients: 76,108 cases from a nationally representative cohort.
+      Clinical presentations and decreasing incidence of melanoma in pediatric and adolescent and young adult patients: 76,108 cases from a nationally representative cohort
     link: https://doi.org/10.1016/j.jaad.2024.10.084
     date: March 2025
     summary: >-
-      <p>Knowledge of melanoma presentations among pediatric and adolescent and young adult (AYA) patients are limited because of studies with small sample sizes.</p>
+      <p>Knowledge of melanoma presentations among pediatric and adolescent and young adult (AYA) patients are limited because of studies with small sample sizes. The objective of this study was to determine the incidence trends and melanoma presentations based on age, sex, race, and ethnicity using a large cohort of diagnoses from 1997 to 2020.</p>
     category: Secondary
     tag: CCDI-NCCR, CCDI Data
     journal: Journal of the American Academy of Dermatology
