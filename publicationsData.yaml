@@ -406,7 +406,7 @@ publicationsList:
   - id: NCCR_01122025
     title: >-
       Making the case for an International Childhood Cancer Data Partnership
-    link: https://pubmed.ncbi.nlm.nih.gov/39799506
+    link: https://doi.org/10.1093/jnci/djaf003
     date: January 2025
     summary: >-
       <p>Childhood cancers are a heterogeneous group of rare diseases, accounting for less than 2% of all cancers diagnosed worldwide. Most countries, therefore, do not have enough cases to provide robust information on epidemiology, treatment, and late effects, especially for rarer types of cancer. Thus, only through a concerted effort to share data internationally will we be able to answer research questions that could not otherwise be answered. With this goal in mind, the U.S. National Cancer Institute and the French National Cancer Institute co-sponsored the Paris Conference for an International Childhood Cancer Data Partnership in November 2023. This meeting convened more than 200 participants from 17 countries to address complex challenges in pediatric cancer research and data sharing. This Commentary delves into some key topics discussed during the Paris Conference and describes pilots that will help move this international effort forward. Main topics presented include: 1) the wide variation in interpreting the European Union's General Data Protection Regulation among Member States; 2) obstacles with transferring personal health data outside of the European Union; 3) standardization and harmonization, including common data models; and 4) novel approaches to data sharing such as federated querying and federated learning. We finally provide a brief description of three ongoing pilot projects. The International Childhood Cancer Data Partnership is the first step in developing a process to better support pediatric cancer research internationally through combining data from multiple countries.</p>
@@ -444,7 +444,7 @@ publicationsList:
   - id: Ecosystem_01012025
     title: >-
       The landscape of primary mismatch repair deficient gliomas in children, adolescents, and young adults: a multi-cohort study
-    link: https://pubmed.ncbi.nlm.nih.gov/39701117
+    link: https://doi.org/10.1016/s1470-2045(24)00640-5
     date: January 2025
     summary: >-
       <p>Gliomas are a major cause of cancer-related death among children, adolescents, and young adults (age 0-40 years). Primary mismatch repair deficiency (MMRD) is a pan-cancer mechanism with unique biology and therapeutic opportunities. We aimed to determine the extent and impact of primary MMRD in gliomas among children, adolescents, and young adults.</p>
@@ -491,7 +491,7 @@ publicationsList:
   - id: NCCR_10242024
     title: >-
       Temporal trends in pediatric cancer mortality: rare cancers lag behind more common cancers
-    link: https://pubmed.ncbi.nlm.nih.gov/39449234/
+    link: https://doi.org/10.1080/08880018.2024.2413643
     date: October 2024
     summary: >-
       <p>Temporal trends demonstrate improved survival for many types of common pediatric cancer. Studies have not examined improvement in very rare pediatric cancers or compared these improvements to more common cancers. In this cohort study of the Surveillance, Epidemiology, and End Results (SEER) registry, we examined patients from 1975 to 2016 who were 0–19 years of age at the time of diagnosis. Cancers were grouped by decade of diagnosis and 3 cancer frequency groups: Common, Intermediate, and Rare. Trends in mortality across decades and by cancer frequency were compared using Kaplan–Meier curves and adjusted Cox proportional hazards models. A total of 50,222 patients were available for analysis, with the top 10 cancers grouped as Common (67%), 13 cancers grouped with Intermediate (24%), and 37 cancers as Rare (9%). Rare cancers had higher rates of children who were older and Black. 5-year survival increased from 63% to 86% across all cancers from the 1970s to the 2010s. The hazard ratio (HR) for mortality decreased from the reference point of 1 in the 1970s to 0.27 (95% CI: 0.25-0.30) in the 2010s in Common cancers, while the HR only dropped to 0.60 (0.49–0.73) over that same period for rare cancers. Pediatric oncology patients have experienced dramatic improvement in mortality since the 1970s, with mortality falling by nearly 75% in common cancers. Unfortunately, rare pediatric cancers continue to lag behind more common and therefore better studied cancers, highlighting the need for a renewed focus on research efforts for children with these rare diseases.</p>
@@ -620,7 +620,7 @@ publicationsList:
   - id: Ecosystem_05012024
     title: >-
       Clinical and biological landscape of constitutional mismatch-repair deficiency syndrome: an International Replication Repair Deficiency Consortium cohort study
-    link: https://pubmed.ncbi.nlm.nih.gov/38552658/
+    link: https://doi.org/10.1016/s1470-2045(24)00026-3
     date: May 2024
     summary: >-
       Constitutional mismatch repair deficiency (CMMRD) syndrome is a rare and aggressive cancer predisposition syndrome. Because a scarcity of data on this condition contributes to management challenges and poor outcomes, we aimed to describe the clinical spectrum, cancer biology, and impact of genetics on patient survival in CMMRD.
@@ -693,7 +693,7 @@ publicationsList:
   - id: Ecosystem_10272023
     title: >-
       Childhood cancer data initiative: Status report
-    link: https://pubmed.ncbi.nlm.nih.gov/37889049/
+    link:  https://doi.org/10.1002/pbc.30745
     date: October 2023
     summary: >-
       In March 2023, over 800 researchers, clinicians, patients, survivors, and advocates from the pediatric oncology community met to discuss the progress of the National Cancer Institute's Childhood Cancer Data Initiative. We present here the status of the initiative's efforts in building its data ecosystem and updates on key programs, especially the Molecular Characterization Initiative and the planned Coordinated National Initiative for Rare Cancers in Children and Young Adults. These activities aim to improve access to childhood cancer data, foster collaborations, facilitate integrative data analysis, and expand access to molecular characterization, ultimately leading to the development of innovative therapeutic approaches.
@@ -774,7 +774,7 @@ publicationsList:
   - id: MCICOG_07142023
     title: >-
       Children’s Oncology Group’s 2023 blueprint for research: Epidemiology
-    link: https://pubmed.ncbi.nlm.nih.gov/37449937/
+    link: https://doi.org/10.1002/pbc.30566
     date: July 2023
     summary: >-
       The Children's Oncology Group (COG) Epidemiology Committee has a primary focus on better understanding the etiologies 
@@ -811,7 +811,7 @@ publicationsList:
   - id: Ecosystem_06162023_2
     title: >-
       Protocol for using single-cell sequencing to study the heterogeneity of NF1 nerve sheath tumors from clinical biospecimens
-    link: https://pubmed.ncbi.nlm.nih.gov/37167059/
+    link: https://doi.org/10.1016/j.xpro.2023.102297
     date: June 2023
     summary: >-
       Single-cell sequencing is a powerful technology to understand the heterogeneity of clinical biospecimens. Here, we present a protocol for obtaining single-cell suspension from neurofibromatosis type 1-associated nerve sheath tumors for transcriptomic profiling on the 10x platform. We describe steps for clinical sample collection, generation of single-cell suspension, and cell capture and sequencing. We then detail methods for integrative analysis, developmental Schwann cell trajectory building using bioinformatic tools, and comparative analysis. This protocol can be adapted for single-cell sequencing using mouse nerve tumors. For complete details on the use and execution of this protocol, please refer to Zhang et al. (2022).1.
@@ -823,7 +823,7 @@ publicationsList:
   - id: Ecosystem_06162023_1
     title: >-
       The children’s brain tumor network (CBTN) - Accelerating research in pediatric central nervous system tumors through collaboration and open science
-    link: https://pubmed.ncbi.nlm.nih.gov/36335802/
+    link: https://doi.org/10.1016/j.neo.2022.100846
     date: June 2023
     summary: >-
       Pediatric brain tumors are the leading cause of cancer-related death in children in the United States and contribute a disproportionate number of potential years of life lost compared to adult cancers. Moreover, survivors frequently suffer long-term side effects, including secondary cancers. The Children's Brain Tumor Network (CBTN) is a multi-institutional international clinical research consortium created to advance therapeutic development through the collection and rapid distribution of biospecimens and data via open-science research platforms for real-time access and use by the global research community. The CBTN's 32 member institutions utilize a shared regulatory governance architecture at the Children's Hospital of Philadelphia to accelerate and maximize the use of biospecimens and data. As of August 2022, CBTN has enrolled over 4700 subjects, over 1500 parents, and collected over 65,000 biospecimen aliquots for research. Additionally, over 80 preclinical models have been developed from collected tumors. Multi-omic data for over 1000 tumors and germline material are currently available with data generation for > 5000 samples underway. To our knowledge, CBTN provides the largest open-access pediatric brain tumor multi-omic dataset annotated with longitudinal clinical and outcome data, imaging, associated biospecimens, child-parent genomic pedigrees, and in vivo and in vitro preclinical models. Empowered by NIH-supported platforms such as the Kids First Data Resource and the Childhood Cancer Data Initiative, the CBTN continues to expand the resources needed for scientists to accelerate translational impact for improved outcomes and quality of life for children with brain and spinal cord tumors.
@@ -835,7 +835,7 @@ publicationsList:
   - id: Ecosystem_06152023
     title: >-
       The CCDI Comes Out of the Starting Block
-    link: https://pubmed.ncbi.nlm.nih.gov/37319399/
+    link: https://doi.org/10.1200/jco.23.00652
     date: June 2023
     summary: >-
       <p>The Children's Cancer Data Initiative is investing $500 million US dollars over 10 years to improve current treatments for cancers arising in pediatric, adolescent, and young adult patients by supporting research that will result in new therapies to improve overall cure rates while reducing the devastating adverse long-term health outcomes for survivors. In the article that accompanies this editorial, Flores-Toro et al describe the origins of the Childhood Cancer Data Initiative, provide an interim progress report, and outline future goals and directions.</p>
@@ -859,7 +859,7 @@ publicationsList:
   - id: Ecosystem_06022023
     title: >-
       The Childhood Cancer Data Initiative: Using the Power of Data to Learn From and Improve Outcomes for Every Child and Young Adult With Pediatric Cancer
-    link: https://pubmed.ncbi.nlm.nih.gov/37267580/
+    link: https://doi.org/10.1200/JCO.22.02208
     date: June 2023
     summary: >-
       Data-driven basic, translational, and clinical research has resulted in improved outcomes for children, adolescents, and young adults (AYAs) with pediatric cancers. However, challenges in sharing data between institutions, particularly in research, prevent addressing substantial unmet needs in children and AYA patients diagnosed with certain pediatric cancers. Systematically collecting and sharing data from every child and AYA can enable greater understanding of pediatric cancers, improve survivorship, and accelerate development of new and more effective therapies. To accomplish this goal, the Childhood Cancer Data Initiative (CCDI) was launched in 2019 at the National Cancer Institute. CCDI is a collaborative community endeavor supported by a 10-year, $50-million (in US dollars) annual federal investment. CCDI aims to learn from every patient diagnosed with a pediatric cancer by designing and building a data ecosystem that facilitates data collection, sharing, and analysis for researchers, clinicians, and patients across the cancer community. For example, CCDI's Molecular Characterization Initiative provides comprehensive clinical molecular characterization for children and AYAs with newly diagnosed cancers. Through these efforts, the CCDI strives to provide clinical benefit to patients and improvements in diagnosis and care through data-focused research support and to build expandable, sustainable data resources and workflows to advance research well past the planned 10 years of the initiative. Importantly, if CCDI demonstrates the success of this model for pediatric cancers, similar approaches can be applied to adults, transforming both clinical research and treatment to improve outcomes for all patients with cancer.
@@ -871,7 +871,7 @@ publicationsList:
   - id: Ecosystem_05312023
     title: >-
       OpenPBTA: The Open Pediatric Brain Tumor Atlas
-    link: https://pubmed.ncbi.nlm.nih.gov/37492101/
+    link: https://doi.org/10.1016/j.xgen.2023.100340
     date: May 2023
     summary: >-
       Pediatric brain and spinal cancers are collectively the leading disease-related cause of death in children; thus, we urgently need curative therapeutic strategies for these tumors. To accelerate such discoveries, the Children's Brain Tumor Network (CBTN) and Pacific Pediatric Neuro-Oncology Consortium (PNOC) created a systematic process for tumor biobanking, model generation, and sequencing with immediate access to harmonized data. We leverage these data to establish OpenPBTA, an open collaborative project with over 40 scalable analysis modules that genomically characterize 1,074 pediatric brain tumors. Transcriptomic classification reveals universal TP53 dysregulation in mismatch repair-deficient hypermutant high-grade gliomas and TP53 loss as a significant marker for poor overall survival in ependymomas and H3 K28-mutant diffuse midline gliomas. Already being actively applied to other pediatric cancers and PNOC molecular tumor board decision-making, OpenPBTA is an invaluable resource to the pediatric oncology community.
@@ -883,7 +883,7 @@ publicationsList:
   - id: NCCR_05212023
     title: >-
       The Pediatric Proton and Photon Therapy Comparison Cohort: Study Design for a Multicenter Retrospective Cohort to Investigate Subsequent Cancers After Pediatric Radiation Therapy
-    link: https://pubmed.ncbi.nlm.nih.gov/38047226/
+    link: https://doi.org/10.1016/j.adro.2023.101273
     date: May 2023
     summary: >-
       The physical properties of protons lower doses to surrounding normal tissues compared with photons, potentially reducing acute and long-term adverse effects, including subsequent cancers. The magnitude of benefit is uncertain, however, and currently based largely on modeling studies. Despite the paucity of directly comparative data, the number of proton centers and patients are expanding exponentially. Direct studies of the potential risks and benefits are needed in children, who have the highest risk of radiation-related subsequent cancers. The Pediatric Proton and Photon Therapy Comparison Cohort aims to meet this need.
@@ -943,7 +943,7 @@ publicationsList:
   - id: Ecosystem_03022023
     title: >-
       Targeted long-read sequencing of the Ewing sarcoma 6p25.1 susceptibility locus identifies germline-somatic interactions with EWSR1-FLI1 binding
-    link: https://pubmed.ncbi.nlm.nih.gov/36787739/
+    link: https://doi.org/10.1016/j.ajhg.2023.01.017
     date: March 2023
     summary: >-
       <p>Ewing sarcoma (EwS) is a rare bone and soft tissue malignancy driven by chromosomal translocations encoding chimeric transcription factors, such as EWSR1-FLI1, that bind GGAA motifs forming novel enhancers that alter nearby expression. We propose that germline microsatellite variation at the 6p25.1 EwS susceptibility locus could impact downstream gene expression and EwS biology. We performed targeted long-read sequencing of EwS blood DNA to characterize variation and genomic features important for EWSR1-FLI1 binding. We identified 50 microsatellite alleles at 6p25.1 and observed that EwS-affected individuals had longer alleles (>135 bp) with more GGAA repeats. The 6p25.1 GGAA microsatellite showed chromatin features of an EWSR1-FLI1 enhancer and regulated expression of RREB1, a transcription factor associated with RAS/MAPK signaling. RREB1 knockdown reduced proliferation and clonogenic potential and reduced expression of cell cycle and DNA replication genes. Our integrative analysis at 6p25.1 details increased binding of longer GGAA microsatellite alleles with acquired EWSR-FLI1 to promote Ewing sarcomagenesis by RREB1-mediated proliferation.</p>
@@ -1016,7 +1016,7 @@ publicationsList:
   - id: Ecosystem_11142022
     title: >-
       CIViCdb 2022: evolution of an open-access cancer variant interpretation knowledgebase
-    link: https://pubmed.ncbi.nlm.nih.gov/36373660/
+    link: https://doi.org/10.1093/nar/gkac979
     date: November 2022
     summary: |
       CIViC (Clinical Interpretation of Variants in Cancer; civicdb.org) is a crowd-sourced, public domain knowledgebase composed of literature-derived evidence characterizing the clinical utility of cancer variants. As clinical sequencing becomes more prevalent in cancer management, the need for cancer variant interpretation has grown beyond the capability of any single institution. CIViC contains peer-reviewed, published literature curated and expertly-moderated into structured data units (Evidence Items) that can be accessed globally and in real time, reducing barriers to clinical variant knowledge sharing. We have extended CIViC's functionality to support emergent variant interpretation guidelines, increase interoperability with other variant resources, and promote widespread dissemination of structured curated data. To support the full breadth of variant interpretation from basic to translational, including integration of somatic and germline variant knowledge and inference of drug response, we have enabled curation of three new Evidence Types (Predisposing, Oncogenic and Functional). The growing CIViC knowledgebase has over 300 contributors and distributes clinically-relevant cancer variant data currently representing >3200 variants in >470 genes from >3100 publications.
@@ -1040,7 +1040,7 @@ publicationsList:
   - id: Ecosystem_07212022
     title: >-
       NCI launches the Molecular Characterization Initiative for pediatric tumors
-    link: https://pubmed.ncbi.nlm.nih.gov/35860918/
+    link: https://doi.org/10.1002/cncr.34381
     date: July 2022
     summary: >-
       <p>“MCI will provide a comprehensive molecular analysis of a patient’s tumor (and blood for cancer predisposition findings) in a clinical report returned soon after initial diagnosis,” says Douglas Hawkins, MD, a professor of pediatrics at Seattle Children’s Hospital and University of Washington in Seattle, and Group Chair of the research organization Children’s Oncology Group. “A few larger cancer programs have institutional or grant funding to cover the cost of molecular testing for newly diagnosed pediatric cancers. Currently, this level of molecular characterization is not available to most children with newly diagnosed cancer due to restriction on insurance coverage. MCI will provide comprehensive molecular analysis to children with selected cancers regardless of where they are treated and without the need for insurance coverage. We anticipate that MCI will lead to the refinement of clinical diagnoses and may help suggest alternative treatment options, including clinical trials. This is especially relevant for pediatric brain tumors, which increasingly are characterized by molecular alterations inaddition to histologic features.”</p>
@@ -1064,7 +1064,7 @@ publicationsList:
   - id: Ecosystem_06022022
     title: >-
       NCI Launches Pediatric Molecular Characterization Initiative
-    link: https://pubmed.ncbi.nlm.nih.gov/35446390/
+    link: https://doi.org/10.1158/2159-8290.cd-nb2022-0031
     date:  June 2022
     summary: >-
       <p>The NCI has launched the Molecular Characterization Initiative, which will provide tumor sequencing to children, adolescents, and young adults receiving clinical care at a Children's Oncology Group-affiliated hospital. By examining tumors at a molecular level, oncologists can make a more precise diagnosis, help determine what might be driving the cancer's growth, and assess patients' eligibility for clinical trials.</p>
@@ -1076,7 +1076,7 @@ publicationsList:
   - id: Ecosystem_04272022
     title: >-
       Large scale genotype‐ and phenotype‐driven machine learning in Von Hippel‐Lindau disease
-    link: https://pubmed.ncbi.nlm.nih.gov/35475554/
+    link: https://doi.org/10.1002/humu.24392
     date: April 2022
     summary: >-
       Von Hippel-Lindau (VHL) disease is a hereditary cancer syndrome where individuals are predisposed to tumor development in the brain, adrenal gland, kidney, and other organs. It is caused by pathogenic variants in the VHL tumor suppressor gene. Standardized disease information has been difficult to collect due to the rarity and diversity of VHL patients. Over 4100 unique articles published until October 2019 were screened for germline genotype-phenotype data. Patient data were translated into standardized descriptions using Human Genome Variation Society gene variant nomenclature and Human Phenotype Ontology terms and has been manually curated into an open-access knowledgebase called Clinical Interpretation of Variants in Cancer. In total, 634 unique VHL variants, 2882 patients, and 1991 families from 427 papers were captured. We identified relationship trends between phenotype and genotype data using classic statistical methods and spectral clustering unsupervised learning. Our analyses reveal earlier onset of pheochromocytoma/paraganglioma and retinal angiomas, phenotype co-occurrences and genotype-phenotype correlations including hotspots. It confirms existing VHL associations and can be used to identify new patterns and associations in VHL disease. Our database serves as an aggregate knowledge translation tool to facilitate sharing information about the pathogenicity of VHL variants.
@@ -1088,7 +1088,7 @@ publicationsList:
   - id: Ecosystem_03162022
     title: >-
       Standardized evidence-based approach for assessment of oncogenic and clinical significance of NTRK fusions
-    link: https://pubmed.ncbi.nlm.nih.gov/35366592/
+    link: https://doi.org/10.1016/j.cancergen.2022.03.001
     date: March 2022
     summary: >-
       Gene fusions involving the neurotrophic receptor tyrosine kinase genes NTRK1, NTRK2, and NTRK3, are well established oncogenic drivers in a broad range of pediatric and adult tumors. These fusions are also important actionable markers, predicting often dramatic response to FDA approved kinase inhibitors. Accurate interpretation of the clinical significance of NTRK fusions is a high priority for diagnostic laboratories, but remains challenging and time consuming given the rapid pace of new data accumulation, the diversity of fusion partners and tumor types, and heterogeneous and incomplete information in variant databases and knowledgebases. The ClinGen NTRK Fusions Somatic Cancer Variant Curation Expert Panel (SC-VCEP) was formed to systematically address these challenges and create an expert-curated resource to support clinicians, researchers, patients and their families in making accurate interpretations and informed treatment decisions for NTRK fusion-driven tumors. We describe a system for NTRK fusion interpretation (including compilation of key elements and annotations) developed by the NTRK fusions SC-VCEP. We illustrate this stepwise process on examples of LMNA::NTRK1 and KANK1::NTRK2 fusions. Finally, we provide detailed analysis of current representation of NTRK fusions in public fusion databases and the CIViC knowledgebase, performed by the NTRK fusions SC-VCEP to determine existing gaps and prioritize future curation activities.
