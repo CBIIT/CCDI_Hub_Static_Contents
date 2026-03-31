@@ -19,11 +19,24 @@
 #
 # (Note: only one of these three cases can be in one item)
 
-bannerText: Publication list updated as of 3/26/26.
+bannerText: Publication list updated as of 4/__/26.
 
 Publications_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png
 
 publicationsList:
+  - id: NCCR_02112026
+    title: >-
+       Increasing Incidence of Cutaneous T-Cell Lymphoma Among Children and Young Adults in the United States, 1997–2019: A National Population-Based Study Using the National Childhood Cancer Registry
+    link: https://doi.org/10.1016/j.jaad.2026.02.019
+    date: January 2026
+    summary: >-
+      <p></p>  
+    category: Secondary
+    tag: CCDI-NCCR
+    journal: >-
+      Journal of the American Academy of Dermatology
+    pmid: 41688023
+    
   - id: Ecosystem_01102026
     title: >-
        IL-18 metabolically reprograms CAR-expressing natural killer T cells and enhances their antitumor activity
@@ -75,6 +88,19 @@ publicationsList:
     journal: >-
       Cancer
     pmid: 41237091
+
+  - id: NCCR_10162025
+    title: >-
+        Evaluation of disparities in the incidence, presentation, and treatment of pediatric differentiated thyroid cancer in the United States (2000-2022)
+    link: https://doi.org/10.1371/journal.pone.0333401
+    date: October 2025
+    summary: >-
+      <p>Rates of pediatric differentiated thyroid cancer (DTC) have been increasing, yet disparities in incidence, diagnosis, and treatment across race and ethnicity have not been fully explored.</p>  
+    category: Secondary
+    tag: CCDI-NCCR, CCDI Data
+    journal: >-
+      PLOS One
+    pmid: 41100458
   
   - id: Ecosystem_09022025
     title: >-
@@ -390,6 +416,18 @@ publicationsList:
     journal: Cancers
     pmid: 40227653
 
+  - id: NCCR_03012025
+    title: >-
+      Clinical presentations and decreasing incidence of melanoma in pediatric and adolescent and young adult patients: 76,108 cases from a nationally representative cohort.
+    link: https://doi.org/10.1016/j.jaad.2024.10.084
+    date: March 2025
+    summary: >-
+      <p>Knowledge of melanoma presentations among pediatric and adolescent and young adult (AYA) patients are limited because of studies with small sample sizes.</p>
+    category: Secondary
+    tag: CCDI-NCCR, CCDI Data
+    journal: Journal of the American Academy of Dermatology
+    pmid: 39551155
+
   - id: Ecosystem_02012025
     title: >-
       The childhood cancer data initiative: enabling data sharing to drive research advances and transform pediatric cancer diagnosis and treatment
@@ -547,6 +585,18 @@ publicationsList:
     tag: CCDI Ecosystem,AI
     conference: >-
       AACR Special Conference in Cancer Research: Advances in Pediatric Cancer Research
+
+  - id: NCCR_08012024
+    title: >-
+      History of the Surveillance, Epidemiology, and End Results (SEER) Program
+    link: https://doi.org/10.1093/jncimonographs/lgae033 
+    date: August 2024
+    summary: >-
+      <p>The Surveillance, Epidemiology, and End Results (SEER) Program established in 1973 was the first laboratory for experimenting with new methods for cancer data collection and translating the data into population-based cancer statistics. The SEER Program staff have been instrumental in the development of the International Classification of Disease-Oncology and successfully implemented the routine collection of anatomic and prognostic cancer stage at diagnosis. Currently the program consists of 21 central registries that generate cancer statistics covering more than 48% of the US population and an additional 10 research support registries contributing to certain research projects, such as the National Childhood Cancer Registry. In parallel with the geographical expansion, the program built an architecture of methods and tools for population-based cancer statistics, with SEER*Explorer as the most recent online tool for descriptive statistics. In addition, SEER releases annual updates for a comprehensive data product line, which includes SEER*Stat databases with an annual caseload of more than 800 000 incident cases. Furthermore, the program developed a full suite of analytical applications for population-based cancer statistics that include Joinpoint (regression-based trend analysis), DevCan (risk of diagnosis and death), CanSurv (survival models), and ComPrev and PrejPrev (cancer prevalence), among others. The future of the SEER Program is closely aligned to the overall goals of the "war on cancer." The program aims to release longitudinal treatment data coupled with a comprehensive genomic characterization of cancers with a declared goal of decreasing the cancer burden and disparities across a wide spectrum of diseases and communities.</p>
+    category: Secondary
+    tag: CCDI-NCCR
+    journal: JNCI Monographs
+    pmid: 39102881
 
   - id: Ecosystem_06072024
     title: >-
@@ -770,6 +820,18 @@ publicationsList:
     tag: CCDI Ecosystem,AI,Review
     journal: Neuro-Oncology Advances
     pmid: 37841693
+
+  - id: NCCR_09012023
+    title: >-
+      The Trajectory of Pediatric Cancer Data and Collection in the United States
+    link: https://pmc.ncbi.nlm.nih.gov/articles/PMC10629799/ 
+    date: September 2023
+    summary: >-
+      <p>The past several years have been marked by substantial growth in pediatric cancer data and collection across the world. In the United States, multiple projects and standard setters have laid a foundation for the growth of this data, and the need for an overview and explanation of a few of the programs directly relevant to cancer registrars has become apparent. This article will discuss 3 initiatives that highlight many of the efforts and intricacies involved with the collection of pediatric cancer data in the cancer registry world: the National Childhood Cancer Registry, the Toronto Pediatric Cancer Stage Guidelines, and the Pediatric Site-Specific Data Items Work Group.</p>
+    category: Secondary
+    tag: CCDI-NCCR
+    journal: Journal of Registry Management
+    pmid: 37941745
 
   - id: MCICOG_07142023
     title: >-
