@@ -27,18 +27,18 @@ contentTypeUrlList:
 # newsImgUrlList:
 #   list for newsImgUrl
 newsImgUrlList:
-    updateImgCCDC: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_CCDC.png?raw=true,
-    updateImgNewApplicationRelease: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_New_Application_Release.png?raw=true,
-    updateImgMCI: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_MCI.png?raw=true,
-    updateImgSymposium: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_Symposium.png?raw=true,
-    updateImgMTP: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_MTP.png?raw=true,
-    updateImgMTP2: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_MTP_2.png?raw=true,
-    updateImgMCI2: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_MCI_2.png?raw=true,
-    updateImgMiscNews: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_Misc_News.png?raw=true,
-    updateImgEHR: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_EHR.png?raw=true,
-    updateImgC3DC: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_C3DC.png?raw=true,
-    updateImgReleaseNotes: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_Release_Notes.png?raw=true,
-    updateImgFederation: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/News/News_Federation.png?raw=true,
+    updateImgCCDC: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png
+    updateImgNewApplicationRelease: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_New_Application_Release.png
+    updateImgMCI: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MCI.png
+    updateImgSymposium: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Symposium.png
+    updateImgMTP: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MTP.png
+    updateImgMTP2: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MTP_2.png
+    updateImgMCI2: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MCI_2.png
+    updateImgMiscNews: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png
+    updateImgEHR: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_EHR.png
+    updateImgC3DC: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png
+    updateImgReleaseNotes: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png
+    updateImgFederation: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Federation.png
 
 # newsList:
 #   id: name_MMDDYYYY * Note: cannot have duplicate id for 2 different items;
@@ -67,6 +67,7 @@ newsList:
     type: CCDI Application Updates
     img: updateImgFederation 
     latestUpdate: true
+    latestUpdateOrder: 1
     
   - id: ccdc_02192026
     title: >-
@@ -79,6 +80,7 @@ newsList:
     type: CCDI Application Updates
     img: updateImgCCDC 
     latestUpdate: true
+    latestUpdateOrder: 2
     
   - id: ccdc_12162025
     title: >-
@@ -658,6 +660,7 @@ releaseNotesList:
     img: updateImgReleaseNotes
     contentType: Clinical,Genomics/Omics,Imaging
     latestUpdate: true
+    latestUpdateOrder: 3
     
   - id: hub_release_02192026
     title: CCDI Hub Release 2.9.2

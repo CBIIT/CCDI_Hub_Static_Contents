@@ -421,7 +421,7 @@ mciContent:
           <p>For questions related to Project:EveryChild (APEC14B1), contact <a href="mailto:projecteverychild@childrensoncologygroup.org">projecteverychild@childrensoncologygroup.org</a>.</p>         
 MCI_Workflow_Diagram_Caption: >-
   Data generation and sharing workflow: Biospecimens collected from COG Project:EveryChild participants enrolled in the MCI are processed through coordinated clinical and research pipelines. Clinical sequencing is performed in a CLIA-certified laboratory, with results returned to patients and providers, while research characterization generates additional data, such as WGS, transcriptomics, proteomics, and metabolomics. Deidentified clinical, molecular, and imaging data are made available through the CCDI Data Ecosystem, with the CCDI cBioPortal Cancer Data Explorer enabling visualization and exploration of the analyzed data.
-MCI_CCDI_Data_Ecosystem: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_02032026.png?raw=true
-MCI_CCDI_Data_Ecosystem_Mobile: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_Mobile.png?raw=true
-MCI_header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/MCI/MCI_header.png?raw=true
-MCI_header_mobile: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/MCI/MCI_header_mobile.png?raw=true
+MCI_CCDI_Data_Ecosystem: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_02032026.png
+MCI_CCDI_Data_Ecosystem_Mobile: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_Mobile.png
+MCI_header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_header.png
+MCI_header_mobile: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_header_mobile.png
