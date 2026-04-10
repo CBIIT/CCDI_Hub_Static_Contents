@@ -93,8 +93,6 @@ newsList:
       <p>The CONCORD*Explorer, NF Data Portal, and scMINER resources were added to the CCDC with 16 new data sets as part of the 1.5.7 release. 32 new data sets were also added to existing resources, with notable additions to cBioPortal, Gene Expression Omnibus (GEO), and dbGaP. Counts, dbGaP accessions, and references were updated for numerous other resources and “Available Files” links to download clinical data were added to four more TARGET data sets.</p>
     type: CCDI Application Updates
     img: updateImgCCDC 
-    latestUpdate: true
-    latestUpdateOrder: 3
     
   - id: ccdc_12162025
     title: >-
@@ -673,6 +671,8 @@ releaseNotesList:
     type: Release Notes
     img: updateImgReleaseNotes
     contentType: Clinical,Genomics/Omics,Imaging
+    latestUpdate: true
+    latestUpdateOrder: 3
     
   - id: hub_release_02192026
     title: CCDI Hub Release 2.9.2
