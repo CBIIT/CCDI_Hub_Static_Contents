@@ -258,10 +258,15 @@ rareCancerContent:
         subtopic: Contact Information
         content: >-
           <h3>Who should I contact with questions about CCDI Pediatric and AYA Rare Cancer Study results and data?</h3>
-          <p>If you are interested in participating in the Pediatric and AYA Rare Cancer Study, please click the button below to download the contact form, complete it, and submit it via email using the Submit button in the form. </p>
+          <p><a href="#" data-action="download-contact-form">Download the CCDI Pediatric and AYA Rare Cancer Study Contact Form</a>, complete it, and submit to <a class="link" href="mailto:NCICCDIRCI@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCICCDIRCI@mail.nih.gov</a> if you are interested in participating.</p>
           <p>For questions related to study data or accessing the CCDI Data Ecosystem, contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
 RCI_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/RCI/Rare_Cancer_Header.png
 RCI_Data_Flow_Chart_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/RCI/RCI_data_flow_chart.png
+RCI_DOWNLOAD_CONFIG:
+  url: >-
+    https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/PDF/Resources/RCI/rare-cancer-study_contact.pdf
+  filename: >-
+    rare-cancer-study_contact.pdf
 
 ccdiEventAnnouncementsIntroText: >-
   <p>The CCDI Events Announcements page brings together news announcements and details on past events, webinars, and workshops.</p>
