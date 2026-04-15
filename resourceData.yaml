@@ -26,8 +26,8 @@ federationContent:
     topic: Contact
     content: >- 
       <p><a href="mailto:ncichildhoodcancerdatainitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">Email us</a> with questions related to CCDI federated data or accessing the CCDI Data Ecosystem.</p>
-Federation_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/Federation/Federation_Header.png?raw=true
-CCDI_Federation_Data_Access: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/Federation/CCDI_Federation_Data_Access_02052026.png?raw=true
+Federation_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/Federation_Header.png
+CCDI_Federation_Data_Access: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Data_Access_02052026.png
 
 # CPI page content
 # id is not editable
@@ -70,8 +70,8 @@ CPI_Cross_Dataset_Linkages_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCD
 CPI_Domain_Coverage_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Domain_Coverage_Icon.svg
 CPI_Total_Mapped_Participants_Ids_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Total_Mapped_Participants_Ids_Icon.svg
 CPI_Unique_Participants_Icon_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Unique_Participants_Icon.svg
-CPI_Header_URL: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/CPI/CPI_Header.png?raw=true
-CPI_Img_URL: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/CPI/CPI_Img.png?raw=true
+CPI_Header_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Header.png
+CPI_Img_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Img.png
 
 cbioportalIntroText: >-
   <p>To make complex genomic data more accessible, the Childhood Cancer Data Initiative (CCDI) is launching a user-friendly instance of cBioPortal that allows users—regardless of computational expertise—to explore and analyze without needing to download or process large datasets.</p>
@@ -84,7 +84,7 @@ cbioportalContent:
     topic: Contact 
     content: >-
       <p>For more information, email us at <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
-CBioPortal_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/CBioPortal/CBioPortal_Header.png?raw=true
+CBioPortal_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CBioPortal/CBioPortal_Header.png
 
 toolsIntroText:
 toolsContent:
@@ -117,7 +117,13 @@ toolsContent:
         content: >-
           <p>AttentionAML is a novel deep learning framework that uses an attention-based multilayer perceptron (MLP) model to accurately identify acute myeloid leukemia (AML) subtypes from transcriptomic data alone. A user-friendly Python package is available to help researchers implement the model. It enables precise classification and clustering of AML subtypes, and facilitates improved risk stratification and personalized treatment planning.</p>
           <p>Link: <a class="link" href="https://github.com/wan-mlab/AttentionAML" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/AttentionAML</a></p>
-          <p>Contact: <a href="mailto:swan@unmc.edu" target="_blank" rel="noopener noreferrer">swan@unmc.edu</a></p>      
+          <p>Contact: <a href="mailto:swan@unmc.edu" target="_blank" rel="noopener noreferrer">swan@unmc.edu</a></p> 
+      - id: BARDI
+        subtopic: BARDI
+        content: >-
+          <p>BARDI is a data engineering tool to make clinical data “AI-ready” by transforming raw, unstructured inputs (like pathology reports) into structured, model-friendly formats. It provides modular pipelines for preprocessing tasks such as tokenization, normalization, and batch data handling, simplifying the development and maintenance of large-scale data workflows for machine learning. Overall, prepares clinical text and related data so downstream model frameworks (like <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/FrESCO" target="_blank" rel="noopener noreferrer">FrESCO</a>) can efficiently perform tasks such as information extraction and prediction. </p>
+          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/bardi" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/bardi</a></p>
+          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p> 
       - id: caDSR
         subtopic: caDSR
         content: >-
@@ -149,6 +155,12 @@ toolsContent:
           <p>Link 1: Code for 6p25.1 microsatellite and germline variant analysis is available at: <a class="link" href="https://github.com/machiela-lab/EwS-Pacbio" target="_blank" rel="noopener noreferrer">https://github.com/machiela-lab/EwS-Pacbio</a></p>
           <p>Link 2: Code for gene expression analysis is available at: <a class="link" href="https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1" target="_blank" rel="noopener noreferrer">https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1</a></p>
           <p>Contact: <a href="mailto:mitchell.machiela@nih.gov" target="_blank" rel="noopener noreferrer">mitchell.machiela@nih.gov</a></p>           
+      - id: FrESCO
+        subtopic: FrESCO
+        content: >-
+          <p>FrESCO (Framework for Exploring Scalable Computational Oncology) is a modular deep learning NLP framework designed to automatically extract structured cancer information from clinical text documents at scale. FrESCO employs <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/bardi" target="_blank" rel="noopener noreferrer">BARDI</a> as part of processing. Surveillance, Epidemiology, and End Results (SEER) program collects and analyzes data from pathology reports across state registries, but extracting detailed cancer phenotypes from these reports is labor-intensive and requires expert knowledge. Automating this process can improve data consistency, speed, and enable time-sensitive applications like precision medicine.</p>
+          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/FrESCO" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/FrESCO</a></p>
+          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p>       
       - id: GDC
         subtopic: GDC
         content: >-
@@ -185,6 +197,12 @@ toolsContent:
           <p>M-PACT is a deep learning-based classifier that uses DNA methylation profiles from cell-free DNA in cerebrospinal fluid to noninvasively identify pediatric central nervous system (CNS) tumor types with high accuracy (≈92% in benchmark cohorts). M-PACT overcomes challenges of low tumor DNA abundance and sparse methylation data in liquid biopsies, enabling accurate tumor classification and cellular deconvolution without requiring tissue biopsies.</p>
           <p>Link: <a class="link" href="https://mpact.stjude.org" target="_blank" rel="noopener noreferrer">https://mpact.stjude.org</a></p> 
           <p>Contact: <a href="mailto:paul.northcott@stjude.org" target="_blank" rel="noopener noreferrer">paul.northcott@stjude.org</a></p>
+      - id: NCCR_Treatment_Database
+        subtopic: NCCR Treatment Database
+        content: >-
+          <p>The NCCR Treatment Database provides structured data and tooling related to cancer treatment information derived from registry and clinical sources. It is designed to support AI/ML workflows and natural language processing by organizing treatment-related variables that can be used for model training, evaluation, and cancer surveillance research. This resource helps standardize and make treatment data more accessible for large-scale computational oncology efforts, enabling analysis of real-world cancer treatments alongside other population-level data.</p>
+          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/nccr-treatment-database" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/nccr-treatment-database</a></p>
+          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p>       
       - id: PMTL
         subtopic: PMTL
         content: >-
@@ -209,10 +227,16 @@ toolsContent:
           <p>Tucan is a methylation-based classification model for pediatric solid tumors. Tucan can distinguish 91 different pediatric solid tumor subtypes and works with both methylation array data or nanopore based methylation data as input.</p>
           <p>Link: <a class="link" href="https://github.com/UMCUGenetics/tucan" target="_blank" rel="noopener noreferrer">https://github.com/UMCUGenetics/tucan</a></p> 
           <p>Contact: <a href="mailto:l.a.kester@prinsesmaximacentrum.nl" target="_blank" rel="noopener noreferrer">l.a.kester@prinsesmaximacentrum.nl</a></p>
-Tools_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Data_Usage_Policies_Header.png?raw=true
+      - id: WSI_Informative_Slide_Selection
+        subtopic: WSI Informative Slide Selection
+        content: >-
+          <p>A pipeline that uses deep learning models to classify histopathology whole-slide image (WSI) thumbnails across multiple diagnostic relevance tasks. It predicts slide-level attributes including absolute and relative informativeness, image quality, and tumor presence. The system enables efficient pre-screening and quality assessment of pathology slides to support downstream computational pathology workflows.</p>
+          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/wsi-informative-slide-selection" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/wsi-informative-slide-selection</a></p>
+          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p>       
+Tools_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Data_Usage_Policies_Header.png
 
 rareCancerIntroText: >-
-  <p>The Childhood Cancer Data Initiative (CCDI) Pediatric, Adolescent, and Young Adult Rare Cancer Study is a longitudinal, observational study and registry for very rare pediatric, adolescent, and young adult (AYA) solid tumors. Across the duration of the study, the team will collect clinical, pathology, imaging data, and patient reported outcomes from children, adolescents, and young adults aged 39 or younger with very rare childhood cancers and who are within one year of diagnosis.</p>
+  <p>The Childhood Cancer Data Initiative (CCDI) Pediatric, Adolescent, and Young Adult Rare Cancer Study is a longitudinal, observational study and registry for very rare pediatric, adolescent, and young adult (AYA) solid tumors, registered under ClinicalTrials.gov identifier <a class="link" href="https://clinicaltrials.gov/study/NCT07489378?cond=cancer" target="_blank" rel="noopener noreferrer">NCT07489378</a>. Across the duration of the study, the team will collect clinical, pathology, imaging data, and patient reported outcomes from children, adolescents, and young adults aged 39 or younger with very rare childhood cancers and who are within one year of diagnosis.</p>
   <p>State-of-the-art clinical molecular characterization of tumor and germline samples will also be performed through the <a href="/MCI">CCDI Molecular Characterization Initiative</a> to potentially help inform treatment approaches. The de-identified data will be part of the CCDI Data Ecosystem.</p>
   <p>For an overview of this program, <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/programs/rare-cancers" target="_blank" rel="noopener noreferrer">access the study’s web page on cancer.gov</a>.</p>
 rareCancerContent:
@@ -236,8 +260,8 @@ rareCancerContent:
           <h3>Who should I contact with questions about CCDI Pediatric and AYA Rare Cancer Study results and data?</h3>
           <p><a href="#" data-action="download-contact-form">Download the CCDI Pediatric and AYA Rare Cancer Study Contact Form</a>, complete it, and submit to <a class="link" href="mailto:NCICCDIRCI@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCICCDIRCI@mail.nih.gov</a> if you are interested in participating.</p>
           <p>For questions related to study data or accessing the CCDI Data Ecosystem, contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
-RCI_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/RCI/Rare_Cancer_Header.png?raw=true
-RCI_Data_Flow_Chart_URL: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/RCI/RCI_data_flow_chart.png?raw=true
+RCI_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/RCI/Rare_Cancer_Header.png
+RCI_Data_Flow_Chart_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/RCI/RCI_data_flow_chart.png
 RCI_DOWNLOAD_CONFIG:
   url: >-
     https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/PDF/Resources/RCI/rare-cancer-study_contact.pdf
@@ -251,6 +275,8 @@ ccdiEventAnnouncementsContent:
     topic: Past Events, Webinars, and Workshops
     content: >-
       <p>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Childhood%20Cancer%20Clinical%20Data%20Commons%E2%80%94A%20New%20Web%20Application%20for%20Your%20Data%20Needs.pdf" target="_blank" rel="noopener noreferrer">Childhood Cancer Clinical Data Commons: A New Web Application for Your Data Needs</a><br>3/11/24<br><br>
+      <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Childhood%20Cancer%20Data%20Initiative%E2%80%94Recent%20Activities%20and%20Next%20Steps.pdf" target="_blank" rel="noopener noreferrer">Childhood Cancer Data Initiative—Recent Activities and Next Steps</a><br>3/8/24<br><br>
       <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Navigating+CCDI+Hub%E2%80%99s+Explore+Dashboard+and+Data+Access.pdf" target="_blank" rel="noopener noreferrer">Navigating CCDI Hub’s Explore Dashboard and Data Access</a><br>11/13/23<br><br>
       <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Using+NCCR_Explorer+and+NCCR+Data+in+SEER_Stat.pdf" target="_blank" rel="noopener noreferrer">Using NCCR*Explorer and NCCR Data in SEER*Stat</a><br>10/24/23<br><br>
       <a class="link" href="https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/The+First+Childhood+Cancer+Data+Initiative+Community+Forum.pdf" target="_blank" rel="noopener noreferrer">The First Childhood Cancer Data Initiative Community Forum</a><br>9/11/23<br><br>
@@ -268,4 +294,4 @@ ccdiEventAnnouncementsContent:
     topic: Contact
     content: >-
       <p>If you have questions about a specific event or would like more information, please contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
-CCDI_Event_Announcements_Header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/About/Data_Usage_Policies_Header.png?raw=true
+CCDI_Event_Announcements_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Data_Usage_Policies_Header.png

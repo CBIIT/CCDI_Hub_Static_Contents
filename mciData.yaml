@@ -35,7 +35,7 @@ mciContent:
         diseaseTable:
           # update title date
           title: >-
-            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of February 9, 2026
+            Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of April 6, 2026
           header:
             - ""
             - "Primary Diagnosis Disease Group"
@@ -43,19 +43,19 @@ mciContent:
           # Table Update, update the value part
           body:
             - name: Central Nervous System
-              value: 5467
+              value: 5728
             - name: Soft Tissue Sarcoma
-              value: 1670
+              value: 1735
             - name: Rare Tumors
-              value: 858
+              value: 900
             - name: Neuroblastoma
-              value: 741
+              value: 801
             - name: Ewing Sarcoma
-              value: 62
+              value: 80
               
         # map update, the last attribute of value
         map:
-          title: Enrollment Counts by State as of February 9, 2026
+          title: Enrollment Counts by State as of April 6, 2026
           data:
             - - 110
               - 540
@@ -65,77 +65,77 @@ mciContent:
             - - 638
               - 420
               - "ALABAMA"
-              - 171
+              - 178
               # AL
             - - 550
               - 390
               - "ARKANSAS"
-              - 32
+              - 34
               # AR
             - - 240
               - 430
               - "ARIZONA"
-              - 118
+              - 124
               # AZ
             - - 100
               - 280
               - "CALIFORNIA"
-              - 673
+              - 707
               # CA
             - - 320
               - 290
               - "COLORADO"
-              - 52
+              - 55
               # CO
             - - 834
               - 228
               - "CONNECTICUT"
-              - 81
+              - 85
               # CT
             - - 790
               - 305
               - "DISTRICT OF COLUMBIA"
-              - 87
+              - 89
               # DC
             - - 810
               - 290
               - "DELAWARE"
-              - 82
+              - 85
               # DE
             - - 735
               - 500
               - "FLORIDA"
-              - 460
+              - 481
               # FL
             - - 720
               - 450
               - "GEORGIA"
-              - 235
+              - 246
               # GA
             - - 340
               - 630
               - "HAWAII"
-              - 28
+              - 30
               # HI
             - - 505
               - 250
               - "IOWA"
-              - 105
+              - 111
               # IA
             - - 240
               - 220
               - "IDAHO"
-              - 51
+              - 55
               # ID
             - - 600
               - 320
               - "ILLINOIS"
-              - 163
+              - 166
               # IL
             - - 638
               - 285
               - "INDIANA"
-              - 144
+              - 150
               # IN
             - - 490
               - 330
@@ -145,7 +145,7 @@ mciContent:
             - - 670
               - 330
               - "KENTUCKY"
-              - 93
+              - 96
               # KY
             - - 550
               - 460
@@ -155,32 +155,32 @@ mciContent:
             - - 840
               - 208
               - "MASSACHUSETTS"
-              - 91
+              - 93
               # MA
             - - 785
               - 288
               - "MARYLAND"
-              - 135
+              - 147
               # MD
             - - 860
               - 120
               - "MAINE"
-              - 31
+              - 32
               # ME
             - - 645
               - 210
               - "MICHIGAN"
-              - 182
+              - 194
               # MI
             - - 515
               - 150
               - "MINNESOTA"
-              - 241
+              - 256
               # MN
             - - 530
               - 310
               - "MISSOURI"
-              - 220
+              - 230
               # MO
             - - 320
               - 135
@@ -190,37 +190,37 @@ mciContent:
             - - 600
               - 420
               - "MISSISSIPPI"
-              - 71
+              - 73
               # MS
             - - 785
               - 355
               - "NORTH CAROLINA"
-              - 266
+              - 283
               # NC
             - - 440
               - 135
               - "NORTH DAKOTA"
-              - 29
+              - 31
               # ND
             - - 460
               - 285
               - "NEBRASKA"
-              - 79
+              - 86
               # NE
             - - 843
               - 185
               - "NEW HAMPSHIRE"
-              - 16
+              - 17
               # NH
             - - 815
               - 265
               - "NEW JERSEY"
-              - 104
+              - 110
               # NJ
             - - 330
               - 430
               - "NEW MEXICO"
-              - 46
+              - 48
               # NM
             - - 160
               - 260
@@ -230,37 +230,37 @@ mciContent:
             - - 795
               - 190
               - "NEW YORK"
-              - 490
+              - 518
               # NY
             - - 690
               - 300
               - "OHIO"
-              - 479
+              - 508
               # OH
             - - 490
               - 410
               - "OKLAHOMA"
-              - 111
+              - 117
               # OK
             - - 150
               - 200
               - "OREGON"
-              - 93
+              - 98
               # OR
             - - 780
               - 245
               - "PENNSYLVANIA"
-              - 327
+              - 335
               # PA
             - - 853
               - 222
               - "RHODE ISLAND"
-              - 52
+              - 55
               # RI
             - - 720
               - 395
               - "SOUTH CAROLINA"
-              - 119
+              - 128
               # SC
             - - 410
               - 195
@@ -270,22 +270,22 @@ mciContent:
             - - 675
               - 370
               - "TENNESSEE"
-              - 181
+              - 188
               # TN
             - - 480
               - 490
               - "TEXAS"
-              - 810
+              - 848
               # TX
             - - 240
               - 275
               - "UTAH"
-              - 146
+              - 155
               # UT
             - - 765
               - 310
               - "VIRGINIA"
-              - 131
+              - 137
               # VA
             - - 825
               - 170
@@ -295,12 +295,12 @@ mciContent:
             - - 150
               - 100
               - "WASHINGTON"
-              - 399
+              - 424
               # WA
             - - 570
               - 190
               - "WISCONSIN"
-              - 255
+              - 265
               # WI
             - - 720
               - 330
@@ -421,7 +421,7 @@ mciContent:
           <p>For questions related to Project:EveryChild (APEC14B1), contact <a href="mailto:projecteverychild@childrensoncologygroup.org">projecteverychild@childrensoncologygroup.org</a>.</p>         
 MCI_Workflow_Diagram_Caption: >-
   Data generation and sharing workflow: Biospecimens collected from COG Project:EveryChild participants enrolled in the MCI are processed through coordinated clinical and research pipelines. Clinical sequencing is performed in a CLIA-certified laboratory, with results returned to patients and providers, while research characterization generates additional data, such as WGS, transcriptomics, proteomics, and metabolomics. Deidentified clinical, molecular, and imaging data are made available through the CCDI Data Ecosystem, with the CCDI cBioPortal Cancer Data Explorer enabling visualization and exploration of the analyzed data.
-MCI_CCDI_Data_Ecosystem: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_02032026.png?raw=true
-MCI_CCDI_Data_Ecosystem_Mobile: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_Mobile.png?raw=true
-MCI_header: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/MCI/MCI_header.png?raw=true
-MCI_header_mobile: https://github.com/CBIIT/CCDI_Hub_Assets/blob/main/Image/Resources/MCI/MCI_header_mobile.png?raw=true
+MCI_CCDI_Data_Ecosystem: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_02032026.png
+MCI_CCDI_Data_Ecosystem_Mobile: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_Mobile.png
+MCI_header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_header.png
+MCI_header_mobile: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_header_mobile.png
