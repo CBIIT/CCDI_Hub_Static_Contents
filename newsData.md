@@ -84,7 +84,7 @@ Documentation comments from newsData.yaml:
 
 ## newsImgUrlList
 
-**updateImgCCDC**: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png
+**updateImgCCDC**: ![Young boy on a swing outdoors, symbolizing childhood health, linking to the CCDC site](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png)
 
 **updateImgNewApplicationRelease**: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_New_Application_Release.png
 
@@ -110,25 +110,20 @@ Documentation comments from newsData.yaml:
 
 ## newsList
 
-### hub_04152026
+## April 2026 CCDI Hub updates
+### April 15, 2026
+### News
 
-**id**: hub_04152026
+The [CCDI Hub's Tools list](https://ccdi.cancer.gov/tools) now includes four DOE MOSSAIC tools: BARDI, FrESCO, NCCR Treatment Database, and WSI Informative Slide Selection. The [CCDI-Supported Publications list](https://ccdi.cancer.gov/publications) has been updated with five new publications and the [Molecular Characterization Initiative (MCI) page](https://ccdi.cancer.gov/MCI) has been updated with enrollment counts for the month of April.
 
-**title**: April 2026 CCDI Hub updates
+![updateImgMiscNews](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png)
 
-**date**: April 15, 2026
-
-**slug**: Updated tools, publications, and MCI enrollment
-
-**highlight**: <p>The <a href="https://ccdi.cancer.gov/tools">CCDI Hub's Tools list</a> now includes four DOE MOSSAIC tools: BARDI, FrESCO, NCCR Treatment Database, and WSI Informative Slide Selection. The <a href="https://ccdi.cancer.gov/publications">CCDI-Supported Publications list</a> has been updated with five new publications and the <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with enrollment counts for the month of April.</p>
-
-**type**: News
-
-**img**: updateImgMiscNews
-
-**latestUpdate**: true
-
-**latestUpdateOrder**: 1
+---
+id: hub_04152026
+slug: Updated tools, publications, and MCI enrollment
+latestUpdate: true
+latestUpdateOrder: 1
+---
 
 ---
 
