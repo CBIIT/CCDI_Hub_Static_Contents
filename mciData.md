@@ -20,13 +20,13 @@ The MCI enrollment metrics are based on counts of patients enrolled with MCI thr
 <!-- mci-disease-table -->
 **Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of April 6, 2026**
 
-| | Primary Diagnosis Disease Group | Number of Participants |
-| --- | --- | ---: |
-| | Central Nervous System | 5728 |
-| | Soft Tissue Sarcoma | 1735 |
-| | Rare Tumors | 900 |
-| | Neuroblastoma | 801 |
-| | Ewing Sarcoma | 80 |
+| Primary Diagnosis Disease Group | Number of Participants |
+| --- | ---: |
+| Central Nervous System | 5728 |
+| Soft Tissue Sarcoma | 1735 |
+| Rare Tumors | 900 |
+| Neuroblastoma | 801 |
+| Ewing Sarcoma | 80 |
 
 ```mci-map
 title: 'Enrollment Counts by State as of April 6, 2026'
