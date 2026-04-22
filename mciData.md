@@ -28,214 +28,62 @@ The MCI enrollment metrics are based on counts of patients enrolled with MCI thr
 | Neuroblastoma | 801 |
 | Ewing Sarcoma | 80 |
 
-```mci-map
-title: 'Enrollment Counts by State as of April 6, 2026'
-data:
-  - - 110
-    - 540
-    - ALASKA
-    - 2
-  - - 638
-    - 420
-    - ALABAMA
-    - 178
-  - - 550
-    - 390
-    - ARKANSAS
-    - 34
-  - - 240
-    - 430
-    - ARIZONA
-    - 124
-  - - 100
-    - 280
-    - CALIFORNIA
-    - 707
-  - - 320
-    - 290
-    - COLORADO
-    - 55
-  - - 834
-    - 228
-    - CONNECTICUT
-    - 85
-  - - 790
-    - 305
-    - DISTRICT OF COLUMBIA
-    - 89
-  - - 810
-    - 290
-    - DELAWARE
-    - 85
-  - - 735
-    - 500
-    - FLORIDA
-    - 481
-  - - 720
-    - 450
-    - GEORGIA
-    - 246
-  - - 340
-    - 630
-    - HAWAII
-    - 30
-  - - 505
-    - 250
-    - IOWA
-    - 111
-  - - 240
-    - 220
-    - IDAHO
-    - 55
-  - - 600
-    - 320
-    - ILLINOIS
-    - 166
-  - - 638
-    - 285
-    - INDIANA
-    - 150
-  - - 490
-    - 330
-    - KANSAS
-    - 1
-  - - 670
-    - 330
-    - KENTUCKY
-    - 96
-  - - 550
-    - 460
-    - LOUISIANA
-    - 69
-  - - 840
-    - 208
-    - MASSACHUSETTS
-    - 93
-  - - 785
-    - 288
-    - MARYLAND
-    - 147
-  - - 860
-    - 120
-    - MAINE
-    - 32
-  - - 645
-    - 210
-    - MICHIGAN
-    - 194
-  - - 515
-    - 150
-    - MINNESOTA
-    - 256
-  - - 530
-    - 310
-    - MISSOURI
-    - 230
-  - - 320
-    - 135
-    - MONTANA
-    - 0
-  - - 600
-    - 420
-    - MISSISSIPPI
-    - 73
-  - - 785
-    - 355
-    - NORTH CAROLINA
-    - 283
-  - - 440
-    - 135
-    - NORTH DAKOTA
-    - 31
-  - - 460
-    - 285
-    - NEBRASKA
-    - 86
-  - - 843
-    - 185
-    - NEW HAMPSHIRE
-    - 17
-  - - 815
-    - 265
-    - NEW JERSEY
-    - 110
-  - - 330
-    - 430
-    - NEW MEXICO
-    - 48
-  - - 160
-    - 260
-    - NEVADA
-    - 6
-  - - 795
-    - 190
-    - NEW YORK
-    - 518
-  - - 690
-    - 300
-    - OHIO
-    - 508
-  - - 490
-    - 410
-    - OKLAHOMA
-    - 117
-  - - 150
-    - 200
-    - OREGON
-    - 98
-  - - 780
-    - 245
-    - PENNSYLVANIA
-    - 335
-  - - 853
-    - 222
-    - RHODE ISLAND
-    - 55
-  - - 720
-    - 395
-    - SOUTH CAROLINA
-    - 128
-  - - 410
-    - 195
-    - SOUTH DAKOTA
-    - 13
-  - - 675
-    - 370
-    - TENNESSEE
-    - 188
-  - - 480
-    - 490
-    - TEXAS
-    - 848
-  - - 240
-    - 275
-    - UTAH
-    - 155
-  - - 765
-    - 310
-    - VIRGINIA
-    - 137
-  - - 825
-    - 170
-    - VERMONT
-    - 31
-  - - 150
-    - 100
-    - WASHINGTON
-    - 424
-  - - 570
-    - 190
-    - WISCONSIN
-    - 265
-  - - 720
-    - 330
-    - WEST VIRGINIA
-    - 12
-  - - 320
-    - 220
-    - WYOMING
-    - 0
-```
+<!-- mci-map -->
+**Enrollment Counts by State as of April 6, 2026**
+
+| X | Y | State | Enrolled |
+| --- | --- | --- | ---: |
+| 110 | 540 | ALASKA | 2 |
+| 638 | 420 | ALABAMA | 178 |
+| 550 | 390 | ARKANSAS | 34 |
+| 240 | 430 | ARIZONA | 124 |
+| 100 | 280 | CALIFORNIA | 707 |
+| 320 | 290 | COLORADO | 55 |
+| 834 | 228 | CONNECTICUT | 85 |
+| 790 | 305 | DISTRICT OF COLUMBIA | 89 |
+| 810 | 290 | DELAWARE | 85 |
+| 735 | 500 | FLORIDA | 481 |
+| 720 | 450 | GEORGIA | 246 |
+| 340 | 630 | HAWAII | 30 |
+| 505 | 250 | IOWA | 111 |
+| 240 | 220 | IDAHO | 55 |
+| 600 | 320 | ILLINOIS | 166 |
+| 638 | 285 | INDIANA | 150 |
+| 490 | 330 | KANSAS | 1 |
+| 670 | 330 | KENTUCKY | 96 |
+| 550 | 460 | LOUISIANA | 69 |
+| 840 | 208 | MASSACHUSETTS | 93 |
+| 785 | 288 | MARYLAND | 147 |
+| 860 | 120 | MAINE | 32 |
+| 645 | 210 | MICHIGAN | 194 |
+| 515 | 150 | MINNESOTA | 256 |
+| 530 | 310 | MISSOURI | 230 |
+| 320 | 135 | MONTANA | 0 |
+| 600 | 420 | MISSISSIPPI | 73 |
+| 785 | 355 | NORTH CAROLINA | 283 |
+| 440 | 135 | NORTH DAKOTA | 31 |
+| 460 | 285 | NEBRASKA | 86 |
+| 843 | 185 | NEW HAMPSHIRE | 17 |
+| 815 | 265 | NEW JERSEY | 110 |
+| 330 | 430 | NEW MEXICO | 48 |
+| 160 | 260 | NEVADA | 6 |
+| 795 | 190 | NEW YORK | 518 |
+| 690 | 300 | OHIO | 508 |
+| 490 | 410 | OKLAHOMA | 117 |
+| 150 | 200 | OREGON | 98 |
+| 780 | 245 | PENNSYLVANIA | 335 |
+| 853 | 222 | RHODE ISLAND | 55 |
+| 720 | 395 | SOUTH CAROLINA | 128 |
+| 410 | 195 | SOUTH DAKOTA | 13 |
+| 675 | 370 | TENNESSEE | 188 |
+| 480 | 490 | TEXAS | 848 |
+| 240 | 275 | UTAH | 155 |
+| 765 | 310 | VIRGINIA | 137 |
+| 825 | 170 | VERMONT | 31 |
+| 150 | 100 | WASHINGTON | 424 |
+| 570 | 190 | WISCONSIN | 265 |
+| 720 | 330 | WEST VIRGINIA | 12 |
+| 320 | 220 | WYOMING | 0 |
 
 ### MCI Participation {#MCI_Participation}
 
