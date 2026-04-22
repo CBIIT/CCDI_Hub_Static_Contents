@@ -17,7 +17,7 @@ For an overview of this initiative, [access the MCI web page on cancer.gov](http
 
 The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.
 
-```mci-disease-table
+<!-- mci-disease-table -->
 **Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of April 6, 2026**
 
 | | Primary Diagnosis Disease Group | Number of Participants |
@@ -27,7 +27,6 @@ The MCI enrollment metrics are based on counts of patients enrolled with MCI thr
 | | Rare Tumors | 900 |
 | | Neuroblastoma | 801 |
 | | Ewing Sarcoma | 80 |
-```
 
 ```mci-map
 title: 'Enrollment Counts by State as of April 6, 2026'
