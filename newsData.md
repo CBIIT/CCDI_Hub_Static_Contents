@@ -58,7 +58,7 @@ Documentation comments from newsData.yaml:
 
 ## newsImgUrlList
 
-**updateImgCCDC**: ![Young boy on a swing outdoors, symbolizing childhood health, linking to the CCDC site](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png)
+**updateImgCCDC**: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png
 
 **updateImgNewApplicationRelease**: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_New_Application_Release.png
 
