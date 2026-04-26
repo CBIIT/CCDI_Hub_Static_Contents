@@ -2,8 +2,6 @@
 title: Molecular Characterization Initiative
 MCI_header: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_header.png"
 MCI_header_mobile: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_header_mobile.png"
-MCI_CCDI_Data_Ecosystem: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_02032026.png"
-MCI_CCDI_Data_Ecosystem_Mobile: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_Mobile.png"
 MCI_Workflow_Diagram_Caption: "Data generation and sharing workflow: Biospecimens collected from COG Project:EveryChild participants enrolled in the MCI are processed through coordinated clinical and research pipelines. Clinical sequencing is performed in a CLIA-certified laboratory, with results returned to patients and providers, while research characterization generates additional data, such as WGS, transcriptomics, proteomics, and metabolomics. Deidentified clinical, molecular, and imaging data are made available through the CCDI Data Ecosystem, with the CCDI cBioPortal Cancer Data Explorer enabling visualization and exploration of the analyzed data."
 ---
 
@@ -350,6 +348,16 @@ A subset of MCI participants have data accessible through the [CCDI cBioPortal C
 MCI H&E-stained images in Digital Imaging and Communications in Medicine (DICOM) format are accessible as open-access through the Imaging Data Commons (IDC). Researchers can explore and visualize these images and their accompanying manifests using the [IDC Portal](https://portal.imaging.datacommons.cancer.gov/explore/). To learn more about the images, supporting metadata, and attribution requirements, please visit [Zenodo Collection](https://zenodo.org/records/14009669).
 
 Note for investigators planning to use data from different resources: If you intend to utilize data from institutions that enroll patients in the Molecular Characterization Initiative, please note that the data available on this site may be identical to the data collected from the submitting clinical sites.
+
+```responsive-img
+wide: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_02032026.png'
+mobile: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_Mobile.png'
+alt: 'Infographic depicting the MCI assays and data types, and the data flow to patients, providers, and the CCDI Data Ecosystem'
+```
+
+#### Community Tools and Scripts
+
+Convert COG-formatted JSON files to TSV format with CCDI’s MCI_JSON2TSV tool [here](https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV).
 
 ### Germline Findings {#Germline_Findings}
 
