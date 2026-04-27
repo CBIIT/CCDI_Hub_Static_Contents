@@ -77,7 +77,7 @@
 
 | | |
 | --- | --- |
-| The CCDI Hub's <a href="https://ccdi.cancer.gov/publications">CCDI-Supported Publications list</a> has been updated with four new publications and the <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with enrollment counts for the month of October. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgMiscNews"> |
+| The CCDI Hub's [CCDI-Supported Publications list](https://ccdi.cancer.gov/publications) has been updated with four new publications and the [Molecular Characterization Initiative (MCI) page](https://ccdi.cancer.gov/MCI) has been updated with enrollment counts for the month of October. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgMiscNews"> |
 
 | Property | Value |
 | --- | --- |
@@ -105,7 +105,7 @@
 
 | | |
 | --- | --- |
-| The CCDI Hub's <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with September enrollment counts and a new article about the Open Pediatric Cancer Project has been added to the <a href="https://ccdi.cancer.gov/publications">CCDI-Supported Publications list</a>. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgMiscNews"> |
+| The CCDI Hub's [Molecular Characterization Initiative (MCI) page](https://ccdi.cancer.gov/MCI) has been updated with September enrollment counts and a new article about the Open Pediatric Cancer Project has been added to the [CCDI-Supported Publications list](https://ccdi.cancer.gov/publications). | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgMiscNews"> |
 
 | Property | Value |
 | --- | --- |
@@ -119,7 +119,7 @@
 
 | | |
 | --- | --- |
-| The CCDI cBioPortal Cancer Data Explorer is the latest tool resource to be added to the Childhood Cancer Data Catalog (CCDC). In this same release, four existing resources were updated along with restoring removed data sets. The <a href="https://datacatalog.ccdi.cancer.gov/User%20Guide%20for%20CCDC%20v1.5.3.pdf">CCDC User Guide</a> has been revised to include all of these changes. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png" width="220" alt="updateImgCCDC"> |
+| The CCDI cBioPortal Cancer Data Explorer is the latest tool resource to be added to the Childhood Cancer Data Catalog (CCDC). In this same release, four existing resources were updated along with restoring removed data sets. The [CCDC User Guide](https://datacatalog.ccdi.cancer.gov/User%20Guide%20for%20CCDC%20v1.5.3.pdf) has been revised to include all of these changes. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png" width="220" alt="updateImgCCDC"> |
 
 | Property | Value |
 | --- | --- |
@@ -133,7 +133,7 @@
 
 | | |
 | --- | --- |
-| Explore and analyze complex genomic data without needing to download or process large data sets with our new user-friendly instance of cBioPortal. Use the CCDI cBioPortal Cancer Data Explorer to search by gene, mutation, cancer type, or patient, and quickly visualize relationships, patterns, and trends in the data. The pilot version includes mutation data extracted from the genomic variant files of the Molecular Characterization Initiative. Over time, additional data will be added from the growing collection available in the CCDI Hub. <a href="https://cbioportal.ccdi.cancer.gov/">Visit the CCDI cBioPortal Cancer Data Explorer!</a> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_New_Application_Release.png" width="220" alt="updateImgNewApplicationRelease"> |
+| Explore and analyze complex genomic data without needing to download or process large data sets with our new user-friendly instance of cBioPortal. Use the CCDI cBioPortal Cancer Data Explorer to search by gene, mutation, cancer type, or patient, and quickly visualize relationships, patterns, and trends in the data. The pilot version includes mutation data extracted from the genomic variant files of the Molecular Characterization Initiative. Over time, additional data will be added from the growing collection available in the CCDI Hub. [Visit the CCDI cBioPortal Cancer Data Explorer!](https://cbioportal.ccdi.cancer.gov/) | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_New_Application_Release.png" width="220" alt="updateImgNewApplicationRelease"> |
 
 | Property | Value |
 | --- | --- |
@@ -161,7 +161,7 @@
 
 | | |
 | --- | --- |
-| Learn how to use the Hub’s Explore Dashboard to find and access childhood cancer data that could fuel your research. Our new data tutorial video showcases the dashboard’s key features and illustrates how to build a cohort within the platform. <a href="https://www.youtube.com/watch?v=Eu8y1GDTszU">Watch the video today!</a> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgMiscNews"> |
+| Learn how to use the Hub’s Explore Dashboard to find and access childhood cancer data that could fuel your research. Our new data tutorial video showcases the dashboard’s key features and illustrates how to build a cohort within the platform. [Watch the video today!](https://www.youtube.com/watch?v=Eu8y1GDTszU) | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgMiscNews"> |
 
 | Property | Value |
 | --- | --- |
@@ -217,7 +217,7 @@
 
 | | |
 | --- | --- |
-| The Childhood Cancer Catalog of Circular Extrachromosomal DNA (ecDNA), developed by the Sanford Burnham Prebys Medical Discovery Institute, is a pediatric cancer genomics platform focused on circular ecDNA (<a class="link" href="https://ccdi-ecdna.org" target="_blank" rel="noopener noreferrer">https://ccdi-ecdna.org</a>). The platform incudes an API that aligns with the CCDI Data Federation Specification. eCDNA includes curated amplicon data from over 3,200 patients and 3,800 biosamples, derived from whole-genome sequencing datasets from major pediatric cancer databases. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Federation.png" width="220" alt="updateImgFederation"> |
+| The Childhood Cancer Catalog of Circular Extrachromosomal DNA (ecDNA), developed by the Sanford Burnham Prebys Medical Discovery Institute, is a pediatric cancer genomics platform focused on circular ecDNA ([https://ccdi-ecdna.org](https://ccdi-ecdna.org)). The platform incudes an API that aligns with the CCDI Data Federation Specification. eCDNA includes curated amplicon data from over 3,200 patients and 3,800 biosamples, derived from whole-genome sequencing datasets from major pediatric cancer databases. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Federation.png" width="220" alt="updateImgFederation"> |
 
 | Property | Value |
 | --- | --- |
@@ -287,7 +287,7 @@
 
 | | |
 | --- | --- |
-| The Childhood Cancer Data Initiative (CCDI) announces the release of Version 1.0 of the Participant Index (CPI) API. The CPI maps participant IDs from different studies/research institutions, enabling researchers to explore complex questions, gain deeper insights into diseases, develop innovative therapies, and enhance existing treatments. With 32 domains and over 418,000 participant IDs, the CPI API is a significant step forward in pediatric cancer research. More information can be found at <a class="link" href="https://ccdi.cancer.gov/ccdi-participant-index" target="_blank" rel="noopener noreferrer">https://ccdi.cancer.gov/ccdi-participant-index</a>. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_New_Application_Release.png" width="220" alt="updateImgNewApplicationRelease"> |
+| The Childhood Cancer Data Initiative (CCDI) announces the release of Version 1.0 of the Participant Index (CPI) API. The CPI maps participant IDs from different studies/research institutions, enabling researchers to explore complex questions, gain deeper insights into diseases, develop innovative therapies, and enhance existing treatments. With 32 domains and over 418,000 participant IDs, the CPI API is a significant step forward in pediatric cancer research. More information can be found at [https://ccdi.cancer.gov/ccdi-participant-index](https://ccdi.cancer.gov/ccdi-participant-index). | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_New_Application_Release.png" width="220" alt="updateImgNewApplicationRelease"> |
 
 | Property | Value |
 | --- | --- |
@@ -343,7 +343,7 @@
 
 | | |
 | --- | --- |
-| The API provides an open-access subset of metadata including data set location. Data files are accessible according to the policies at each organization. Where possible, metadata have been harmonized to Common Data Elements provided by the Cancer Data Standards Registry and Repository (<a class="link" href="https://cadsr.cancer.gov" target="_blank" rel="noopener noreferrer">https://cadsr.cancer.gov</a>). Current data federation members are the Kids First Data Resource Center, Pediatric Cancer Data Commons, St. Jude Cloud, and Treehouse Childhood Cancer Data Initiative. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_New_Application_Release.png" width="220" alt="updateImgNewApplicationRelease"> |
+| The API provides an open-access subset of metadata including data set location. Data files are accessible according to the policies at each organization. Where possible, metadata have been harmonized to Common Data Elements provided by the Cancer Data Standards Registry and Repository ([https://cadsr.cancer.gov](https://cadsr.cancer.gov)). Current data federation members are the Kids First Data Resource Center, Pediatric Cancer Data Commons, St. Jude Cloud, and Treehouse Childhood Cancer Data Initiative. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_New_Application_Release.png" width="220" alt="updateImgNewApplicationRelease"> |
 
 | Property | Value |
 | --- | --- |
@@ -371,7 +371,7 @@
 
 | | |
 | --- | --- |
-| The CCDI Hub updated seven data sets and added two new: Pediatric AYA Cancer Touchstone (<a class="link" href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002431.v1.p1" target="_blank" rel="noopener noreferrer">phs002431.v1</a>) and Pediatric Tumor Profiling (<a class="link" href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002677.v1.p1" target="_blank" rel="noopener noreferrer">phs002677.v1</a>) data sets. These encompass 1,600 participants and 2,700 samples, totaling 20,760 new files. The <a href="/MCI" target="_blank">MCI page</a> now features updated visualizations and a streamlined navigation pane. The Files tab on the <a href="/Explore" target="_blank">Explore Dashboard</a> now includes Library Selection, Source, and Strategy. <a href="https://d2xnga7irezzit.cloudfront.net/ccdi-hub-site-static-files/CCDI_Usage_Instructions_Nov2024_v2.5.0.pdf" target="_blank"}>User Documentation</a> is available, providing instructions for accessing controlled data and navigating the Explore Dashboard. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png" width="220" alt="updateImgReleaseNotes"> |
+| The CCDI Hub updated seven data sets and added two new: Pediatric AYA Cancer Touchstone ([phs002431.v1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002431.v1.p1)) and Pediatric Tumor Profiling ([phs002677.v1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002677.v1.p1)) data sets. These encompass 1,600 participants and 2,700 samples, totaling 20,760 new files. The [MCI page](/MCI) now features updated visualizations and a streamlined navigation pane. The Files tab on the [Explore Dashboard](/Explore) now includes Library Selection, Source, and Strategy. [User Documentation](https://d2xnga7irezzit.cloudfront.net/ccdi-hub-site-static-files/CCDI_Usage_Instructions_Nov2024_v2.5.0.pdf) is available, providing instructions for accessing controlled data and navigating the Explore Dashboard. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png" width="220" alt="updateImgReleaseNotes"> |
 
 | Property | Value |
 | --- | --- |
@@ -427,7 +427,7 @@
 
 | | |
 | --- | --- |
-| The Genomics Evidence Neoplasia Information Exchange (GENIE) was added to the Childhood Cancer Data Catalog (CCDC) this month. This publicly accessible cancer registry includes real-world clinico-genomic data from 19 leading international cancer centers. Along with this new resource, the catalog also added 16 new data sets and a new <a href="https://datacatalog.ccdi.cancer.gov/contribute" target="_blank" rel="noopener noreferrer">Contribute to the CCDC</a> page that provides information about submitting data and getting your resource added to the CCDC. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png" width="220" alt="updateImgCCDC"> |
+| The Genomics Evidence Neoplasia Information Exchange (GENIE) was added to the Childhood Cancer Data Catalog (CCDC) this month. This publicly accessible cancer registry includes real-world clinico-genomic data from 19 leading international cancer centers. Along with this new resource, the catalog also added 16 new data sets and a new [Contribute to the CCDC](https://datacatalog.ccdi.cancer.gov/contribute) page that provides information about submitting data and getting your resource added to the CCDC. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png" width="220" alt="updateImgCCDC"> |
 
 | Property | Value |
 | --- | --- |
@@ -483,7 +483,7 @@
 
 | | |
 | --- | --- |
-| Find harmonized childhood cancer demographics and phenotypic clinical data in this new CCDI resource. <a href="https://clinicalcommons.ccdi.cancer.gov/" target="_blank" rel="noopener noreferrer">Use the C3DC</a> to search for participant-level data, create synthetic cohorts, and export data from the Molecular Characterization Initiative and TARGET Neuroblastoma. As the C3DC matures, new childhood cancer data and more functionalities will be added. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
+| Find harmonized childhood cancer demographics and phenotypic clinical data in this new CCDI resource. [Use the C3DC](https://clinicalcommons.ccdi.cancer.gov/) to search for participant-level data, create synthetic cohorts, and export data from the Molecular Characterization Initiative and TARGET Neuroblastoma. As the C3DC matures, new childhood cancer data and more functionalities will be added. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
 
 | Property | Value |
 | --- | --- |
@@ -525,7 +525,7 @@
 
 | | |
 | --- | --- |
-| Do you have capabilities in automated electronic health record (EHR) data entry and extraction? If so, please respond to our latest Request for Information and share your tools, clinical workflows, and approaches for entering and extracting EHR data in a structured format. Your input could help NCI plan a workshop on this topic. <a class="link" href="https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-021.html" target="_blank" rel="noopener noreferrer">Submit responses by February 29, 2024. https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-021.html</a> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_EHR.png" width="220" alt="updateImgEHR"> |
+| Do you have capabilities in automated electronic health record (EHR) data entry and extraction? If so, please respond to our latest Request for Information and share your tools, clinical workflows, and approaches for entering and extracting EHR data in a structured format. Your input could help NCI plan a workshop on this topic. [Submit responses by February 29, 2024. https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-021.html](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-021.html) | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_EHR.png" width="220" alt="updateImgEHR"> |
 
 | Property | Value |
 | --- | --- |
@@ -623,7 +623,7 @@
 
 | | |
 | --- | --- |
-| The Molecular Targets Platform (MTP) is now live with interactive visualizations of data via the <a href="https://moleculartargets.ccdi.cancer.gov/pediatric-cancer-data-navigation" target="_blank" rel="noopener noreferrer">Pediatric Data Navigation page</a>. There is also improved plot generation for the OpenPedCan Gene Expression and Differential Expression widgets, along with updated descriptions in the “Pediatric Cancer Data Visualizations” section on the <a href="https://moleculartargets.ccdi.cancer.gov/about" target="_blank" rel="noopener noreferrer">About page</a> regarding the chart types added in the previous MTP release. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MTP_2.png" width="220" alt="updateImgMTP2"> |
+| The Molecular Targets Platform (MTP) is now live with interactive visualizations of data via the [Pediatric Data Navigation page](https://moleculartargets.ccdi.cancer.gov/pediatric-cancer-data-navigation). There is also improved plot generation for the OpenPedCan Gene Expression and Differential Expression widgets, along with updated descriptions in the “Pediatric Cancer Data Visualizations” section on the [About page](https://moleculartargets.ccdi.cancer.gov/about) regarding the chart types added in the previous MTP release. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MTP_2.png" width="220" alt="updateImgMTP2"> |
 
 | Property | Value |
 | --- | --- |
@@ -637,7 +637,7 @@
 
 | | |
 | --- | --- |
-| CCDI has facilitated the release of data from children and young adults diagnosed with pediatric brain tumors and other solid and hematologic malignancies. The data was collected from the Children’s Brain Tumor Network, the Pacific Pediatric Neuro-Oncology Consortium, and the Children’s Hospital of Philadelphia Division for Genomic Diagnostics. They include tumor and germline WGS, RNA-Seq, Clinical Panel Sequencing, and other omics and molecular data. <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002517.v1.p1" rel="noreferrer noopener" target="_blank">Access these data through dbGaP</a>. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MCI_2.png" width="220" alt="updateImgMCI2"> |
+| CCDI has facilitated the release of data from children and young adults diagnosed with pediatric brain tumors and other solid and hematologic malignancies. The data was collected from the Children’s Brain Tumor Network, the Pacific Pediatric Neuro-Oncology Consortium, and the Children’s Hospital of Philadelphia Division for Genomic Diagnostics. They include tumor and germline WGS, RNA-Seq, Clinical Panel Sequencing, and other omics and molecular data. [Access these data through dbGaP](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002517.v1.p1). | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MCI_2.png" width="220" alt="updateImgMCI2"> |
 
 | Property | Value |
 | --- | --- |
@@ -679,7 +679,7 @@
 
 | | |
 | --- | --- |
-| The <a href="https://moleculartargets.ccdi.cancer.gov/" target="_blank" rel="noopener noreferrer">Molecular Targets Platform</a> (MTP) expanded with new data and enhanced features. Researchers will find new and updated data from the Pediatric Brain Tumor Atlas and TARGET cohorts, including sequencing and methylation data. Improved features include enhanced gene expression graphs for childhood cancer data and a new widget to capture methylation data. Finally, the latest coding updates ensure that the data can be easily viewed and queried. <a href="https://moleculartargets.ccdi.cancer.gov/about" target="_blank" rel="noopener noreferrer">Learn more about how the MTP is helping advance childhood cancer research</a>. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MTP.png" width="220" alt="updateImgMTP"> |
+| The [Molecular Targets Platform](https://moleculartargets.ccdi.cancer.gov/) (MTP) expanded with new data and enhanced features. Researchers will find new and updated data from the Pediatric Brain Tumor Atlas and TARGET cohorts, including sequencing and methylation data. Improved features include enhanced gene expression graphs for childhood cancer data and a new widget to capture methylation data. Finally, the latest coding updates ensure that the data can be easily viewed and queried. [Learn more about how the MTP is helping advance childhood cancer research](https://moleculartargets.ccdi.cancer.gov/about). | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MTP.png" width="220" alt="updateImgMTP"> |
 
 | Property | Value |
 | --- | --- |
@@ -693,7 +693,7 @@
 
 | | |
 | --- | --- |
-| The CCDI Childhood Cancer Data Catalog (CCDC) now includes the Cancer Dependency Map, which provides open access to analytical and visualization tools related to key cancer dependencies. These tools can be used in the discovery of drug targets and biomarkers. In addition to this, six existing CCDC resources have been updated. <a href="https://datacatalog.ccdi.cancer.gov/" rel="noreferrer noopener" target="_blank">Access the catalog today</a>. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png" width="220" alt="updateImgCCDC"> |
+| The CCDI Childhood Cancer Data Catalog (CCDC) now includes the Cancer Dependency Map, which provides open access to analytical and visualization tools related to key cancer dependencies. These tools can be used in the discovery of drug targets and biomarkers. In addition to this, six existing CCDC resources have been updated. [Access the catalog today](https://datacatalog.ccdi.cancer.gov/). | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png" width="220" alt="updateImgCCDC"> |
 
 | Property | Value |
 | --- | --- |
@@ -707,7 +707,7 @@
 
 | | |
 | --- | --- |
-| The <a href="https://datacatalog.ccdi.cancer.gov/" target="_blank" rel="noopener noreferrer">Childhood Cancer Data Catalog</a> is pleased to announce the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables. Also, seven new datasets have been incorporated into eight existing resources. <a href="https://datacatalog.ccdi.cancer.gov/" rel="noreferrer noopener" target="_blank">Explore the Catalog</a> to check out all the changes. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png" width="220" alt="updateImgCCDC"> |
+| The [Childhood Cancer Data Catalog](https://datacatalog.ccdi.cancer.gov/) is pleased to announce the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables. Also, seven new datasets have been incorporated into eight existing resources. [Explore the Catalog](https://datacatalog.ccdi.cancer.gov/) to check out all the changes. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png" width="220" alt="updateImgCCDC"> |
 
 | Property | Value |
 | --- | --- |
@@ -721,7 +721,7 @@
 
 | | |
 | --- | --- |
-| De-identified molecular characterization data (T/N WES, methylation, and Archer fusion), clinical reports, and demographic and phenotypic data from <a href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/data-ecosystem/molecular-characterization?cid=eb_govdel" rel="noreferrer noopener" target="_blank">CCDI Molecular Characterization Initiative</a> participants are released each month under accession number <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002790.v2.p1" rel="noreferrer noopener" target="_blank">phs00290.v2.p1</a>. The data are accessible through Cancer Genomics Cloud, a secure workspace that allow users to upload their own data for aggregated analysis. Access can be requested through dbGaP’s <a href="https://www.youtube.com/watch?v=m0xp_cCO7kA" rel="noreferrer noopener" target="_blank">controlled-access process</a>. To date, there are data associated with 1,145 participants. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MCI.png" width="220" alt="updateImgMCI"> |
+| De-identified molecular characterization data (T/N WES, methylation, and Archer fusion), clinical reports, and demographic and phenotypic data from [CCDI Molecular Characterization Initiative](https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/data-ecosystem/molecular-characterization?cid=eb_govdel) participants are released each month under accession number [phs00290.v2.p1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002790.v2.p1). The data are accessible through Cancer Genomics Cloud, a secure workspace that allow users to upload their own data for aggregated analysis. Access can be requested through dbGaP’s [controlled-access process](https://www.youtube.com/watch?v=m0xp_cCO7kA). To date, there are data associated with 1,145 participants. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MCI.png" width="220" alt="updateImgMCI"> |
 
 | Property | Value |
 | --- | --- |
@@ -735,7 +735,7 @@
 
 | | |
 | --- | --- |
-| NCI hosted the CCDI Symposium on March 24, 2023, which brought together hundreds of members of the childhood cancer community. The event featured presentations on CCDI Data Ecosystem progress by Drs. Anthony Kerlavage and Subhashini Jagu. <a href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/events-webinars/symposium-0" target="_blank" rel="noopener noreferrer">View the event presentation</a> and <a href="https://videocast.nih.gov/watch=49171" target="_blank" rel="noopener noreferrer">watch the recording</a>. | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Symposium.png" width="220" alt="updateImgSymposium"> |
+| NCI hosted the CCDI Symposium on March 24, 2023, which brought together hundreds of members of the childhood cancer community. The event featured presentations on CCDI Data Ecosystem progress by Drs. Anthony Kerlavage and Subhashini Jagu. [View the event presentation](https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/events-webinars/symposium-0) and [watch the recording](https://videocast.nih.gov/watch=49171). | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Symposium.png" width="220" alt="updateImgSymposium"> |
 
 | Property | Value |
 | --- | --- |
