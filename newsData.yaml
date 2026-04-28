@@ -62,9 +62,9 @@ newsList:
       April 2026 CCDI Hub updates
     date: April 15, 2026
     slug: >-
-      Updated tools, publications, and MCI-enrollment
+      Updated tools, publications, and MCI enrollment
     highlight: >-
-      <p>The <a href="https://ccdi.cancer.gov/tools">CCDI Hub's Tools list</a> now includes four DOE MOSSAIC tools: bardi, FrESCO, NCCR Treatment Database, and WSI Informative Slide Selection. The <a href="https://ccdi.cancer.gov/publications">CCDI-Supported Publications list</a> has been updated with five new publications and the <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with enrollment counts for the month of April.</p>
+      <p>The <a href="https://ccdi.cancer.gov/tools">CCDI Hub's Tools list</a> now includes four DOE MOSSAIC tools: BARDI, FrESCO, NCCR Treatment Database, and WSI Informative Slide Selection. The <a href="https://ccdi.cancer.gov/publications">CCDI-Supported Publications list</a> has been updated with five new publications and the <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with enrollment counts for the month of April.</p>
     type: News
     img: updateImgMiscNews 
     latestUpdate: true
