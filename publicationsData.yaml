@@ -19,11 +19,24 @@
 #
 # (Note: only one of these three cases can be in one item)
 
-bannerText: Publication list updated as of 4/15/26.
+bannerText: Publication list updated as of 5/20/26.
 
 Publications_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png
 
 publicationsList:
+  - id: Ecosystem_04082026
+    title: >-
+       Childhood Cancer Data Initiative Participant Index: Mapping Pediatric Cancer Data to Facilitate Cross-Study Integrated Analysis
+    link: https://doi.org/10.1200/CCI-25-00387
+    date: April 2026
+    summary: >-
+      <p>To facilitate integrated multimodal data analysis, it is critical to connect data from multiple sources to address multifaceted research questions, better understand disease biology and natural history, develop new therapies, and improve existing treatments. The Childhood Cancer Data Initiative (CCDI) Participant Index, an application programming interface, aims to address this challenge by providing a digital ID mapping and matching service which collects and cross-references all known IDs associated with a participant.</p>  
+    category: Primary
+    tag: CCDI Ecosystem
+    journal: >-
+      JCO Clinical Cancer Informatics
+    pmid: 41950437
+    
   - id: NCCR_02112026
     title: >-
        Increasing Incidence of Cutaneous T-Cell Lymphoma Among Children and Young Adults in the United States, 1997–2019: A National Population-Based Study Using the National Childhood Cancer Registry
@@ -175,6 +188,19 @@ publicationsList:
     category: Abstracts
     tag: CCDI Ecosystem
     conference: AAPM (American Association of Physicists in Medicine) 2025 Annual Meeting & Exhibition
+
+  - id: Ecosystem_07112025
+    title: >-
+      Large-scale deep learning for metastasis detection in pathology reports
+    link: https://doi.org/10.1093/jamiaopen/ooaf070
+    date: July 2025
+    summary: >-
+      <p>No existing algorithm can reliably identify metastasis from pathology reports across multiple cancer types and the entire US population. In this study, we develop a deep learning model that automatically detects patients with metastatic cancer by using pathology reports from many laboratories and of multiple cancer types.</p>  
+    category: Secondary
+    tag: CCDI Ecosystem,CCDI Data,AI
+    journal: >-
+      JAMIA Open
+    pmid: 40655537
     
   - id: NCCR_06142025
     title: >-
