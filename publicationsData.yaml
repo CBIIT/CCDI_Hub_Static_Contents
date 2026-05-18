@@ -130,6 +130,20 @@ publicationsList:
       Cancer
     pmid: 41237091
 
+  - id: Ecosystem_10302025
+    original_card_id: Ecosystem_01022025
+    title: >-
+      RanBALL: An Ensemble Machine Learning Framework for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia
+    link: https://doi.org/10.1002/aisy.202500965
+    date: October 2025
+    summary: >-
+      <p>As the most common pediatric malignancy, B-cell acute lymphoblastic leukemia (B-ALL) has multiple distinct subtypes characterized by recurrent and sporadic somatic and germline genetic alterations. Identifying B-ALL subtypes can facilitate risk stratification and enable tailored therapeutic design. Existing methods for B-ALL subtyping primarily depend on immunophenotyping, cytogenetic tests, and genomic profiling, which can be costly, complicated, and laborious. To overcome these challenges, RanBALL (an ensemble random projection-based model for identifying B-ALL subtypes) is presented, an accurate and cost-effective model for B-ALL subtype identification. By leveraging random projection (RP) and ensemble learning, RanBALL can preserve patient-to-patient distances after dimension reduction and yield robustly accurate classification performance for B-ALL subtyping. Benchmarking results based on >1700 B-ALL patients demonstrate that RanBALL achieves remarkable performance (accuracy: 0.93, F1-score: 0.93, and Matthews correlation coefficient: 0.93), significantly outperforming state-of-the-art methods like ALLSorts in terms of all performance metrics. In addition, RanBALL performs better than t-SNE in terms of visualizing B-ALL subtype information. We believe RanBALL will facilitate the discovery of B-ALL subtype-specific marker genes and therapeutic targets to have consequential positive impacts on downstream risk stratification and tailored treatment design is believed. To extend its applicability and impacts, a Python-based RanBALL package is available at https://github.com/wan-mlab/RanBALL.</p>
+    category: Secondary
+    tag: CCDI Ecosystem,AI
+    journal: >-
+      Advanced Intelligent Systems
+    pmid: 41246237
+
   - id: NCCR_10162025
     title: >-
         Evaluation of disparities in the incidence, presentation, and treatment of pediatric differentiated thyroid cancer in the United States (2000-2022)
@@ -493,19 +507,6 @@ publicationsList:
     tag: CCDI Ecosystem
     journal: Pediatric Blood & Cancer
     pmid: 39754540
-
-  - id: Ecosystem_01022025
-    title: >-
-      RanBALL: An Ensemble Random Projection Model for Identifying Subtypes of B-Cell Acute Lymphoblastic Leukemia
-    link: https://doi.org/10.1002/aisy.202500965
-    date: October 2025
-    summary: >-
-      <p>As the most common pediatric malignancy, B-cell acute lymphoblastic leukemia (B-ALL) has multiple distinct subtypes characterized by recurrent and sporadic somatic and germline genetic alterations. Identifying B-ALL subtypes can facilitate risk stratification and enable tailored therapeutic design. Existing methods for B-ALL subtyping primarily depend on immunophenotyping, cytogenetic tests, and genomic profiling, which can be costly, complicated, and laborious. To overcome these challenges, RanBALL (an ensemble random projection-based model for identifying B-ALL subtypes) is presented, an accurate and cost-effective model for B-ALL subtype identification. By leveraging random projection (RP) and ensemble learning, RanBALL can preserve patient-to-patient distances after dimension reduction and yield robustly accurate classification performance for B-ALL subtyping. Benchmarking results based on >1700 B-ALL patients demonstrate that RanBALL achieves remarkable performance (accuracy: 0.93, F1-score: 0.93, and Matthews correlation coefficient: 0.93), significantly outperforming state-of-the-art methods like ALLSorts in terms of all performance metrics. In addition, RanBALL performs better than t-SNE in terms of visualizing B-ALL subtype information. We believe RanBALL will facilitate the discovery of B-ALL subtype-specific marker genes and therapeutic targets to have consequential positive impacts on downstream risk stratification and tailored treatment design is believed. To extend its applicability and impacts, a Python-based RanBALL package is available at https://github.com/wan-mlab/RanBALL.</p>
-    category: Secondary
-    tag: CCDI Ecosystem,AI
-    journal: >-
-      Advanced Intelligent Systems
-    pmid: 41246237
 
   - id: Ecosystem_01012025
     title: >-
