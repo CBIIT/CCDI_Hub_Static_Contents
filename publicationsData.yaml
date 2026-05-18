@@ -36,6 +36,20 @@ publicationsList:
     journal: >-
       JCO Clinical Cancer Informatics
     pmid: 41950437
+
+  - id: Ecosystem_04022026
+    original_card_id: Ecosystem_06112025 
+    title: >-
+      Multicenter Histology Image Integration and Multiscale Deep Learning Support Machine Learning–Enabled Pediatric Sarcoma Classification
+    link: https://doi.org/10.1158/0008-5472.CAN-25-2275
+    date: April 2026
+    summary: >-
+      <p>Pediatric sarcomas present diagnostic challenges due to their rarity and diverse subtypes, often requiring specialized pathology expertise and costly genetic tests. To overcome these barriers, we developed a computational pipeline leveraging deep learning methods to accurately classify pediatric sarcoma subtypes from digitized histology slides. To ensure classifier generalizability and minimize center-specific artifacts, a dataset comprising 867 whole slide images (WSIs) from three medical centers and the Children's Oncology Group (COG) was collected and harmonized. Multiple convolutional neural network (CNN) and vision transformer (ViT) architectures were systematically evaluated as feature extractors for SAMPLER-based WSI representations, and input parameters, such as tile size combinations and resolutions, were tested and optimized. The analysis showed that advanced ViT foundation models (UNI, CONCH) significantly outperformed earlier approaches, and incorporating multiscale features enhanced classification accuracy. The optimized models achieved high performance, distinguishing rhabdomyosarcoma (RMS) from non-rhabdomyosarcoma (NRSTS) with an AUC of 0.969 and differentiating RMS subtypes (alveolar vs. embryonal) with an AUC of 0.961. Additionally, a two-stage pipeline effectively identified scarce Ewing sarcoma images from other NRSTS (AUC 0.929). Compared to conventional transformer encoder architectures used for WSI representations, these SAMPLER based classifiers were three orders of magnitude faster to train, despite operating entirely without a GPU. This study highlights that digital histopathology paired with rigorous image harmonization provides a powerful solution for pediatric sarcoma classification.</p>
+    category: Secondary
+    tag: CCDI Ecosystem,AI
+    journal: >-
+      Cancer Research
+    pmid: 41481196
     
   - id: NCCR_02112026
     title: >-
@@ -214,19 +228,6 @@ publicationsList:
     journal: >-
       JNCI: Journal of the National Cancer Institute
     pmid: 40515409
-
-  - id: Ecosystem_06112025
-    title: >-
-      Multicenter Histology Image Integration and Multiscale Deep Learning for Machine Learning-Enabled Pediatric Sarcoma Classification
-    link: https://doi.org/10.1158/0008-5472.CAN-25-2275
-    date: January 2026
-    summary: >-
-      <p>Pediatric sarcomas present diagnostic challenges due to their rarity and diverse subtypes, often requiring specialized pathology expertise and costly genetic tests. To overcome these barriers, we developed a computational pipeline leveraging deep learning methods to accurately classify pediatric sarcoma subtypes from digitized histology slides. To ensure classifier generalizability and minimize center-specific artifacts, a dataset comprising 867 whole slide images (WSIs) from three medical centers and the Children's Oncology Group (COG) was collected and harmonized. Multiple convolutional neural network (CNN) and vision transformer (ViT) architectures were systematically evaluated as feature extractors for SAMPLER-based WSI representations, and input parameters, such as tile size combinations and resolutions, were tested and optimized. The analysis showed that advanced ViT foundation models (UNI, CONCH) significantly outperformed earlier approaches, and incorporating multiscale features enhanced classification accuracy. The optimized models achieved high performance, distinguishing rhabdomyosarcoma (RMS) from non-rhabdomyosarcoma (NRSTS) with an AUC of 0.969 and differentiating RMS subtypes (alveolar vs. embryonal) with an AUC of 0.961. Additionally, a two-stage pipeline effectively identified scarce Ewing sarcoma images from other NRSTS (AUC 0.929). Compared to conventional transformer encoder architectures used for WSI representations, these SAMPLER based classifiers were three orders of magnitude faster to train, despite operating entirely without a GPU. This study highlights that digital histopathology paired with rigorous image harmonization provides a powerful solution for pediatric sarcoma classification.</p>
-    category: Secondary
-    tag: CCDI Ecosystem,AI
-    journal: >-
-      Cancer Research
-    pmid: 41481196
     
   - id: NCCR_06042025_2
     title: >-
