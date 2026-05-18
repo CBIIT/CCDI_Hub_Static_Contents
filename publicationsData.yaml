@@ -50,6 +50,20 @@ publicationsList:
     journal: >-
       Cancer Research
     pmid: 41481196
+
+  - id: Ecosystem_03042026
+    original_card_id: Ecosystem_05312025
+    title: >-
+      Confounding factors in assessing the enriched expression of somatic mutant allele in bulk tumor samples
+    link: https://doi.org/10.1101/gr.281003.125
+    date: March 2026
+    summary: >-
+      <p>Allele-specific expression (ASE) of somatic mutations can be caused by cis-activation of the mutant allele or silencing of the wild-type allele and has been investigated by examining the enrichment of mutant allele in RNA relative to DNA. Here we show that this mutation-based approach can be confounded by gene expression differences in tumor and normal cells that coexist in most bulk tumor samples. We model mutant allele expression by incorporating tumor/normal expression difference, mutant allele dosage, tumor purity, and nonsense-mediated decay (NMD) efficiency, projecting that such enrichments can occur without ASE. This confounding effect is exacerbated with low tumor purity and is dependent on mutant allele dosage for NMD-triggering mutations. The model predictions are validated by a pan-cancer bulk tumor analysis with somatic insertions/deletions (indels) from 9,101 The Cancer Genome Atlas (TCGA) samples. A single-cell analysis in five cutaneous squamous cell carcinomas demonstrates the robustness of this model to intratumor heterogeneity. As a byproduct of this confounding effect, we evaluate whether the inverse relationship between mutant allele enrichment in RNA and tumor purity could be leveraged to complement DNA-based somatic mutation detection in low purity samples. Indeed, our de novo somatic indel calling from TCGA RNA-seq increases the TCGA driver indel repertoire by ~ 14%, especially in samples with purity < 0.4, including actionable EGFR indels in lung adenocarcinoma and FLT3 in acute myeloid leukemia. Our study not only reveals confounders in somatic mutant ASE analysis but also demonstrates their utility in RNA-based mutation calling.</p>
+    category: Secondary
+    tag: CCDI Ecosystem
+    journal: >-
+      Genome Research
+    pmid: 41781335
     
   - id: NCCR_02112026
     title: >-
@@ -327,19 +341,6 @@ publicationsList:
     category: Abstracts
     tag: CCDI-MCI,CCDI Data
     conference: American Society of Clinical Ontology (ASCO) 2025
-
-  - id: Ecosystem_05312025
-    title: >-
-      Confounding factors in assessing the enriched expression of somatic mutant allele in bulk tumor samples
-    link: https://doi.org/10.1101/gr.281003.125
-    date: March 2026
-    summary: >-
-      <p>Allele-specific expression (ASE) of somatic mutations can be caused by cis-activation of the mutant allele or silencing of the wild-type allele and has been investigated by examining the enrichment of mutant allele in RNA relative to DNA. Here we show that this mutation-based approach can be confounded by gene expression differences in tumor and normal cells that coexist in most bulk tumor samples. We model mutant allele expression by incorporating tumor/normal expression difference, mutant allele dosage, tumor purity, and nonsense-mediated decay (NMD) efficiency, projecting that such enrichments can occur without ASE. This confounding effect is exacerbated with low tumor purity and is dependent on mutant allele dosage for NMD-triggering mutations. The model predictions are validated by a pan-cancer bulk tumor analysis with somatic insertions/deletions (indels) from 9,101 The Cancer Genome Atlas (TCGA) samples. A single-cell analysis in five cutaneous squamous cell carcinomas demonstrates the robustness of this model to intratumor heterogeneity. As a byproduct of this confounding effect, we evaluate whether the inverse relationship between mutant allele enrichment in RNA and tumor purity could be leveraged to complement DNA-based somatic mutation detection in low purity samples. Indeed, our de novo somatic indel calling from TCGA RNA-seq increases the TCGA driver indel repertoire by ~ 14%, especially in samples with purity < 0.4, including actionable EGFR indels in lung adenocarcinoma and FLT3 in acute myeloid leukemia. Our study not only reveals confounders in somatic mutant ASE analysis but also demonstrates their utility in RNA-based mutation calling.</p>
-    category: Secondary
-    tag: CCDI Ecosystem
-    journal: >-
-      Genome Research
-    pmid: 41781335
 
   - id: Ecosystem_05222025
     title: >-
