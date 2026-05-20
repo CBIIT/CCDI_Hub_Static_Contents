@@ -56,7 +56,32 @@ newsImgUrlList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
-
+  - id: hub_05202026
+    title: >-
+      May 2026 CCDI Hub updates
+    date: May 20, 2026
+    slug: >-
+      Two new publications, one new tool, and updated MCI enrollment
+    highlight: >-
+      <p>Two new publications have been added to the <a href="https://ccdi.cancer.gov/publications">CCDI-Supported Publications list</a>, and three previously reported preprints have been updated with their final publication details. The NCH-IGM ClinVar Submitter’s Page has been added to <a href="https://ccdi.cancer.gov/tools">CCDI Hub's Tools list</a>, and tools from the Modeling Outcomes Using Surveillance Data and Scalable AI for Cancer (MOSSAIC) Project have been moved to the CCDI-supported tools section. The <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has also been updated with enrollment counts as of May 7, 2026.</p>
+    type: News
+    img: updateImgMiscNews 
+    latestUpdate: true
+    latestUpdateOrder: 1
+    
+  - id: ccdc_04232026
+    title: >-
+      15 new resources and additional resource updates
+    date: May 20, 2026
+    slug: >-
+      April’s Childhood Cancer Data Catalog (CCDC) release added 15 new resources and 4 new datasets from existing resources
+    highlight: >-
+      <p>Version 1.5.8 of the Childhood Data Initiative Data Catalog added 15 new resources and 4 new datasets from existing resources. Additional updates were made to resource counts, grant information, publications, and more.</p>
+    type: CCDI Application Updates
+    img: updateImgCCDC 
+    latestUpdate: true
+    latestUpdateOrder: 2
+  
   - id: hub_04152026
     title: >-
       April 2026 CCDI Hub updates
@@ -68,7 +93,7 @@ newsList:
     type: News
     img: updateImgMiscNews 
     latestUpdate: true
-    latestUpdateOrder: 1
+    latestUpdateOrder: 3
 
   - id: federation_03262026
     title: >-
@@ -80,8 +105,6 @@ newsList:
       <p>CCDI Data Federation API version 1.2.3 expands harmonized data coverage and now enables discovery of CCDI-managed data. Researchers can build cross-resource cohorts using participant, sample, and file-level metadata alongside other participating pediatric cancer resources. This strengthens the CCDI Data Ecosystem and supports comprehensive pediatric cancer research. </p>
     type: CCDI Application Updates
     img: updateImgFederation 
-    latestUpdate: true
-    latestUpdateOrder: 2
     
   - id: ccdc_02192026
     title: >-
@@ -671,8 +694,6 @@ releaseNotesList:
     type: Release Notes
     img: updateImgReleaseNotes
     contentType: Clinical,Genomics/Omics,Imaging
-    latestUpdate: true
-    latestUpdateOrder: 3
     
   - id: hub_release_02192026
     title: CCDI Hub Release 2.9.2

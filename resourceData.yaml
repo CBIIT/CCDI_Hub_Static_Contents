@@ -91,6 +91,12 @@ toolsContent:
   - id: CCDI_Supported_Tools
     topic: CCDI-supported tools
     list:
+      - id: BARDI
+        subtopic: BARDI
+        content: >-
+          <p>BARDI is a data engineering tool to make clinical data “AI-ready” by transforming raw, unstructured inputs (like pathology reports) into structured, model-friendly formats. It provides modular pipelines for preprocessing tasks such as tokenization, normalization, and batch data handling, simplifying the development and maintenance of large-scale data workflows for machine learning. Overall, prepares clinical text and related data so downstream model frameworks (like <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/FrESCO" target="_blank" rel="noopener noreferrer">FrESCO</a>) can efficiently perform tasks such as information extraction and prediction. </p>
+          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/bardi" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/bardi</a></p>
+          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p> 
       - id: CCDI_Data_Model
         subtopic: CCDI Data Model
         content: >-
@@ -109,6 +115,24 @@ toolsContent:
           <p>The Childhood Cancer Clinical Data Commons (C3DC) Data Model is a structured framework designed to standardize and harmonize pediatric cancer clinical data across diverse studies and platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their interrelationships to ensure consistent and interoperable data representation. By supporting the harmonization of data from multiple sources, the model enables researchers to work with integrated datasets, promoting efficient data sharing, analysis, and collaboration. To interactively view the data model, please click <a class="link" href="https://clinicalcommons.ccdi.cancer.gov/data_model" target="_blank" rel="noopener noreferrer">here.</a></p>
           <p>Link: <a class="link" href="https://github.com/CBIIT/c3dc-model" target="_blank" rel="noopener noreferrer">https://github.com/CBIIT/c3dc-model</a></p>
           <p>Contact: <a href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a></p>
+      - id: FrESCO
+        subtopic: FrESCO
+        content: >-
+          <p>FrESCO (Framework for Exploring Scalable Computational Oncology) is a modular deep learning NLP framework designed to automatically extract structured cancer information from clinical text documents at scale. FrESCO employs <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/bardi" target="_blank" rel="noopener noreferrer">BARDI</a> as part of processing. Surveillance, Epidemiology, and End Results (SEER) program collects and analyzes data from pathology reports across state registries, but extracting detailed cancer phenotypes from these reports is labor-intensive and requires expert knowledge. Automating this process can improve data consistency, speed, and enable time-sensitive applications like precision medicine.</p>
+          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/FrESCO" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/FrESCO</a></p>
+          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p>       
+      - id: NCCR_Treatment_Database
+        subtopic: NCCR Treatment Database
+        content: >-
+          <p>The NCCR Treatment Database provides structured data and tooling related to cancer treatment information derived from registry and clinical sources. It is designed to support AI/ML workflows and natural language processing by organizing treatment-related variables that can be used for model training, evaluation, and cancer surveillance research. This resource helps standardize and make treatment data more accessible for large-scale computational oncology efforts, enabling analysis of real-world cancer treatments alongside other population-level data.</p>
+          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/nccr-treatment-database" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/nccr-treatment-database</a></p>
+          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p>       
+      - id: WSI_Informative_Slide_Selection
+        subtopic: WSI Informative Slide Selection
+        content: >-
+          <p>A pipeline that uses deep learning models to classify histopathology whole-slide image (WSI) thumbnails across multiple diagnostic relevance tasks. It predicts slide-level attributes including absolute and relative informativeness, image quality, and tumor presence. The system enables efficient pre-screening and quality assessment of pathology slides to support downstream computational pathology workflows.</p>
+          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/wsi-informative-slide-selection" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/wsi-informative-slide-selection</a></p>
+          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p>       
   - id: Additional_Tools_of_Interest
     topic: Additional tools of interest
     list:
@@ -118,12 +142,6 @@ toolsContent:
           <p>AttentionAML is a novel deep learning framework that uses an attention-based multilayer perceptron (MLP) model to accurately identify acute myeloid leukemia (AML) subtypes from transcriptomic data alone. A user-friendly Python package is available to help researchers implement the model. It enables precise classification and clustering of AML subtypes, and facilitates improved risk stratification and personalized treatment planning.</p>
           <p>Link: <a class="link" href="https://github.com/wan-mlab/AttentionAML" target="_blank" rel="noopener noreferrer">https://github.com/wan-mlab/AttentionAML</a></p>
           <p>Contact: <a href="mailto:swan@unmc.edu" target="_blank" rel="noopener noreferrer">swan@unmc.edu</a></p> 
-      - id: BARDI
-        subtopic: BARDI
-        content: >-
-          <p>BARDI is a data engineering tool to make clinical data “AI-ready” by transforming raw, unstructured inputs (like pathology reports) into structured, model-friendly formats. It provides modular pipelines for preprocessing tasks such as tokenization, normalization, and batch data handling, simplifying the development and maintenance of large-scale data workflows for machine learning. Overall, prepares clinical text and related data so downstream model frameworks (like <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/FrESCO" target="_blank" rel="noopener noreferrer">FrESCO</a>) can efficiently perform tasks such as information extraction and prediction. </p>
-          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/bardi" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/bardi</a></p>
-          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p> 
       - id: caDSR
         subtopic: caDSR
         content: >-
@@ -154,13 +172,7 @@ toolsContent:
           <p>The EwS-Pacbio repository provides tools for analyzing long-read targeted sequencing FASTQ files to investigate microsatellites and germline variants associated with Ewing sarcoma (EwS) susceptibility. Leveraging PacBio sequencing technology, the resource enables high-resolution investigation of genetic risk factors, including variant analysis and microsatellite profiling. It includes workflows and visualizations fused in associated publications, supporting deeper insights into EwS-related genetic mechanisms.</p>
           <p>Link 1: Code for 6p25.1 microsatellite and germline variant analysis is available at: <a class="link" href="https://github.com/machiela-lab/EwS-Pacbio" target="_blank" rel="noopener noreferrer">https://github.com/machiela-lab/EwS-Pacbio</a></p>
           <p>Link 2: Code for gene expression analysis is available at: <a class="link" href="https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1" target="_blank" rel="noopener noreferrer">https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1</a></p>
-          <p>Contact: <a href="mailto:mitchell.machiela@nih.gov" target="_blank" rel="noopener noreferrer">mitchell.machiela@nih.gov</a></p>           
-      - id: FrESCO
-        subtopic: FrESCO
-        content: >-
-          <p>FrESCO (Framework for Exploring Scalable Computational Oncology) is a modular deep learning NLP framework designed to automatically extract structured cancer information from clinical text documents at scale. FrESCO employs <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/bardi" target="_blank" rel="noopener noreferrer">BARDI</a> as part of processing. Surveillance, Epidemiology, and End Results (SEER) program collects and analyzes data from pathology reports across state registries, but extracting detailed cancer phenotypes from these reports is labor-intensive and requires expert knowledge. Automating this process can improve data consistency, speed, and enable time-sensitive applications like precision medicine.</p>
-          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/FrESCO" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/FrESCO</a></p>
-          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p>       
+          <p>Contact: <a href="mailto:mitchell.machiela@nih.gov" target="_blank" rel="noopener noreferrer">mitchell.machiela@nih.gov</a></p> 
       - id: GDC
         subtopic: GDC
         content: >-
@@ -197,12 +209,12 @@ toolsContent:
           <p>M-PACT is a deep learning-based classifier that uses DNA methylation profiles from cell-free DNA in cerebrospinal fluid to noninvasively identify pediatric central nervous system (CNS) tumor types with high accuracy (≈92% in benchmark cohorts). M-PACT overcomes challenges of low tumor DNA abundance and sparse methylation data in liquid biopsies, enabling accurate tumor classification and cellular deconvolution without requiring tissue biopsies.</p>
           <p>Link: <a class="link" href="https://mpact.stjude.org" target="_blank" rel="noopener noreferrer">https://mpact.stjude.org</a></p> 
           <p>Contact: <a href="mailto:paul.northcott@stjude.org" target="_blank" rel="noopener noreferrer">paul.northcott@stjude.org</a></p>
-      - id: NCCR_Treatment_Database
-        subtopic: NCCR Treatment Database
+      - id: NCH-IGM_ClinVar_Submitters_Page
+        subtopic: NCH-IGM ClinVar Submitter's Page
         content: >-
-          <p>The NCCR Treatment Database provides structured data and tooling related to cancer treatment information derived from registry and clinical sources. It is designed to support AI/ML workflows and natural language processing by organizing treatment-related variables that can be used for model training, evaluation, and cancer surveillance research. This resource helps standardize and make treatment data more accessible for large-scale computational oncology efforts, enabling analysis of real-world cancer treatments alongside other population-level data.</p>
-          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/nccr-treatment-database" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/nccr-treatment-database</a></p>
-          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p>       
+          <p>ClinVar submissions are records provided by researchers, clinical labs, and other contributors that describe relationships between genetic variants and their clinical significance. These submissions include interpretations (such as pathogenic or benign), supporting evidence, and review status, helping aggregate and compare variant knowledge across the scientific and medical community. The Nationwide Children's Hospital Institute for Genomic Medicine (IGM) Clinical Laboratory submits clinically significant variants reviewed and curated from clinical testing for inclusion in ClinVar, including somatic and germline variants relevant for pediatric cancers. A listing of submitted clinical variants, viewable by gene and condition, from NCH-IGM is available at the submitter's page in ClinVar. </p>
+          <p>Link: <a class="link" href="https://www.ncbi.nlm.nih.gov/clinvar/submitters/196472/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/clinvar/submitters/196472/</a></p>
+          <p>Contact: <a href="mailto:Catherine.Cottrell@nationwidechildrens.org" target="_blank" rel="noopener noreferrer">Catherine.Cottrell@nationwidechildrens.org</a></p>       
       - id: PMTL
         subtopic: PMTL
         content: >-
@@ -227,12 +239,6 @@ toolsContent:
           <p>Tucan is a methylation-based classification model for pediatric solid tumors. Tucan can distinguish 91 different pediatric solid tumor subtypes and works with both methylation array data or nanopore based methylation data as input.</p>
           <p>Link: <a class="link" href="https://github.com/UMCUGenetics/tucan" target="_blank" rel="noopener noreferrer">https://github.com/UMCUGenetics/tucan</a></p> 
           <p>Contact: <a href="mailto:l.a.kester@prinsesmaximacentrum.nl" target="_blank" rel="noopener noreferrer">l.a.kester@prinsesmaximacentrum.nl</a></p>
-      - id: WSI_Informative_Slide_Selection
-        subtopic: WSI Informative Slide Selection
-        content: >-
-          <p>A pipeline that uses deep learning models to classify histopathology whole-slide image (WSI) thumbnails across multiple diagnostic relevance tasks. It predicts slide-level attributes including absolute and relative informativeness, image quality, and tumor presence. The system enables efficient pre-screening and quality assessment of pathology slides to support downstream computational pathology workflows.</p>
-          <p>Link: <a class="link" href="https://github.com/DOE-NCI-MOSSAIC/wsi-informative-slide-selection" target="_blank" rel="noopener noreferrer">https://github.com/DOE-NCI-MOSSAIC/wsi-informative-slide-selection</a></p>
-          <p>Contact: <a href="mailto:HANSONHA@ORNL.GOV" target="_blank" rel="noopener noreferrer">hansonha@ornl.gov</a>, <a href="mailto:hsuel@mail.nih.gov" target="_blank" rel="noopener noreferrer">hsuel@mail.nih.gov</a></p>       
 Tools_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Data_Usage_Policies_Header.png
 
 rareCancerIntroText: >-
@@ -258,7 +264,7 @@ rareCancerContent:
         subtopic: Contact Information
         content: >-
           <h3>Who should I contact with questions about CCDI Pediatric and AYA Rare Cancer Study results and data?</h3>
-          <p><a href="#" data-action="download-contact-form">Download the CCDI Pediatric and AYA Rare Cancer Study Contact Form</a>, complete it, and submit to <a class="link" href="mailto:NCICCDIRCI@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCICCDIRCI@mail.nih.gov</a> if you are interested in participating.</p>
+          <p>If you are interested in participating in the Pediatric and AYA Rare Cancer Study, please click the button below to download the contact form, complete it, and submit it via email using the Submit button in the form. </p>
           <p>For questions related to study data or accessing the CCDI Data Ecosystem, contact <a class="link" href="mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov" target="_blank" rel="noopener noreferrer">NCIChildhoodCancerDataInitiative@mail.nih.gov</a>.</p>
 RCI_Header: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/RCI/Rare_Cancer_Header.png
 RCI_Data_Flow_Chart_URL: https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/RCI/RCI_data_flow_chart.png

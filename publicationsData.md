@@ -1,0 +1,1224 @@
+![publications_header](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png)
+Publication list updated as of 4/15/26
+
+# Increasing Incidence of Cutaneous T-Cell Lymphoma Among Children and Young Adults in the United States, 1997–2019: A National Population-Based Study Using the National Childhood Cancer Registry
+### February 2026 | Journal of the American Academy of Dermatology | 41688023
+
+Cutaneous T-cell lymphoma (CTCL) is a group of non-Hodgkin lymphomas characterized by malignant T-cell infiltration of the skin.1 While CTCL usually presents in older adults, recent studies suggest increasing incidence among individuals under 40 years in the United States (US).1,2 However, it remains unclear how pediatric, adolescent, and young adult populations have been affected. To address this, we characterized incidence trends of CTCL in these populations within the US.
+
+Tags: **CCDI-NCCR, CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_02112026 |
+| link | https://doi.org/10.1016/j.jaad.2026.02.019 |
+| summary | Secondary |
+
+# IL-18 metabolically reprograms CAR-expressing natural killer T cells and enhances their antitumor activity
+### January 2026 | Molecular Therapy | 41520178
+
+Invariant natural killer T cells (NKTs) have intrinsic antitumor properties that make them promising candidates for chimeric antigen receptor (CAR) immunotherapies. Transgenic cytokine expression can enhance cellular therapy potency, and we hypothesized that co-expressing interleukin-18 (IL-18) alone or with IL-15 would boost CAR-NKT therapeutic potential. To test this, we generated retroviral constructs expressing IL-15 and/or IL-18 with an inducible caspase-9 safety switch and co-transduced them with a GD2-specific CAR into human NKTs. Co-expression of IL-18 or IL-15/IL-18 increased CAR-NKT cytotoxicity, proliferation, and cytokine secretion in vitro compared to IL-15 alone. IL-18 also enhanced GPC3.CAR and CD19.CAR NKT activity against hepatocellular carcinoma and B cell leukemia cells, respectively. In a metastatic neuroblastoma model, IL-18-expressing GD2.CAR-NKTs controlled tumors more effectively than IL-15-only cells, but mice in the IL-15/IL-18 group developed severe toxicities not observed in the IL-18-only group. Mechanistically, IL-18 induced a transcriptional program distinct from IL-15, marked by lower exhaustion signatures and enrichment of metabolic pathways. Finally, targeted metabolomics showed that IL-18 drives broad metabolic reprogramming in CAR-NKTs including increased oxidative phosphorylation, glycolysis, glutaminolysis, and purine metabolism. These findings support the use of IL-18 in developing the next generation of cytokine-armed CAR-NKT cancer immunotherapies.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_01102026 |
+| link | https://doi.org/10.1016/j.ymthe.2026.01.001 |
+| summary | Primary |
+
+# Facts and Hopes of Chimeric Antigen Receptor-Redirected NK T Cells
+### December 2025 | Clinical Cancer Research | 41118265
+
+Chimeric antigen receptor (CAR)-engineered invariant NK T cells (CAR-NKT) are a novel cell platform for cancer immunotherapy. Unlike conventional T cells, NKTs are characterized by innate antitumor properties, minimal alloreactivity, and a unique ability to modulate the tumor microenvironment. This article provides a comprehensive overview of preclinical and early clinical studies evaluating CAR-NKTs in both autologous and allogeneic clinical settings. We discuss the contributions of CAR signaling domains, cytokine coexpression, and other functional measures that correlate with CAR-NKT persistence, function, and metabolic fitness. We also discuss the critical role of immunocompetent animal models in elucidating the interactions of CAR-NKTs with the tumor microenvironment and other components of the immune system. Finally, we review strategies that combine CAR-NKTs with other therapeutic approaches to promote potential synergistic benefits in patients with cancer.
+
+Tags: **CCDI Ecosystem,Review**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_12152025 |
+| link | https://doi.org/10.1158/1078-0432.ccr-25-0197 |
+| summary | Primary |
+
+# Building Pediatric Cancer Cohorts and Accessing Data Using Childhood Cancer Data Initiative Tools
+### December 2025 | JCO Clinical Cancer Informatics | 41370779
+
+Data sharing is necessary to advance understanding of the etiology and biology of cancer in children, adolescents, and young adults; drive therapeutic discoveries; and improve treatment outcomes. To meet this critical need, the National Cancer Institute's Childhood Cancer Data Initiative (CCDI) provides innovative, user-friendly tools and resources that enable researchers and pediatric oncologists to access and analyze the large volume of diverse childhood cancer data (over 1 million files) that has been collected and harmonized from multiple studies, including CCDI's Molecular Characterization Initiative, Pediatric MATCH, Childhood Cancer Survivor Study, etc. This article outlines how to find, request, access, download, and analyze data indexed in the CCDI Hub Explore Dashboard and Childhood Cancer Clinical Data Commons (C3DC), key components of the CCDI Data Ecosystem, to accelerate progress in pediatric cancer research.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_12102025 |
+| link | https://doi.org/10.1200/CCI-25-00217 |
+| summary | Primary |
+
+# The impact of focused federal initiatives on pediatric cancer research
+### November 2025 | Cancer | 41237091
+
+Research progress in recent decades has led to improved outcomes for children, adolescents, and young adults (AYAs) with cancer, but cancer remains the leading cause of disease-related death in children in the United States. Moreover, more than 30% of successfully treated children experience potentially debilitating and life-threatening late effects of treatment,affecting quality of life. The lower incidence of cancers in children when compared with cancers in adults poses significant challenges to the design and conduct of clinical trials. Historically, pediatric cancer research has faced challenges such as limited market incentives for pharmaceutical development, low industry engagement, and insufficient data-sharing infrastructure, hindering the development of new therapies.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_11142025 |
+| link | https://doi.org/10.1002/cncr.70172 |
+| summary | Primary |
+
+# Evaluation of disparities in the incidence, presentation, and treatment of pediatric differentiated thyroid cancer in the United States (2000-2022)
+### October 2025 | PLOS One | 41100458
+
+Rates of pediatric differentiated thyroid cancer (DTC) have been increasing, yet disparities in incidence, diagnosis, and treatment across race and ethnicity have not been fully explored. We assessed temporal trends in the incidence of pediatric DTC using data from 2000–2022 (excluding 2020 due to COVID-19) from the National Childhood Cancer Registry. Annual percent changes (APC) were calculated using joinpoint regression analysis overall and by race, ethnicity, age, and clinical factors. Differences in cancer presentation and treatment by race and ethnicity were evaluated using data from Surveillance, Epidemiology, and End Results (SEER) for 18 registries for 2006–2018, while accounting for socioeconomic status (SES).
+
+Tags: **CCDI-NCCR, CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_10162025 |
+| link | https://doi.org/10.1371/journal.pone.0333401 |
+| summary | Secondary |
+
+# The Open Pediatric Cancer Project
+### September 2025 | GigaScience | 40891528
+
+In 2019, the Open Pediatric Brain Tumor Atlas (OpenPBTA) was created as a global, collaborative open-science initiative to genomically characterize 1,074 pediatric brain tumors and 22 patient-derived cell lines. Here, we present an extension of the OpenPBTA called the Open Pediatric Cancer (OpenPedCan) Project, a harmonized open-source multiomic dataset from 6,112 pediatric cancer patients with 7,096 tumor events across more than 100 histologies. Combined with RNA sequencing (RNA-seq) from the Genotype-Tissue Expression and The Cancer Genome Atlas projects, OpenPedCan contains nearly 48,000 total biospecimens (24,002 tumor and 23,893 normal specimens).
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_09022025 |
+| link | https://doi.org/10.1093/gigascience/giaf093 |
+| summary | Primary |
+
+# Extrachromosomal DNA associates with poor survival across a broad spectrum of childhood solid tumors
+### August 2025 | Preprint
+
+Circular extrachromosomal DNA (ecDNA) is a common form of oncogene amplification in aggressive cancers. The frequency and diversity of ecDNA has been catalogued in adult and some childhood cancers; however, its role in most pediatric cancers is not well-understood. To address this gap, we accessed large pediatric cancer genomics data repositories and identified ecDNA from whole genome sequencing data using cloud computing. This retrospective cohort comprises 3,631 solid tumor biopsies from 2,968 patients covering all major childhood solid tumor types. Aggressive tumor types had particularly high incidences of ecDNA. Pediatric patients whose tumors harbored extrachromosomal DNA had significantly poorer five-year overall survival than children whose tumors contained only chromosomal amplifications. We catalogue known and potentially novel oncogenes recurrently amplified on ecDNA and show that ecDNA often evolves during disease progression. These results highlight patient populations that could potentially benefit from future ecDNA-directed therapies. To facilitate discovery, we developed an interactive catalogue of ecDNA in childhood cancer at https://ccdi-ecdna.org/.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_08072025 |
+| link | https://doi.org/10.1101/2025.07.22.24308163 |
+| summary | Secondary |
+
+# Childhood Cancer Data Initiative: Expanded access to tumor molecular profiling for children, adolescents, and young adults
+### August 2025 | JNCI: Journal of the National Cancer Institute | 40794906
+
+The Molecular Characterization Initiative (MCI), a key effort of the NCI’s Childhood Cancer Data Initiative (CCDI), was launched in 2022 in collaboration with the Children’s Oncology Group (COG) to bring comprehensive genomic and molecular profiling to children, adolescents and young adults diagnosed with cancer. The MCI provides paired tumor and germline molecular testing, with results returned to clinicians to inform care. De-identified data are made available to the research community through the CCDI Data Ecosystem to facilitate the discovery of new treatment strategies. This commentary outlines the MCI’s development, key accomplishments to date, and its role in laying the foundation for standardized clinical diagnostics in pediatric oncology.
+
+Tags: **CCDI-MCI**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_08062025 |
+| link | https://doi.org/10.1093/jnci/djaf214 |
+| summary | Primary |
+
+# Cancer survivorship for the PCP
+### August 2025 | Current Problems in Pediatric and Adolescent Health Care | 40992854
+
+The number of childhood cancer survivors (CCS) in the United States exceeds 500,000 and continues to rise. While recurrence risk diminishes over time, the prevalence of late effects from cancer treatment increases with age and affects over 60% of survivors. Primary care providers (PCPs) are ideally positioned to manage the long-term health needs of CCS, yet many feel ill-equipped due to a lack of concise guidelines. This article provides a comprehensive overview for PCPs on managing late effects in CCS. Key areas of focus include general health maintenance, psychological and neurocognitive care, immune function and vaccinations, as well as monitoring for endocrine, cardiovascular, pulmonary, and secondary malignancies. Emphasis is placed on regular screenings and lifestyle modifications. We advocate for proactive PCP involvement in the surveillance and management of late effects associated with childhood cancer treatment.
+
+Tags: **CCDI Ecosystem,Review**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_08012025_1 |
+| link | https://doi.org/10.1016/j.cppeds.2025.101823 |
+| summary | Secondary |
+
+# Foreword: Issue 2 the primary care providers role: From vascular tumors/malformations to cancer, both survivorship and end of life care
+### August 2025 | Current Problems in Pediatric and Adolescent Health Care | 40992852
+
+This continues our second installment on articles for CPPAH devoted to hematological disorders and concentrates on vascular tumors and cancer care in the pediatric population. These articles highlight the difficult conversations when initially presented with these challenging diagnoses and longitudinal care that follows. Where our first three articles in the last edition focused on the cellular aspect of the hematological system and diagnosis these three issues deal mostly with after the diagnosis of an oncological disorder and the aftermath. The authors share extremely helpful insights that will definitely change the way you communicate and practice the next time you are part of a pediatric patient’s cancer diagnosis.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_08012025_2 |
+| link | https://doi.org/10.1016/j.cppeds.2025.101825 |
+| summary | Secondary |
+
+# Impact of Physics Modeling on Monte Carlo Normal Tissue Dose Reconstructions for Passive Scattering Proton Therapy Patients
+### July 2025 | AAPM (American Association of Physicists in Medicine) 2025 Annual Meeting & Exhibition
+
+The National Cancer Institute’s Pediatric Proton and Photon Therapy Comparison Cohort aims to collect and analyze data from cancer centers across the United States and Canada to quantify differences in the risk of developing second malignancies among patients treated with proton versus photon radiotherapy. In this cohort, Monte Carlo (MC) simulations will be used to retroactively calculate dose estimates for passive scattering proton therapy patients. However, such high-energy simulations rely on physics models to estimate interaction probabilities, acting as a source of dose uncertainty. The purpose of this study is to investigate the impact of physics model selection on normal tissue dose reconstruction
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_07272025 |
+| link | https://aapm.confex.com/aapm/2025am/meetingapp.cgi/Paper/19061 |
+| summary | Abstracts |
+
+# Enrollment in Children’s Oncology Group’s clinical trials: population-based linkage with the National Childhood Cancer Registry
+### June 2025 | JNCI: Journal of the National Cancer Institute | 40515409
+
+Improvements in outcomes among children and adolescents diagnosed with cancer are attributable to many factors-including clinical trials such as those administered through the Children's Oncology Group (COG), as well as population-based resources like the National Childhood Cancer Registry (NCCR). The objective of this study was to link COG trial data with the NCCR to evaluate overall enrollment patterns.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_06142025 |
+| link | https://doi.org/10.1093/jnci/djaf134 |
+| summary | Primary |
+
+# Multicenter Histology Image Integration and Multiscale Deep Learning for Machine Learning-Enabled Pediatric Sarcoma Classification
+### January 2026 | Cancer Research | 41481196
+
+Pediatric sarcomas present diagnostic challenges due to their rarity and diverse subtypes, often requiring specialized pathology expertise and costly genetic tests. To overcome these barriers, we developed a computational pipeline leveraging deep learning methods to accurately classify pediatric sarcoma subtypes from digitized histology slides. To ensure classifier generalizability and minimize center-specific artifacts, a dataset comprising 867 whole slide images (WSIs) from three medical centers and the Children's Oncology Group (COG) was collected and harmonized. Multiple convolutional neural network (CNN) and vision transformer (ViT) architectures were systematically evaluated as feature extractors for SAMPLER-based WSI representations, and input parameters, such as tile size combinations and resolutions, were tested and optimized. The analysis showed that advanced ViT foundation models (UNI, CONCH) significantly outperformed earlier approaches, and incorporating multiscale features enhanced classification accuracy. The optimized models achieved high performance, distinguishing rhabdomyosarcoma (RMS) from non-rhabdomyosarcoma (NRSTS) with an AUC of 0.969 and differentiating RMS subtypes (alveolar vs. embryonal) with an AUC of 0.961. Additionally, a two-stage pipeline effectively identified scarce Ewing sarcoma images from other NRSTS (AUC 0.929). Compared to conventional transformer encoder architectures used for WSI representations, these SAMPLER based classifiers were three orders of magnitude faster to train, despite operating entirely without a GPU. This study highlights that digital histopathology paired with rigorous image harmonization provides a powerful solution for pediatric sarcoma classification.
+
+Tags: **CCDI Ecosystem,AI**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_06112025 |
+| link | https://doi.org/10.1158/0008-5472.CAN-25-2275 |
+| summary | Secondary |
+
+# Integrating Electronic Health Records to Enhance Surveillance of Childhood Cancer: Insights from a Pilot Project
+### June 2025 | NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
+
+Enhanced data collection can improve health outcomes in childhood cancer. This article is a result of a pilot project coordinated by the NCI undertaken by the Texas Cancer Registry (TCR) and Texas Children’s Hospital (TCH) to explore the value of gathering clinical data from electronic health records (EHR).
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_06042025_2 |
+| link | https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf |
+| summary | Abstracts |
+
+# Disparities in Childhood and Adolescent Cancer Survival in California
+### June 2025 | NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
+
+In 2024, an estimated 14,910 US children (0-14 years) and adolescents (15-19 years) were diagnosed with cancer. Understanding survival disparities by sociodemographic factors can help monitor progress in cancer outcomes as well as identify groups that may need better access to care and clinical trials, guidance with health literacy, or help with healthcare navigation.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_06042025_1 |
+| link | https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf |
+| summary | Abstracts |
+
+# Evaluation of Data Completeness of Multimodal Data for Longitudinal, Patient Outcomes Analyses Using the NCCR Data Platform and Interoperability Resources with the CCDI Data Ecosystem
+### June 2025 | NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
+
+The National Childhood Cancer Registry (NCCR) integrates multimodal data from central cancer registries and multiple real-world sources under a unified data infrastructure to enable scientific advances using population-based and research data. The Childhood Cancer Data Initiative (CCDI) Participant Index (CPI) is a new resource that enables patient matching across NCCR and other research datasets in the wider CCDI data ecosystem. In tandem with NCCR Data Platform, the CPI provides a highly accessible and interoperable data resource for childhood, adolescent and young adult (AYA) cancer researchers to answer a wide range of research questions.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_06032025_4 |
+| link | https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf |
+| summary | Abstracts |
+
+# Best Practices for Managing Data Sets from the National Childhood Cancer Registry (NCCR) Data Platform
+### June 2025 | NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
+
+The NCCR Data Platform consolidates public health surveillance data from 22 NCCR participating cancer registries into a central location linked to real world data sources. This valuable resource allows researchers approved access to pooled data on longitudinal clinical, treatment, claims, demographic and outcomes data for rare childhood cancers in the U.S. Currently the NCCR Data Platform provides information on 1.4+ million cases from 1995 to 2021 stemming from seven population based or convenience sample sources. Data can be interactively explored within the Data Platform and manipulated to create customized cohorts. These cohorts can be requested for downloading through the NCCR Data Platform data request process.
+
+Tags: **CCDI-NCCR,CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_06032025_3 |
+| link | https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf |
+| summary | Abstracts |
+
+# Socio-Demographic Characteristics of Children and AYA Cancer Patients Enrolled and Not Enrolled in COG Clinical Trials Using the NCCR Data Platform
+### June 2025 | NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
+
+Cancer death rates have decreased over the years for children (0-14 years) and adolescents and young adults (AYA, 15-39 years). A significant portion of this improvement in survival rates can be attributed to treatment advances from cooperative clinical trials in the US. However, according to a Children’s Oncology Group (COG) study, only 20% of US cancer patients aged 0 to 19 years old enrolled in COG trials between 2004-2015. Many studies reported underrepresentation of racial/ethnic minorities as well as AYA in clinical trials.
+
+Tags: **CCDI-NCCR,CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_06032025_2 |
+| link | https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf |
+| summary | Abstracts |
+
+# An Evaluation of Privacy-Preserving Record Linkage Results Using NCCR and VPR Data
+### June 2025 | NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
+
+Privacy-Preserving Record Linkage (PPRL) techniques allow institutions/organizations to link data without releasing sensitive information through a broad range of processes, including secure multi-party computation, bloom filter encoding, and hashing, among others. During the hashing process, a series of cryptographic functions are applied to the input data to generate a set of hash tokens. After the input data have been hashed/tokenized, the linkage process compares the hash tokens in two or more files to identify sets of records that are believed to belong to the same entity. The hash tokens do not disclose any identifiers because a hash function is, by definition, a one-way function; meaning the original data cannot be derived from the hashed value.
+
+Tags: **CCDI-NCCR,CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_06032025_1 |
+| link | https://www.naaccr2025hartford.com/_files/ugd/eb0601_fe20db5cbaf94d45a3156a98845b36be.pdf |
+| summary | Abstracts |
+
+# Understanding the Molecular Landscape of Rare Tumors Through the CCDI-COG Molecular Characterization Initiative
+### June 2025 | American Society of Clinical Ontology (ASCO) 2025
+
+Through collaboration with the National Cancer Institute as part of the Childhood Cancer Data Initiative, the Children’s Oncology Group offers prompt paired tissue and germline sequencing for newly diagnosed rare tumor subtypes.
+
+Tags: **CCDI-MCI,CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_06022025 |
+| link | https://ascopubs.org/doi/10.1200/JCO.2025.43.16_suppl.10012 |
+| summary | Abstracts |
+
+# CCDI-COG Molecular Characterization Initiative: The Expanding Data on Childhood Cancer
+### June 2025 | American Society of Clinical Ontology (ASCO) 2025
+
+The Molecular Characterization Initiative (MCI), a collaboration between the Children's Oncology Group (COG) and the NCIs Childhood Cancer Data Initiative (CCDI) which is intended to define a standardized genomic characterization of pediatric cancer, provides rapid, clinical sequencing for newly diagnosed central nervous system (CNS) tumors, rare tumors, soft tissue sarcomas (STS), or advanced stage neuroblastoma (NB) to guide diagnosis and treatment for these children
+
+Tags: **CCDI-MCI,CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_06012025_2 |
+| link | https://doi.org/10.1200/JCO.2025.43.16_suppl.10013 |
+| summary | Abstracts |
+
+# Integrated Molecular Characterization of Pediatric Soft Tissue Sarcomas: A Report from the COG and CCDI Molecular Characterization Initiative
+### June 2025 | American Society of Clinical Ontology (ASCO) 2025
+
+The Molecular Characterization Initiative (MCI), a partnership between the Children’s Oncology Group (COG) and the NCI’s Childhood Cancer Data Initiative (CCDI), provides standardized genomic profiling of tumors and germline for subjects with newly diagnosed pediatric soft tissue sarcomas (STS). Here, we report on STS patients <25 enrolled in MCI from July 2022 to July 2023.
+
+Tags: **CCDI-MCI,CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_06012025_1 |
+| link | https://doi.org/10.1200/JCO.2025.43.16_suppl.10025 |
+| summary | Abstracts |
+
+# Confounding factors in assessing the enriched expression of somatic mutant allele in bulk tumor samples
+### March 2026 | Genome Research | 41781335
+
+Allele-specific expression (ASE) of somatic mutations can be caused by cis-activation of the mutant allele or silencing of the wild-type allele and has been investigated by examining the enrichment of mutant allele in RNA relative to DNA. Here we show that this mutation-based approach can be confounded by gene expression differences in tumor and normal cells that coexist in most bulk tumor samples. We model mutant allele expression by incorporating tumor/normal expression difference, mutant allele dosage, tumor purity, and nonsense-mediated decay (NMD) efficiency, projecting that such enrichments can occur without ASE. This confounding effect is exacerbated with low tumor purity and is dependent on mutant allele dosage for NMD-triggering mutations. The model predictions are validated by a pan-cancer bulk tumor analysis with somatic insertions/deletions (indels) from 9,101 The Cancer Genome Atlas (TCGA) samples. A single-cell analysis in five cutaneous squamous cell carcinomas demonstrates the robustness of this model to intratumor heterogeneity. As a byproduct of this confounding effect, we evaluate whether the inverse relationship between mutant allele enrichment in RNA and tumor purity could be leveraged to complement DNA-based somatic mutation detection in low purity samples. Indeed, our de novo somatic indel calling from TCGA RNA-seq increases the TCGA driver indel repertoire by ~ 14%, especially in samples with purity < 0.4, including actionable EGFR indels in lung adenocarcinoma and FLT3 in acute myeloid leukemia. Our study not only reveals confounders in somatic mutant ASE analysis but also demonstrates their utility in RNA-based mutation calling.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_05312025 |
+| link | https://doi.org/10.1101/gr.281003.125 |
+| summary | Secondary |
+
+# AttentionAML: An Attention-based Deep Learning Framework for Accurate Molecular Categorization of Acute Myeloid Leukemia
+### May 2025 | Preprint
+
+Acute myeloid leukemia (AML) is an aggressive hematopoietic malignancy defined by aberrant clonal expansion of abnormal myeloid progenitor cells. Characterized by morphological, molecular, and genetic alterations, AML encompasses multiple distinct subtypes that would exhibit subtype-specific responses to treatment and prognosis, underscoring the critical need of accurately identifying AML subtypes for effective clinical management and tailored therapeutic approaches. Traditional wet lab approaches such as immunophenotyping, cytogenetic analysis, morphological analysis, or molecular profiling to identify AML subtypes are labor-intensive, costly, and time-consuming. To address these challenges, we propose AttentionAML, a novel attention-based deep learning framework for accurately categorizing AML subtypes based on transcriptomic profiling only. Benchmarking tests based on 1,661 AML patients suggested that AttentionAML outperformed state-of-the-art methods across all evaluated metrics (accuracy: 0.96, precision: 0.96, recall of 0.96, F1-score: 0.96, and Matthews correlation coefficient: 0.96). Furthermore, we also demonstrated the superiority of AttentionAML over conventional approaches in terms of AML patient clustering visualization and subtype-specific gene marker characterization. We believe AttentionAML will bring remarkable positive impacts on downstream AML risk stratification and personalized treatment design. To enhance its impact, a user-friendly Python package implementing AttentionAML is publicly available at https://github.com/wan-mlab/AttentionAML.
+
+Tags: **CCDI Ecosystem,AI**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_05222025 |
+| link | https://doi.org/10.1101/2025.05.20.655179 |
+| summary | Secondary |
+
+# Automated Provision of EHR Data to National Childhood Cancer Center (NCCR) Registries
+### May 2025 | American Society of Pediatric Hematology/Oncology (ASPHO) 2025
+
+The National Cancer Institute's (NCI) National Childhood Cancer Registry (NCCR), a major component of the Childhood Cancer Data Initiative (CCDI), is a central infrastructure that integrates childhood cancer data from central cancer registries and other sources to enhance utilization of pediatric cancer data. The NCCR currently includes >70% of the United States pediatric population. Currently Electronic Health Record (EHR) data in the NCCR are manually abstracted and transferred to cancer registries.
+
+Tags: **CCDI-NCCR,CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_05072025_2 |
+| link | https://onlinelibrary.wiley.com/doi/full/10.1002/pbc.31765?campaign=woletoc |
+| summary | Abstracts |
+
+# Exploring the National Childhood Cancer Registry (NCCR) Data Platform for Advancing Cancer Research
+### May 2025 | American Society of Pediatric Hematology/Oncology (ASPHO) 2025
+
+Childhood, adolescent and young adult (AYA) cancers are rare and data reuse is critically important to drive discovery. However, research, clinical and administrative data are fragmented across multiple institutions and largely inaccessible for broader reuse. The National Childhood Cancer Registry (NCCR), a key component of the Childhood Cancer Data Initiative (CCDI), integrates rich and diverse data from cancer registries and multiple real-world sources under a unified governance framework. The newly launched NCCR Data Platform makes these data accessible to childhood and AYA cancer researchers for a wide range of research questions.
+
+Tags: **CCDI-NCCR,CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_05072025_1 |
+| link | https://onlinelibrary.wiley.com/doi/full/10.1002/pbc.31765?campaign=woletoc |
+| summary | Abstracts |
+
+# Automated Classification of Pediatric Sarcoma Using Digital Histopathy
+### April 2025 | AACR Annual Meeting 2025
+
+Pediatric sarcomas are challenging to accurately classify due to their rarity and the wide diversity of subtypes. The process requires highly specialized pathologists as well as molecular and genetic testing that is expensive, takes time, and is not universally available. Deep neural network models (DNNs) trained on histopathology slides can reduce the time and cost to diagnosis and attenuate disparities in care based on geographical location and socioeconomic status. Here, we demonstrate the efficacy of automated image analysis for assigning sarcoma diagnoses across centers by identifying Ewing Sarcoma (ES), distinguishing rhabdomyosarcoma (RMS) vs non-rhabdomyosarcoma soft tissue sarcomas (NRSTS), as well as classifying alveolar, embryonal, and spindle cell RMS subtypes.
+
+Tags: **CCDI Ecosystem,AI**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_04282025 |
+| link | https://www.abstractsonline.com/pp8/#!/20273/presentation/3252 |
+| summary | Abstracts |
+
+# Developing Subtype-specific Pediatric Cancer Molecular Targets by Aggregating Diverse Genomic Data Resources to the Pediatric Cancer (PeCan) Knowledge Base Portal
+### April 2025 | AACR Annual Meeting 2025
+
+Knowledge about molecular targets for pediatric cancer has accelerated exponentially in recent years thanks to the increased application of multi-omics profiling in both research and clinical settings. The efficacy of genomic-based clinical interventions may depend on whether observed genomic abnormalities are fundamental to the pathogenesis of a specific cancer subtype. At present such information is limited in pediatric cancer due to the rapid evolution of subtype discovery and classification as well as disease heterogeneity owing to the presence of many rare cancer types. To develop a comprehensive resource of molecular targets in pediatric cancer subtypes, we have integrated somatic variants in pediatric cancer samples (n=~5,500) currently hosted in PeCan Portal (http://pecan.stjude.coud) with those (n=~1,400) profiled by NCI’s Childhood Cancer Data Initiative (CCDI) molecular characterization program. To leverage the recently developed WHO CNS5 classification of CNS tumors, we reclassified 2,167 relevant samples based on molecular drivers and histology as a major update to our pediatric cancer ontology definitions, which have recently become a shared standard in the CCDI community. To determine driver genes in disease pathways relevant to specific cancer types, we analyzed the pathogenicity of SNVs and indels, CNVs, SVs and gene fusions and integrated the findings with driver genes reported in 176 publications. A total of 469 distinct driver genes were mapped to 40 pathways across the 22 major pediatric cancer types, which include 3 types of hematological malignancies (HM), 10 types of CNS tumor and 9 types of solid tumor (ST). Pathways with driver genes disrupted across the broad spectrum of cancer types include cell cycle, chromatin remodeling, PI-3K, RAS signaling and telomere maintenance. By contrast the vast majority (>90%) of the transcription factors (TF) are lineage-specific— among the 128 TF genes identified as driver genes, only 11 affect multiple lineages. These include MYC/MYCN which affect HM, ST and CNS tumors; ERG, EWSR1, FLI1 and WT1 which affect HM and ST; and KLF4, MED12, MN1, MYB and TCF4 which affect CNS and HM. These results highlight the importance of developing an infrastructure for exploring mutation prevalence in driver genes and pathways at the cancer subtype level, which will be supported in the upcoming release of the PeCan portal. This, coupled with new features for dynamic exploration of mutational signatures, global expression maps and gene-level transcription across the the cancer subtype classification tree, will greatly expand our knowledge of molecular targets and vulnerabilities in pediatric cancer, paving the way for novel therapeutic advancements.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_04272025 |
+| link | https://www.abstractsonline.com/pp8/#!/20273/presentation/3679 |
+| summary | Abstracts |
+
+# The Molecular Characterization Initiative: Nationwide Comprehensive Clinical Profiling of Pediatric Solid Tissue Malignancies at Scale
+### April 2025 | AACR Annual Meeting 2025
+
+The Molecular Characterization Initiative is an NCI-sponsored program being conducted in collaboration with the Children’s Oncology Group (COG), that seeks to enroll cancer patients from ages 0-25 with a primary diagnosis of a CNS malignancy, soft-tissue sarcoma, rare cancer or high-risk neuroblastoma onto Project Every Child. Subsequent to enrollment, the submission of a disease-involved specimen (cancer) and matched comparator normal (blood or buccal) is subjected to DNA and RNA (tumor) or DNA (normal) extraction by the Biopathology Center, followed by comprehensive clinical molecular profiling at The Institute for Genomic Medicine. To-date, over 4100 patients from 27 states in the United States, from Canada, Australia and New Zealand have been enrolled and studied since project inception in March 2022. Each patient sample set is evaluated by comparative tumor:normal exome analysis, fusion/ITD panel testing of RNA and by DNA methylation profiling, with return of results within 21 days from receipt of specimens at Nationwide Children’s Hospital. Subsequent to return of clinical results, each patient’s data are de-identified and submitted to the Childhood Cancer Database, a public repository managed by the NCI. The data in this repository are publicly available, with institutional sign-off, for the purposes of fueling future discoveries impacting pediatric cancer. The size and scope of the Molecular Characterization Initiative will be equivalent to or greater than other large-scale clinical profiling efforts conducted in Germany (INFORM) and in Australia (Zero Childhood Cancer). The current status and unique results from the MCI will be presented, along with future plans and ongoing challenges.
+
+Tags: **CCDI-MCI**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_04272025 |
+| link | https://www.abstractsonline.com/pp8/#!/20273/presentation/7351 |
+| summary | Abstracts |
+
+# Persistent Poverty and Pediatric Cancer Survival
+### April 2025 | Pediatrics | 40254298
+
+Cancer is the leading cause of death by disease among US children. While previous studies have examined the impact of poverty on pediatric cancer outcomes, most relied on single time point measures, which may not capture the long-term, systemic effects of poverty. Persistent poverty, defined as having 20% or more of an area’s population below the poverty level for 30 years, represents a more comprehensive measure of sustained socioeconomic disadvantage.
+
+Tags: **CCDI Ecosystem,CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_04212025 |
+| link | https://doi.org/10.1542/peds.2024-069973 |
+| summary | Secondary |
+
+# PRDM1 Is a Key Regulator of the NKT-cell Central Memory Program and Effector Function
+### April 2025 | Cancer Immunology Research | 39820712
+
+Natural killer T cells (NKTs) are a promising platform for cancer immunotherapy, but few genes involved in the regulation of NKT therapeutic activity have been identified. To find regulators of NKT functional fitness, we developed a CRISPR/Cas9-based mutagenesis screen that uses a guide RNA (gRNA) library targeting 1,118 immune-related genes. Unmodified NKTs and NKTs expressing a GD2-specific chimeric antigen receptor (GD2.CAR) were transduced with the gRNA library and exposed to CD1d+ leukemia or CD1d-GD2+ neuroblastoma cells, respectively, over six challenge cycles in vitro. Quantification of gRNA abundance revealed enrichment of PRDM1-specific gRNAs in both NKTs and GD2.CAR NKTs, a result that was validated through targeted PRDM1 knockout. Transcriptional, phenotypic, and functional analyses demonstrated that CAR NKTs with PRDM1 knockout underwent central memory-like differentiation and resisted exhaustion. However, these cells downregulated the cytotoxic mediator granzyme B and showed reduced in vitro cytotoxicity and only moderate in vivo antitumor activity in a xenogeneic neuroblastoma model. In contrast, short hairpin RNA-mediated PRDM1 knockdown preserved effector function while promoting central memory differentiation, resulting in GD2.CAR NKTs with potent in vivo antitumor activity. Thus, we have identified PRDM1 as a regulator of NKT memory differentiation and effector function that can be exploited to improve the efficacy of NKT-based cancer immunotherapies.
+
+Tags: **CCDI Ecosystem,CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_04022025 |
+| link | https://doi.org/10.1158/2326-6066.cir-24-0259 |
+| summary | Primary |
+
+# Rising Incidence of Early-Onset Liver Cancer and Intrahepatic Bile Duct Cancer: Analysis of the National Childhood Cancer Registry Database
+### March 2025 | Cancers | 40227653
+
+Early-onset cancer is an emerging global health concern, including in the United States. However, data on early-onset liver and intrahepatic bile duct cancer remain limited. This study aims to fill this gap by analyzing trends in early-onset liver and intrahepatic bile duct cancer in the United States over the past two decades.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_03282025 |
+| link | https://doi.org/10.3390/cancers17071133 |
+| summary | Secondary |
+
+# Clinical presentations and decreasing incidence of melanoma in pediatric and adolescent and young adult patients: 76,108 cases from a nationally representative cohort
+### March 2025 | Journal of the American Academy of Dermatology | 39551155
+
+Knowledge of melanoma presentations among pediatric and adolescent and young adult (AYA) patients are limited because of studies with small sample sizes. The objective of this study was to determine the incidence trends and melanoma presentations based on age, sex, race, and ethnicity using a large cohort of diagnoses from 1997 to 2020.
+
+Tags: **CCDI-NCCR, CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_03012025 |
+| link | https://doi.org/10.1016/j.jaad.2024.10.084 |
+| summary | Secondary |
+
+# The childhood cancer data initiative: enabling data sharing to drive research advances and transform pediatric cancer diagnosis and treatment
+### February 2025 | Current Opinion in Pediatrics | 39699099
+
+With growing emphasis on data-driven research in pediatric oncology, particularly in the context of advances in molecular characterization and precision medicine, there is an urgent need for comprehensive data-sharing initiatives. This review explores how the Childhood Cancer Data Initiative (CCDI) addresses this critical need.
+
+Tags: **CCDI Ecosystem,Review**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_02012025 |
+| link | https://doi.org/10.1097/mop.0000000000001422 |
+| summary | Primary |
+
+# Making the case for an International Childhood Cancer Data Partnership
+### January 2025 | JNCI: Journal of the National Cancer Institute | 39799506
+
+Childhood cancers are a heterogeneous group of rare diseases, accounting for less than 2% of all cancers diagnosed worldwide. Most countries, therefore, do not have enough cases to provide robust information on epidemiology, treatment, and late effects, especially for rarer types of cancer. Thus, only through a concerted effort to share data internationally will we be able to answer research questions that could not otherwise be answered. With this goal in mind, the U.S. National Cancer Institute and the French National Cancer Institute co-sponsored the Paris Conference for an International Childhood Cancer Data Partnership in November 2023. This meeting convened more than 200 participants from 17 countries to address complex challenges in pediatric cancer research and data sharing. This Commentary delves into some key topics discussed during the Paris Conference and describes pilots that will help move this international effort forward. Main topics presented include: 1) the wide variation in interpreting the European Union's General Data Protection Regulation among Member States; 2) obstacles with transferring personal health data outside of the European Union; 3) standardization and harmonization, including common data models; and 4) novel approaches to data sharing such as federated querying and federated learning. We finally provide a brief description of three ongoing pilot projects. The International Childhood Cancer Data Partnership is the first step in developing a process to better support pediatric cancer research internationally through combining data from multiple countries.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_01122025 |
+| link | https://doi.org/10.1093/jnci/djaf003 |
+| summary | Secondary |
+
+# Declining Incidence of Childhood Cancers: An Updated Analysis of the National Childhood Cancer Registry Data (2018–2021)
+### January 2025 | Pediatric Blood & Cancer | 39754540
+
+In October, we published a letter describing the incidence trends of common pediatric cancers (leukemia, lymphoma, central nervous system, sarcoma, gonadal/germ cell) in pediatric (age 0–14) and adolescent/young adult (AYA) (age 15–39) populations. We analyzed the December 2022 National Childhood Cancer Registry (NCCR) data submission, which included years 1997–2020 and the following states: CA, CT, GA, HI, ID, IL, IA, KY, LA, MA, NJ, NM, NY, TX, and UT (this file also included the Seattle cancer registry). Our initial letter found that pediatric cancer incidence remained relatively stable through 2020, with some, albeit slight, heterogeneity by age group, cancer site, and accreditation status of the reporting facility (a finding we found quite peculiar).
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_01042025 |
+| link | https://doi.org/10.1002/pbc.31506 |
+| summary | Secondary |
+
+# RanBALL: An Ensemble Random Projection Model for Identifying Subtypes of B-Cell Acute Lymphoblastic Leukemia
+### October 2025 | Advanced Intelligent Systems | 41246237
+
+As the most common pediatric malignancy, B-cell acute lymphoblastic leukemia (B-ALL) has multiple distinct subtypes characterized by recurrent and sporadic somatic and germline genetic alterations. Identifying B-ALL subtypes can facilitate risk stratification and enable tailored therapeutic design. Existing methods for B-ALL subtyping primarily depend on immunophenotyping, cytogenetic tests, and genomic profiling, which can be costly, complicated, and laborious. To overcome these challenges, RanBALL (an ensemble random projection-based model for identifying B-ALL subtypes) is presented, an accurate and cost-effective model for B-ALL subtype identification. By leveraging random projection (RP) and ensemble learning, RanBALL can preserve patient-to-patient distances after dimension reduction and yield robustly accurate classification performance for B-ALL subtyping. Benchmarking results based on >1700 B-ALL patients demonstrate that RanBALL achieves remarkable performance (accuracy: 0.93, F1-score: 0.93, and Matthews correlation coefficient: 0.93), significantly outperforming state-of-the-art methods like ALLSorts in terms of all performance metrics. In addition, RanBALL performs better than t-SNE in terms of visualizing B-ALL subtype information. We believe RanBALL will facilitate the discovery of B-ALL subtype-specific marker genes and therapeutic targets to have consequential positive impacts on downstream risk stratification and tailored treatment design is believed. To extend its applicability and impacts, a Python-based RanBALL package is available at https://github.com/wan-mlab/RanBALL.
+
+Tags: **CCDI Ecosystem,AI**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_01022025 |
+| link | https://doi.org/10.1002/aisy.202500965 |
+| summary | Secondary |
+
+# The landscape of primary mismatch repair deficient gliomas in children, adolescents, and young adults: a multi-cohort study
+### January 2025 | The Lancet Oncology | 39701117
+
+Gliomas are a major cause of cancer-related death among children, adolescents, and young adults (age 0-40 years). Primary mismatch repair deficiency (MMRD) is a pan-cancer mechanism with unique biology and therapeutic opportunities. We aimed to determine the extent and impact of primary MMRD in gliomas among children, adolescents, and young adults.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_01012025 |
+| link | https://doi.org/10.1016/s1470-2045(24)00640-5 |
+| summary | Primary |
+
+# Engineering synthetic suppressor T cells that execute locally targeted immunoprotective programs
+### December 2024 | Science | 39636990
+
+Immune homeostasis requires a balance of inflammatory and suppressive activities. To design cells potentially useful for local immune suppression, we engineered conventional CD4+ T cells with synthetic Notch (synNotch) receptors driving antigen-triggered production of anti-inflammatory payloads. Screening a diverse library of suppression programs, we observed the strongest suppression of cytotoxic T cell attack by the production of both anti-inflammatory factors (interleukin-10, transforming growth factor–β1, programmed death ligand 1) and sinks for proinflammatory cytokines (interleukin-2 receptor subunit CD25). Engineered cells with bespoke regulatory programs protected tissues from immune attack without systemic suppression. Synthetic suppressor T cells protected transplanted beta cell organoids from cytotoxic T cells. They also protected specific tissues from unwanted chimeric antigen receptor (CAR) T cell cross-reaction. Synthetic suppressor T cells are a customizable platform to potentially treat autoimmune diseases, organ rejection, and CAR T cell toxicities with spatial precision.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_12062024 |
+| link | https://doi.org/10.1126/science.adl4793 |
+| summary | Primary |
+
+# Automated Electronic Health Record Data Extraction and Curation Using ExtractEHR
+### November 2024 | JCO Clinical Cancer Informatics | 39586036
+
+Although the potential transformative effect of electronic health record (EHR) data on clinical research in adult patient populations has been very extensively discussed, the effect on pediatric oncology research has been limited. Multiple factors contribute to this more limited effect, including the paucity of pediatric cancer cases in commercial EHR-derived cancer data sets and phenotypic case identification challenges in pediatric federated EHR data.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_11252024 |
+| link | https://doi.org/10.1200/CCI.24.00100 |
+| summary | Secondary |
+
+# NCI’s National Childhood Cancer Registry Data Platform: A New Data Sharing Resource to Analyze Cancer Surveillance and Real World Data
+### November 2024 | AMIA 2024 Annual Symposium
+
+Childhood cancers are rare diseases with approximately 16,000 cases diagnosed annually in the US. Childhood cancer research data are typically captured through multicenter clinical trials and available only to consortium members, or investigator-initiated research at a single institution. Cancer treatment is also delivered outside of clinical trials—real-world data generated as a by-product of clinical care are typically siloed in distinct institutional information systems (Electronic Health Records, Radiation Oncology, Laboratory, and Imaging) and are not available for general research use. While central cancer registries collect information on all reported cancers in their jurisdiction, their data have not been linked across registries and with real world data at the national level before. Finally, as patients and their families travel across the US for treatment, a single registry or institution may not hold all data representing a patient’s cancer journey. Data from all these sources typically reside at different institutions with different governance frameworks and have been encoded in a variety of standard and non-standard formats, making them unavailable for research use.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_11122024 |
+| link | https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/publications/NCI's+National+Childhood+Cancer+Registry+Data+Platform+-++A+New+Data+Sharing+Resource+to+Analyze+Cancer+Surveillance+and+Real+World+Data_AMIA+2024+Symposium+abstract.pdf |
+| summary | Abstracts |
+
+# Temporal trends in pediatric cancer mortality: rare cancers lag behind more common cancers
+### October 2024 | Pediatric Hematology and Oncology | 39449234
+
+Temporal trends demonstrate improved survival for many types of common pediatric cancer. Studies have not examined improvement in very rare pediatric cancers or compared these improvements to more common cancers. In this cohort study of the Surveillance, Epidemiology, and End Results (SEER) registry, we examined patients from 1975 to 2016 who were 0–19 years of age at the time of diagnosis. Cancers were grouped by decade of diagnosis and 3 cancer frequency groups: Common, Intermediate, and Rare. Trends in mortality across decades and by cancer frequency were compared using Kaplan–Meier curves and adjusted Cox proportional hazards models. A total of 50,222 patients were available for analysis, with the top 10 cancers grouped as Common (67%), 13 cancers grouped with Intermediate (24%), and 37 cancers as Rare (9%). Rare cancers had higher rates of children who were older and Black. 5-year survival increased from 63% to 86% across all cancers from the 1970s to the 2010s. The hazard ratio (HR) for mortality decreased from the reference point of 1 in the 1970s to 0.27 (95% CI: 0.25-0.30) in the 2010s in Common cancers, while the HR only dropped to 0.60 (0.49–0.73) over that same period for rare cancers. Pediatric oncology patients have experienced dramatic improvement in mortality since the 1970s, with mortality falling by nearly 75% in common cancers. Unfortunately, rare pediatric cancers continue to lag behind more common and therefore better studied cancers, highlighting the need for a renewed focus on research efforts for children with these rare diseases.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_10242024 |
+| link | https://doi.org/10.1080/08880018.2024.2413643 |
+| summary | Secondary |
+
+# Understanding the 2020 pediatric cancer deficit: Insights from the National Childhood Cancer Registry
+### October 2024 | Pediatric Blood & Cancer | 39367593
+
+Incidence of common pediatric cancers (leukemia, lymphoma, central nervous system, sarcoma, gonadal/germ cell) have remained steady in the United States. Then, the COVID-19 pandemic disrupted cancer control systems.3 We explore whether the COVID-19 pandemic disrupted these trends in pediatric and adolescent young adult (AYA) populations.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_10042024 |
+| link | https://doi.org/10.1002/pbc.31345 |
+| summary | Secondary |
+
+# CAR-redirected natural killer T cells demonstrate superior antitumor activity to CAR-T cells through multimodal CD1d-dependent mechanisms
+### October 2024 | Nature Cancer | 39354225
+
+Human natural killer T (NKT) cells have been proposed as a promising cell platform for chimeric antigen receptor (CAR) therapy in solid tumors. Here we generated murine CAR-NKT cells and compared them with CAR-T cells in immune-competent mice. Both CAR-NKT cells and CAR-T cells showed similar antitumor effects in vitro, but CAR-NKT cells showed superior antitumor activity in vivo via CD1d-dependent immune responses in the tumor microenvironment. Specifically, we show that CAR-NKT cells eliminate CD1d-expressing M2-like macrophages. In addition, CAR-NKT cells promote epitope spreading and activation of endogenous T cell responses against tumor-associated neoantigens. Finally, we observed that CAR-NKT cells can co-express PD1 and TIM3 and show an exhaustion phenotype in a model of high tumor burden. PD1 blockade as well as vaccination augmented the antitumor activity of CAR-NKT cells. In summary, our results demonstrate the multimodal function of CAR-NKT cells in solid tumors, further supporting the rationale for developing CAR-NKT therapies in the clinic.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_10012024 |
+| link | https://doi.org/10.1038/s43018-024-00830-0 |
+| summary | Primary |
+
+# Automated Extraction and Provision of Electronic Health Record Data from Children with Cancer to National Childhood Cancer Center (NCCR) cancer registries
+### September 2024 | AACR 2024 Special Conference in Cancer Research: Advances in Pediatric Cancer Research
+
+The National Childhood Cancer Registry (NCCR) is a central infrastructure that integrates childhood cancer data from central cancer registries and other sources to enhance access to and utilization of pediatric cancer data. The NCCR currently represents >70% of the United States pediatric population. Registries collect and publish cancer incidence and survival data for public health surveillance. Electronic health records (EHRs) are one data source. EHR data are currently obtained by manual collection at individual hospitals that then transfer data to population-based cancer registries. This study aimed to use automated data collection from hospital EHRs to broaden and standardize data reported to registries.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_09072024 |
+| link | https://aacrjournals.org/cancerres/article/84/17_Supplement/B071/747181/Abstract-B071-Automated-extraction-and-provision |
+| summary | Abstracts |
+
+# Multicenter Histology Image Integration and Multiscale Deep Learning for Pediatric Sarcoma Subtype Classification
+### September 2024 | AACR Special Conference in Cancer Research: Advances in Pediatric Cancer Research
+
+Pediatric sarcomas are rare and diverse, with few highly specialized centers reviewing sufficient volume to hone histopathological expertise, resulting in frequent misclassification. Digitization of histology slides enables automated imaging analysis and training of artificial neural networks (ANNs) for sarcoma subtype classification. Such tools are reproducible, mitigate against inter-observer bias, and can be implemented at a distance, allowing for global access to more precise diagnostics. A limitation is insufficient high-quality data to train models and avoid overfitting. Here, we amass a digitized sarcoma histology dataset from multiple centers. We designed a computational pipeline to (1) harmonize images to remove center-specific artifacts, (2) mirror a traditional pathologist’s process by extracting imaging features at varying sizes and magnifications, and (3) implement the latest in deep learning backbones to perform automated classification of rhabdomyosarcoma (RMS) v. non-rhabdomyosarcoma (NRSTS) and further subtyping. We provide powerful proof of concept for the ability of these techniques to expand access to highly specialized care to the global pediatric sarcoma population. Methods: Hematoxylin & Eosin-stained images and limited clinical data were collected with representation from numerous centers. We optimized a pipeline for focus checking, resolution standardization, stain normalization, and image format conversion to generate a harmonized dataset of over 500 images. We tested varying tile sizes and overlaps, magnification powers, and single- vs. multi-scale concatenated-feature sets to optimize classification accuracy. Deep learning feature extraction was performed with two backbones (InceptionV3 and CTranspath). Using our previously developed SAMPLER method, we create statistical representations of each feature to train and test ANN classifiers for RMS vs NRSTS and further subtype predictions. Results: Optimal parameters were 224 pixel tile size and 112 micron spacing on center, yielding non-overlapping tiles when viewed at 20X, 0.5 microns per pixel (mpp). Single scale feature extraction at 0.5 and 1.0 outperformed 0.75 mpp. Multi-scale feature concatenation from the combination of 0.5 and 1.0 mpp provided the best overall classification performance. In matched analyses of all tested parameter combinations, CTranspath outperformed InceptionV3 with consistently higher area under curve. Conclusions: Our multi-institutional pediatric sarcoma histology dataset represents the broadest harmonized resource of this type to our knowledge. Using a multiscale approach and optimized tiling parameters, we demonstrate the superiority of vision transformer- over strict convolutional ANNs to provide gross distinction between sarcoma subtypes. Our harmonization procedures open the door for expansion of the dataset through ongoing multi-institutional collaboration, bringing promise for a future in which automated image review may accurately and remotely identify sarcoma histology, improving subtype-specific delivery of care.
+
+Tags: **CCDI Ecosystem,AI**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_09012024 |
+| link | https://aacrjournals.org/cancerres/article/84/17_Supplement/B023/747183/Abstract-B023-Multicenter-histology-image |
+| summary | Abstracts |
+
+# History of the Surveillance, Epidemiology, and End Results (SEER) Program
+### August 2024 | JNCI Monographs | 39102881
+
+The Surveillance, Epidemiology, and End Results (SEER) Program established in 1973 was the first laboratory for experimenting with new methods for cancer data collection and translating the data into population-based cancer statistics. The SEER Program staff have been instrumental in the development of the International Classification of Disease-Oncology and successfully implemented the routine collection of anatomic and prognostic cancer stage at diagnosis. Currently the program consists of 21 central registries that generate cancer statistics covering more than 48% of the US population and an additional 10 research support registries contributing to certain research projects, such as the National Childhood Cancer Registry. In parallel with the geographical expansion, the program built an architecture of methods and tools for population-based cancer statistics, with SEER*Explorer as the most recent online tool for descriptive statistics. In addition, SEER releases annual updates for a comprehensive data product line, which includes SEER*Stat databases with an annual caseload of more than 800 000 incident cases. Furthermore, the program developed a full suite of analytical applications for population-based cancer statistics that include Joinpoint (regression-based trend analysis), DevCan (risk of diagnosis and death), CanSurv (survival models), and ComPrev and PrejPrev (cancer prevalence), among others. The future of the SEER Program is closely aligned to the overall goals of the "war on cancer." The program aims to release longitudinal treatment data coupled with a comprehensive genomic characterization of cancers with a declared goal of decreasing the cancer burden and disparities across a wide spectrum of diseases and communities.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_08012024 |
+| link | https://doi.org/10.1093/jncimonographs/lgae033 |
+| summary | Secondary |
+
+# Capmatinib is an effective treatment for MET-fusion driven pediatric high-grade glioma and synergizes with radiotherapy
+### June 2024 | Molecular Cancer | 38849845
+
+Pediatric-type diffuse high-grade glioma (pHGG) is the most frequent malignant brain tumor in children and can be subclassified into multiple entities. Fusion genes activating the MET receptor tyrosine kinase often occur in infant-type hemispheric glioma (IHG) but also in other pHGG and are associated with devastating morbidity and mortality.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_06072024 |
+| link | https://doi.org/10.1186/s12943-024-02027-6 |
+| summary | Primary |
+
+# IMMUNOTAR - Integrative prioritization of cell surface targets for cancer immunotherapy
+### June 2024 | Bioinformatics | 39932005
+
+Cancer remains a leading cause of mortality globally. Recent improvements in survival have been facilitated by the development of less toxic immunotherapies; however, identifying targets for immunotherapies remains a challenge in the field. To address this challenge, we developed IMMUNOTAR, a computational tool that systematically prioritizes and identifies candidate immunotherapeutic targets. IMMUNOTAR integrates user-provided RNA-sequencing or proteomics data with quantitative features extracted from publicly available databases based on predefined optimal immunotherapeutic target criteria and quantitatively prioritizes potential surface protein targets. We demonstrate the utility and flexibility of IMMUNOTAR using three distinct datasets, validating its effectiveness in identifying both known and new potential immunotherapeutic targets within the analyzed cancer phenotypes. Overall, IMMUNOTAR enables the compilation of data from multiple sources into a unified platform, allowing users to simultaneously evaluate surface proteins across diverse criteria. By streamlining target identification, IMMUNOTAR empowers researchers to efficiently allocate resources and accelerate immunotherapy development.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_06062024 |
+| link | https://doi.org/10.1093/bioinformatics/btaf060 |
+| summary | Secondary |
+
+# The Molecular Characterization Initiative: A clinical, pathologic and genomic resource for the international pediatric brain tumor community
+### June 2024 | 2024 AANP National Conference
+
+The Molecular Characterization Initiative (MCI) launched in 2022 under the NCI Childhood Cancer Data Initiative (CCDI) in partnership with the Children’s Oncology Group (COG). MCI represents a national strategy facilitating appropriate clinical and molecular characterization of childhood cancers while building an accessible data ecosystem. Since activation, 2400+ pediatric patients with CNS tumors have enrolled from 184 COG sites across the U.S. and globally. MCI provides free comprehensive genomic profiling for newly diagnosed CNS tumors, with results returned to physicians within 21 days. De-identified clinical and genomic data are deposited in the CCDI repository and may be accessed via the database of Genotypes and Phenotypes through a controlled data access request. Digital whole slide images corresponding to the extracted tissues are accessed through NCI Imaging Data Commons.
+
+Tags: **CCDI-MCI**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_06062024 |
+| link | https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/publications/The+Molecular+Characterization+Initiative+-+A+clinical%2C+pathologic+and+genomic+resource+for+the+international+pediatric+brain+tumor+community_MCI+AANP+abstract.pdf |
+| summary | Abstracts |
+
+# Nextflow pipeline for Visium and H&E data from patient-derived xenograft samples
+### May 2024 | Cell Reports Methods | 38626768
+
+We designed a Nextflow DSL2-based pipeline, Spatial Transcriptomics Quantification (STQ), for simultaneous processing of 10x Genomics Visium spatial transcriptomics data and a matched hematoxylin and eosin (H&E)-stained whole-slide image (WSI), optimized for patient-derived xenograft (PDX) cancer specimens. Our pipeline enables the classification of sequenced transcripts for deconvolving the mouse and human species and mapping the transcripts to reference transcriptomes. We align the H&E WSI with the spatial layout of the Visium slide and generate imaging and quantitative morphology features for each Visium spot. The pipeline design enables multiple analysis workflows, including single or dual reference genome input and stand-alone image analysis. We show the utility of our pipeline on a dataset from Visium profiling of four melanoma PDX samples. The clustering of Visium spots and clustering of H&E imaging features reveal similar patterns arising from the two data modalities.
+
+Tags: **CCDI Ecosystem,AI**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_AI_05202024 |
+| link | https://doi.org/10.1016/j.crmeth.2024.100759 |
+| summary | Secondary |
+
+# Harmonization of Real-World Data to Common Data Elements for the National Childhood Cancer Registry
+### May 2024 | AMIA 2024 Clinical Informatics Conference
+
+While cancer in children and adolescents is rare, it is the primary cause of death from disease for those over the age of 1. The ability to conduct high quality population-level research studies that leverages all available data is crucial in rare disease such as childhood cancer. However, data captured by research consortiums, NCI-supported Cancer Centers, hospitals, and other sources are typically stranded in institutional data silos and unavailable for secondary data analyses within and across institutions. These RWD are frequently encoded using source-specific data models that are not harmonized or interoperable with data from other sources. Most treating institutions report case information to central cancer registries in the North American Association of Central Cancer Registries (NAACCR) standard as part of legally-mandated cancer surveillance. However, cancer registries typically do not receive detailed diagnostic, treatment, or long-term follow-up information that are valuable for understanding a patient’s long-term health outcomes during and after a cancer diagnosis. Augmenting existing cancer registry data with harmonized data from other sources, such as electronic health records (EHRs), genomic data, and institutional datasets, would greatly enhance the value of cancer registries for surveillance and research.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_05222024 |
+| link | https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/publications/Harmonization+of+Real-World+Data+to+Common+Data+Elements+for+the+National+Childhood+Cancer+Registry_AMIA+CIC+Submission.pdf |
+| summary | Abstracts |
+
+# St. Jude Cloud’s Disease Ontology
+### May 2024 | White Paper
+
+Ontologies designed for disease classification have redefined our understanding of diseases by providing a hierarchical structure of complex biomedical data. In cancer research, they are critical for data sharing, integration, and collaboration among researchers. However, existing ontologies on pediatric cancer classification are limited. The World Health Organization (WHO) and OncoTree primarily focus on adult cancers while leaving gaps in many pediatric cancer subtypes driven by molecular etiology presented in recent scientific literature. To enable data sharing and integration of the whole-genome, whole-exome and RNA-seq data generated from 13,956 cases of pediatric cancer and long-term survivors on St. Jude Cloud, we recognized the significance of such gaps and initiated the development of a tailored disease ontology to address this issue.
+
+Tags: **CCDI Data Federation Resource**
+
+| Property | Value |
+| --- | --- |
+| id | Federation_05162024 |
+| link | https://university.stjude.cloud/docs/genomics-platform/about-our-data/disease-ontology/ |
+| summary | Secondary |
+
+# Clinical and biological landscape of constitutional mismatch-repair deficiency syndrome: an International Replication Repair Deficiency Consortium cohort study
+### May 2024 | The Lancet Oncology | 38552658
+
+Constitutional mismatch repair deficiency (CMMRD) syndrome is a rare and aggressive cancer predisposition syndrome. Because a scarcity of data on this condition contributes to management challenges and poor outcomes, we aimed to describe the clinical spectrum, cancer biology, and impact of genetics on patient survival in CMMRD.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_05012024 |
+| link | https://doi.org/10.1016/s1470-2045(24)00026-3 |
+| summary | Primary |
+
+# IL-12 reprograms CAR-expressing natural killer T cells to long-lived Th1-polarized cells with potent antitumor activity
+### January 2024 | Nature Communications | 38167707
+
+Human natural killer T cells (NKTs) are innate-like T lymphocytes increasingly used for cancer immunotherapy. Here we show that human NKTs expressing the pro-inflammatory cytokine interleukin-12 (IL-12) undergo extensive and sustained molecular and functional reprogramming. Specifically, IL-12 instructs and maintains a Th1-polarization program in NKTs in vivo without causing their functional exhaustion. Furthermore, using CD62L as a marker of memory cells in human NKTs, we observe that IL-12 maintains long-term CD62L-expressing memory NKTs in vivo. Notably, IL-12 initiates a de novo programming of memory NKTs in CD62L-negative NKTs indicating that human NKTs circulating in the peripheral blood possess an intrinsic differentiation hierarchy, and that IL-12 plays a role in promoting their differentiation to long-lived Th1-polarized memory cells. Human NKTs engineered to co-express a Chimeric Antigen Receptor (CAR) coupled with the expression of IL-12 show enhanced antitumor activity in leukemia and neuroblastoma tumor models, persist long-term in vivo and conserve the molecular signature driven by the IL-12 expression. Thus IL-12 reveals an intrinsic plasticity of peripheral human NKTs that may play a crucial role in the development of cell therapeutics.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_01022024 |
+| link | https://doi.org/10.1038/s41467-023-44310-y |
+| summary | Primary |
+
+# Missing the mark? Exploratory analysis of the 10-year-old cutoff as an independent marker of high-risk disease in pediatric B-ALL
+### December 2023 | Pediatric Blood & Cancer | 38146039
+
+This single-center, retrospective study evaluated age as a risk factor for relapsed/refractory disease and/or death in 153 children with B-cell acute lymphoblastic leukemia. The study sample included children near the 10-year age cutoff for high-risk disease (6.0-13.9 years at diagnosis) and without other high-risk features (high white cell count, unfavorable cytogenetics). Children 10.0-13.9 years treated per high-risk protocols did not have inferior outcomes compared with children aged 6.0-9.9 years initiating treatment per standard-risk protocols. The study indicates that, in the era of cytogenetics, an age threshold of 10 years might not be an independent prognostic marker. Multicenter analyses are needed.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_12252023 |
+| link | https://doi.org/10.1002/pbc.30825 |
+| summary | Primary |
+
+# Refining chimeric antigen receptors via barcoded protein domain combination pooled screening
+### November 2023 | Molecular Therapy | 37705245
+
+Chimeric antigen receptor (CAR)-T cells represent a promising frontier in cancer immunotherapy. However, the current process for developing new CAR constructs is time consuming and inefficient. To address this challenge and expedite the evaluation and comparison of full-length CAR designs, we have devised a novel cloning strategy. This strategy involves the sequential assembly of individual CAR domains using blunt ligation, with each domain being assigned a unique DNA barcode. Applying this method, we successfully generated 360 CAR constructs that specifically target clinically validated tumor antigens CD19 and GD2. By quantifying changes in barcode frequencies through next-generation sequencing, we characterize CARs that best mediate proliferation and expansion of transduced T cells. The screening revealed a crucial role for the hinge domain in CAR functionality, with CD8a and IgG4 hinges having opposite effects in the surface expression, cytokine production, and antitumor activity in CD19- versus GD2-based CARs. Importantly, we discovered two novel CD19-CAR architectures containing the IgG4 hinge domain that mediate superior in vivo antitumor activity compared with the construct used in Kymriah, a U.S. Food and Drug Administration (FDA)-approved therapy. This novel screening approach represents a major advance in CAR engineering, enabling accelerated development of cell-based cancer immunotherapies.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_11012023 |
+| link | https://doi.org/10.1016/j.ymthe.2023.09.008 |
+| summary | Primary |
+
+# Building a national molecular profiling strategy: A report from the NCI Childhood Cancer Data Initiative and the Childrens Oncology Group Soft Tissue Sarcoma Committee
+### November 2023 | Connective Tissue Oncology Society (CTOS) 2023 Annual meeting
+
+The Childhood Cancer Data Initiative (CCDI), is a 10-year, $50 million per year, US federal investment to advance pediatric cancer research through both new data generation and development of platforms for sharing data. The goal of the initiative is to learn from every child, adolescent, and young adult by bringing together the research, advocacy, and care communities in an ambitious effort to build a Data Ecosystem that enables rapid and systematic data collection, sharing, access, and analysis. A key component of the CCDI is the NCI’s Molecular Characterization Initiative (MCI). The MCI was initiated in 2022 and is run in collaboration with the Children’s Oncology Group (COG). The MCI offers at no cost to patients and institutions, clinically annotated, genomic characterization of tumors and germline samples to patients and their physician. These data are then deposited in an NCI repository for secondary use by the community. Here, we detail the MCI soft tissue sarcoma (STS) workflow and describe the first year of enrollment experience.
+
+Tags: **CCDI-MCI**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_11012023 |
+| link | https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/publications/Building+a+national+molecular+profiling+strategy_A+report+from+the+NCI+Childhood+Cancer+Data+Initiative+and+the+Childrens+Oncology+Group+Soft+Tissue+Sarcoma+Committee+CTOS+2023+v2.pdf |
+| summary | Abstracts |
+
+# Re-irradiation of recurrent IDH-wildtype glioblastoma in the bevacizumab and immunotherapy era: Target delineation, outcomes and patterns of recurrence
+### October 2023 | Clinical and Translational Radiation Oncology | 38046107
+
+While recurrent glioblastoma patients are often treated with re-irradiation, there is limited data on the use of re-irradiation in the setting of bevacizumab (BEV), temozolomide (TMZ) re-challenge, or immune checkpoint inhibition (ICI). We describe target delineation in patients with prior anti-angiogenic therapy, assess safety and efficacy of re-irradiation, and evaluate patterns of recurrence.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_10302023 |
+| link | https://doi.org/10.1016/j.ctro.2023.100697 |
+| summary | Primary |
+
+# Childhood cancer data initiative: Status report
+### October 2023 | Pediatric Blood & Cancer | 37889049
+
+In March 2023, over 800 researchers, clinicians, patients, survivors, and advocates from the pediatric oncology community met to discuss the progress of the National Cancer Institute's Childhood Cancer Data Initiative. We present here the status of the initiative's efforts in building its data ecosystem and updates on key programs, especially the Molecular Characterization Initiative and the planned Coordinated National Initiative for Rare Cancers in Children and Young Adults. These activities aim to improve access to childhood cancer data, foster collaborations, facilitate integrative data analysis, and expand access to molecular characterization, ultimately leading to the development of innovative therapeutic approaches.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_10272023 |
+| link | https://doi.org/10.1002/pbc.30745 |
+| summary | Primary |
+
+# The INDIGO trial: Precision medicine finally comes to glioma
+### October 2023 | Neuro-Oncology | 37698505
+
+Picking new therapeutic targets for diseases is challenging because of our incomplete knowledge of normal physiology and disease pathogenesis. The likelihood of success for any new drug increases when there is genetic evidence linking its target to the disease of interest or intended outcome. There are now many approved cancer drugs that directly target oncogenes. Examples include BCR-ABL inhibitors for CML, HER2/NEU inhibitors for breast cancer, and EGFR inhibitors for lung cancer. Mutations in the gene encoding the enzyme isocitrate dehydrogenase 1 (IDH1) were first described in glioma over a decade ago and now diagnostically define subsets of glioma. In glioma, brain-penetrant mutant IDH inhibitors have undergone clinical testing, most recently in the INDIGO trial.1 The data from INDIGO suggest that low-grade glioma has finally joined the list of cancers that can be treated with a genotypically informed targeted agent.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_10122023 |
+| link | https://doi.org/10.1093/neuonc/noad162 |
+| summary | Primary |
+
+# Factors associated with long-term outcomes of CD19 CAR T-cell therapy for relapsed/refractory CLL
+### October 2023 | Blood Advances | 37774014
+
+High response rates have been reported after CD19-targeted chimeric antigen receptor–modified (CD19 CAR) T-cell therapy for relapsed/refractory (R/R) chronic lymphocytic leukemia (CLL), yet the factors associated with duration of response in this setting are poorly characterized. We analyzed long-term outcomes in 47 patients with R/R CLL and/or Richter transformation treated on our phase 1/2 clinical trial of CD19 CAR T-cell therapy with an updated median follow-up of 79.6 months. Median progression-free survival (PFS) was 8.9 months, and the 6-year PFS was 17.8%. Maximum standardized uptake value (hazard ratio [HR], 1.15; 95% confidence interval [CI], 1.07-1.23; P < .001) and bulky disease (≥5 cm; HR, 2.12; 95% CI, 1.06-4.26; P = .034) before lymphodepletion were associated with shorter PFS. Day +28 complete response by positron emission tomography–computed tomography (HR, 0.13; 95% CI, 0.04-0.40; P < .001), day +28 measurable residual disease (MRD) negativity by multiparameter flow cytometry (HR, 0.08; 95% CI, 0.03-0.22; P < .001), day +28 MRD negativity by next-generation sequencing (HR, 0.21; 95% CI, 0.08-0.51; P < .001), higher peak CD8+ CAR T-cell expansion (HR, 0.49; 95% CI; 0.36-0.68; P < .001), higher peak CD4+ CAR T-cell expansion (HR, 0.47; 95% CI; 0.33-0.69; P < .001), and longer CAR T-cell persistence (HR, 0.56; 95% CI, 0.44-0.72; P < .001) were associated with longer PFS. The 6-year duration of response and overall survival were 26.4% and 31.2%, respectively. CD19 CAR T-cell therapy achieved durable responses with curative potential in a subset of patients with R/R CLL. This trial was registered at www.clinicaltrials.gov as #NCT01865617.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_10042023 |
+| link | https://doi.org/10.1182/bloodadvances.2023011399 |
+| summary | Primary |
+
+# A multi-institutional pediatric dataset of clinical radiology MRIs by the Children’s Brain Tumor Network
+### October 2023 | Preprint
+
+Pediatric brain and spinal cancers remain the leading cause of cancer-related death in children. Advancements in clinical decision-support in pediatric neuro-oncology utilizing the wealth of radiology imaging data collected through standard care, however, has significantly lagged other domains. Such data is ripe for use with predictive analytics such as artificial intelligence (AI) methods, which require large datasets. To address this unmet need, we provide a multi-institutional, large-scale pediatric dataset of 23,101 multi-parametric MRI exams acquired through routine care for 1,526 brain tumor patients, as part of the Children's Brain Tumor Network. This includes longitudinal MRIs across various cancer diagnoses, with associated patient-level clinical information, digital pathology slides, as well as tissue genotype and omics data. To facilitate downstream analysis, treatment-naïve images for 370 subjects were processed and released through the NCI Childhood Cancer Data Initiative via the Cancer Data Service. Through ongoing efforts to continuously build these imaging repositories, our aim is to accelerate discovery and translational AI models with real-world data, to ultimately empower precision medicine for children.
+
+Tags: **CCDI Ecosystem,AI**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_multi_10032023 |
+| link | https://pubmed.ncbi.nlm.nih.gov/38106459 |
+| summary | Secondary |
+
+# Radio-pathomic approaches in pediatric neuro-oncology: Opportunities and challenges
+### September 2023 | Neuro-Oncology Advances | 37841693
+
+With medical software platforms moving to cloud environments with scalable storage and computing, the translation of predictive artificial intelligence (AI) models to aid in clinical decision-making and facilitate personalized medicine for cancer patients is becoming a reality. Medical imaging, namely radiologic and histologic images, has immense analytical potential in neuro-oncology, and models utilizing integrated radiomic and pathomic data may yield a synergistic effect and provide a new modality for precision medicine. At the same time, the ability to harness multi-modal data is met with challenges in aggregating data across medical departments and institutions, as well as significant complexity in modeling the phenotypic and genotypic heterogeneity of pediatric brain tumors. In this paper, we review recent pathomic and integrated pathomic, radiomic, and genomic studies with clinical applications. We discuss current challenges limiting translational research on pediatric brain tumors and outline technical and analytical solutions. Overall, we propose that to empower the potential residing in radio-pathomics, systemic changes in cross-discipline data management and end-to-end software platforms to handle multi-modal data sets are needed, in addition to embracing modern AI-powered approaches. These changes can improve the performance of predictive models, and ultimately the ability to advance brain cancer treatments and patient outcomes through the development of such models.
+
+Tags: **CCDI Ecosystem,AI,Review**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_09132023 |
+| link | https://doi.org/10.1093/noajnl/vdad119 |
+| summary | Primary |
+
+# The Trajectory of Pediatric Cancer Data and Collection in the United States
+### September 2023 | Journal of Registry Management | 37941745
+
+The past several years have been marked by substantial growth in pediatric cancer data and collection across the world. In the United States, multiple projects and standard setters have laid a foundation for the growth of this data, and the need for an overview and explanation of a few of the programs directly relevant to cancer registrars has become apparent. This article will discuss 3 initiatives that highlight many of the efforts and intricacies involved with the collection of pediatric cancer data in the cancer registry world: the National Childhood Cancer Registry, the Toronto Pediatric Cancer Stage Guidelines, and the Pediatric Site-Specific Data Items Work Group.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_09012023 |
+| link | https://pmc.ncbi.nlm.nih.gov/articles/PMC10629799/ |
+| summary | Secondary |
+
+# Children’s Oncology Group’s 2023 blueprint for research: Epidemiology
+### July 2023 | Pediatric Blood & Cancer | 37449937
+
+The Children's Oncology Group (COG) Epidemiology Committee has a primary focus on better understanding the etiologies of childhood cancers. Over the past 10 years, the committee has leveraged the Childhood Cancer Research Network, and now more recently Project:EveryChild (PEC), to conduct epidemiologic assessments of various childhood cancers, including osteosarcoma, neuroblastoma, germ cell tumors, Ewing sarcoma, rhabdomyosarcoma, and Langerhans cell histiocytosis. More recent studies have utilized questionnaire data collected as part of PEC to focus on specific characteristics and/or features, including the presence of congenital disorders and the availability of stored cord blood. Members of the COG Epidemiology Committee have also been involved in other large-scale National Institutes of Health efforts, including the Childhood Cancer Data Initiative and the Gabriella Miller Kids First Pediatric Research Program, which are improving our understanding of the factors associated with childhood cancer risk. Future plans will focus on addressing questions surrounding health disparities, utilizing novel biospecimens in COG epidemiology studies, exploring the role of environmental factors on the etiologies and outcomes of childhood cancer, collaborating with other COG committees to expand the role of epidemiology in childhood cancer research, and building new epidemiologic studies from the Molecular Characterization Initiative—all with the ultimate goal of developing novel prevention and intervention strategies for childhood cancer.
+
+Tags: **CCDI-MCI**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_07142023 |
+| link | https://doi.org/10.1002/pbc.30566 |
+| summary | Secondary |
+
+# Radiomics for characterization of the glioma immune microenvironment
+### June 2023 | npj Precision Oncology | 37337080
+
+Increasing evidence suggests that besides mutational and molecular alterations, the immune component of the tumor microenvironment also substantially impacts tumor behavior and complicates treatment response, particularly to immunotherapies. Although the standard method for characterizing tumor immune profile is through performing integrated genomic analysis on tissue biopsies, the dynamic change in the immune composition of the tumor microenvironment makes this approach not feasible, especially for brain tumors. Radiomics is a rapidly growing field that uses advanced imaging techniques and computational algorithms to extract numerous quantitative features from medical images. Recent advances in machine learning methods are facilitating biological validation of radiomic signatures and allowing them to 'mine' for a variety of significant correlates, including genetic, immunologic, and histologic data. Radiomics has the potential to be used as a non-invasive approach to predict the presence and density of immune cells within the microenvironment, as well as to assess the expression of immune-related genes and pathways. This information can be essential for patient stratification, informing treatment decisions and predicting patients' response to immunotherapies. This is particularly important for tumors with difficult surgical access such as gliomas. In this review, we provide an overview of the glioma microenvironment, describe novel approaches for clustering patients based on their tumor immune profile, and discuss the latest progress on utilization of radiomics for immune profiling of glioma based on current literature.
+
+Tags: **CCDI Ecosystem,AI,Review**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_06192023 |
+| link | https://doi.org/10.1038/s41698-023-00413-9 |
+| summary | Primary |
+
+# Protocol for using single-cell sequencing to study the heterogeneity of NF1 nerve sheath tumors from clinical biospecimens
+### June 2023 | STAR Protocols | 37167059
+
+Single-cell sequencing is a powerful technology to understand the heterogeneity of clinical biospecimens. Here, we present a protocol for obtaining single-cell suspension from neurofibromatosis type 1-associated nerve sheath tumors for transcriptomic profiling on the 10x platform. We describe steps for clinical sample collection, generation of single-cell suspension, and cell capture and sequencing. We then detail methods for integrative analysis, developmental Schwann cell trajectory building using bioinformatic tools, and comparative analysis. This protocol can be adapted for single-cell sequencing using mouse nerve tumors. For complete details on the use and execution of this protocol, please refer to Zhang et al. (2022).1.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_06162023_2 |
+| link | https://doi.org/10.1016/j.xpro.2023.102297 |
+| summary | Secondary |
+
+# The children’s brain tumor network (CBTN) - Accelerating research in pediatric central nervous system tumors through collaboration and open science
+### June 2023 | Neoplasia | 36335802
+
+Pediatric brain tumors are the leading cause of cancer-related death in children in the United States and contribute a disproportionate number of potential years of life lost compared to adult cancers. Moreover, survivors frequently suffer long-term side effects, including secondary cancers. The Children's Brain Tumor Network (CBTN) is a multi-institutional international clinical research consortium created to advance therapeutic development through the collection and rapid distribution of biospecimens and data via open-science research platforms for real-time access and use by the global research community. The CBTN's 32 member institutions utilize a shared regulatory governance architecture at the Children's Hospital of Philadelphia to accelerate and maximize the use of biospecimens and data. As of August 2022, CBTN has enrolled over 4700 subjects, over 1500 parents, and collected over 65,000 biospecimen aliquots for research. Additionally, over 80 preclinical models have been developed from collected tumors. Multi-omic data for over 1000 tumors and germline material are currently available with data generation for > 5000 samples underway. To our knowledge, CBTN provides the largest open-access pediatric brain tumor multi-omic dataset annotated with longitudinal clinical and outcome data, imaging, associated biospecimens, child-parent genomic pedigrees, and in vivo and in vitro preclinical models. Empowered by NIH-supported platforms such as the Kids First Data Resource and the Childhood Cancer Data Initiative, the CBTN continues to expand the resources needed for scientists to accelerate translational impact for improved outcomes and quality of life for children with brain and spinal cord tumors.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_06162023_1 |
+| link | https://doi.org/10.1016/j.neo.2022.100846 |
+| summary | Secondary |
+
+# The CCDI Comes Out of the Starting Block
+### June 2023 | Journal of Clinical Oncology | 37319399
+
+The Children's Cancer Data Initiative is investing $500 million US dollars over 10 years to improve current treatments for cancers arising in pediatric, adolescent, and young adult patients by supporting research that will result in new therapies to improve overall cure rates while reducing the devastating adverse long-term health outcomes for survivors. In the article that accompanies this editorial, Flores-Toro et al describe the origins of the Childhood Cancer Data Initiative, provide an interim progress report, and outline future goals and directions.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_06152023 |
+| link | https://doi.org/10.1200/jco.23.00652 |
+| summary | Primary |
+
+# An immune-based tool platform for in vivo cell clearance
+### June 2023 | Life Science Alliance | 37311583
+
+Immunological targeting of pathological cells has been successful in oncology and is expanding to other pathobiological contexts. Here, we present a flexible platform that allows labeling cells of interest with the surface-expressed model antigen ovalbumin (OVA), which can be eliminated via either antigen-specific T cells or newly developed OVA antibodies. We demonstrate that hepatocytes can be effectively targeted by either modality. In contrast, pro-fibrotic fibroblasts associated with pulmonary fibrosis are only eliminated by T cells in initial experiments, which reduced collagen deposition in a fibrosis model. This new experimental platform will facilitate development of immune-based approaches to clear potential pathological cell types in vivo.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_06132023 |
+| link | https://doi.org/10.26508/lsa.202201869 |
+| summary | Primary |
+
+# The Childhood Cancer Data Initiative: Using the Power of Data to Learn From and Improve Outcomes for Every Child and Young Adult With Pediatric Cancer
+### June 2023 | Journal of Clinical Oncology | 37267580
+
+Data-driven basic, translational, and clinical research has resulted in improved outcomes for children, adolescents, and young adults (AYAs) with pediatric cancers. However, challenges in sharing data between institutions, particularly in research, prevent addressing substantial unmet needs in children and AYA patients diagnosed with certain pediatric cancers. Systematically collecting and sharing data from every child and AYA can enable greater understanding of pediatric cancers, improve survivorship, and accelerate development of new and more effective therapies. To accomplish this goal, the Childhood Cancer Data Initiative (CCDI) was launched in 2019 at the National Cancer Institute. CCDI is a collaborative community endeavor supported by a 10-year, $50-million (in US dollars) annual federal investment. CCDI aims to learn from every patient diagnosed with a pediatric cancer by designing and building a data ecosystem that facilitates data collection, sharing, and analysis for researchers, clinicians, and patients across the cancer community. For example, CCDI's Molecular Characterization Initiative provides comprehensive clinical molecular characterization for children and AYAs with newly diagnosed cancers. Through these efforts, the CCDI strives to provide clinical benefit to patients and improvements in diagnosis and care through data-focused research support and to build expandable, sustainable data resources and workflows to advance research well past the planned 10 years of the initiative. Importantly, if CCDI demonstrates the success of this model for pediatric cancers, similar approaches can be applied to adults, transforming both clinical research and treatment to improve outcomes for all patients with cancer.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_06022023 |
+| link | https://doi.org/10.1200/JCO.22.02208 |
+| summary | Primary |
+
+# OpenPBTA: The Open Pediatric Brain Tumor Atlas
+### May 2023 | Cell Genomics | 37492101
+
+Pediatric brain and spinal cancers are collectively the leading disease-related cause of death in children; thus, we urgently need curative therapeutic strategies for these tumors. To accelerate such discoveries, the Children's Brain Tumor Network (CBTN) and Pacific Pediatric Neuro-Oncology Consortium (PNOC) created a systematic process for tumor biobanking, model generation, and sequencing with immediate access to harmonized data. We leverage these data to establish OpenPBTA, an open collaborative project with over 40 scalable analysis modules that genomically characterize 1,074 pediatric brain tumors. Transcriptomic classification reveals universal TP53 dysregulation in mismatch repair-deficient hypermutant high-grade gliomas and TP53 loss as a significant marker for poor overall survival in ependymomas and H3 K28-mutant diffuse midline gliomas. Already being actively applied to other pediatric cancers and PNOC molecular tumor board decision-making, OpenPBTA is an invaluable resource to the pediatric oncology community.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_05312023 |
+| link | https://doi.org/10.1016/j.xgen.2023.100340 |
+| summary | Primary |
+
+# The Pediatric Proton and Photon Therapy Comparison Cohort: Study Design for a Multicenter Retrospective Cohort to Investigate Subsequent Cancers After Pediatric Radiation Therapy
+### May 2023 | Advances in Radiation Oncology | 38047226
+
+The physical properties of protons lower doses to surrounding normal tissues compared with photons, potentially reducing acute and long-term adverse effects, including subsequent cancers. The magnitude of benefit is uncertain, however, and currently based largely on modeling studies. Despite the paucity of directly comparative data, the number of proton centers and patients are expanding exponentially. Direct studies of the potential risks and benefits are needed in children, who have the highest risk of radiation-related subsequent cancers. The Pediatric Proton and Photon Therapy Comparison Cohort aims to meet this need.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_05212023 |
+| link | https://doi.org/10.1016/j.adro.2023.101273 |
+| summary | Primary |
+
+# Oncohistones and Disrupted Development in Pediatric-Type Diffuse High-Grade Glioma
+### April 2023 | Cancer and Metastasis Reviews | 37119408
+
+Recurrent, clonal somatic mutations in histone H3 are molecular hallmarks that distinguish the genetic mechanisms underlying pediatric and adult high-grade glioma (HGG), define biological subgroups of diffuse glioma, and highlight connections between cancer, development, and epigenetics. These oncogenic mutations in histones, now termed “oncohistones”, were discovered through genome-wide sequencing of pediatric diffuse high-grade glioma. Up to 80% of diffuse midline glioma (DMG), including diffuse intrinsic pontine glioma (DIPG) and diffuse glioma arising in other midline structures including thalamus or spinal cord, contain histone H3 lysine 27 to methionine (K27M) mutations or, rarely, other alterations that result in a depletion of H3K27me3 similar to that induced by H3 K27M. This subgroup of glioma is now defined as diffuse midline glioma, H3K27-altered. In contrast, histone H3 Gly34Arg/Val (G34R/V) mutations are found in approximately 30% of diffuse glioma arising in the cerebral hemispheres of older adolescents and young adults, now classified as diffuse hemispheric glioma, H3G34-mutant. Here, we review how oncohistones modulate the epigenome and discuss the mutational landscape and invasive properties of histone mutant HGGs of childhood. The distinct mechanisms through which oncohistones and other mutations rewrite the epigenetic landscape provide novel insights into development and tumorigenesis and may present unique vulnerabilities for pHGGs. Lessons learned from these rare incurable brain tumors of childhood may have broader implications for cancer, as additional high- and low-frequency oncohistone mutations have been identified in other tumor types.
+
+Tags: **CCDI Ecosystem,Review**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_04292023 |
+| link | https://doi.org/10.1007/s10555-023-10105-2 |
+| summary | Primary |
+
+# Intratumor childhood vaccine-specific CD4+ T-cell recall coordinates antitumor CD8+ T cells and eosinophils
+### April 2023 | Journal for ImmunoTherapy of Cancer | 37072349
+
+Antitumor mechanisms of CD4+ T cells remain crudely defined, and means to effectively harness CD4+ T-cell help for cancer immunotherapy are lacking. Pre-existing memory CD4+ T cells hold potential to be leveraged for this purpose. Moreover, the role of pre-existing immunity in virotherapy, particularly recombinant poliovirus immunotherapy where childhood polio vaccine specific immunity is ubiquitous, remains unclear. Here we tested the hypothesis that childhood vaccine-specific memory T cells mediate antitumor immunotherapy and contribute to the antitumor efficacy of polio virotherapy.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_04182023 |
+| link | https://doi.org/10.1136/jitc-2022-006463 |
+| summary | Primary |
+
+# Anakinra for Refractory Cytokine Release Syndrome or Immune Effector Cell-Associated Neurotoxicity Syndrome after Chimeric Antigen Receptor T Cell Therapy
+### April 2023 | Transplantation and Cellular Therapy | 37031746
+
+Chimeric antigen receptor-engineered (CAR) T-cell therapy remains limited by significant toxicities such as cytokine release syndrome (CRS) and immune effector cell–associated neurotoxicity syndrome (ICANS). The optimal management of severe and/or refractory CRS/ICANS remains ill-defined. Anakinra has emerged as a promising agent based on preclinical data, but its safety and efficacy in CAR T-cell patients remains unknown.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_04072023 |
+| link | https://doi.org/10.1016/j.jtct.2023.04.001 |
+| summary | Primary |
+
+# Interaction between tumor cell TNFR2 and monocyte membrane-bound TNF-α triggers tumorigenic inflammation in neuroblastoma
+### March 2023 | Journal for ImmunoTherapy of Cancer | 36882225
+
+Tumor progression and resistance to therapy in children with neuroblastoma (NB), a common childhood cancer, are often associated with infiltration of monocytes and macrophages that produce inflammatory cytokines. However, the mechanism by which tumor-supportive inflammation is initiated and propagated remains unknown. Here, we describe a novel protumorigenic circuit between NB cells and monocytes that is triggered and sustained by tumor necrosis factor alpha (TNF-α).
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_03072023 |
+| link | https://doi.org/10.1136/jitc-2022-005478 |
+| summary | Primary |
+
+# Targeted long-read sequencing of the Ewing sarcoma 6p25.1 susceptibility locus identifies germline-somatic interactions with EWSR1-FLI1 binding
+### March 2023 | The American Journal of Human Genetics | 36787739
+
+Ewing sarcoma (EwS) is a rare bone and soft tissue malignancy driven by chromosomal translocations encoding chimeric transcription factors, such as EWSR1-FLI1, that bind GGAA motifs forming novel enhancers that alter nearby expression. We propose that germline microsatellite variation at the 6p25.1 EwS susceptibility locus could impact downstream gene expression and EwS biology. We performed targeted long-read sequencing of EwS blood DNA to characterize variation and genomic features important for EWSR1-FLI1 binding. We identified 50 microsatellite alleles at 6p25.1 and observed that EwS-affected individuals had longer alleles (>135 bp) with more GGAA repeats. The 6p25.1 GGAA microsatellite showed chromatin features of an EWSR1-FLI1 enhancer and regulated expression of RREB1, a transcription factor associated with RAS/MAPK signaling. RREB1 knockdown reduced proliferation and clonogenic potential and reduced expression of cell cycle and DNA replication genes. Our integrative analysis at 6p25.1 details increased binding of longer GGAA microsatellite alleles with acquired EWSR-FLI1 to promote Ewing sarcomagenesis by RREB1-mediated proliferation.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_03022023 |
+| link | https://doi.org/10.1016/j.ajhg.2023.01.017 |
+| summary | Secondary |
+
+# Intracranial Cannula Implantation for Serial Locoregional Chimeric Antigen Receptor (CAR) T Cell Infusions in Mice
+### February 2023 | JoVE | 36912520
+
+Pediatric CNS tumors are responsible for the majority of cancer-related deaths in children and have poor prognoses, despite advancements in chemotherapy and radiotherapy. As many tumors lack efficacious treatments, there is a crucial need to develop more promising therapeutic options, such as immunotherapies; the use of chimeric antigen receptor (CAR) T cell therapy directed against CNS tumors is of particular interest. Cell surface targets such as B7-H3, IL13RA2, and the disialoganglioside GD2 are highly expressed on the surface of several pediatric and adult CNS tumors, raising the opportunity to use CAR T cell therapy against these and other surface targets. To evaluate the repeated locoregional delivery of CAR T cells in preclinical murine models, an indwelling catheter system that recapitulates indwelling catheters currently being used in human clinical trials was established. Unlike stereotactic delivery, the indwelling catheter system allows for repeated dosing without the use of multiple surgeries. This protocol describes the intratumoral placement of a fixed guide cannula that has been used to successfully test serial CAR T cell infusions in orthotopic murine models of pediatric brain tumors. Following orthotopic injection and engraftment of the tumor cells in mice, intratumoral placement of a fixed guide cannula is completed on a stereotactic apparatus and secured with screws and acrylic resin. Treatment cannulas are then inserted through the fixed guide cannula for repeated CAR T cell delivery. Stereotactic placement of the guide cannula can be adjusted to deliver CAR T cells directly into the lateral ventricle or other locations in the brain. This platform offers a reliable mechanism for the preclinical testing of repeated intracranial infusions of CAR T cells and other novel therapeutics for these devastating pediatric tumors.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_02242023 |
+| link | https://doi.org/10.3791/64886 |
+| summary | Primary |
+
+# Natural killer T cells and other innate-like T lymphocytes as emerging platforms for allogeneic cancer cell therapy
+### February 2023 | Blood | 36347021
+
+T cells expressing chimeric antigen receptors (CARs) have achieved major clinical success in patients with hematologic malignancies. However, these treatments remain largely ineffective for solid cancers and require significant time and resources to be manufactured in an autologous setting. Developing alternative immune effector cells as cancer immunotherapy agents that can be employed in allogeneic settings is crucial for the advancement of cell therapy. Unlike T cells, Vα24-invariant natural killer T cells (NKTs) are not alloreactive and can therefore be generated from allogeneic donors for rapid infusion into numerous patients without the risk of graft-versus-host disease. Additionally, NKT cells demonstrate inherent advantages over T-cell products, including the ability to traffic to tumor tissues, target tumor-associated macrophages, transactivate NK cells, and cross-prime tumor-specific CD8 T cells. Both unmodified NKTs, which specifically recognize CD1d-bound glycolipid antigens expressed by certain types of tumors, and CAR-redirected NKTs are being developed as the next generation of allogeneic cell therapy products. In this review, we describe studies on the biology of NKTs and other types of innate-like T cells and summarize the clinical experiences of unmodified and CAR-redirected NKTs, including recent interim reports on allogeneic NKTs.
+
+Tags: **CCDI Ecosystem,Review**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_02232023 |
+| link | https://doi.org/10.1182/blood.2022016201 |
+| summary | Primary |
+
+# LEF1 Drives a Central Memory Program and Supports Antitumor Activity of Natural Killer T Cells
+### February 2023 | Cancer Immunology Research | 36484736
+
+Vα24-invariant natural killer T cells (NKT) possess innate antitumor properties that can be exploited for cancer immunotherapy. We have shown previously that the CD62L+ central memory-like subset of these cells drives the in vivo antitumor activity of NKTs, but molecular mediators of NKT central memory differentiation remain unknown. Here, we demonstrate that relative to CD62L- cells, CD62L+ NKTs express a higher level of the gene encoding the Wnt/β-catenin transcription factor lymphoid enhancer binding factor 1 (LEF1) and maintain active Wnt/β-catenin signaling. CRISPR/Cas9-mediated LEF1 knockout reduced CD62L+ frequency after antigenic stimulation, whereas Wnt/β-catenin activator Wnt3a ligand increased CD62L+ frequency. LEF1 overexpression promoted NKT expansion and limited exhaustion following serial tumor challenge and was sufficient to induce a central memory-like transcriptional program in NKTs. In mice, NKTs expressing a GD2-specific chimeric-antigen receptor (CAR) with LEF1 demonstrated superior control of neuroblastoma xenograft tumors compared with control CAR-NKTs. These results identify LEF1 as a transcriptional activator of the NKT central memory program and advance development of NKT cell-based immunotherapy.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_02032023 |
+| link | https://doi.org/10.1158/2326-6066.cir-22-0333 |
+| summary | Primary |
+
+# GWAS Explorer: an open-source tool to explore, visualize, and access GWAS summary statistics in the PLCO Atlas
+### January 2023 | Scientific Data | 36635305
+
+The Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Trial is a prospective cohort study of nearly 155,000 U.S. volunteers aged 55–74 at enrollment in 1993–2001. We developed the PLCO Atlas Project, a large resource for multi-trait genome-wide association studies (GWAS), by genotyping participants with available DNA and genomic consent. Genotyping on high-density arrays and imputation was performed, and GWAS were conducted using a custom semi-automated pipeline. Association summary statistics were generated from a total of 110,562 participants of European, African and Asian ancestry. Application programming interfaces (APIs) and open-source software development kits (SKDs) enable exploring, visualizing and open data access through the PLCO Atlas GWAS Explorer website, promoting Findable, Accessible, Interoperable, and Re-usable (FAIR) principles. Currently the GWAS Explorer hosts association data for 90 traits and >78,000,000 genomic markers, focusing on cancer and cancer-related phenotypes. New traits will be posted as association data becomes available. The PLCO Atlas is a FAIR resource of high-quality genetic and phenotypic data with many potential reuse opportunities for cancer research and genetic epidemiology.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_01122023 |
+| link | https://doi.org/10.1038/s41597-022-01921-2 |
+| summary | Secondary |
+
+# Synthetic cytokine circuits that drive T cell infiltration into immune-excluded tumors
+### December 2022 | Science | 36520915
+
+CAR T cells are ineffective against solid tumors with immunosuppressive microenvironments. To overcome suppression, we engineered circuits in which tumor-specific synNotch receptors locally induce production of the inflammatory cytokine, interleukin-2 (IL-2). These cytokine delivery circuits can potently enhance CAR T cell infiltration and clearance of immune-excluded tumors (immunocompetent models of pancreatic cancer and melanoma) without systemic toxicity. The most effective IL-2 induction circuit acts in an autocrine and TCR/CAR-independent manner, bypassing suppression by host cells that either consume IL-2 or inhibit TCR signaling. These engineered autocrine cells are able to establish an effective foothold in the tumors, likely because synNotch-induced IL-2 production can cooperatively enable initiation of CAR-mediated T cell expansion and killing. Thus, it is possible to reconstitute synthetic T cell circuits that activate the outputs ultimately required for a robust anti-tumor response, but in a manner that evades key points of tumor suppression.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_12162022 |
+| link | https://doi.org/10.1126/science.aba1624 |
+| summary | Primary |
+
+# CIViCdb 2022: evolution of an open-access cancer variant interpretation knowledgebase
+### November 2022 | Nucleic Acids Research | 36373660
+
+CIViC (Clinical Interpretation of Variants in Cancer; civicdb.org) is a crowd-sourced, public domain knowledgebase composed of literature-derived evidence characterizing the clinical utility of cancer variants. As clinical sequencing becomes more prevalent in cancer management, the need for cancer variant interpretation has grown beyond the capability of any single institution. CIViC contains peer-reviewed, published literature curated and expertly-moderated into structured data units (Evidence Items) that can be accessed globally and in real time, reducing barriers to clinical variant knowledge sharing. We have extended CIViC's functionality to support emergent variant interpretation guidelines, increase interoperability with other variant resources, and promote widespread dissemination of structured curated data. To support the full breadth of variant interpretation from basic to translational, including integration of somatic and germline variant knowledge and inference of drug response, we have enabled curation of three new Evidence Types (Predisposing, Oncogenic and Functional). The growing CIViC knowledgebase has over 300 contributors and distributes clinically-relevant cancer variant data currently representing >3200 variants in >470 genes from >3100 publications.
+
+Tags: **CCDI Ecosystem,CCDI Data**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_11142022 |
+| link | https://doi.org/10.1093/nar/gkac979 |
+| summary | Primary |
+
+# Development of GPC2-directed chimeric antigen receptors using mRNA for pediatric brain tumors
+### September 2022 | Journal for Immunotherapy of Cancer | 36167467
+
+Pediatric brain tumors are the leading cause of cancer death in children with an urgent need for innovative therapies. Glypican 2 (GPC2) is a cell surface oncoprotein expressed in neuroblastoma for which targeted immunotherapies have been developed. This work aimed to characterize GPC2 expression in pediatric brain tumors and develop an mRNA CAR T cell approach against this target.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_09272022 |
+| link | https://doi.org/10.1136/jitc-2021-004450 |
+| summary | Primary |
+
+# NCI launches the Molecular Characterization Initiative for pediatric tumors
+### July 2022 | Cancer | 35860918
+
+“MCI will provide a comprehensive molecular analysis of a patient’s tumor (and blood for cancer predisposition findings) in a clinical report returned soon after initial diagnosis,” says Douglas Hawkins, MD, a professor of pediatrics at Seattle Children’s Hospital and University of Washington in Seattle, and Group Chair of the research organization Children’s Oncology Group. “A few larger cancer programs have institutional or grant funding to cover the cost of molecular testing for newly diagnosed pediatric cancers. Currently, this level of molecular characterization is not available to most children with newly diagnosed cancer due to restriction on insurance coverage. MCI will provide comprehensive molecular analysis to children with selected cancers regardless of where they are treated and without the need for insurance coverage. We anticipate that MCI will lead to the refinement of clinical diagnoses and may help suggest alternative treatment options, including clinical trials. This is especially relevant for pediatric brain tumors, which increasingly are characterized by molecular alterations inaddition to histologic features.”
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_07212022 |
+| link | https://doi.org/10.1002/cncr.34381 |
+| summary | Primary |
+
+# Lipid metabolism as a therapeutic vulnerability in BET inhibitor-resistant medulloblastoma
+### June 2022 | Neuro-Oncology
+
+MYC-driven medulloblastomas are a particularly devastating group of pediatric brain tumors that exhibit resistance and continued progression despite standard of care treatments. Our preclinical work identified BET-bromodomain inhibitors as a potentially promising new class of drugs for children with medulloblastoma and other MYC-driven cancers, providing rationale to evaluate these agents in clinical trials. However, treatment with BET inhibitor (BETi) alone is unlikely to be sufficient to cure, with most tumors evolving to acquire resistance to single-agent targeted therapies. We applied an integrative genomics approach to identify genes and pathways mediating BETi response in medulloblastoma. These studies revealed that MYC-driven medulloblastoma cells with acquired resistance to BETi reinstate transcription of essential genes suppressed by drug and exhibit changes in cell state and new vulnerabilities not present in drug-sensitive cells. We now have a growing body of evidence showing that BET inhibition downregulates the expression of key lipid metabolism genes and metabolism-related signaling pathways, and that medulloblastoma cells with adaptive resistance to drug differentially express and exhibit preferential dependency on specific lipid metabolic genes and transcriptional regulators. Our studies explore the possibility of exploiting these metabolic vulnerabilities to overcome BETi resistance and provide a more efficacious upfront therapy.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_06032022 |
+| link | https://doi.org/10.1093/neuonc/noac079.447 |
+| summary | Primary |
+
+# NCI Launches Pediatric Molecular Characterization Initiative
+### June 2022 | Cancer Discovery | 35446390
+
+The NCI has launched the Molecular Characterization Initiative, which will provide tumor sequencing to children, adolescents, and young adults receiving clinical care at a Children's Oncology Group-affiliated hospital. By examining tumors at a molecular level, oncologists can make a more precise diagnosis, help determine what might be driving the cancer's growth, and assess patients' eligibility for clinical trials.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_06022022 |
+| link | https://doi.org/10.1158/2159-8290.cd-nb2022-0031 |
+| summary | Primary |
+
+# Large scale genotype‐ and phenotype‐driven machine learning in Von Hippel‐Lindau disease
+### April 2022 | Human Mutation | 35475554
+
+Von Hippel-Lindau (VHL) disease is a hereditary cancer syndrome where individuals are predisposed to tumor development in the brain, adrenal gland, kidney, and other organs. It is caused by pathogenic variants in the VHL tumor suppressor gene. Standardized disease information has been difficult to collect due to the rarity and diversity of VHL patients. Over 4100 unique articles published until October 2019 were screened for germline genotype-phenotype data. Patient data were translated into standardized descriptions using Human Genome Variation Society gene variant nomenclature and Human Phenotype Ontology terms and has been manually curated into an open-access knowledgebase called Clinical Interpretation of Variants in Cancer. In total, 634 unique VHL variants, 2882 patients, and 1991 families from 427 papers were captured. We identified relationship trends between phenotype and genotype data using classic statistical methods and spectral clustering unsupervised learning. Our analyses reveal earlier onset of pheochromocytoma/paraganglioma and retinal angiomas, phenotype co-occurrences and genotype-phenotype correlations including hotspots. It confirms existing VHL associations and can be used to identify new patterns and associations in VHL disease. Our database serves as an aggregate knowledge translation tool to facilitate sharing information about the pathogenicity of VHL variants.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_04272022 |
+| link | https://doi.org/10.1002/humu.24392 |
+| summary | Primary |
+
+# Standardized evidence-based approach for assessment of oncogenic and clinical significance of NTRK fusions
+### March 2022 | Cancer Genetics | 35366592
+
+Gene fusions involving the neurotrophic receptor tyrosine kinase genes NTRK1, NTRK2, and NTRK3, are well established oncogenic drivers in a broad range of pediatric and adult tumors. These fusions are also important actionable markers, predicting often dramatic response to FDA approved kinase inhibitors. Accurate interpretation of the clinical significance of NTRK fusions is a high priority for diagnostic laboratories, but remains challenging and time consuming given the rapid pace of new data accumulation, the diversity of fusion partners and tumor types, and heterogeneous and incomplete information in variant databases and knowledgebases. The ClinGen NTRK Fusions Somatic Cancer Variant Curation Expert Panel (SC-VCEP) was formed to systematically address these challenges and create an expert-curated resource to support clinicians, researchers, patients and their families in making accurate interpretations and informed treatment decisions for NTRK fusion-driven tumors. We describe a system for NTRK fusion interpretation (including compilation of key elements and annotations) developed by the NTRK fusions SC-VCEP. We illustrate this stepwise process on examples of LMNA::NTRK1 and KANK1::NTRK2 fusions. Finally, we provide detailed analysis of current representation of NTRK fusions in public fusion databases and the CIViC knowledgebase, performed by the NTRK fusions SC-VCEP to determine existing gaps and prioritize future curation activities.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_03162022 |
+| link | https://doi.org/10.1016/j.cancergen.2022.03.001 |
+| summary | Primary |
+
+# Cancer Informatics for Cancer Centers: Scientific Drivers for Informatics, Data Science, and Care in Pediatric, Adolescent, and Young Adult Cancer
+### August 2021 | JCO Clinical Cancer Informatics | 34428097
+
+Cancer Informatics for Cancer Centers (CI4CC) is a grassroots, nonprofit 501c3 organization intended to provide a focused national forum for engagement of senior cancer informatics leaders, primarily aimed at academic cancer centers anywhere in the world but with a special emphasis on the 70 National Cancer Institute–funded cancer centers. This consortium has regularly held topic-focused biannual face-to-face symposiums. These meetings are a place to review cancer informatics and data science priorities and initiatives, providing a forum for discussion of the strategic and pragmatic issues that we faced at our respective institutions and cancer centers. Here, we provide meeting highlights from the latest CI4CC Symposium, which was delayed from its original April 2020 schedule because of the COVID-19 pandemic and held virtually over three days (September 24, October 1, and October 8) in the fall of 2020. In addition to the content presented, we found that holding this event virtually once a week for 6 hours was a great way to keep the kind of deep engagement that a face-to-face meeting engenders. This is the second such publication of CI4CC Symposium highlights, the first covering the meeting that took place in Napa, California, from October 14-16, 2019. We conclude with some thoughts about using data science to learn from every child with cancer, focusing on emerging activities of the National Cancer Institute's Childhood Cancer Data Initiative.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_08242021 |
+| link | https://doi.org/10.1200/cci.21.00040 |
+| summary | Primary |
+
+# BATF targets T cell exhaustion for termination
+### August 2021 | Nature Immunology | 34282328
+
+New reports glean further insight into the role of the transcription factor BATF in pivoting the differentiation of CD8+ T cells away from undergoing T cell exhaustion and facilitating transition of these cells into potent effectors.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_08222021 |
+| link | https://doi.org/10.1038/s41590-021-00978-2 |
+| summary | Primary |
