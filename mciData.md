@@ -8,7 +8,7 @@ The CCDI Molecular Characterization Initiative (MCI) Here is another test provid
 
 For an overview of this initiative, [access the MCI web page on cancer.gov](https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/data-ecosystem/molecular-characterization).
 
-## Enrollment 
+## Enrollment and Participation
 
 ### APEC14B1-MCI Enrollment Metrics
 
