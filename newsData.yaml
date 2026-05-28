@@ -56,6 +56,19 @@ newsImgUrlList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
+  - id: ccdc_06102026
+    title: >-
+      6 new resources and over 10 new datasets
+    date: June 16, 2026
+    slug: >-
+      The June Childhood Cancer Data Catalog (CCDC) release added 6 new resources and 12 new datasets from existing resources
+    highlight: >-
+      <p>The <a href="https://datacatalog.ccdi.cancer.gov/">Childhood Cancer Data Initiative Data Catalog</a> Version 1.5.9 was released on 6/10/2026, adding 6 new resources and 12 new datasets from existing resources. Links to analytic tools were also added to several resources.</p>
+    type: CCDI Application Updates
+    img: updateImgCCDC 
+    latestUpdate: true
+    latestUpdateOrder: 2
+  
   - id: hub_05202026
     title: >-
       May 2026 CCDI Hub updates
@@ -67,7 +80,7 @@ newsList:
     type: News
     img: updateImgMiscNews 
     latestUpdate: true
-    latestUpdateOrder: 2
+    latestUpdateOrder: 3
     
   - id: ccdc_04232026
     title: >-
@@ -76,11 +89,9 @@ newsList:
     slug: >-
       April’s Childhood Cancer Data Catalog (CCDC) release added 15 new resources and 4 new datasets from existing resources
     highlight: >-
-      <p>Version 1.5.8 of the Childhood Data Initiative Data Catalog added 15 new resources and 4 new datasets from existing resources. Additional updates were made to resource counts, grant information, publications, and more.</p>
+      <p>Version 1.5.8 of the Childhood Cancer Data Initiative Data Catalog added 15 new resources and 4 new datasets from existing resources. Additional updates were made to resource counts, grant information, publications, and more. <i>[Edited 6/16/2026 to correct typo in resource name]</i></p>
     type: CCDI Application Updates
     img: updateImgCCDC 
-    latestUpdate: true
-    latestUpdateOrder: 3
   
   - id: hub_04152026
     title: >-
@@ -92,7 +103,6 @@ newsList:
       <p>The <a href="https://ccdi.cancer.gov/tools">CCDI Hub's Tools list</a> now includes four DOE MOSSAIC tools: BARDI, FrESCO, NCCR Treatment Database, and WSI Informative Slide Selection. The <a href="https://ccdi.cancer.gov/publications">CCDI-Supported Publications list</a> has been updated with five new publications and the <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with enrollment counts for the month of April.</p>
     type: News
     img: updateImgMiscNews 
-    latestUpdate: true
 
   - id: federation_03262026
     title: >-
