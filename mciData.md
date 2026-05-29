@@ -2,6 +2,18 @@
 title: Molecular Characterization Initiative
 MCI_header: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_header.png"
 MCI_header_mobile: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_header_mobile.png"
+# Headings below must match ## or ### line text in the body exactly (not the longer question line).
+navTitles:
+  - Enrollment and Participation
+  - APEC14B1-MCI Enrollment Metrics
+  - MCI Participation
+  - MCI Testing Types and Results
+  - Testing Types
+  - MCI Results Reporting
+  - Accessing MCI Data and Tools
+  - How to Access MCI Data
+  - Germline Findings
+  - Contact Information
 ---
 
 The CCDI Molecular Characterization Initiative (MCI) provides state-of-the-art molecular testing at no cost to newly diagnosed children, adolescents, and young adults (AYAs) up to age 25 with central nervous system (CNS) tumors, soft tissue sarcomas (STS), certain rare (RAR) childhood cancers, high-risk neuroblastomas (NBL), and metastatic Ewing sarcomas (EWS) being treated at a Children’s Oncology Group (COG)–affiliated hospital. AYAs aged 25-39 from a National Clinical Trials Network (NCTN) member institution can enroll in the MCI through COG's Project AYA if they are being screened for eligibility to participate in a COG-sponsored clinical trial. The goal of this initiative is to enhance the understanding of the genetic factors involved in pediatric cancers and to provide timely, clinically relevant findings to doctors and families. This project uses Project:EveryChild (APEC14B1) to enroll participants, collect specimens, and annotate clinical data. The results of genetic testing will be shared with the treating physician and participants or their family, aiding in treatment decisions. This will also determine eligibility for certain planned COG clinical trials.
