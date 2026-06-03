@@ -252,6 +252,17 @@ data:
     - 220
     - WYOMING
     - 0
+keyboardInstructions:
+  title: Keyboard Navigation Instructions
+  items:
+    - label: 'Enter the map:'
+      text: Press Tab to move focus into the map region.
+    - label: 'Move between markers:'
+      text: Use the Arrow keys to navigate enrollment markers. A tooltip will display the count for each marker.
+    - label: 'Jump to first/last marker:'
+      text: Press Home or End.
+    - label: 'Leave the map:'
+      text: Press Tab again.
 ```
 
 ### MCI Participation
