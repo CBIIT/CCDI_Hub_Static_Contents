@@ -1,3 +1,65 @@
+# CCDI Hub Release 2.11.0
+### June 16, 2026 | Release Notes
+
+<img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png" align="right" width="220" alt="updateImgReleaseNotes">
+
+CCDI Hub's 2026 Q2 release includes updates to the Molecular Characterization Initiative (MCI) data and one new study: CCDI's Admixture Analysis of Acute Lymphoblastic Leukemia in African American Children - The ADMIRAL Study. New features include a Consent Codes summary on Study Details pages and Global Search results, a new button to download the Contact Form from the Pediatric, Adolescent, and Young Adult Rare Cancer Study page, keyboard interactivity for improved accessibility on the MCI page, and more. The News page is up-to-date with the latest available information.
+
+Additional details are listed below:
+
+### Statistics at a Glance
+
+#### v2.11.0 Summary
+
+- **22nd** Release
+- **42** Studies
+- **61,854** Participants
+- **70,820** Samples
+- **1,259,864** Files
+
+### CCDI Hub Data Updates
+
+#### Added Data Sets
+
+- Childhood Cancer Data Initiative (CCDI): Admixture Analysis of Acute Lymphoblastic Leukemia in African American Children - The ADMIRAL Study (PHS004222)
+
+#### Updated Data Sets
+
+- Molecular Characterization Initiative (PHS002790)
+
+### CCDI Hub Site Updates
+
+#### General Site
+
+- Added configurable ordering of Latest Updates to support specifying left-to-right order of listed topics
+- Added consent code summary to Global Search results and Study Details page
+- Added two new events to the CCDI Events Announcements page
+- Changed static content source files for About and Data Usage Policies and Terms pages from YAML to Markdown
+- Updated CCDI Data Ecosystem and AI Readiness PDF
+- Updated Pediatric, Adolescent, and Young Adult Rare Cancer Study resource page with button to emphasize contact form
+- Updated release notes pdf with latest release and added relevant news entry
+
+#### Molecular Characterization Initiative page
+
+- Added keyboard navigation and related instructions to the map graphic on the MCI page (desktop) to improve accessibility
+
+### CCDI Hub Explore Dashboard
+
+#### Tables
+
+- Fixed issue resulting in trailing close bracket on Files table Participant ID and Sample ID values
+
+
+| Property | Value |
+| --- | --- |
+| id | hub_release_06162026 |
+| version | v2.11.0 |
+| slug | Check out the newly added ADMIRAL study and updated features throughout CCDI Hub |
+| contentType | Genomics/Omics |
+| latestUpdate | true |
+| latestUpdateOrder | 1 |
+
+
 # CCDI Hub Release 2.10.0
 ### March 26, 2026 | Release Notes
 
