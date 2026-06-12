@@ -369,6 +369,11 @@ alt: 'Infographic depicting the MCI assays and data types, and the data flow to 
 Caption: "Data generation and sharing workflow: Biospecimens collected from COG Project:EveryChild participants enrolled in the MCI are processed through coordinated clinical and research pipelines. Clinical sequencing is performed in a CLIA-certified laboratory, with results returned to patients and providers, while research characterization generates additional data, such as WGS, transcriptomics, proteomics, and metabolomics. Deidentified clinical, molecular, and imaging data are made available through the CCDI Data Ecosystem, with the CCDI cBioPortal Cancer Data Explorer enabling visualization and exploration of the analyzed data."
 ```
 
+#### Community Tools and Scripts
+
+Convert COG-formatted JSON files to TSV format with CCDI’s MCI_JSON2TSV tool [here](https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV).
+
+
 ### Germline Findings
 
 ### What steps should be taken if germline findings are detected?
