@@ -267,7 +267,7 @@ keyboardInstructions:
 
 ### MCI Participation
 
-Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, NBL, and EWS tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI. For a list of ineligible participants whose data have been removed, please refer to this list: [phs002790_MCI_Ineligibile_patient_list_COG_Aug2025.txt](https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/phs002790_MCI_Ineligibile_patient_list_COG_Aug2025.txt)
+Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, NBL, and EWS tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI. For a list of ineligible participants whose data have been removed, please refer to this list: [phs002790_MCI_Ineligible_patient_list_COG_Aug2025.txt](https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/phs002790_MCI_Ineligibile_patient_list_COG_Aug2025.txt)
 
 ## MCI Testing Types and Results
 
