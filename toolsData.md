@@ -220,6 +220,8 @@ Link: [https://github.com/TheJacksonLaboratory/STQ](https://github.com/TheJackso
 
 Contact: [sergii.domanskyi@jax.org](mailto:sergii.domanskyi@jax.org)
 
+### Tucan
+
 Tucan is a methylation-based classification model for pediatric solid tumors. Tucan can distinguish 91 different pediatric solid tumor subtypes and works with both methylation array data or nanopore based methylation data as input.
 
 Link: [https://github.com/UMCUGenetics/tucan](https://github.com/UMCUGenetics/tucan)
