@@ -1,5 +1,44 @@
 ![publications_header](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png)
-Publication list updated as of 4/15/26
+Publication list updated as of 5/20/26
+
+# Childhood Cancer Data Initiative Participant Index: Mapping Pediatric Cancer Data to Facilitate Cross-Study Integrated Analysis
+### April 2026 | JCO Clinical Cancer Informatics | 41950437
+
+To facilitate integrated multimodal data analysis, it is critical to connect data from multiple sources to address multifaceted research questions, better understand disease biology and natural history, develop new therapies, and improve existing treatments. The Childhood Cancer Data Initiative (CCDI) Participant Index, an application programming interface, aims to address this challenge by providing a digital ID mapping and matching service which collects and cross-references all known IDs associated with a participant.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_04082026 |
+| link | https://doi.org/10.1200/CCI-25-00387 |
+| summary | Primary |
+
+# Multicenter Histology Image Integration and Multiscale Deep Learning Support Machine Learning–Enabled Pediatric Sarcoma Classification
+### April 2026 | Cancer Research | 41481196
+
+Pediatric sarcomas present diagnostic challenges due to their rarity and diverse subtypes, often requiring specialized pathology expertise and costly genetic tests. To overcome these barriers, we developed a computational pipeline leveraging deep learning methods to accurately classify pediatric sarcoma subtypes from digitized histology slides. To ensure classifier generalizability and minimize center-specific artifacts, a dataset comprising 867 whole slide images (WSIs) from three medical centers and the Children's Oncology Group (COG) was collected and harmonized. Multiple convolutional neural network (CNN) and vision transformer (ViT) architectures were systematically evaluated as feature extractors for SAMPLER-based WSI representations, and input parameters, such as tile size combinations and resolutions, were tested and optimized. The analysis showed that advanced ViT foundation models (UNI, CONCH) significantly outperformed earlier approaches, and incorporating multiscale features enhanced classification accuracy. The optimized models achieved high performance, distinguishing rhabdomyosarcoma (RMS) from non-rhabdomyosarcoma (NRSTS) with an AUC of 0.969 and differentiating RMS subtypes (alveolar vs. embryonal) with an AUC of 0.961. Additionally, a two-stage pipeline effectively identified scarce Ewing sarcoma images from other NRSTS (AUC 0.929). Compared to conventional transformer encoder architectures used for WSI representations, these SAMPLER based classifiers were three orders of magnitude faster to train, despite operating entirely without a GPU. This study highlights that digital histopathology paired with rigorous image harmonization provides a powerful solution for pediatric sarcoma classification.
+
+Tags: **CCDI Ecosystem,AI**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_04022026 |
+| link | https://doi.org/10.1158/0008-5472.CAN-25-2275 |
+| summary | Secondary |
+
+# Confounding factors in assessing the enriched expression of somatic mutant allele in bulk tumor samples
+### March 2026 | Genome Research | 41781335
+
+Allele-specific expression (ASE) of somatic mutations can be caused by cis-activation of the mutant allele or silencing of the wild-type allele and has been investigated by examining the enrichment of mutant allele in RNA relative to DNA. Here we show that this mutation-based approach can be confounded by gene expression differences in tumor and normal cells that coexist in most bulk tumor samples. We model mutant allele expression by incorporating tumor/normal expression difference, mutant allele dosage, tumor purity, and nonsense-mediated decay (NMD) efficiency, projecting that such enrichments can occur without ASE. This confounding effect is exacerbated with low tumor purity and is dependent on mutant allele dosage for NMD-triggering mutations. The model predictions are validated by a pan-cancer bulk tumor analysis with somatic insertions/deletions (indels) from 9,101 The Cancer Genome Atlas (TCGA) samples. A single-cell analysis in five cutaneous squamous cell carcinomas demonstrates the robustness of this model to intratumor heterogeneity. As a byproduct of this confounding effect, we evaluate whether the inverse relationship between mutant allele enrichment in RNA and tumor purity could be leveraged to complement DNA-based somatic mutation detection in low purity samples. Indeed, our de novo somatic indel calling from TCGA RNA-seq increases the TCGA driver indel repertoire by ~ 14%, especially in samples with purity < 0.4, including actionable EGFR indels in lung adenocarcinoma and FLT3 in acute myeloid leukemia. Our study not only reveals confounders in somatic mutant ASE analysis but also demonstrates their utility in RNA-based mutation calling.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_03042026 |
+| link | https://doi.org/10.1101/gr.281003.125 |
+| summary | Secondary |
 
 # Increasing Incidence of Cutaneous T-Cell Lymphoma Among Children and Young Adults in the United States, 1997–2019: A National Population-Based Study Using the National Childhood Cancer Registry
 ### February 2026 | Journal of the American Academy of Dermatology | 41688023
@@ -65,6 +104,19 @@ Tags: **CCDI Ecosystem**
 | id | Ecosystem_11142025 |
 | link | https://doi.org/10.1002/cncr.70172 |
 | summary | Primary |
+
+# RanBALL: An Ensemble Machine Learning Framework for Accurate Subtype Identification of Pediatric B-Cell Acute Lymphoblastic Leukemia
+### October 2025 | Advanced Intelligent Systems | 41246237
+
+As the most common pediatric malignancy, B-cell acute lymphoblastic leukemia (B-ALL) has multiple distinct subtypes characterized by recurrent and sporadic somatic and germline genetic alterations. Identifying B-ALL subtypes can facilitate risk stratification and enable tailored therapeutic design. Existing methods for B-ALL subtyping primarily depend on immunophenotyping, cytogenetic tests, and genomic profiling, which can be costly, complicated, and laborious. To overcome these challenges, RanBALL (an ensemble random projection-based model for identifying B-ALL subtypes) is presented, an accurate and cost-effective model for B-ALL subtype identification. By leveraging random projection (RP) and ensemble learning, RanBALL can preserve patient-to-patient distances after dimension reduction and yield robustly accurate classification performance for B-ALL subtyping. Benchmarking results based on >1700 B-ALL patients demonstrate that RanBALL achieves remarkable performance (accuracy: 0.93, F1-score: 0.93, and Matthews correlation coefficient: 0.93), significantly outperforming state-of-the-art methods like ALLSorts in terms of all performance metrics. In addition, RanBALL performs better than t-SNE in terms of visualizing B-ALL subtype information. We believe RanBALL will facilitate the discovery of B-ALL subtype-specific marker genes and therapeutic targets to have consequential positive impacts on downstream risk stratification and tailored treatment design is believed. To extend its applicability and impacts, a Python-based RanBALL package is available at https://github.com/wan-mlab/RanBALL.
+
+Tags: **CCDI Ecosystem,AI**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_10302025 |
+| link | https://doi.org/10.1002/aisy.202500965 |
+| summary | Secondary |
 
 # Evaluation of disparities in the incidence, presentation, and treatment of pediatric differentiated thyroid cancer in the United States (2000-2022)
 ### October 2025 | PLOS One | 41100458
@@ -157,6 +209,19 @@ Tags: **CCDI Ecosystem**
 | link | https://aapm.confex.com/aapm/2025am/meetingapp.cgi/Paper/19061 |
 | summary | Abstracts |
 
+# Large-scale deep learning for metastasis detection in pathology reports
+### July 2025 | JAMIA Open | 40655537
+
+No existing algorithm can reliably identify metastasis from pathology reports across multiple cancer types and the entire US population. In this study, we develop a deep learning model that automatically detects patients with metastatic cancer by using pathology reports from many laboratories and of multiple cancer types.
+
+Tags: **CCDI Ecosystem,CCDI Data,AI**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_07112025 |
+| link | https://doi.org/10.1093/jamiaopen/ooaf070 |
+| summary | Secondary |
+
 # Enrollment in Children’s Oncology Group’s clinical trials: population-based linkage with the National Childhood Cancer Registry
 ### June 2025 | JNCI: Journal of the National Cancer Institute | 40515409
 
@@ -169,19 +234,6 @@ Tags: **CCDI-NCCR**
 | id | NCCR_06142025 |
 | link | https://doi.org/10.1093/jnci/djaf134 |
 | summary | Primary |
-
-# Multicenter Histology Image Integration and Multiscale Deep Learning for Machine Learning-Enabled Pediatric Sarcoma Classification
-### January 2026 | Cancer Research | 41481196
-
-Pediatric sarcomas present diagnostic challenges due to their rarity and diverse subtypes, often requiring specialized pathology expertise and costly genetic tests. To overcome these barriers, we developed a computational pipeline leveraging deep learning methods to accurately classify pediatric sarcoma subtypes from digitized histology slides. To ensure classifier generalizability and minimize center-specific artifacts, a dataset comprising 867 whole slide images (WSIs) from three medical centers and the Children's Oncology Group (COG) was collected and harmonized. Multiple convolutional neural network (CNN) and vision transformer (ViT) architectures were systematically evaluated as feature extractors for SAMPLER-based WSI representations, and input parameters, such as tile size combinations and resolutions, were tested and optimized. The analysis showed that advanced ViT foundation models (UNI, CONCH) significantly outperformed earlier approaches, and incorporating multiscale features enhanced classification accuracy. The optimized models achieved high performance, distinguishing rhabdomyosarcoma (RMS) from non-rhabdomyosarcoma (NRSTS) with an AUC of 0.969 and differentiating RMS subtypes (alveolar vs. embryonal) with an AUC of 0.961. Additionally, a two-stage pipeline effectively identified scarce Ewing sarcoma images from other NRSTS (AUC 0.929). Compared to conventional transformer encoder architectures used for WSI representations, these SAMPLER based classifiers were three orders of magnitude faster to train, despite operating entirely without a GPU. This study highlights that digital histopathology paired with rigorous image harmonization provides a powerful solution for pediatric sarcoma classification.
-
-Tags: **CCDI Ecosystem,AI**
-
-| Property | Value |
-| --- | --- |
-| id | Ecosystem_06112025 |
-| link | https://doi.org/10.1158/0008-5472.CAN-25-2275 |
-| summary | Secondary |
 
 # Integrating Electronic Health Records to Enhance Surveillance of Childhood Cancer: Insights from a Pilot Project
 ### June 2025 | NAACCR (North American Association of Central Cancer Registries) 2025 Annual Conference
@@ -299,19 +351,6 @@ Tags: **CCDI-MCI,CCDI Data**
 | id | MCICOG_06012025_1 |
 | link | https://doi.org/10.1200/JCO.2025.43.16_suppl.10025 |
 | summary | Abstracts |
-
-# Confounding factors in assessing the enriched expression of somatic mutant allele in bulk tumor samples
-### March 2026 | Genome Research | 41781335
-
-Allele-specific expression (ASE) of somatic mutations can be caused by cis-activation of the mutant allele or silencing of the wild-type allele and has been investigated by examining the enrichment of mutant allele in RNA relative to DNA. Here we show that this mutation-based approach can be confounded by gene expression differences in tumor and normal cells that coexist in most bulk tumor samples. We model mutant allele expression by incorporating tumor/normal expression difference, mutant allele dosage, tumor purity, and nonsense-mediated decay (NMD) efficiency, projecting that such enrichments can occur without ASE. This confounding effect is exacerbated with low tumor purity and is dependent on mutant allele dosage for NMD-triggering mutations. The model predictions are validated by a pan-cancer bulk tumor analysis with somatic insertions/deletions (indels) from 9,101 The Cancer Genome Atlas (TCGA) samples. A single-cell analysis in five cutaneous squamous cell carcinomas demonstrates the robustness of this model to intratumor heterogeneity. As a byproduct of this confounding effect, we evaluate whether the inverse relationship between mutant allele enrichment in RNA and tumor purity could be leveraged to complement DNA-based somatic mutation detection in low purity samples. Indeed, our de novo somatic indel calling from TCGA RNA-seq increases the TCGA driver indel repertoire by ~ 14%, especially in samples with purity < 0.4, including actionable EGFR indels in lung adenocarcinoma and FLT3 in acute myeloid leukemia. Our study not only reveals confounders in somatic mutant ASE analysis but also demonstrates their utility in RNA-based mutation calling.
-
-Tags: **CCDI Ecosystem**
-
-| Property | Value |
-| --- | --- |
-| id | Ecosystem_05312025 |
-| link | https://doi.org/10.1101/gr.281003.125 |
-| summary | Secondary |
 
 # AttentionAML: An Attention-based Deep Learning Framework for Accurate Molecular Categorization of Acute Myeloid Leukemia
 ### May 2025 | Preprint
@@ -480,19 +519,6 @@ Tags: **CCDI Ecosystem**
 | --- | --- |
 | id | Ecosystem_01042025 |
 | link | https://doi.org/10.1002/pbc.31506 |
-| summary | Secondary |
-
-# RanBALL: An Ensemble Random Projection Model for Identifying Subtypes of B-Cell Acute Lymphoblastic Leukemia
-### October 2025 | Advanced Intelligent Systems | 41246237
-
-As the most common pediatric malignancy, B-cell acute lymphoblastic leukemia (B-ALL) has multiple distinct subtypes characterized by recurrent and sporadic somatic and germline genetic alterations. Identifying B-ALL subtypes can facilitate risk stratification and enable tailored therapeutic design. Existing methods for B-ALL subtyping primarily depend on immunophenotyping, cytogenetic tests, and genomic profiling, which can be costly, complicated, and laborious. To overcome these challenges, RanBALL (an ensemble random projection-based model for identifying B-ALL subtypes) is presented, an accurate and cost-effective model for B-ALL subtype identification. By leveraging random projection (RP) and ensemble learning, RanBALL can preserve patient-to-patient distances after dimension reduction and yield robustly accurate classification performance for B-ALL subtyping. Benchmarking results based on >1700 B-ALL patients demonstrate that RanBALL achieves remarkable performance (accuracy: 0.93, F1-score: 0.93, and Matthews correlation coefficient: 0.93), significantly outperforming state-of-the-art methods like ALLSorts in terms of all performance metrics. In addition, RanBALL performs better than t-SNE in terms of visualizing B-ALL subtype information. We believe RanBALL will facilitate the discovery of B-ALL subtype-specific marker genes and therapeutic targets to have consequential positive impacts on downstream risk stratification and tailored treatment design is believed. To extend its applicability and impacts, a Python-based RanBALL package is available at https://github.com/wan-mlab/RanBALL.
-
-Tags: **CCDI Ecosystem,AI**
-
-| Property | Value |
-| --- | --- |
-| id | Ecosystem_01022025 |
-| link | https://doi.org/10.1002/aisy.202500965 |
 | summary | Secondary |
 
 # The landscape of primary mismatch repair deficient gliomas in children, adolescents, and young adults: a multi-cohort study
