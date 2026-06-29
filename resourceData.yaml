@@ -275,7 +275,7 @@ RCI_DOWNLOAD_CONFIG:
     rare-cancer-study_contact.pdf
 
 ccdiEventAnnouncementsIntroText: >-
-  <p>The CCDI Events Announcements page brings together news announcements and details on past events, webinars, and workshops.</p>
+  <p>The CCDI Events Announcements page brings together news announcements and details on upcoming and past events, webinars, and workshops.</p>
 ccdiEventAnnouncementsContent:
   - id: CCDI_Event_Archive_0
     topic: Upcoming Events
