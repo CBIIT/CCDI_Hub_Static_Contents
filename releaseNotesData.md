@@ -57,7 +57,7 @@ Additional details are listed below:
 | slug | Check out the newly added ADMIRAL study and updated features throughout CCDI Hub |
 | contentType | Genomics/Omics |
 | latestUpdate | true |
-| latestUpdateOrder | 1 |
+| latestUpdateOrder | 2 |
 
 
 # CCDI Hub Release 2.10.0
