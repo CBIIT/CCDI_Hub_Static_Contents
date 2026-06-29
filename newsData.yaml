@@ -63,7 +63,7 @@ newsList:
     slug: >-
       Updated MCI enrollment and supporting information
     highlight: >-
-      <p>The <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with the latest information on testing types, results reporting, and contact information, and the enrollment counts have been updated as of June 8, 2026. Two events have been added to the <a href="https://ccdi.cancer.gov/ccdi-events-announcements">CCDI Events Announcements</a> list of past events, webinars, and workshops.</p>
+            <p>The <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with the latest information on testing types, results reporting, and contact information, and the enrollment counts have been updated as of June 8, 2026. A typo in the filename of the ineligible patient list for MCI has also been corrected. Two events have been added to the <a href="https://ccdi.cancer.gov/ccdi-events-announcements">CCDI Events Announcements</a> list of past events, webinars, and workshops. The 2.11.0 release note was corrected to clarify a feature that had not yet been included at the time of release. </p>
     type: News
     img: updateImgMiscNews 
     latestUpdate: true
