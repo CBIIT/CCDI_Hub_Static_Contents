@@ -277,6 +277,11 @@ RCI_DOWNLOAD_CONFIG:
 ccdiEventAnnouncementsIntroText: >-
   <p>The CCDI Events Announcements page brings together news announcements and details on past events, webinars, and workshops.</p>
 ccdiEventAnnouncementsContent:
+  - id: CCDI_Event_Archive_0
+    topic: Upcoming Events
+    content: >-
+      <p>
+      <a class="link" href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/events-webinars" target="_blank" rel="noopener noreferrer">2026 CCDI Symposium</a><br>9/18/24<br><br></p>
   - id: CCDI_Event_Archive_1
     topic: Past Events, Webinars, and Workshops
     content: >-
