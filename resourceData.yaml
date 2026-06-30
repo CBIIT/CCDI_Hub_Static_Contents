@@ -281,7 +281,7 @@ ccdiEventAnnouncementsContent:
     topic: Upcoming Events
     content: >-
       <p>
-      <a class="link" href="https://events.cancer.gov/nci/ccdisymposium" target="_blank" rel="noopener noreferrer">2026 CCDI Symposium</a><br>9/18/26<br><br></p>
+      <a class="link" href="https://events.cancer.gov/nci/ccdisymposium" target="_blank" rel="noopener noreferrer">2026 CCDI Symposium</a><br>9/17/26 - 9/18/26<br><br></p>
   - id: CCDI_Event_Archive_1
     topic: Past Events, Webinars, and Workshops
     content: >-
