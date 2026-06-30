@@ -56,6 +56,19 @@ newsImgUrlList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
+  - id: symposium_07072026
+    title: >-
+      Join us for the 2026 CCDI Symposium
+    date: July 7, 2026
+    slug: >-
+      September 17-18 in Rockville and online
+    highlight: >-
+            <p>The 2026 CCDI Symposium will be held September 17–18 both in person at NCI's Shady Grove campus in Rockville, MD, and virtually. <a href="https://events.cancer.gov/nci/ccdisymposium">Visit the symposium website</a> to learn more and register. </p>
+    type: News
+    img: updateImgSymposium 
+    latestUpdate: true
+    latestUpdateOrder: 2
+  
   - id: hub_07072026
     title: >-
       July 2026 CCDI Hub updates
@@ -80,7 +93,7 @@ newsList:
     type: CCDI Application Updates
     img: updateImgCCDC 
     latestUpdate: true
-    latestUpdateOrder: 3
+    latestUpdateOrder:
   
   - id: hub_05202026
     title: >-
