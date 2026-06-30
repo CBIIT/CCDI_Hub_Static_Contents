@@ -92,8 +92,6 @@ newsList:
       <p>The <a href="https://datacatalog.ccdi.cancer.gov/">Childhood Cancer Data Initiative Data Catalog</a> Version 1.5.9 was released on 6/10/2026, adding 6 new resources and 12 new datasets from existing resources. Links to analytic tools were also added to several resources.</p>
     type: CCDI Application Updates
     img: updateImgCCDC 
-    latestUpdate: true
-    latestUpdateOrder:
   
   - id: hub_05202026
     title: >-
