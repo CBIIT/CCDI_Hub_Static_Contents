@@ -132,8 +132,6 @@ Additional details are listed below:
 | version | v2.10.0 |
 | slug | Metastatic Osteosarcoma Spatial Profiling data now available, plus several enhanced features |
 | contentType | Clinical,Genomics/Omics,Imaging |
-| latestUpdate | true |
-| latestUpdateOrder | 3 |
 
 
 # CCDI Hub Release 2.9.2
