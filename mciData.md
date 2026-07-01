@@ -27,22 +27,22 @@ For an overview of this initiative, [access the MCI web page on cancer.gov](http
 The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.
 
 ```mci-disease-table
-title: 'Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of May 7, 2026'
+title: 'Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of June 8, 2026'
 header:
   - ''
   - Primary Diagnosis Disease Group
   - Number of Participants
 body:
   - name: Central Nervous System
-    value: 5884
+    value: 6009
   - name: Soft Tissue Sarcoma
-    value: 1763
+    value: 1813
   - name: Rare Tumors
-    value: 931
+    value: 959
   - name: Neuroblastoma
-    value: 824
+    value: 857
   - name: Ewing Sarcoma
-    value: 88
+    value: 90
 ```
 
 ```mci-map
