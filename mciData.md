@@ -392,11 +392,11 @@ Technical questions about accessing results or result availability should be dir
 
 Questions about results unrelated to a COG treatment trial should go to the following as appropriate:
 
-- Central nervous system group: [MCICNS@childrensoncologygroup.org](mailto:MCICNS@childrensoncologygroup.org)
-- Soft tissue sarcoma group: [MCISTS@childrensoncologygroup.org](mailto:MCISTS@childrensoncologygroup.org)
-- Rare tumor group: [MCIRAR@childrensoncologygroup.org](mailto:MCIRAR@childrensoncologygroup.org)
-- Neuroblastoma group: [MCINBL@childrensoncologygroup.org](mailto:MCINBL@childrensoncologygroup.org)
-- Ewing sarcoma group: [MCIEWS@childrensoncologygroup.org](mailto:MCIEWS@childrensoncologygroup.org)
+- Central nervous system group: [APEC14B1CNS_Contacts@childrensoncologygroup.org](mailto:APEC14B1CNS_Contacts@childrensoncologygroup.org)
+- Soft tissue sarcoma group: [APEC14B1STS_Contacts@childrensoncologygroup.org](mailto:APEC14B1STS_Contacts@childrensoncologygroup.org)
+- Rare tumor group: [ProjectEveryChild@childrensoncologygroup.org](mailto:ProjectEveryChild@childrensoncologygroup.org)
+- Neuroblastoma group: [APEC14B1NBL_Contacts@childrensoncologygroup.org](mailto:APEC14B1NBL_Contacts@childrensoncologygroup.org)
+- Ewing sarcoma group: [APEC14B1EWS_Contacts@childrensoncologygroup.org](mailto:APEC14B1EWS_Contacts@childrensoncologygroup.org)
 
 #### MCI Data Contact
 
