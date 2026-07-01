@@ -356,7 +356,7 @@ MCI H&E-stained images in Digital Imaging and Communications in Medicine (DICOM)
 Note for investigators planning to use data from different resources: If you intend to utilize data from institutions that enroll patients in the Molecular Characterization Initiative, please note that the data available on this site may be identical to the data collected from the submitting clinical sites.
 
 ```responsive-img
-wide: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_06302026.png'
+wide: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_06222026.png'
 mobile: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_Mobile.png'
 alt: 'Infographic depicting the MCI assays and data types, and the data flow to patients, providers, and the CCDI Data Ecosystem'
 Caption: "Data generation and sharing workflow: Biospecimens collected from COG Project:EveryChild participants enrolled in the MCI are processed through coordinated clinical and research pipelines. Clinical sequencing is performed in a CLIA-certified laboratory, with results returned to patients and providers, while research characterization generates additional data, such as WGS, transcriptomics, proteomics, and metabolomics. Deidentified clinical, molecular, and imaging data are made available through the CCDI Data Ecosystem, with the CCDI cBioPortal Cancer Data Explorer enabling visualization and exploration of the analyzed data."
