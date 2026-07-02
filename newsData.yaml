@@ -56,6 +56,32 @@ newsImgUrlList:
 #   latestUpdate: true, must put this in the 3 items that show up in the home page latest Updates;
 
 newsList:
+  - id: symposium_07072026
+    title: >-
+      Join us for the 2026 CCDI Symposium
+    date: July 7, 2026
+    slug: >-
+      September 17-18 in Rockville and online
+    highlight: >-
+            <p>The 2026 CCDI Symposium will be held September 17–18 both in person at NCI's Shady Grove campus in Rockville, MD, and virtually. <a href="https://events.cancer.gov/nci/ccdisymposium">Visit the symposium website</a> to learn more and register. </p>
+    type: News
+    img: updateImgSymposium 
+    latestUpdate: true
+    latestUpdateOrder: 2
+  
+  - id: hub_07072026
+    title: >-
+      July 2026 CCDI Hub updates
+    date: July 7, 2026
+    slug: >-
+      Updated MCI enrollment and supporting information
+    highlight: >-
+            <p>The <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has been updated with the latest information on testing types, results reporting, and contact information, and the enrollment counts have been updated as of June 8, 2026. A typo in the filename of the ineligible patient list for MCI has also been corrected. Three events have been added to the <a href="https://ccdi.cancer.gov/ccdi-events-announcements">CCDI Events Announcements page</a>. The 2.11.0 release note was corrected to clarify a feature that had not yet been included at the time of release. </p>
+    type: News
+    img: updateImgMiscNews 
+    latestUpdate: true
+    latestUpdateOrder: 1
+    
   - id: ccdc_06102026
     title: >-
       6 new resources and over 10 new datasets
@@ -66,8 +92,6 @@ newsList:
       <p>The <a href="https://datacatalog.ccdi.cancer.gov/">Childhood Cancer Data Initiative Data Catalog</a> Version 1.5.9 was released on 6/10/2026, adding 6 new resources and 12 new datasets from existing resources. Links to analytic tools were also added to several resources.</p>
     type: CCDI Application Updates
     img: updateImgCCDC 
-    latestUpdate: true
-    latestUpdateOrder: 2
   
   - id: hub_05202026
     title: >-
@@ -79,8 +103,6 @@ newsList:
       <p>Two new publications have been added to the <a href="https://ccdi.cancer.gov/publications">CCDI-Supported Publications list</a>, and three previously reported preprints have been updated with their final publication details. The NCH-IGM ClinVar Submitter’s Page has been added to <a href="https://ccdi.cancer.gov/tools">CCDI Hub's Tools list</a>, and tools from the Modeling Outcomes Using Surveillance Data and Scalable AI for Cancer (MOSSAIC) Project have been moved to the CCDI-supported tools section. The <a href="https://ccdi.cancer.gov/MCI">Molecular Characterization Initiative (MCI) page</a> has also been updated with enrollment counts as of May 7, 2026.</p>
     type: News
     img: updateImgMiscNews 
-    latestUpdate: true
-    latestUpdateOrder: 3
     
   - id: ccdc_04232026
     title: >-
