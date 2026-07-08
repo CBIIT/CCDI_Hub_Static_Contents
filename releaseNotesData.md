@@ -34,7 +34,6 @@ Additional details are listed below:
 - Added configurable ordering of Latest Updates to support specifying left-to-right order of listed topics
 - Added consent code summary to Global Search results and Study Details page
 - Added two new events to the CCDI Events Announcements page
-- Changed static content source files for About and Data Usage Policies and Terms pages from YAML to Markdown
 - Updated CCDI Data Ecosystem and AI Readiness PDF
 - Updated Pediatric, Adolescent, and Young Adult Rare Cancer Study resource page with button to emphasize contact form
 - Updated release notes pdf with latest release and added relevant news entry
@@ -49,6 +48,7 @@ Additional details are listed below:
 
 - Fixed issue resulting in trailing close bracket on Files table Participant ID and Sample ID values
 
+*Edited 7/7/2026 to remove mention of functional shift from YAML to Markdown for source content of About and CCDI Data Usage Policies & Terms pages - this update will be made in a future release*
 
 | Property | Value |
 | --- | --- |
@@ -57,7 +57,7 @@ Additional details are listed below:
 | slug | Check out the newly added ADMIRAL study and updated features throughout CCDI Hub |
 | contentType | Genomics/Omics |
 | latestUpdate | true |
-| latestUpdateOrder | 1 |
+| latestUpdateOrder | 3 |
 
 
 # CCDI Hub Release 2.10.0
@@ -132,8 +132,6 @@ Additional details are listed below:
 | version | v2.10.0 |
 | slug | Metastatic Osteosarcoma Spatial Profiling data now available, plus several enhanced features |
 | contentType | Clinical,Genomics/Omics,Imaging |
-| latestUpdate | true |
-| latestUpdateOrder | 3 |
 
 
 # CCDI Hub Release 2.9.2
