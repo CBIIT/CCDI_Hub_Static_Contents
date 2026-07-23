@@ -1,3 +1,47 @@
+# CCDI Hub Release 2.12.0
+### July 31, 2026 | Release Notes
+
+<img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png" align="right" width="220" alt="updateImgReleaseNotes">
+
+CCDI Hub's July version 2.12.0 release features updates to the Resources menu, and corresponding changes to the carousel, CCDI-Supported Resources, and CCDI Stats at a Glance sections on the Home page. Changes to the Molecular Characterization Initiative (MCI) page include an updated List of Genes Reviewed for Germline and Somatic Variation and a fix to the labels on the Enrollment Counts by State chart. The News and Release Notes pages are up to date. 
+
+Additional details are listed below:
+
+### Statistics at a Glance
+
+#### v2.12.0 Summary
+
+- **23rd** Release
+- **42** Studies
+- **61,854** Participants
+- **70,820** Samples
+- **1,259,864** Files
+
+### CCDI Hub Site Updates
+
+#### General Site
+
+- Removed Molecular Targets Platform (MTP) from Resources menu, carousel, CCDI-Supported Resources lits, and CCDI Stats at a Glance sections on the Home page to correspond with retirement of MTP
+- Updated release notes pdf with latest release and added relevant news entry
+
+
+#### Molecular Characterization Initiative page
+
+- Added DC display label to Enrollment Counts by State chart
+- Updated List of Genes Reviewed for Germline and Somatic Variation
+
+
+| Property | Value |
+| --- | --- |
+| id | hub_release_07312026 |
+| version | v2.12.0 |
+| slug | Updated resource menu and MCI gene list |
+| contentType | |
+| latestUpdate | true |
+| latestUpdateOrder | 1 |
+
+
+
 # CCDI Hub Release 2.11.0
 ### June 16, 2026 | Release Notes
 
@@ -56,8 +100,6 @@ Additional details are listed below:
 | version | v2.11.0 |
 | slug | Check out the newly added ADMIRAL study and updated features throughout CCDI Hub |
 | contentType | Genomics/Omics |
-| latestUpdate | true |
-| latestUpdateOrder | 3 |
 
 
 # CCDI Hub Release 2.10.0
