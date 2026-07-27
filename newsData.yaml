@@ -80,7 +80,7 @@ newsList:
     type: News
     img: updateImgMiscNews 
     latestUpdate: true
-    latestUpdateOrder: 1
+    latestUpdateOrder: 3
     
   - id: ccdc_06102026
     title: >-
@@ -725,8 +725,6 @@ releaseNotesList:
     type: Release Notes
     img: updateImgReleaseNotes
     contentType: Genomics/Omics
-    latestUpdate: true
-    latestUpdateOrder: 1
     
   - id: hub_release_03262026
     title: CCDI Hub Release 2.10.0
