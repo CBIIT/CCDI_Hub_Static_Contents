@@ -314,7 +314,7 @@ For germline analysis, the report is focused on pathogenic or likely pathogenic 
 
 Due to the nature of exome sequencing, full gene coverage is not guaranteed. This assay does not detect exon-level deletions or duplications and may not be capable of detecting gene-level copy number variation below 105kb resolution. This testing is not intended for carrier screening. The report incorporates information curated from the medical literature, genetic databases, and variant knowledgebases, which are subject to change over time due to new scientific discoveries. The report must be considered within the clinical context of the patient, in conjunction with other relevant findings and clinical history.
 
-Here is a list of genes that are reviewed for germline and somatic variation in the setting of this analysis (as of August 30, 2024). These cancer-associated genes have been curated from medical and scientific literature, databases, and professional guidelines.
+Here is a list of genes that are reviewed for germline and somatic variation in the setting of this analysis (as of July 20, 2026). These cancer-associated genes have been curated from medical and scientific literature, databases, and professional guidelines.
 
 ```mci-search-table
 title: 'List of Genes Reviewed for Germline and Somatic Variation as of July 20, 2026'
