@@ -21,13 +21,12 @@ Additional details are listed below:
 
 #### General Site
 
-- Removed Molecular Targets Platform (MTP) from Resources menu, carousel, CCDI-Supported Resources lits, and CCDI Stats at a Glance sections on the Home page to correspond with retirement of MTP
+- Removed Molecular Targets Platform (MTP) from Resources menu, carousel, CCDI-Supported Resources list, and CCDI Stats at a Glance sections on the Home page to correspond with retirement of MTP
 - Updated release notes pdf with latest release and added relevant news entry
 
 
 #### Molecular Characterization Initiative page
 
-- Added DC display label to Enrollment Counts by State chart
 - Updated List of Genes Reviewed for Germline and Somatic Variation
 
 
