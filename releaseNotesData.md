@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png" align="right" width="220" alt="updateImgReleaseNotes">
 
-CCDI Hub's July version 2.12.0 release features updates to the Resources menu, and corresponding changes to the carousel, CCDI-Supported Resources, and CCDI Stats at a Glance sections on the Home page. Changes to the Molecular Characterization Initiative (MCI) page include an updated List of Genes Reviewed for Germline and Somatic Variation and a fix to the labels on the Enrollment Counts by State chart. The News and Release Notes pages are up to date. 
+CCDI Hub's July version 2.12.0 release features updates to the Resources menu, and corresponding changes to the carousel, CCDI-Supported Resources, and CCDI Stats at a Glance sections on the Home page. The Molecular Characterization Initiative (MCI) page now has an updated List of Genes Reviewed for Germline and Somatic Variation. The News and Release Notes pages are up to date. 
 
 Additional details are listed below:
 
