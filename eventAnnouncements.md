@@ -8,13 +8,10 @@ The CCDI Events Announcements page brings together news announcements and detail
 9/17/26 - 9/18/26
 
 # Past Events, Webinars, and Workshops
-<a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/PDF/Resources/Events%20Announcements/Leveraging%20Data%20Standards%20for%20Improving%20Interoperability%20-%20NCI.pdf" target="_blank" rel="noopener noreferrer">Leveraging Data Standards for Improving Interoperability</a>  
+[Leveraging Data Standards for Improving Interoperability](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/Leveraging%20Data%20Standards%20for%20Improving%20Interoperability%20-%20NCI.pdf)  
 7/9/24
 
-[Leveraging Data Standards for Improving Interoperability](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/PDF/Resources/Events%20Announcements/Leveraging%20Data%20Standards%20for%20Improving%20Interoperability%20-%20NCI.pdf)  
-7/9/24
-
-[Input Needed for Pediatric Data Standards](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/PDF/Resources/Events%20Announcements/Input%20Needed%20for%20Pediatric%20Data%20Standards%20-%20NCI.pdf)  
+[Input Needed for Pediatric Data Standards](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/Input%20Needed%20for%20Pediatric%20Data%20Standards%20-%20NCI.pdf)  
 6/27/24
 
 [Newly Upgraded Index of Studies Helps Catalog NCI Research Programs](https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Newly%20Upgraded%20Index%20of%20Studies%20Helps%20Catalog%20NCI%20Research%20Programs.pdf)  
