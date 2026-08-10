@@ -1,5 +1,5 @@
 ![publications_header](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png)
-Publication list updated as of 5/20/26
+Publication list updated as of 8/27/26
 
 # The CCDI-COG Molecular Characterization Initiative (MCI) in Pediatric Rare Cancers
 ### July 2026 | AACR Special Conference in Cancer Research: Breaking Barriers in the Fight Against Rare Cancers
@@ -13,6 +13,58 @@ Tags: **CCDI-MCI**
 | --- | --- |
 | id | MCICOG_07182026 |
 | link | https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/CCDI-supported%20Publications/The%20CCDI-COG%20Molecular%20Characterization%20Initiative%20(MCI)%20in%20Pediatric%20Rare%20Cancers.pdf |
+| summary | Abstracts |
+
+# Using the NCCR Data Platform to Identify Predisposition Syndromes in Pediatric Cancer Patients
+### June 2026 | NAACCR (North American Association of Central Cancer Registries) 2026 Virtual Conference
+
+Genetic predisposition syndromes and congenital conditions, such as Fanconi anemia, Down syndrome, and Bloom syndrome, are known to increase the risk of specific pediatric cancers. However, information on these conditions is often incomplete or unavailable in population-based cancer registry data because data items that capture secondary diagnoses are restricted, limiting the ability to study their prevalence and distribution at the population level.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NAACCR_06242026_1 |
+| link | https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/CCDI-supported%20Publications/Using%20the%20NCCR%20Data%20Platform%20to%20Identify%20Predisposition%20Syndromes%20in%20Pediatric%20Cancer%20Patients.pdf |
+| summary | Abstracts |
+
+# Secondary Cancers and Cardiovascular Disease among Survivors of Childhood, Adolescent, and Young Adult Leukemia and Lymphoma
+### June 2026 | NAACCR (North American Association of Central Cancer Registries) 2026 Virtual Conference
+
+There is a critical need to quantify the burden and engage childhood and young adult cancer survivors at risk for late cardiovascular disease (CVD) to promote health equity. Subsequent malignant neoplasms and CVD represent the leading causes of late morbidity and mortality among childhood, adolescent, and young adult cancer survivors. Previous analyses from the Childhood Cancer Survivor Study (CCSS), and other large, longitudinal cohort studies, clearly document the significant impact of cancer treatment on heart health in adulthood. While many single-institution studies are limited in power to detect rare events and longitudinal follow-up, the National Childhood Cancer Registry offers an opportunity to explore the burden and potential health inequity for SMNs and CVD with a focus on leukemia and lymphoma.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NAACCR_06242026_2 |
+| link | https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/CCDI-supported%20Publications/Secondary%20Cancers%20and%20Cardiovascular%20Disease%20among%20Survivors%20of%20Childhood%2C%20Adolescent%2C%20and%20Young%20Adult%20Leukemia%20and%20Lymphoma.pdf |
+| summary | Abstracts |
+
+# Leveraging the National Childhood Cancer Registry to Understand Geographical Health Disparities among Rural Americans
+### June 2026 | NAACCR (North American Association of Central Cancer Registries) 2026 Virtual Conference
+
+Children, adolescents, and young adults living in rural areas of the United States face distinct cancer health disparities compared to their urban counterparts. Although cancer in these age groups is relatively rare, rural youth often experience worse outcomes due to barriers in healthcare access, early diagnosis, and treatment continuity. One major challenge is the limited availability of pediatric oncology specialists and cancer treatment centers in rural regions. Families frequently must travel long distances for care, which can delay diagnosis and treatment initiation, reduce adherence to therapy, and increase financial and emotional stress. Additionally, rural areas often lack supportive services such as psychosocial care, rehabilitation, and survivorship programs tailored to young patients. Cultural factors, including a strong sense of self-reliance and limited health literacy, may further discourage families from seeking preventive care or participating in clinical trials. Data from the CDC and other public health organizations highlight that rural youth are underrepresented in pediatric cancer research, which limits the development of targeted interventions and equitable treatment protocols.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NAACCR_06242026_3 |
+| link | https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/CCDI-supported%20Publications/Leveraging%20the%20National%20Childhood%20Cancer%20Registry%20to%20Understand%20Geographical%20Health%20Disparities%20among%20Rural%20Americans.pdf |
+| summary | Abstracts |
+
+# Survival Disparities among Children Diagnosed with Neuroblastoma Enrolled and Not Enrolled in COG Clinical Trials Using the NCCR Data Platform
+### June 2026| NAACCR (North American Association of Central Cancer Registries) 2026 Virtual Conference
+
+A 2025 Children’s Oncology Group (COG) study1 found that Black and Hispanic children with high-risk neuroblastoma had worse overall survival (OS), even when treated with the same standardized protocols on frontline COG clinical trials. The mechanisms explored in the study did not fully account for the observed disparities in survival. With the NCCR Data Platform, we now have the opportunity to examine whether similar patterns exist among children who did not participate in a COG clinical trial.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NAACCR_06242026_4 |
+| link | https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/CCDI-supported%20Publications/Survival%20Disparities%20among%20Children%20Diagnosed%20with%20Neuroblastoma%20Enrolled%20and%20Not%20Enrolled%20in%20COG%20Clinical%20Trials%20Using%20the%20NCCR%20Data%20Platform.pdf |
 | summary | Abstracts |
 
 # The Childhood Cancer Data Initiative: Molecular Characterization Initiative (MCI) Platform for Advancing Precision Diagnosis and Discovery in Pediatric CNS Tumors 
@@ -55,7 +107,7 @@ Tags: **CCDI Ecosystem,AI**
 | summary | Secondary |
 
 # Integrating Multimodal Data to Advance Childhood Cancer Research
-### March 2026 | 2026 FCSM Conference
+### March 2026 | 2026 Federal Committee on Statistical Methodology (FCSM) Annual Conference
 
 The Childhood Cancer Data Initiative (CCDI) has pioneered innovative informatics solutions for collection and dissemination of clinical, research, and population health data to advance investigations into the causes, effective treatments, and long-term effects of cancer in children, adolescents, and young adults. The CCDI Data Ecosystem is a connected network of tools and resources that enable the collection, sharing, and analysis of data. CCDI Hub Explore allows researchers to build large datasets across multimodal data from multiple research studies and public health. We unite federated resources with a Participant Index that enables researchers to map multimodal data for the same participant across different datasets. The CCDI Molecular Characterization Initiative (MCI) offers a model for integrating comprehensive genomic and transcriptomic characterization into clinical care and research. The CCDI’s methodologies and insights are relevant to building capacity for comprehensive, high-quality research in pediatric cancer, rare diseases, adult cancers, and other health conditions. We will describe how this program contributes to federal statistical systems in data collection (genomics, electronic health record and laboratory systems, claims, etc.), semantic harmonization, interoperability, and release mechanisms of real-world data.
 
