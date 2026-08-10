@@ -1,6 +1,33 @@
 ![publications_header](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png)
 Publication list updated as of 5/20/26
 
+# The CCDI-COG Molecular Characterization Initiative (MCI) in Pediatric Rare Cancers
+### July 2026 | AACR Special Conference in Cancer Research: Breaking Barriers in the Fight Against Rare Cancers
+
+Rare pediatric cancers encompass a broad range of diagnoses, including both adult-onset carcinomas that rarely arise in children and very rare diagnoses unique to childhood. Although each individual diagnosis is exceedingly uncommon, rare tumors collectively account for ~10% of all children with cancer. However, for many of these cancers, little is known about their genetic drivers or optimal treatment. The Molecular Characterization Initiative (MCI), launched in 2022 by the NCI Childhood Cancer Data Initiative (CCDI), provides molecular profiling at no cost to the patients.
+Individuals 25 years old or younger newly diagnosed with a rare tumor, as defined by the Children’s Oncology Group (COG), are eligible for paired germline and tumor enhanced exome sequencing of cancer-associated genes, copy number analysis through low-passage whole genome sequencing, and targeted RNA fusion analysis. Results are returned to the primary institution within 2-3 weeks. 
+
+Tags: **CCDI-MCI**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_07182026 |
+| link | https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/CCDI-supported%20Publications/The%20CCDI-COG%20Molecular%20Characterization%20Initiative%20(MCI)%20in%20Pediatric%20Rare%20Cancers.pdf |
+| summary | Abstracts |
+
+# The Childhood Cancer Data Initiative: Molecular Characterization Initiative (MCI) Platform for Advancing Precision Diagnosis and Discovery in Pediatric CNS Tumors 
+### June 2026 | Neuro-Oncology Pediatrics |
+
+Comprehensive molecular characterization is central to the classification and management of pediatric central nervous system (CNS) tumors. However, access to advanced molecular testing remains inconsistent across institutions and geographic regions. The U.S. National Cancer Institute Childhood Cancer Data Initiative (CCDI) Molecular Characterization Initiative (MCI) was established to provide standardized, centralized molecular profiling for children and young adults with newly diagnosed cancers, including CNS tumors, to support integrated diagnosis, clinical decision-making, and research.
+
+Tags: **CCDI-MCI**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_06232026 |
+| link | https://doi.org/10.1093/neuped/wuag026.535 |
+| summary | Primary |
+
 # Childhood Cancer Data Initiative Participant Index: Mapping Pediatric Cancer Data to Facilitate Cross-Study Integrated Analysis
 ### April 2026 | JCO Clinical Cancer Informatics | 41950437
 
@@ -26,6 +53,19 @@ Tags: **CCDI Ecosystem,AI**
 | id | Ecosystem_04022026 |
 | link | https://doi.org/10.1158/0008-5472.CAN-25-2275 |
 | summary | Secondary |
+
+# Integrating Multimodal Data to Advance Childhood Cancer Research
+### March 2026 | 2026 FCSM Conference
+
+The Childhood Cancer Data Initiative (CCDI) has pioneered innovative informatics solutions for collection and dissemination of clinical, research, and population health data to advance investigations into the causes, effective treatments, and long-term effects of cancer in children, adolescents, and young adults. The CCDI Data Ecosystem is a connected network of tools and resources that enable the collection, sharing, and analysis of data. CCDI Hub Explore allows researchers to build large datasets across multimodal data from multiple research studies and public health. We unite federated resources with a Participant Index that enables researchers to map multimodal data for the same participant across different datasets. The CCDI Molecular Characterization Initiative (MCI) offers a model for integrating comprehensive genomic and transcriptomic characterization into clinical care and research. The CCDI’s methodologies and insights are relevant to building capacity for comprehensive, high-quality research in pediatric cancer, rare diseases, adult cancers, and other health conditions. We will describe how this program contributes to federal statistical systems in data collection (genomics, electronic health record and laboratory systems, claims, etc.), semantic harmonization, interoperability, and release mechanisms of real-world data.
+
+Tags: **CCDI-MCI**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_03112026 |
+| link | https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/CCDI-supported%20Publications/2026%2BFCSM%2BFinal%2BProgram.pdf |
+| summary | Abstracts |
 
 # Confounding factors in assessing the enriched expression of somatic mutant allele in bulk tumor samples
 ### March 2026 | Genome Research | 41781335
