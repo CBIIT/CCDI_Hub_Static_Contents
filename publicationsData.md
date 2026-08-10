@@ -622,7 +622,7 @@ Tags: **CCDI-NCCR**
 | Property | Value |
 | --- | --- |
 | id | NCCR_09072024 |
-| link | https://aacrjournals.org/cancerres/article/84/17_Supplement/B071/747181/Abstract-B071-Automated-extraction-and-provision |
+| link | https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/CCDI-supported%20Publications/Automated%20extraction%20and%20provision%20of%20electronic%20health%20record%20data%20from%20children%20with%20cancer%20to%20National%20Childhood%20Cancer%20Center%20(NCCR)%20cancer%20registries%20_%20Cancer%20Research%20_%20AACR.pdf |
 | summary | Abstracts |
 
 # Multicenter Histology Image Integration and Multiscale Deep Learning for Pediatric Sarcoma Subtype Classification
