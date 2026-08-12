@@ -1,3 +1,68 @@
+# CCDI Hub Release 3.0.0
+### August 31, 2026 | Release Notes
+
+<img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png" align="right" width="220" alt="updateImgReleaseNotes">
+
+CCDI Hub’s version 3.0.0 release features a major change to streamline the CCDI Explore experience, along with several other enhancements. Newly hosted information includes two events, seven publications, a CCDI FAQ page, and a Data Update category on News page. Notable navigation updates include the reorganization of the About dropdown menu and the removal of links to the Cohort Analyzer and Cart since these features will now be supported solely on C3DC. User documentation has been updated to support the latest set of features.
+
+Additional details are listed below:
+
+### Statistics at a Glance
+
+#### v3.0.0 Summary
+
+- **24th** Release
+- **1** [Event](https://ccdi.cancer.gov/ccdi-events-announcements) upcoming
+- **8** [Tools](https://ccdi.cancer.gov/tools)
+- **103** [Publications](https://ccdi.cancer.gov/publications)
+- **9,222** Participants with available genomic and clinical data in [MCI](https://ccdi.cancer.gov/MCI)
+- **45** Studies indexed in [CCDI Explore](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants)
+
+### CCDI Hub Site Updates
+
+#### General Site
+
+- Added CCDI Data Updates category to News and retroactively added pertinent entries from C3DC’s former Announcements feed
+- Added CCDI FAQs to About dropdown menu
+- Added two events to the list of past events
+- Added seven new publications and updated one in Publications page
+- Moved MCI JSON2TSV tool to CCDI-supported section in Tools page
+- Redirected Explore in navbar to the new CCDI Explore Dashboard hosted in C3DC
+- Redirected Global Search results to relevant data in C3DC, where applicable
+- Redirected Studies to the updated list of CCDI Studies hosted in C3DC
+- Removed link to Cohort Analyzer
+- Removed link to My Files Cart
+- Removed Stats bar
+- Reorganized About dropdown menu
+- Replaced yaml with markdown files for content on CPI, Federation, Release notes, and Tools pages
+- Resolved security vulnerabilities
+- Updated behavior of warning click-through banner
+- Updated CCDI Data Ecosystem and AI Readiness (PDF) diagram and links
+- Updated CCDI Data Model viewer to display the latest CCDI Data Model
+- Updated CCDI Data Submission Guide (PDF)
+- Updated content on About CCDI Hub page to reflect changes to Explore
+- Updated content on Data Usage Policies & Terms page to reflect changes to Explore
+- Updated numbers in CCDI Stats at a Glance on the Home page
+- Updated release notes pdf with latest release and added relevant news entries
+- Updated User Guide to reflect newest features and moved Explore content to C3DC User Guide, where relevant
+
+#### Molecular Characterization Initiative page
+
+- Added DC display label to Enrollment Counts by State chart
+- Updated content to reflect changes to Explore
+- Updated enrollment through July 13, 2026
+
+
+
+| Property | Value |
+| --- | --- |
+| id | hub_release_08312026 |
+| version | v3.0.0 |
+| slug | Updated organization of CCDI Explore, resources, and supporting documentation |
+| contentType | |
+| latestUpdate | true |
+| latestUpdateOrder | 1 |
+
 # CCDI Hub Release 2.12.0
 ### July 31, 2026 | Release Notes
 
