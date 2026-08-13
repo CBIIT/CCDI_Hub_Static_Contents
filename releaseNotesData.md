@@ -101,8 +101,6 @@ Additional details are listed below:
 | version | v2.12.0 |
 | slug | Updated resource menu and MCI gene list |
 | contentType | |
-| latestUpdate | true |
-| latestUpdateOrder | 1 |
 
 
 
