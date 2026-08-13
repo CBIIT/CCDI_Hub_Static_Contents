@@ -87,7 +87,7 @@ faqs:
     answer: |
       Releases aim for a quarterly cadence. Updates on releases can be found at the [News](/news) and [Release Notes](/release-notes) pages of the [ccdi.cancer.gov](https://ccdi.cancer.gov) website and Release Notes pages of the CCDI C3DC application.
 
- - id: data-model-info
+  - id: data-model-info
     category: data-exploration
     question: Where can I find more information about the CCDI Data Model?
     answer: |
@@ -101,7 +101,7 @@ faqs:
 
   - id: mci-clinical-reports-format
     category: mci
-    question:Do the clinical summary reports/lab data exist in a structured format? 
+    question: Do the clinical summary reports/lab data exist in a structured format? 
     answer: |
       De-identified clinical summary reports are available in both PDF and JSON formats. Data from the sample reports can also be parsed and filtered using the CCDI MCI JSON2TSV tool, available as a [GitHub repository](https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV/) with documentation as well as a [public application](https://cgc.sbgenomics.com/public/apps/rowan_beck_era/ccdi-mci-json2tsv-commit/json2tsv) in the Cancer Genomics Cloud (CGC) to perform transformations on CGC hosted files. The JSON2TSV tool can parse a set of MCI clinical report JSONs and transform and aggregate them to human-readable formats. 
 
