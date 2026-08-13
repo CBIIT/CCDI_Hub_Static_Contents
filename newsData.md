@@ -149,7 +149,7 @@ newsImgUrlList:
 
 ---
 
-# CCDI Data now searchable in Data Federation API
+<!--# CCDI Data now searchable in Data Federation API
 ### March 26, 2026 | CCDI Application Updates
 
 | | |
@@ -162,6 +162,7 @@ newsImgUrlList:
 | slug | CCDI data now searchable via Data Federation API v1.2.3 for cross-resource cohort discovery |
 
 ---
+-->
 
 # Three new resources and over 40 new data sets in the CCDI Data Catalog
 ### February 19, 2026 | CCDI Application Updates
@@ -190,7 +191,8 @@ newsImgUrlList:
 | slug | Improved Cohort Analyzer experience and other functional enhancements |
 
 ---
-# C3DC Data Release 8.0
+
+<!--# C3DC Data Release 8.0
 ### February 4, 2026 | CCDI Data Updates
 
 | | |
@@ -202,7 +204,7 @@ newsImgUrlList:
 | id | c3dc_02042026 |
 | slug | Eight new datasets and several more updates |
 
----
+--- --> 
 
 # Annual GENIE update now available in the Childhood Cancer Data Catalog
 ### December 16, 2025 | CCDI Application Updates
@@ -876,7 +878,7 @@ newsImgUrlList:
 
 ---
 
-# Molecular Characterization Initiative releases initial data
+<!-- # Molecular Characterization Initiative releases initial data
 ### APRIL 5, 2023 | CCDI Application Updates
 
 | | |
@@ -888,7 +890,7 @@ newsImgUrlList:
 | id | molecular_04052023 |
 | slug | Genomics and clinical data for MCI participants is housed in NCI’s Cancer Data Service and accessible through CGC. |
 
----
+--- --> 
 
 # CCDI Symposium features Data Ecosystem progress
 ### MARCH 24, 2023 | News
