@@ -33,19 +33,49 @@ newsImgUrlList:
   updateImgFederation: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Federation.png'
 ---
 
+# C3DC v2.0.0 Update
+### August 31, 2026 | CCDI Application Updates
+
+| | |
+| --- | --- |
+| <p>CCDI's updated Explore experience provides additional filters organized into separate Participant- and File-centered summaries. Preserving the previous functionality of the CCDI Hub and C3DC Explore Dashboards, this integrated Explore experience aims for more granular search capabilities on the latest CCDI Data Model and its data. Try out the new <a href="https://clinicalcommons.ccdi.cancer.gov/explore">CCDI Explore in C3DC</a> today.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
+
+| Property | Value |
+| --- | --- |
+| id | c3dc_08312026 |
+| slug | Enhanced exploration of Participants and Files in C3DC |
+| latestUpdate | true |
+| latestUpdateOrder | 2 |
+
+---
+
+# More than 70 new resources linked in the August CCDC release
+### August 31, 2026 | CCDI Application Updates
+
+| | |
+| --- | --- |
+| <p>Version 1.5.10 of the <a href="https://datacatalog.ccdi.cancer.gov/">Childhood Cancer Data Initiative Data Catalog</a>, released on 8/31/2026, added over 70 new resources and updated several existing resources. This release also features a change in the process for managing text content to facilitate more efficient content updates moving forward.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png" width="220" alt="updateImgCCDC"> |
+
+| Property | Value |
+| --- | --- |
+| id | ccdc_08312026 |
+| slug | Check out the new resources and updated datasets today! |
+| latestUpdate | true |
+| latestUpdateOrder | 3 |
+
+---
+
 # Join us for the 2026 CCDI Symposium
 ### July 7, 2026 | News
 
 | | |
 | --- | --- |
-| <p>The 2026 CCDI Symposium will be held September 17–18 both in person at NCI's Shady Grove campus in Rockville, MD, and virtually. <a href="https://events.cancer.gov/nci/ccdisymposium">Visit the symposium website</a> to learn more and register. </p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Symposium.png" width="220" alt="updateImgSymposium"> |
+| <p>The 2026 CCDI Symposium will be held September 18th both in person at NCI's Shady Grove campus in Rockville, MD, and virtually. <a href="https://events.cancer.gov/nci/ccdisymposium">Visit the symposium website</a> to learn more and register. </p><p><i>[Note symposium dates were updated to reflect the latest plans on 8/31/2026]</i></p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Symposium.png" width="220" alt="updateImgSymposium"> |
 
 | Property | Value |
 | --- | --- |
 | id | symposium_07072026 |
-| slug | September 17-18 in Rockville and online |
-| latestUpdate | true |
-| latestUpdateOrder | 2 |
+| slug | September 18th in Rockville and online |
 
 ---
 
@@ -60,8 +90,6 @@ newsImgUrlList:
 | --- | --- |
 | id | hub_07072026 |
 | slug | Updated MCI enrollment and supporting information |
-| latestUpdate | true |
-| latestUpdateOrder | 3 |
 
 ---
 
@@ -146,6 +174,33 @@ newsImgUrlList:
 | --- | --- |
 | id | ccdc_02192026 |
 | slug | The February Childhood Cancer Data Catalog (CCDC) release includes 48 new data sets from new and previously existing resources |
+
+---
+
+# C3DC v1.8.0 Update
+### February 4, 2026 | CCDI Application Updates
+
+| | |
+| --- | --- |
+| <p>We are pleased to announce the release of C3DC Application Version 1.8.0. This release introduces newly harmonized datasets, along with updates to existing data. It also includes key enhancements to the Explore Page and Cohort Analyzer, improving usability and expanding data accessibility. For complete details, please refer to the <a href="https://ccdi.cancer.gov/publications">Release Notes</a>.</p> <p> <i>[Note this announcement was originally posted on C3DC Announcements and was retroactively added to CCDI Hub News feed on 8/31/2026 - full details can be found in C3DC's release notes]</i></p>| <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
+
+| Property | Value |
+| --- | --- |
+| id | c3dc_02042026_2 |
+| slug | Improved Cohort Analyzer experience and other functional enhancements |
+
+---
+# C3DC Data Release 8.0
+### February 4, 2026 | CCDI Data Updates
+
+| | |
+| --- | --- |
+| <p>This release includes newly harmonized data for the following studies: phs001228, phs001714, phs001738, phs001846, phs001878, phs002187, phs002322, and phs003215 along with updates to several existing CCDI datasets. These new datasets add approximately 36,219 participants.</p> <p> <i>[Note this announcement was originally posted on C3DC Announcements and was retroactively added to CCDI Hub News feed on 8/31/2026 - full details can be found in C3DC's release notes]</i></p>| <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
+
+| Property | Value |
+| --- | --- |
+| id | c3dc_02042026 |
+| slug | Eight new datasets and several more updates |
 
 ---
 
