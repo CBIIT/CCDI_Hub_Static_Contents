@@ -58,7 +58,7 @@ Contact: [support@ccdi-ecdna.org](mailto:support@ccdi-ecdna.org), [lchavez@sbpdi
 
 ### C3DC Data Model
 
-The Childhood Cancer Clinical Data Commons (C3DC) Data Model is a structured framework designed to standardize and harmonize pediatric cancer clinical data across diverse studies and platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their interrelationships to ensure consistent and interoperable data representation. By supporting the harmonization of data from multiple sources, the model enables researchers to work with integrated datasets, promoting efficient data sharing, analysis, and collaboration. To interactively view the data model, please click [here.](https://clinicalcommons.ccdi.cancer.gov/data_model)
+The Childhood Cancer Clinical Data Commons (C3DC) Data Model is a structured framework designed to standardize and harmonize pediatric cancer clinical data across diverse studies and platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their interrelationships to ensure consistent and interoperable data representation. By supporting the harmonization of data from multiple sources, the model enables researchers to work with integrated datasets, promoting efficient data sharing, analysis, and collaboration. To interactively view the data model, please click [here.](https://clinicalcommons.ccdi.cancer.gov/data-model)
 
 Link: [https://github.com/CBIIT/c3dc-model](https://github.com/CBIIT/c3dc-model)
 
