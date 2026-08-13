@@ -1,5 +1,5 @@
 ![publications_header](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png)
-Publication list updated as of 8/27/26
+Publication list updated as of 8/31/26
 
 # The CCDI-COG Molecular Characterization Initiative (MCI) in Pediatric Rare Cancers
 ### July 2026 | AACR Special Conference in Cancer Research: Breaking Barriers in the Fight Against Rare Cancers

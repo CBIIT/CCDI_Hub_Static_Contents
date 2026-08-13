@@ -8,6 +8,7 @@ navTitles:
   - CCDI ecDNA
   - C3DC Data Model
   - FrESCO
+  - MCI_JSON2TSV
   - NCCR Treatment Database
   - WSI Informative Slide Selection
   - Additional tools of interest
@@ -20,7 +21,6 @@ navTitles:
   - GDC
   - GWAS Explorer
   - Kids First Data Resource
-  - MCI_JSON2TSV
   - Methylscape
   - M-PACT
   - NCH-IGM ClinVar Submitter's Page
@@ -58,7 +58,7 @@ Contact: [support@ccdi-ecdna.org](mailto:support@ccdi-ecdna.org), [lchavez@sbpdi
 
 ### C3DC Data Model
 
-The Childhood Cancer Clinical Data Commons (C3DC) Data Model is a structured framework designed to standardize and harmonize pediatric cancer clinical data across diverse studies and platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their interrelationships to ensure consistent and interoperable data representation. By supporting the harmonization of data from multiple sources, the model enables researchers to work with integrated datasets, promoting efficient data sharing, analysis, and collaboration. To interactively view the data model, please click [here.](https://clinicalcommons.ccdi.cancer.gov/data_model)
+The Childhood Cancer Clinical Data Commons (C3DC) Data Model is a structured framework designed to standardize and harmonize pediatric cancer clinical data across diverse studies and platforms. It defines key entities—such as participants, diagnoses, biospecimens, and treatments—and their interrelationships to ensure consistent and interoperable data representation. By supporting the harmonization of data from multiple sources, the model enables researchers to work with integrated datasets, promoting efficient data sharing, analysis, and collaboration. To interactively view the data model, please click [here.](https://clinicalcommons.ccdi.cancer.gov/data-model)
 
 Link: [https://github.com/CBIIT/c3dc-model](https://github.com/CBIIT/c3dc-model)
 
@@ -71,6 +71,14 @@ FrESCO (Framework for Exploring Scalable Computational Oncology) is a modular de
 Link: [https://github.com/DOE-NCI-MOSSAIC/FrESCO](https://github.com/DOE-NCI-MOSSAIC/FrESCO)
 
 Contact: [hansonha@ornl.gov](mailto:HANSONHA@ORNL.GOV), [hsuel@mail.nih.gov](mailto:hsuel@mail.nih.gov)
+
+### MCI_JSON2TSV
+
+The MCI_JSON2TSV script is a Python-based command-line interface developed by the NCI's Childhood Cancer Data Initiative (CCDI). Its primary function is to convert Molecular Characterization Initiative's de-identified clinical report and clinical data files submitted in JSON format into tab-separated values (TSV) files. It can generate a single TSV that combines all case report form types, or, if preferred, create separate TSVs by form type or parsed variant results, making it easier to analyze, share, and integrate data with downstream systems.
+
+Link: [https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV](https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV)
+
+Contact: [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov)
 
 ### NCCR Treatment Database
 
@@ -163,14 +171,6 @@ Gabriella Miller Kids First Data Resource Center (DRC)'s cloud-based platform pr
 Link: [https://portal.kidsfirstdrc.org/login/](https://portal.kidsfirstdrc.org/login)
 
 Contact: [support@kidsfirstdrc.org](mailto:support@kidsfirstdrc.org)
-
-### MCI_JSON2TSV
-
-The MCI_JSON2TSV script is a Python-based command-line interface developed by the NCI's Childhood Cancer Data Initiative (CCDI). Its primary function is to convert Molecular Characterization Initiative's de-identified clinical report and clinical data files submitted in JSON format into tab-separated values (TSV) files. It can generate a single TSV that combines all case report form types, or, if preferred, create separate TSVs by form type or parsed variant results, making it easier to analyze, share, and integrate data with downstream systems.
-
-Link: [https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV](https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV)
-
-Contact: [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov)
 
 ### Methylscape
 
