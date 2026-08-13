@@ -17,9 +17,9 @@ faqs:
 
       To filter and query metadata by participants, start by navigating to the [Explore Participants](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants) tab. On the left-hand side, a panel of filters allows users to refine the metadata using criteria such as study, diagnosis, anatomic site, and more. As filters are applied, the dashboard dynamically updates the displayed data and counts. Once filtering is complete, users can export metadata from the metadata tables at the bottom of the screen, view and filter the associated files on the [Explore Files](https://clinicalcommons.ccdi.cancer.gov/exploreFiles) tab or further explore the filtered data using the [Cohort Analyzer](https://clinicalcommons.ccdi.cancer.gov/cohortAnalyzer).
 
-      To filter and query metadata by files, start by navigating to the [Explore Files](https://clinicalcommons.ccdi.cancer.gov/exploreFiles) tab. On the left-hand side, a panel of filters allows users to refine the metadata using criteria such as data category, file type, or library strategy. As filters are applied, the dashboard dynamically updates the displayed data and counts. Once filtering is complete, users can export metadata from the metadata tables at the bottom of the screen, view and filter the associated participants on the [Explore Participants](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants) tab or further explore the filtered data using the [Cohort Analyzer](https://clinicalcommons.ccdi.cancer.gov/cohortAnalyzer).  
-
-    For more information, please see the [C3DC user guide](https://clinicalcommons.ccdi.cancer.gov/user-guide.pdf).
+      To filter and query metadata by files, start by navigating to the [Explore Files](https://clinicalcommons.ccdi.cancer.gov/exploreFiles) tab. On the left-hand side, a panel of filters allows users to refine the metadata using criteria such as data category, file type, or library strategy. As filters are applied, the dashboard dynamically updates the displayed data and counts. Once filtering is complete, users can export metadata from the metadata tables at the bottom of the screen, view and filter the associated participants on the [Explore Participants](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants) tab or further explore the filtered data using the [Cohort Analyzer](https://clinicalcommons.ccdi.cancer.gov/cohortAnalyzer).
+    
+      For more information, please see the [C3DC user guide](https://clinicalcommons.ccdi.cancer.gov/user-guide.pdf).
 
   - id: controlled-data-access
     category: data-exploration
