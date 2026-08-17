@@ -5,7 +5,7 @@ Data_Usage_Policies_Header: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_As
 
 There are policies and terms to keep in mind when using and connecting with Childhood Cancer Data Initiative (CCDI)-managed data and tools through the CCDI Hub.
 
-> If you’re looking for information on how to find, request, access, download, and analyze controlled-access data managed by CCDI, see our [data access instructions guide.](https://datacatalog.ccdi.cancer.gov/CCDI_CGC_Data_Access_Instructions_2.0.pdf)
+> If you’re looking for information on how to find, request, access, download, and analyze controlled-access data managed by CCDI, see our [data access instructions guide.](https://clinicalcommons.ccdi.cancer.gov/user_guide)
 
 ## Data Use Expectations
 
