@@ -26,7 +26,7 @@ resourcesApplications:
   - id: c3dc
     title: Childhood Cancer Clinical Data Commons
     subtitle: C3DC
-    content: A searchable database of childhood cancer demographics and phenotypic clinical data.
+    content: A database that houses pediatric cancer demographics and phenotypic clinical data with utilities for cohort creation and data access.
     link: "{{C3DC}}/"
   - id: ccdc
     title: Childhood Cancer Data Catalog
