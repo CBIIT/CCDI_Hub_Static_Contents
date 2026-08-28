@@ -13,8 +13,8 @@ Additional details are listed below:
 
 - **24th** Release
 - **1** [Event](https://ccdi.cancer.gov/ccdi-events-announcements) upcoming
-- **8** [Tools](https://ccdi.cancer.gov/tools)
-- **103** [Publications](https://ccdi.cancer.gov/publications)
+- **8** [Tools](https://ccdi.cancer.gov/tools) supported by CCDI
+- **103** [Publications](https://ccdi.cancer.gov/publications) supported by CCDI
 - **9,222** Participants with available genomic and clinical data in [MCI](https://ccdi.cancer.gov/MCI)
 - **45** Studies indexed in [CCDI Explore](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants)
 
