@@ -119,7 +119,7 @@ Users may publish findings derived from CCDI data in accordance with applicable 
 
 # What is the cadence of data releases in CCDI and how can I stay informed of when they occur?
 
-Releases aim for a quarterly cadence. Updates on releases can be found at the [News](/news) and [Release Notes](/release-notes) pages of the [ccdi.cancer.gov](https://ccdi.cancer.gov) website and Release Notes pages of the CCDI C3DC application.
+Releases aim for a quarterly cadence. Updates on releases can be found at the [News](/news) and [Release Notes](/release-notes) pages of the [ccdi.cancer.gov](https://ccdi.cancer.gov) website and [Release Notes](https://clinicalcommons.ccdi.cancer.gov/release_notes_pdf) pages of the CCDI C3DC application.
 
 | Property | Value |
 | --- | --- |
