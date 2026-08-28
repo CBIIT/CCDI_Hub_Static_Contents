@@ -130,7 +130,7 @@ Releases aim for a quarterly cadence. Updates on releases can be found at the [N
 
 # Where can I find more information about the CCDI Data Model?
 
-The [CCDI Data Model](https://ccdi.cancer.gov/data-model) can be viewed in the interactive Data Model Navigator application where data model properties and acceptable values can be viewed and downloaded for interoperability and reference.
+The [CCDI Data Model](https://clinicalcommons.ccdi.cancer.gov/data_model) can be viewed in the interactive Data Model Navigator application where data model properties and acceptable values can be viewed and downloaded for interoperability and reference.
 
 | Property | Value |
 | --- | --- |
