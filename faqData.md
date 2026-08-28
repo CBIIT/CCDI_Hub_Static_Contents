@@ -150,6 +150,24 @@ For inquiries, suggestions or assistance with CCDI Ecosystem applications and da
 
 ---
 
+# How do I find alternate participant IDs that might be used in other commons, studies or clinical trials?  
+
+The CCDI Participant Index (CPI) is a CCDI-supported API that manages, maps, and shares research participant IDs representing the same de-identified individual across different projects, cross-referencing all known IDs for a participant across pediatric cancer studies spanning multiple diverse domains. 
+
+There are two ways to access these mappings: 
+
+1. View mapped IDs in the C3DC: the [Participant Explore Dashboard](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants) displays participant research identifiers and their mapped IDs, serving as a reference point for finding a participant's data across resources. Users can also download facet-filtered, participant table records that include available alternate IDs.  
+2. Request direct API access: for programmatic or bulk ID cross-referencing, system owners can request access by emailing [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).
+
+For more information, please CPI API specification here: [https://participantindex-docs.ccdi.cancer.gov/](https://participantindex-docs.ccdi.cancer.gov/)
+
+| Property | Value |
+| --- | --- |
+| id | alternative-ids |
+| category | data-exploration |
+
+---
+
 # Do the clinical summary reports/lab data exist in a structured format?
 
 De-identified clinical summary reports are available in both PDF and JSON formats. Data from the sample reports can also be parsed and filtered using the CCDI MCI JSON2TSV tool, available as a [GitHub repository](https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV/) with documentation as well as a [public application](https://cgc.sbgenomics.com/public/apps/rowan_beck_era/ccdi-mci-json2tsv-commit/json2tsv) in the Cancer Genomics Cloud (CGC) to perform transformations on CGC hosted files. The JSON2TSV tool can parse a set of MCI clinical report JSONs and transform and aggregate them to human-readable formats.
