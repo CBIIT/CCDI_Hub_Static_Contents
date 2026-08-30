@@ -41,6 +41,7 @@ wide: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resour
 alt: 'test'
 Caption: ""
 ```
+![Infographic of the CCDI Federation Resource AI Skill, showing a five-step, metadata-only workflow: ask, map, verify, fetch, and summarize, with guardrails for read-only API access and no clinical interpretation](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Resource_AI_Skill_08242026.png)
 
 A dedicated git repository (https://github.com/CBIIT/ccdi-federation-ai) is available with instructions and further information about the CCDI Data Federation Agent Skill.  
 
