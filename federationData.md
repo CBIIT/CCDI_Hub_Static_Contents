@@ -35,13 +35,18 @@ to support participating node development. You may also get assistance or report
 
 ### Agent Skill to support streamlined discovery and analysis 
 The CCDI Data Federation now includes a new Agent Skill designed to help users plan, validate, explain, and execute metadata-only queries using the CCDI Federation Resource API. The CCDI Data Federation Agent Skill bridges the gap between research intent and API precision.  The Agent Skill serves as a metadata-aware copilot for the CCDI Federation API. Its purpose is not to retrieve raw research data, but to assist users in planning, validating, explaining, and optionally executing metadata-only API queries.
-
+Image test 1
 ```responsive-img
 wide: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Resource_AI_Skill_08242026.png'
 alt: 'test'
 Caption: ""
 ```
+Image test 2
 ![Infographic of the CCDI Federation Resource AI Skill, showing a five-step, metadata-only workflow: ask, map, verify, fetch, and summarize, with guardrails for read-only API access and no clinical interpretation](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Resource_AI_Skill_08242026.png)
+
+Image test 3
+
+<img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Resource_AI_Skill_08242026.png" alt="Infographic of the CCDI Federation Resource AI Skill, showing a five-step, metadata-only workflow: ask, map, verify, fetch, and summarize, with guardrails for read-only API access and no clinical interpretation" width="400" />
 
 A dedicated git repository (https://github.com/CBIIT/ccdi-federation-ai) is available with instructions and further information about the CCDI Data Federation Agent Skill.  
 
