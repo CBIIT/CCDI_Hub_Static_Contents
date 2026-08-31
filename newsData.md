@@ -84,7 +84,7 @@ newsImgUrlList:
 
 | | |
 | --- | --- |
-| <p>The 2026 CCDI Symposium will be held September 18th both in person at NCI's Shady Grove campus in Rockville, MD, and virtually. <a href="https://events.cancer.gov/nci/ccdisymposium">Visit the symposium website</a> to learn more and register. </p><p><i>[Note symposium dates were updated to reflect the latest plans on 8/31/2026]</i></p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Symposium.png" width="220" alt="updateImgSymposium"> |
+| <p>The 2026 CCDI Symposium will be held September 18th both in person at NCI's Shady Grove campus in Rockville, MD, and virtually. <a href="https://events.cancer.gov/nci/ccdisymposium">Visit the symposium website</a> to learn more and register. </p><p><i>[Note symposium dates were updated to reflect the latest plans on 9/10/2026]</i></p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Symposium.png" width="220" alt="updateImgSymposium"> |
 
 | Property | Value |
 | --- | --- |
