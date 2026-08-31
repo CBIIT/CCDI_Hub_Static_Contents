@@ -197,7 +197,7 @@ newsImgUrlList:
 
 | | |
 | --- | --- |
-| <p>We are pleased to announce the release of C3DC Application Version 1.8.0. This release introduces newly harmonized datasets, along with updates to existing data. It also includes key enhancements to the Explore Page and Cohort Analyzer, improving usability and expanding data accessibility. For complete details, please refer to the <a href="https://ccdi.cancer.gov/publications">Release Notes</a>.</p> <p> <i>[Note this announcement was originally posted on C3DC Announcements and was retroactively added to CCDI Hub News feed on 8/31/2026 - full details can be found in C3DC's release notes]</i></p>| <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
+| <p>We are pleased to announce the release of C3DC Application Version 1.8.0. This release introduces newly harmonized datasets, along with updates to existing data. It also includes key enhancements to the Explore Page and Cohort Analyzer, improving usability and expanding data accessibility. For complete details, please refer to the <a href="https://ccdi.cancer.gov/publications">Release Notes</a>.</p> <p> <i>[Note this announcement was originally posted on C3DC Announcements and was retroactively added to CCDI Hub News feed on 9/10/2026 - full details can be found in C3DC's release notes]</i></p>| <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
 
 | Property | Value |
 | --- | --- |
