@@ -33,8 +33,22 @@ newsImgUrlList:
   updateImgFederation: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Federation.png'
 ---
 
+# Submit to the Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge!
+### September 10, 2026 | News
+
+| | |
+| --- | --- |
+| <p>The Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge is an open invitation for community to present solutions to enhance the CCDI Data Ecosystem. The Milestone 1 deadline is November 13, 2026 – <a href="https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge">visit the challenge website</a> and get started today!</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgMiscNews"> |
+
+| Property | Value |
+| --- | --- |
+| id | challenge_09102026 |
+| slug | Seeking innovative solutions and approaches to enrich the CCDI Data Ecosystem|
+
+---
+
 # C3DC v2.0.0 Update
-### August 31, 2026 | CCDI Application Updates
+### September 10, 2026 | CCDI Application Updates
 
 | | |
 | --- | --- |
@@ -42,7 +56,7 @@ newsImgUrlList:
 
 | Property | Value |
 | --- | --- |
-| id | c3dc_08312026 |
+| id | c3dc_09102026 |
 | slug | Enhanced exploration of Participants and Files in C3DC |
 | latestUpdate | true |
 | latestUpdateOrder | 2 |
@@ -50,7 +64,7 @@ newsImgUrlList:
 ---
 
 # More than 70 new resources linked in the August CCDC release
-### August 31, 2026 | CCDI Application Updates
+### September 10, 2026 | CCDI Application Updates
 
 | | |
 | --- | --- |
