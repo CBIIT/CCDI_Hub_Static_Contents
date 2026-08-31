@@ -24,7 +24,7 @@ Additional details are listed below:
 
 - Added CCDI Data Updates category to News and retroactively added pertinent entries from C3DC’s former Announcements feed
 - Added CCDI FAQs to About dropdown menu
-- Added a link to skills file on the Federation resource page
+- Added a new AI Skills section to the Federation resource page, including a diagram, supporting text, and a link to the skills file
 - Added seven new publications and updated one in Publications page
 - Added two events to the list of past events and one upcoming event
 - Moved MCI JSON2TSV tool to CCDI-supported section in Tools page and added a help page for the tool
