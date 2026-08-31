@@ -7,7 +7,7 @@ The CCDI Events Announcements page brings together news announcements and detail
 [2026 CCDI Symposium](https://events.cancer.gov/nci/ccdisymposium)  
 9/17/26 - 9/18/26
 
-[Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge](https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge)
+[Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge](https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge)  
 11/13/26 - Milestone 1 submissions due  
 6/15/27 - Milestone 2 submissions due  
 12/14/29 - Milestone 3 submissions due  
