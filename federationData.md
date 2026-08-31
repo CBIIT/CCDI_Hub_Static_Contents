@@ -38,7 +38,7 @@ The CCDI Data Federation now includes a new Agent Skill designed to help users p
 ```responsive-img
 wide: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Resource_AI_Skill_08242026.png'
 alt: 'test'
-Caption: ""
+Caption: "test"
 ```
 A dedicated git repository (https://github.com/CBIIT/ccdi-federation-ai) is available with instructions and further information about the CCDI Data Federation Agent Skill.  
 
