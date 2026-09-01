@@ -30,7 +30,7 @@ Filter down to the MCI study, dbGaP accession `phs002790`, from the Explore Part
 
 **Figure D1: Participant Explore Study filters to select for MCI participant data**
 
-![Figure D1: Participant Explore Study filters to select for MCI participant data](assets/MCI%20JSON2TSV/FigureD1.png)
+![Figure D1: Participant Explore Study filters to select for MCI participant data](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/MCI_JSON2TSV/FigureD1.png)
 
 Then select the clinical files of interest from the Explore Files dashboard **Data Category > Data Category** facet. Note that selections in the dashboard are additive.
 
@@ -42,7 +42,7 @@ Then select the clinical files of interest from the Explore Files dashboard **Da
 
 **Figure D2: File Explore Data Category filters for selecting relevant clinical files for MCI participants**
 
-![Figure D2: File Explore Data Category filters for selecting relevant clinical files for MCI participants](assets/MCI%20JSON2TSV/FigureD2.png)
+![Figure D2: File Explore Data Category filters for selecting relevant clinical files for MCI participants](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/MCI_JSON2TSV/FigureD2.png)
 
 Additional filters from other facets, including Diagnosis, Demographics, etc., can be applied to further filter clinical files down to those from applicable participants of the MCI study.
 
@@ -50,7 +50,7 @@ To export files to the CGC for download or to run the MCI JSON2TSV app version:
 
 **Figure D3: Adding filtered files to Cart and exporting to CGC**
 
-![Figure D3: Adding filtered files to Cart and exporting to CGC](assets/MCI%20JSON2TSV/FigureD3.png)
+![Figure D3: Adding filtered files to Cart and exporting to CGC](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/MCI_JSON2TSV/FigureD3.png)
 
 1. After filtering down from facets the relevant cohort and files, navigate to the **Files** tab and select **Add all filtered files** button to add all files to the cart.
 
@@ -72,7 +72,7 @@ Prior to running the application, ensure that the clinical JSON files of interes
 
 **Figure D4: Moving imported files in CGC into designated input folder for JSON2TSV tool**
 
-![Figure D4: Moving imported files in CGC into designated input folder for JSON2TSV tool](assets/MCI%20JSON2TSV/FigureD4.png)
+![Figure D4: Moving imported files in CGC into designated input folder for JSON2TSV tool](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/MCI_JSON2TSV/FigureD4.png)
 
 1. From the **Files** tab in the working CGC project, select the **New Folder** button from the upper right-hand corner. From the pop-up dialog box, enter the name of the folder and then select **Create**.
 
@@ -82,7 +82,7 @@ A summarized view of installing and running the app in CGC workspace is below:
 
 **Figure D5: Steps for installing and running the JSON2TSV tool in a given CGC Project space**
 
-![Figure D5: Steps for installing and running the JSON2TSV tool in a given CGC Project space](assets/MCI%20JSON2TSV/FigureD5.png)
+![Figure D5: Steps for installing and running the JSON2TSV tool in a given CGC Project space](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/MCI_JSON2TSV/FigureD5.png)
 
 1. From the working CGC project, select the **Apps** button in task bar.
 
@@ -102,7 +102,7 @@ A summarized view of installing and running the app in CGC workspace is below:
 
 **Figure D6: Example output file set for JSON2TSV tool**
 
-![Figure D6: Example output file set for JSON2TSV tool](assets/MCI%20JSON2TSV/FigureD6.png)
+![Figure D6: Example output file set for JSON2TSV tool](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/MCI_JSON2TSV/FigureD6.png)
 
 Outputs can be downloaded or directed to a specific created folder in Root directory of project; this can be specified when specifying inputs to tool at set up of run/task.
 
