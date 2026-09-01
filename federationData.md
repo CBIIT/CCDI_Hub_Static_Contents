@@ -39,8 +39,8 @@ The CCDI Data Federation now includes a new Agent Skill designed to help users p
 wide: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Resource_AI_Skill_08242026.png'
 alt: 'Infographic of the CCDI Federation Resource AI Skill, showing a five-step, metadata-only workflow: ask, map, verify, fetch, and summarize, with guardrails for read-only API access and no clinical interpretation'
 ```
-A dedicated git repository (https://github.com/CBIIT/ccdi-federation-ai) is available with instructions and further information about the CCDI Data Federation Agent Skill.  
 
+A dedicated git repository (https://github.com/CBIIT/ccdi-federation-ai) is available with instructions and further information about the CCDI Data Federation Agent Skill.  
 
 ### Blog 
 Read more about the CCDI Federation Agent Skill and API in the [blog](https://cbiit.github.io/ccdi-federation-api/blog/09-25-2024-introducing-the-federation-api.html) to monitor growth and technical revisions as they are implemented.
