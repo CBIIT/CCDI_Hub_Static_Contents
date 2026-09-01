@@ -46,28 +46,28 @@ body:
 ```
 
 ```mci-map
-title: 'Enrollment Counts by State as of July 13, 2026'
+title: 'Enrollment Counts by State as of August 10, 2026'
 data:
   - - 110
     - 540
     - ALASKA
-    - 2
+    - 4
   - - 638
     - 420
     - ALABAMA
-    - 195
+    - 201
   - - 550
     - 390
     - ARKANSAS
-    - 35
+    - 37
   - - 240
     - 430
     - ARIZONA
-    - 135
+    - 140
   - - 100
     - 280
     - CALIFORNIA
-    - 769
+    - 789
   - - 320
     - 290
     - COLORADO
@@ -83,15 +83,15 @@ data:
   - - 810
     - 290
     - DELAWARE
-    - 90
+    - 91
   - - 735
     - 500
     - FLORIDA
-    - 514
+    - 532
   - - 720
     - 450
     - GEORGIA
-    - 267
+    - 270
   - - 340
     - 630
     - HAWAII
@@ -99,19 +99,19 @@ data:
   - - 505
     - 250
     - IOWA
-    - 128
+    - 131
   - - 240
     - 220
     - IDAHO
-    - 60
+    - 61
   - - 600
     - 320
     - ILLINOIS
-    - 179
+    - 185
   - - 638
     - 285
     - INDIANA
-    - 157
+    - 164
   - - 490
     - 330
     - KANSAS
@@ -127,11 +127,11 @@ data:
   - - 840
     - 208
     - MASSACHUSETTS
-    - 105
+    - 108
   - - 785
     - 288
     - MARYLAND
-    - 159
+    - 163
   - - 860
     - 120
     - MAINE
@@ -139,15 +139,15 @@ data:
   - - 645
     - 210
     - MICHIGAN
-    - 206
+    - 208
   - - 515
     - 150
     - MINNESOTA
-    - 279
+    - 282
   - - 530
     - 310
     - MISSOURI
-    - 254
+    - 261
   - - 320
     - 135
     - MONTANA
@@ -155,15 +155,15 @@ data:
   - - 600
     - 420
     - MISSISSIPPI
-    - 75
+    - 78
   - - 785
     - 355
     - NORTH CAROLINA
-    - 308
+    - 314
   - - 440
     - 135
     - NORTH DAKOTA
-    - 38
+    - 39
   - - 460
     - 285
     - NEBRASKA
@@ -175,11 +175,11 @@ data:
   - - 815
     - 265
     - NEW JERSEY
-    - 114
+    - 117
   - - 330
     - 430
     - NEW MEXICO
-    - 48
+    - 50
   - - 160
     - 260
     - NEVADA
@@ -187,31 +187,31 @@ data:
   - - 795
     - 190
     - NEW YORK
-    - 550
+    - 569
   - - 690
     - 300
     - OHIO
-    - 544
+    - 560
   - - 490
     - 410
     - OKLAHOMA
-    - 130
+    - 137
   - - 150
     - 200
     - OREGON
-    - 107
+    - 112
   - - 780
     - 245
     - PENNSYLVANIA
-    - 364
+    - 371
   - - 853
     - 222
     - RHODE ISLAND
-    - 61
+    - 62
   - - 720
     - 395
     - SOUTH CAROLINA
-    - 140
+    - 143
   - - 410
     - 195
     - SOUTH DAKOTA
@@ -219,31 +219,31 @@ data:
   - - 675
     - 370
     - TENNESSEE
-    - 214
+    - 215
   - - 480
     - 490
     - TEXAS
-    - 912
+    - 930
   - - 240
     - 275
     - UTAH
-    - 171
+    - 177
   - - 765
     - 310
     - VIRGINIA
-    - 150
+    - 156
   - - 825
     - 170
     - VERMONT
-    - 31
+    - 33
   - - 150
     - 100
     - WASHINGTON
-    - 451
+    - 463
   - - 570
     - 190
     - WISCONSIN
-    - 280
+    - 286
   - - 720
     - 330
     - WEST VIRGINIA
