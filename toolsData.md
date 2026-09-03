@@ -74,7 +74,7 @@ Contact: [hansonha@ornl.gov](mailto:HANSONHA@ORNL.GOV), [hsuel@mail.nih.gov](mai
 
 ### MCI_JSON2TSV
 
-The MCI_JSON2TSV script is a Python-based command-line interface developed by the NCI's Childhood Cancer Data Initiative (CCDI). Its primary function is to convert Molecular Characterization Initiative's de-identified clinical report and clinical data files submitted in JSON format into tab-separated values (TSV) files. It can generate a single TSV that combines all case report form types, or, if preferred, create separate TSVs by form type or parsed variant results, making it easier to analyze, share, and integrate data with downstream systems.
+The MCI_JSON2TSV script is a Python-based command-line interface developed by the NCI's Childhood Cancer Data Initiative (CCDI). Its primary function is to convert Molecular Characterization Initiative's de-identified clinical report and clinical data files submitted in JSON format into tab-separated values (TSV) files. It can generate a single TSV that combines all case report form types, or, if preferred, create separate TSVs by form type or parsed variant results, making it easier to analyze, share, and integrate data with downstream systems. For more information on how to use this tool, please access documentation [here](https://www.ccdi.cancer.gov/MCI_JSON2TSV).
 
 Link: [https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV](https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV)
 

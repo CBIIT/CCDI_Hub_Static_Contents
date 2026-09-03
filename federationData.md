@@ -32,12 +32,15 @@ The API does not deliver files. Rather, it provides an open-access subset of the
 The CCDI Data Federation Resource offers a suite of resources including the [OpenAPI Specification](https://cbiit.github.io/ccdi-federation-api-aggregation/swagger-aggr.yml), [Data Model Navigator](https://ccdi.cancer.gov/data-federation-data-model), [Data Federation Resource Wiki](https://github.com/CBIIT/ccdi-federation-api-spec/wiki), and [GitHub Repository](https://github.com/CBIIT/ccdi-federation-api)
 to support participating node development. You may also get assistance or report an [issue](https://github.com/CBIIT/ccdi-federation-api-spec/issues/new/choose). Read more about CCDI Federation API in the [blog](https://cbiit.github.io/ccdi-federation-api/blog/09-25-2024-introducing-the-federation-api.html).
 
-
 ### Agent Skill to support streamlined discovery and analysis 
 The CCDI Data Federation now includes a new Agent Skill designed to help users plan, validate, explain, and execute metadata-only queries using the CCDI Federation Resource API. The CCDI Data Federation Agent Skill bridges the gap between research intent and API precision.  The Agent Skill serves as a metadata-aware copilot for the CCDI Federation API. Its purpose is not to retrieve raw research data, but to assist users in planning, validating, explaining, and optionally executing metadata-only API queries.
 
-A dedicated git repository (https://github.com/CBIIT/ccdi-federation-ai) is available with instructions and further information about the CCDI Data Federation Agent Skill.  
+```responsive-img
+wide: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Resource_AI_Skill_08242026.png'
+alt: 'Infographic of the CCDI Federation Resource AI Skill, showing a five-step, metadata-only workflow: ask, map, verify, fetch, and summarize, with guardrails for read-only API access and no clinical interpretation'
+```
 
+A dedicated git repository (https://github.com/CBIIT/ccdi-federation-ai) is available with instructions and further information about the CCDI Data Federation Agent Skill.  
 
 ### Blog 
 Read more about the CCDI Federation Agent Skill and API in the [blog](https://cbiit.github.io/ccdi-federation-api/blog/09-25-2024-introducing-the-federation-api.html) to monitor growth and technical revisions as they are implemented.

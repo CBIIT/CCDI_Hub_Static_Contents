@@ -119,7 +119,7 @@ Users may publish findings derived from CCDI data in accordance with applicable 
 
 # What is the cadence of data releases in CCDI and how can I stay informed of when they occur?
 
-Releases aim for a quarterly cadence. Updates on releases can be found at the [News](/news) and [Release Notes](/release-notes) pages of the [ccdi.cancer.gov](https://ccdi.cancer.gov) website and Release Notes pages of the CCDI C3DC application.
+Releases aim for a quarterly cadence. Updates on releases can be found at the [News](/news) and [Release Notes](/release-notes) pages of the [ccdi.cancer.gov](https://ccdi.cancer.gov) website and [Release Notes](https://clinicalcommons.ccdi.cancer.gov/release_notes_pdf) pages of the CCDI C3DC application.
 
 | Property | Value |
 | --- | --- |
@@ -130,7 +130,7 @@ Releases aim for a quarterly cadence. Updates on releases can be found at the [N
 
 # Where can I find more information about the CCDI Data Model?
 
-The [CCDI Data Model](https://ccdi.cancer.gov/data-model) can be viewed in the interactive Data Model Navigator application where data model properties and acceptable values can be viewed and downloaded for interoperability and reference.
+The [CCDI Data Model](https://clinicalcommons.ccdi.cancer.gov/data_model) can be viewed in the interactive Data Model Navigator application where data model properties and acceptable values can be viewed and downloaded for interoperability and reference.
 
 | Property | Value |
 | --- | --- |
@@ -146,6 +146,24 @@ For inquiries, suggestions or assistance with CCDI Ecosystem applications and da
 | Property | Value |
 | --- | --- |
 | id | contact-assistance |
+| category | data-exploration |
+
+---
+
+# How do I find alternate participant IDs that might be used in other commons, studies or clinical trials?  
+
+The CCDI Participant Index (CPI) is a CCDI-supported API that manages, maps, and shares research participant IDs representing the same de-identified individual across different projects, cross-referencing all known IDs for a participant across pediatric cancer studies spanning multiple diverse domains. 
+
+There are two ways to access these mappings: 
+
+1. View mapped IDs in the C3DC: the [Participant Explore Dashboard](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants) displays participant research identifiers and their mapped IDs, serving as a reference point for finding a participant's data across resources. Users can also download facet-filtered, participant table records that include available alternate IDs.  
+2. Request direct API access: for programmatic or bulk ID cross-referencing, system owners can request access by emailing [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).
+
+For more information, please CPI API specification here: [https://participantindex-docs.ccdi.cancer.gov/](https://participantindex-docs.ccdi.cancer.gov/)
+
+| Property | Value |
+| --- | --- |
+| id | alternative-ids |
 | category | data-exploration |
 
 ---
