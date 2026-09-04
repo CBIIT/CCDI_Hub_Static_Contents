@@ -25,11 +25,17 @@ The CCDI Events Announcements page brings together news announcements and detail
 [Promises and Challenges: Automated Extraction of Electronic Health Record Data](https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Promises%20and%20Challenges%20-%20Automated%20Extraction%20of%20Electronic%20Health%20Record%20Data.pdf)  
 5/21/24
 
+[CCDI March Community Forum](/ccdi-events-announcements/ccdi-march-2024-community-forum)  
+3/18/24
+
 [Childhood Cancer Clinical Data Commons: A New Web Application for Your Data Needs](https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Childhood%20Cancer%20Clinical%20Data%20Commons%E2%80%94A%20New%20Web%20Application%20for%20Your%20Data%20Needs.pdf)  
 3/11/24
 
 [Childhood Cancer Data Initiative—Recent Activities and Next Steps](https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Childhood%20Cancer%20Data%20Initiative%E2%80%94Recent%20Activities%20and%20Next%20Steps.pdf)  
 3/8/24
+
+[Developing Pediatric Data Standards](/ccdi-events-announcements/developing-pediatric-data-standards)  
+2/26/24
 
 [Navigating CCDI Hub’s Explore Dashboard and Data Access](https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/ccdi_events_announcements/Navigating+CCDI+Hub%E2%80%99s+Explore+Dashboard+and+Data+Access.pdf)  
 11/13/23
