@@ -53,7 +53,7 @@ about:
       - name: CCDI Data Ecosystem & AI Readiness (PDF)
         link: /Ecosystem_AI_Readiness.pdf
       - name: CCDI Data Model
-        link: "{{C3DC}}/data-model"
+        link: "https://clinicalcommons.ccdi.cancer.gov/data-model"
       - name: CCDI Data Submission Guide (PDF)
         link: /Submission_Guide.pdf
       - name: CCDI Data Usage Policies & Terms
