@@ -123,8 +123,8 @@ Outputs can be downloaded or directed to a specific created folder in Root direc
 | --- | --- |
 | id | CONTACT_AND_SOURCE_CODE |
 
-For inquiries related to the JSON2TSV tool, the CCDI, its resources, or how to get involved please send an email to [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).
+For inquiries related to the JSON2TSV tool, the CCDI, its resources, or how to get involved please send an email to [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov)
 
-Inquiries related to the CGC platform and for requesting pilot credits, please contact [support@velsera.com](mailto:support@velsera.com) or contact CGC support through the Cancer Genomics Cloud.
+Inquiries related to the CGC platform and for requesting pilot credits, please contact [support@velsera.com](mailto:support@velsera.com)
 
-Source code for the CCDI MCI JSON2TSV tool can be found at the following repository: [https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV/](https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV/).
+Source code for the CCDI MCI JSON2TSV tool can be found at the following repository: [https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV/](https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV/)
