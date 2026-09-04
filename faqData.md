@@ -48,7 +48,7 @@ You will need to verify whether your dbGaP data access request is still active o
 
 **Option 1: DCF**
 
-Log into the NCI [Data Commons Framework Services](https://dcf.gen3.org/) portal using your eRA Commons credentials. After logging in, click the 'Profile' button in the upper-right hand corner. You should see a list of the phs accession numbers of studies for which you have access. If your access is active and you are still experiencing issues, please contact the [CGC Helpdesk](mailto:support@velsera.com) for further assistance.  If your access has expired, please follow the dbGaP renewal process to restore access. To learn more about submitting a renewal request, please view the [dbGaP video tutorial](https://www.youtube.com/watch?v=PG9D5mUouXg) on project renewals.
+Log into the NCI [Data Commons Framework Services](https://dcf.gen3.org/) portal using your eRA Commons credentials. After logging in, click the 'Profile' button in the upper-right hand corner. You should see a list of the phs accession numbers of studies for which you have access. If your access is active and you are still experiencing issues, please contact the [CGC Helpdesk](mailto:support@velsera.com) for further assistance.  If your access has expired, please follow the dbGaP renewal process to restore access. To learn more about submitting a renewal request, please view the [dbGaP video tutorial](https://www.youtube.com/watch?v=Xyldg6RDxqc) on project renewals.
 
 **Option 2: dbGaP**
 
