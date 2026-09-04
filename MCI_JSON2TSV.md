@@ -1,5 +1,5 @@
 ---
-title: CCDI MCI JSON2TSV
+title: CCDI MCI_JSON2TSV
 # Headings below must match ## line text in the body exactly.
 navTitles:
   - Finding and Exporting MCI Clinical JSON files in C3DC Explore Dashboard
@@ -96,7 +96,7 @@ A summarized view of installing and running the app in CGC workspace is below:
 
 6. From the run application page, select the input folder that contains the JSON files to be aggregated and transformed.
 
-7. To initiate the run of the application on the selected input folder, select the blue **Run** button in upper right-hand corner. Cost and duration for transforming 1,000 files is approximately `$0.02` and 3 minutes, respectively.
+7. To initiate the run of the application on the selected input folder, select the blue **Run** button in upper right-hand corner. Cost and duration for transforming 1,000 files is ~`$0.02` and 3 minutes, respectively.
 
 8. Files will be output at conclusion of application run in the **Files** tab of the working CGC project.
 
@@ -125,6 +125,6 @@ Outputs can be downloaded or directed to a specific created folder in Root direc
 
 For inquiries related to the JSON2TSV tool, the CCDI, its resources, or how to get involved please send an email to [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).
 
-Inquiries related to the CGC platform and for requesting pilot credits, please see the [CGC FAQ](https://www.cancergenomicscloud.org/frequently-asked-questions) or contact CGC support through the Cancer Genomics Cloud.
+Inquiries related to the CGC platform and for requesting pilot credits, please contact [support@velsera.com](mailto:support@velsera.com) or contact CGC support through the Cancer Genomics Cloud.
 
 Source code for the CCDI MCI JSON2TSV tool can be found at the following repository: [https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV/](https://github.com/CBIIT/ChildhoodCancerDataInitiative-MCI_JSON2TSV/).
