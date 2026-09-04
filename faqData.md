@@ -52,7 +52,7 @@ Log into the NCI [Data Commons Framework Services](https://dcf.gen3.org/) portal
 
 **Option 2: dbGaP**
 
-Log into [dbGaP](https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=login) using your eRA Commons credentials. Navigate to the ‘My Projects’ tab in the dbGaP ‘Authorized Access’ section. You can then view which projects you are approved to access. Please note that an annual renewal of access is required for access to a project. If your access has expired, please follow the dbGaP renewal process to restore access. To learn more about submitting a renewal request, please view the [dbGaP video tutorial](https://www.youtube.com/watch?v=PG9D5mUouXg) on project renewals.
+Log into [dbGaP](https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=login) using your eRA Commons credentials. Navigate to the ‘My Projects’ tab in the dbGaP ‘Authorized Access’ section. You can then view which projects you are approved to access. Please note that an annual renewal of access is required for access to a project. If your access has expired, please follow the dbGaP renewal process to restore access. To learn more about submitting a renewal request, please view the [dbGaP video tutorial](https://www.youtube.com/watch?v=Xyldg6RDxqc) on project renewals.
 
 | Property | Value |
 | --- | --- |
