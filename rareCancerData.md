@@ -33,7 +33,7 @@ For an overview of this program, [access the study’s web page on cancer.gov](h
 
 Study data can be accessed through the CCDI Data Ecosystem, which includes molecular characterization data, de-identified clinical reports, patient-reported outcomes, whole slide images of hematoxylin and eosin stained (H&E) tissue, along with additional data on demographics, diagnosis, treatment, and follow-up.
 
-CCDI studies are summarized and indexed in the [CCDI Hub Explore Dashboard](/explore), where you can export row-level metadata for participants, samples, or files. You can search by the study name or by database of Genotypes and Phenotypes accession number (number forthcoming). [This user guide](/user-guide.pdf) provides information on how to find, request, access, download, and analyze controlled-access data.
+CCDI studies are summarized and indexed in the [Explore Dashboard](https://clinicalcommons-qa.ccdi.cancer.gov/exploreParticipants), where you can export row-level metadata for participants, samples, or files. You can search by the study name or by database of Genotypes and Phenotypes accession number (number forthcoming). [This user guide](https://clinicalcommons.ccdi.cancer.gov/user_guide) provides information on how to find, request, access, download, and analyze controlled-access data.
 
 | Property | Value |
 | --- | --- |

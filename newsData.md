@@ -33,8 +33,22 @@ newsImgUrlList:
   updateImgFederation: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Federation.png'
 ---
 
+# Submit to the Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge!
+### September 10, 2026 | News
+
+| | |
+| --- | --- |
+| <p>The Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge is an open invitation for community to present solutions to enhance the CCDI Data Ecosystem. The Milestone 1 deadline is November 13, 2026 – <a href="https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge">visit the challenge website</a> and get started today!</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgMiscNews"> |
+
+| Property | Value |
+| --- | --- |
+| id | challenge_09102026 |
+| slug | Seeking innovative solutions and approaches to enrich the CCDI Data Ecosystem|
+
+---
+
 # C3DC v2.0.0 Update
-### August 31, 2026 | CCDI Application Updates
+### September 10, 2026 | CCDI Application Updates
 
 | | |
 | --- | --- |
@@ -42,7 +56,7 @@ newsImgUrlList:
 
 | Property | Value |
 | --- | --- |
-| id | c3dc_08312026 |
+| id | c3dc_09102026 |
 | slug | Enhanced exploration of Participants and Files in C3DC |
 | latestUpdate | true |
 | latestUpdateOrder | 2 |
@@ -50,7 +64,7 @@ newsImgUrlList:
 ---
 
 # More than 70 new resources linked in the August CCDC release
-### August 31, 2026 | CCDI Application Updates
+### September 10, 2026 | CCDI Application Updates
 
 | | |
 | --- | --- |
@@ -70,7 +84,7 @@ newsImgUrlList:
 
 | | |
 | --- | --- |
-| <p>The 2026 CCDI Symposium will be held September 18th both in person at NCI's Shady Grove campus in Rockville, MD, and virtually. <a href="https://events.cancer.gov/nci/ccdisymposium">Visit the symposium website</a> to learn more and register. </p><p><i>[Note symposium dates were updated to reflect the latest plans on 8/31/2026]</i></p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Symposium.png" width="220" alt="updateImgSymposium"> |
+| <p>The 2026 CCDI Symposium will be held September 18th both in person at NCI's Shady Grove campus in Rockville, MD, and virtually. <a href="https://events.cancer.gov/nci/ccdisymposium">Visit the symposium website</a> to learn more and register. </p><p><i>[Note symposium dates were updated to reflect the latest plans on 9/10/2026]</i></p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Symposium.png" width="220" alt="updateImgSymposium"> |
 
 | Property | Value |
 | --- | --- |
@@ -183,7 +197,7 @@ newsImgUrlList:
 
 | | |
 | --- | --- |
-| <p>We are pleased to announce the release of C3DC Application Version 1.8.0. This release introduces newly harmonized datasets, along with updates to existing data. It also includes key enhancements to the Explore Page and Cohort Analyzer, improving usability and expanding data accessibility. For complete details, please refer to the <a href="https://ccdi.cancer.gov/publications">Release Notes</a>.</p> <p> <i>[Note this announcement was originally posted on C3DC Announcements and was retroactively added to CCDI Hub News feed on 8/31/2026 - full details can be found in C3DC's release notes]</i></p>| <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
+| <p>We are pleased to announce the release of C3DC Application Version 1.8.0. This release introduces newly harmonized datasets, along with updates to existing data. It also includes key enhancements to the Explore Page and Cohort Analyzer, improving usability and expanding data accessibility. For complete details, please refer to the <a href="https://ccdi.cancer.gov/publications">Release Notes</a>.</p> <p> <i>[Note this announcement was originally posted on C3DC Announcements and was retroactively added to CCDI Hub News feed on 9/10/2026 - full details can be found in C3DC's release notes]</i></p>| <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
 
 | Property | Value |
 | --- | --- |
