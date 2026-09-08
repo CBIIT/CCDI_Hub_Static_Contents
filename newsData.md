@@ -47,7 +47,7 @@ newsImgUrlList:
 
 ---
 
-# C3DC v2.0.0 Update
+# Announcing the updated CCDI Explore Dashboard
 ### September 10, 2026 | CCDI Application Updates
 
 | | |
