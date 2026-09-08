@@ -18,7 +18,7 @@ To filter and query metadata by participants, start by navigating to the [Explor
 
 To filter and query metadata by files, start by navigating to the [Explore Files](https://clinicalcommons-integrated-dev.ccdi.cancer.gov/exploreFiles) tab. On the left-hand side, a panel of filters allows users to refine the metadata using criteria such as data category, file type, or library strategy. As filters are applied, the dashboard dynamically updates the displayed data and counts. Once filtering is complete, users can export metadata from the metadata tables at the bottom of the screen, view and filter the associated participants on the [Explore Participants](https://clinicalcommons-integrated-dev.ccdi.cancer.gov/exploreParticipants) tab or further explore the filtered data using the [Cohort Analyzer](https://clinicalcommons-integrated-dev.ccdi.cancer.gov/cohortAnalyzer).
 
-For more information, please see the [C3DC user guide](https://clinicalcommons-integrated-dev.ccdi.cancer.gov/user_guide).
+For more information, please see the [C3DC user guide](https://clinicalcommons-integrated-dev.ccdi.cancer.gov/user-guide).
 
 | Property | Value |
 | --- | --- |
@@ -33,7 +33,7 @@ To gain access to controlled data, researchers must first have an NIH eRA Common
 
 Researchers may then request authorization by the NIH database of Genotypes and Phenotypes (dbGaP). Authorization is enforced by the Data Commons Framework Services (DCFS), whether accessing directly from DCFS or through the Cancer Genomics Cloud (CGC). A step-by-step breakdown of the data access request process is available in this [guide](https://sharing.nih.gov/accessing-data/accessing-genomic-data/how-to-request-and-access-datasets-from-dbgap).
 
-For more information on applying for controlled data access, please see the ‘Data Access’ and ‘Appendix A: database of Genotypes and Phenotypes (dbGaP)’ sections in the [C3DC user guide](https://clinicalcommons-integrated-dev.ccdi.cancer.gov/user_guide).
+For more information on applying for controlled data access, please see the ‘Data Access’ and ‘Appendix A: database of Genotypes and Phenotypes (dbGaP)’ sections in the [C3DC user guide](https://clinicalcommons-integrated-dev.ccdi.cancer.gov/user-guide).
 
 | Property | Value |
 | --- | --- |
@@ -48,11 +48,11 @@ You will need to verify whether your dbGaP data access request is still active o
 
 **Option 1: DCF**
 
-Log into the NCI [Data Commons Framework Services](https://dcf.gen3.org/) portal using your eRA Commons credentials. After logging in, click the 'Profile' button in the upper-right hand corner. You should see a list of the phs accession numbers of studies for which you have access. If your access is active and you are still experiencing issues, please contact the [CGC Helpdesk](mailto:support@velsera.com) for further assistance.  If your access has expired, please follow the dbGaP renewal process to restore access. To learn more about submitting a renewal request, please view the [dbGaP video tutorial](https://www.youtube.com/watch?v=PG9D5mUouXg) on project renewals.
+Log into the NCI [Data Commons Framework Services](https://dcf.gen3.org/) portal using your eRA Commons credentials. After logging in, click the 'Profile' button in the upper-right hand corner. You should see a list of the phs accession numbers of studies for which you have access. If your access is active and you are still experiencing issues, please contact the [CGC Helpdesk](mailto:support@velsera.com) for further assistance.  If your access has expired, please follow the dbGaP renewal process to restore access. To learn more about submitting a renewal request, please view the [dbGaP video tutorial](https://www.youtube.com/watch?v=Xyldg6RDxqc) on project renewals.
 
 **Option 2: dbGaP**
 
-Log into [dbGaP](https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=login) using your eRA Commons credentials. Navigate to the ‘My Projects’ tab in the dbGaP ‘Authorized Access’ section. You can then view which projects you are approved to access. Please note that an annual renewal of access is required for access to a project. If your access has expired, please follow the dbGaP renewal process to restore access. To learn more about submitting a renewal request, please view the [dbGaP video tutorial](https://www.youtube.com/watch?v=PG9D5mUouXg) on project renewals.
+Log into [dbGaP](https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=login) using your eRA Commons credentials. Navigate to the ‘My Projects’ tab in the dbGaP ‘Authorized Access’ section. You can then view which projects you are approved to access. Please note that an annual renewal of access is required for access to a project. If your access has expired, please follow the dbGaP renewal process to restore access. To learn more about submitting a renewal request, please view the [dbGaP video tutorial](https://www.youtube.com/watch?v=Xyldg6RDxqc) on project renewals.
 
 | Property | Value |
 | --- | --- |
@@ -63,9 +63,9 @@ Log into [dbGaP](https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=login) using you
 
 # As a dbGaP-approved user for studies in the Childhood Cancer Clinical Data Commons (C3DC), how can I download the data?
 
-Please refer to the instructions in the [C3DC user guide](https://clinicalcommons-integrated-dev.ccdi.cancer.gov/user_guide): **Appendix B: NCI Data Commons Framework Services (DCFS): Controlled Data Access Instructions** and **Appendix C: The Cancer Genomics Cloud (CGC)**.
+Please refer to the instructions in the [C3DC user guide](https://clinicalcommons-integrated-dev.ccdi.cancer.gov/user-guide): **Appendix B: NCI Data Commons Framework Services (DCFS): Controlled Data Access Instructions** and **Appendix C: The Cancer Genomics Cloud (CGC)**.
 
-We recommend using the Data Commons Framework (DCF) index of files with the gen3-client to download large amounts of files. For more information, please see **Appendix B** in the [C3DC user guide](https://clinicalcommons-integrated-dev.ccdi.cancer.gov/user_guide).
+We recommend using the Data Commons Framework (DCF) index of files with the gen3-client to download large amounts of files. For more information, please see **Appendix B** in the [C3DC user guide](https://clinicalcommons-integrated-dev.ccdi.cancer.gov/user-guide).
 
 For some historical projects, such as phs000720, portions of the data are stored in the NCBI SRA repository. Please see [this guide](https://github.com/ncbi/sra-tools/wiki) for using SRA Toolkit to download data from SRA.
 
