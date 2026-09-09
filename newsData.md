@@ -52,7 +52,7 @@ newsImgUrlList:
 
 | | |
 | --- | --- |
-| <p>CCDI's updated Explore experience provides additional filters organized into separate Participant- and File-centered summaries. Preserving the previous functionality of the CCDI Hub and C3DC Explore Dashboards, this integrated Explore experience aims for more granular search capabilities on the latest CCDI Data Model and its data. Try out the new <a href="https://clinicalcommons.ccdi.cancer.gov/explore">CCDI Explore in C3DC</a> today.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
+| <p>CCDI's updated Explore experience provides additional filters organized into separate Participant- and File-centered summaries. Preserving the previous functionality of the CCDI Hub and C3DC Explore Dashboards, this integrated Explore experience aims for more granular search capabilities on the latest CCDI Data Model and its data. Try out the new <a href="https://clinicalcommons.ccdi.cancer.gov/exploreParticipants">CCDI Explore in C3DC</a> today.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
 
 | Property | Value |
 | --- | --- |
