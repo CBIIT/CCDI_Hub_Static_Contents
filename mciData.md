@@ -27,71 +27,71 @@ For an overview of this initiative, [access the MCI web page on cancer.gov](http
 The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.
 
 ```mci-disease-table
-title: 'Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of June 8, 2026'
+title: 'Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of August 10, 2026'
 header:
   - ''
   - Primary Diagnosis Disease Group
   - Number of Participants
 body:
   - name: Central Nervous System
-    value: 6009
+    value: 6297
   - name: Soft Tissue Sarcoma
-    value: 1813
+    value: 1882
   - name: Rare Tumors
-    value: 959
+    value: 1010
   - name: Neuroblastoma
-    value: 857
+    value: 918
   - name: Ewing Sarcoma
-    value: 90
+    value: 101
 ```
 
 ```mci-map
-title: 'Enrollment Counts by State as of June 8, 2026'
+title: 'Enrollment Counts by State as of August 10, 2026'
 data:
   - - 110
     - 540
     - ALASKA
-    - 2
+    - 4
   - - 638
     - 420
     - ALABAMA
-    - 190
+    - 201
   - - 550
     - 390
     - ARKANSAS
-    - 35
+    - 37
   - - 240
     - 430
     - ARIZONA
-    - 133
+    - 140
   - - 100
     - 280
     - CALIFORNIA
-    - 750
+    - 789
   - - 320
     - 290
     - COLORADO
-    - 60
+    - 62
   - - 834
     - 228
     - CONNECTICUT
-    - 88
+    - 90
   - - 790
     - 305
     - DISTRICT OF COLUMBIA
-    - 96
+    - 97
   - - 810
     - 290
     - DELAWARE
-    - 89
+    - 91
   - - 735
     - 500
     - FLORIDA
-    - 499
+    - 532
   - - 720
     - 450
     - GEORGIA
-    - 259
+    - 270
   - - 340
     - 630
     - HAWAII
@@ -99,19 +99,19 @@ data:
   - - 505
     - 250
     - IOWA
-    - 124
+    - 131
   - - 240
     - 220
     - IDAHO
-    - 59
+    - 61
   - - 600
     - 320
     - ILLINOIS
-    - 177
+    - 185
   - - 638
     - 285
     - INDIANA
-    - 155
+    - 164
   - - 490
     - 330
     - KANSAS
@@ -119,35 +119,35 @@ data:
   - - 670
     - 330
     - KENTUCKY
-    - 105
+    - 106
   - - 550
     - 460
     - LOUISIANA
-    - 73
+    - 75
   - - 840
     - 208
     - MASSACHUSETTS
-    - 100
+    - 108
   - - 785
     - 288
     - MARYLAND
-    - 156
+    - 163
   - - 860
     - 120
     - MAINE
-    - 32
+    - 34
   - - 645
     - 210
     - MICHIGAN
-    - 204
+    - 208
   - - 515
     - 150
     - MINNESOTA
-    - 270
+    - 282
   - - 530
     - 310
     - MISSOURI
-    - 246
+    - 261
   - - 320
     - 135
     - MONTANA
@@ -155,19 +155,19 @@ data:
   - - 600
     - 420
     - MISSISSIPPI
-    - 74
+    - 78
   - - 785
     - 355
     - NORTH CAROLINA
-    - 299
+    - 314
   - - 440
     - 135
     - NORTH DAKOTA
-    - 37
+    - 39
   - - 460
     - 285
     - NEBRASKA
-    - 90
+    - 93
   - - 843
     - 185
     - NEW HAMPSHIRE
@@ -175,43 +175,43 @@ data:
   - - 815
     - 265
     - NEW JERSEY
-    - 116
+    - 117
   - - 330
     - 430
     - NEW MEXICO
-    - 48
+    - 50
   - - 160
     - 260
     - NEVADA
-    - 10
+    - 11
   - - 795
     - 190
     - NEW YORK
-    - 535
+    - 569
   - - 690
     - 300
     - OHIO
-    - 533
+    - 560
   - - 490
     - 410
     - OKLAHOMA
-    - 123
+    - 137
   - - 150
     - 200
     - OREGON
-    - 105
+    - 112
   - - 780
     - 245
     - PENNSYLVANIA
-    - 356
+    - 371
   - - 853
     - 222
     - RHODE ISLAND
-    - 59
+    - 62
   - - 720
     - 395
     - SOUTH CAROLINA
-    - 133
+    - 143
   - - 410
     - 195
     - SOUTH DAKOTA
@@ -219,35 +219,35 @@ data:
   - - 675
     - 370
     - TENNESSEE
-    - 203
+    - 215
   - - 480
     - 490
     - TEXAS
-    - 892
+    - 930
   - - 240
     - 275
     - UTAH
-    - 166
+    - 177
   - - 765
     - 310
     - VIRGINIA
-    - 147
+    - 156
   - - 825
     - 170
     - VERMONT
-    - 31
+    - 33
   - - 150
     - 100
     - WASHINGTON
-    - 443
+    - 463
   - - 570
     - 190
     - WISCONSIN
-    - 273
+    - 286
   - - 720
     - 330
     - WEST VIRGINIA
-    - 15
+    - 16
   - - 320
     - 220
     - WYOMING
@@ -345,9 +345,9 @@ In addition to clinical characterization data, CCDI leverages residual biospecim
 
 MCI data can be accessed through the CCDI Data Ecosystem, which includes molecular characterization data, deidentified clinical reports, and whole slide images of hematoxylin and eosin (H&E) stained tissue, along with additional data on demographics, diagnosis, treatment, and follow-up.
 
-CCDI studies are summarized and indexed in the [CCDI Hub Explore Dashboard](/explore), where you can export row-level metadata for participants, samples, or files. To download study metadata, open the Studies filter set from the left-hand menu, expand the Study Name category, and scroll to find the Molecular Characterization Initiative. Alternatively in the Studies filter set, you can expand the dbGaP Accession category and scroll to find accession phs002790. Select the checkbox next to either Molecular Characterization Initiative or phs002790, then locate the Metadata column under Studies and click to download the study’s metadata. Then, select the cohorts of your interest.
+CCDI studies are summarized and indexed in the [Explore Dashboard](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants), where you can export row-level metadata for participants, samples, or files. To download study metadata, open the Studies filter set from the left-hand menu, expand the Study Name category, and scroll to find the Molecular Characterization Initiative. Alternatively in the Studies filter set, you can expand the dbGaP Accession category and scroll to find accession phs002790. Select the checkbox next to either Molecular Characterization Initiative or phs002790, then locate the Metadata column under Studies and click to download the study’s metadata. Then, select the cohorts of your interest.
 
-Alternatively, the shopping cart feature on the dashboard allows users to select and manage files of interest. You can download a comma-separated values (CSV) file manifest or export the manifest directly to the Cancer Genomics Cloud (CGC) for further analysis. This [user guide](/user-guide.pdf) provides information on how to find, request, access, download, and analyze controlled-access data. For questions, contact [ncichildhoodcancerdatainitiative@mail.nih.gov](mailto:ncichildhoodcancerdatainitiative@mail.nih.gov).
+Alternatively, the shopping cart feature on the dashboard allows users to select and manage files of interest. You can download a comma-separated values (CSV) file manifest or export the manifest directly to the Cancer Genomics Cloud (CGC) for further analysis. This [user guide](https://clinicalcommons.ccdi.cancer.gov/user_guide) provides information on how to find, request, access, download, and analyze controlled-access data. For questions, contact [ncichildhoodcancerdatainitiative@mail.nih.gov](mailto:ncichildhoodcancerdatainitiative@mail.nih.gov).
 
 A subset of MCI participants have data accessible through the [CCDI cBioPortal Cancer Data Explorer](https://cbioportal.ccdi.cancer.gov/). This user-friendly instance of cBioPortal allows users with any level of computational expertise to explore and analyze data with no additional downloading or processing requirements.
 
