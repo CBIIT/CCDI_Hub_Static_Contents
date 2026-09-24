@@ -1,5 +1,5 @@
 ![publications_header](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png)
-Publication list updated as of 9/10/26
+Publication list updated as of 10/2/26
 
 # Pharmacogenetic Variants in the Molecular Characterization Initiative: A Report from the Children’s Oncology Group
 ### August 2026 | JNCI: Journal of the National Cancer Institute | 42636256
