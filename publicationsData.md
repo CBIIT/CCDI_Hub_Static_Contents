@@ -1,6 +1,32 @@
 ![publications_header](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png)
 Publication list updated as of 9/10/26
 
+# Pharmacogenetic Variants in the Molecular Characterization Initiative: A Report from the Children’s Oncology Group
+### August 2026 | JNCI: Journal of the National Cancer Institute | 42636256
+
+The Childhood Cancer Data Initiative Molecular Characterization Initiative (MCI) provides molecular testing to patients with select tumors treated at Children's Oncology Group (COG) sites, advancing our understanding of the genetic basis of pediatric cancers and their treatment. However, the frequency of actionable pharmacogenomic variants in this cohort has not yet been explored.
+
+Tags: **CCDI-MCI**
+
+| Property | Value |
+| --- | --- |
+| id | MCICOG_08242026 |
+| link | https://doi.org/10.1093/jnci/djag286 |
+| summary | Primary |
+
+# A Sustainable Community-Wide Model to Enhance Cancer Data Usage and Utility
+### August 2026 | JCO Clinical Cancer Informatics | 42600109
+
+Despite vast investments in data collection, generation and sharing from childhood cancer studies, e.g., Gabriella Miller Kids First (https://commonfund.nih.gov/KidsFirst), Childhood Cancer Data Initiative (CCDI) (https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative), and other sources, secondary use of data remain a challenge especially for rare diseases. The National Cancer Institute (NCI) Office of Data Sharing (ODS) aimed to promote FAIR1 (Findable, Accessible, Interoperable, Reusable) data sharing practices to enhance data utility, accelerate discovery, and foster interdisciplinary collaboration.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_08142026 |
+| link | https://pmc.ncbi.nlm.nih.gov/articles/PMC13479720/ |
+| summary | Primary |
+
 # The CCDI-COG Molecular Characterization Initiative (MCI) in Pediatric Rare Cancers
 ### July 2026 | AACR Special Conference in Cancer Research: Breaking Barriers in the Fight Against Rare Cancers
 
@@ -55,7 +81,7 @@ Tags: **CCDI-NCCR**
 | summary | Abstracts |
 
 # Survival Disparities among Children Diagnosed with Neuroblastoma Enrolled and Not Enrolled in COG Clinical Trials Using the NCCR Data Platform
-### June 2026| NAACCR (North American Association of Central Cancer Registries) 2026 Virtual Conference
+### June 2026 | NAACCR (North American Association of Central Cancer Registries) 2026 Virtual Conference
 
 A 2025 Children’s Oncology Group (COG) study1 found that Black and Hispanic children with high-risk neuroblastoma had worse overall survival (OS), even when treated with the same standardized protocols on frontline COG clinical trials. The mechanisms explored in the study did not fully account for the observed disparities in survival. With the NCCR Data Platform, we now have the opportunity to examine whether similar patterns exist among children who did not participate in a COG clinical trial.
 
@@ -79,6 +105,19 @@ Tags: **CCDI-MCI**
 | id | MCICOG_06232026 |
 | link | https://doi.org/10.1093/neuped/wuag026.535 |
 | summary | Primary |
+
+# Evaluating Disparities in Pediatric Cancer Genomic Testing and Sequencing Results at the University of California, San Francisco Using the National Childhood Cancer Registry
+### May 2026 | JCO Oncology Practice | 42172550
+
+Pediatric cancer is the leading cause of disease-related deaths among children (ages ≤14 years) and adolescents (ages 15-19 years) in the United States. Due to the relative rarity of diagnoses in younger populations and challenges associated with large-scale data collection, conducting well-powered epidemiologic research in pediatric cancer remains a challenge. Higher rates of advanced cancer and mortality among Black, Hispanic, and publicly insured children have been well-documented. The causes of these disparities are multifaceted and include differences in individual biologic and sociodemographic characteristics, as well as social and structural factors.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_05222026 |
+| link | https://doi.org/10.1200/OP-25-01134 |
+| summary | Secondary |
 
 # Childhood Cancer Data Initiative Participant Index: Mapping Pediatric Cancer Data to Facilitate Cross-Study Integrated Analysis
 ### April 2026 | JCO Clinical Cancer Informatics | 41950437
@@ -171,6 +210,19 @@ Tags: **CCDI Ecosystem,Review**
 | link | https://doi.org/10.1158/1078-0432.ccr-25-0197 |
 | summary | Primary |
 
+# Factors Associated With Rare Pediatric Cancer Trial Enrollment: A Report From the Children's Oncology Group Rare Tumors Committee
+### December 2025 | Pediatric Blood & Cancer | 41451685
+
+Over 90% of US children with cancer are treated at Children's Oncology Group (COG) centers, which seek to maximize enrollment in therapeutic and biobanking studies. Rare cancers have demonstrated lower than expected COG enrollment. We evaluated trends in COG rare cancer enrollment compared to US incidence from Surveillance, Epidemiology, and End Results (SEER) registries, examining the impact of COG therapeutic trials and Project:EveryChild, a cancer biobank/registry.
+
+Tags: **CCDI-MCI**
+
+| Property | Value |
+| --- | --- |
+| id | MCI_12262025 |
+| link | https://pmc.ncbi.nlm.nih.gov/articles/PMC13034881/ |
+| summary | Secondary |
+
 # Building Pediatric Cancer Cohorts and Accessing Data Using Childhood Cancer Data Initiative Tools
 ### December 2025 | JCO Clinical Cancer Informatics | 41370779
 
@@ -234,6 +286,19 @@ Tags: **CCDI Ecosystem**
 | --- | --- |
 | id | Ecosystem_09022025 |
 | link | https://doi.org/10.1093/gigascience/giaf093 |
+| summary | Primary |
+
+# Enrollment in Children's Oncology Group's clinical trials: population-based linkage with the National Childhood Cancer Registry
+### September 2025 | JNCI: Journal of the National Cancer Institute | 40515409
+
+Improvements in outcomes among children and adolescents diagnosed with cancer are attributable to many factors, including clinical trials such as those administered through the Children's Oncology Group (COG) as well as population-based resources such as the National Childhood Cancer Registry (NCCR). The objective of this study was to link COG trial data with the NCCR to evaluate overall enrollment patterns.
+
+Tags: **CCDI-NCCR**
+
+| Property | Value |
+| --- | --- |
+| id | NCCR_09012025 |
+| link | https://doi.org/10.1093/jnci/djaf134 |
 | summary | Primary |
 
 # Extrachromosomal DNA associates with poor survival across a broad spectrum of childhood solid tumors
