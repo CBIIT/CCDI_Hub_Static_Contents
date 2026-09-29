@@ -15,7 +15,7 @@ The CCDI Events Announcements page brings together news announcements and detail
 [CCDI Federated Data_ Enhancing Data Discoverability](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/CCDI%20Federated%20Data_%20Enhancing%20Data%20Discoverability%20-%20NCI.pdf)
 8/13/24 
 
-[NCI’s Childhood Cancer Data Initiative (CCDI) Releases New APIs](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/NCI%E2%80%99s%20Childhood%20Cancer%20Data%20Initiative%20(CCDI)%20Releases%20New%20APIs%20-%20NCI.pdf) 
+[NCI’s Childhood Cancer Data Initiative (CCDI) Releases New APIs](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/NCI%E2%80%99s%20Childhood%20Cancer%20Data%20Initiative%20(CCDI)%20Releases%20New%20APIs%20-%20NCI.pdf)
 7/19/24 
 
 [Leveraging Data Standards for Improving Interoperability](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/Leveraging%20Data%20Standards%20for%20Improving%20Interoperability%20-%20NCI.pdf)  
