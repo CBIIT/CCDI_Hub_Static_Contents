@@ -12,7 +12,7 @@ The CCDI Events Announcements page brings together news announcements and detail
 [2026 CCDI Symposium](https://events.cancer.gov/nci/ccdisymposium)  
 9/17/26 - 9/18/26
 
-[CCDI Federated Data_ Enhancing Data Discoverability](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/CCDI%20Federated%20Data_%20Enhancing%20Data%20Discoverability%20-%20NCI.pdf)  
+[CCDI Federated Data: Enhancing Data Discoverability](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/CCDI%20Federated%20Data_%20Enhancing%20Data%20Discoverability%20-%20NCI.pdf)  
 8/13/24 
 
 [NCI’s Childhood Cancer Data Initiative (CCDI) Releases New APIs](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/NCI%E2%80%99s%20Childhood%20Cancer%20Data%20Initiative%20(CCDI)%20Releases%20New%20APIs%20-%20NCI.pdf)  
