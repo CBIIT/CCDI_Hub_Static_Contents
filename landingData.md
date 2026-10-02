@@ -18,10 +18,10 @@ stats:
   - title: Participants with Available Genomic and Clinical Data
     detail: Molecular Characterization Initiative
     link: /MCI
-  - title: "Reported Cases Under Age 40<br>(1995-2020)"
+  - title: "Reported Cases Under Age 40<br>(2003-2023)"
     detail: National Childhood Cancer Registry Explorer
     link: https://nccrexplorer.ccdi.cancer.gov
-    num: 1760951
+    num: 1659335
 resourcesApplications:
   - id: c3dc
     title: Childhood Cancer Clinical Data Commons
