@@ -27,26 +27,26 @@ For an overview of this initiative, [access the MCI web page on cancer.gov](http
 The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.
 
 ```mci-disease-table
-title: 'Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of August 10, 2026'
+title: 'Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of September 14, 2026'
 header:
   - ''
   - Primary Diagnosis Disease Group
   - Number of Participants
 body:
   - name: Central Nervous System
-    value: 6297
+    value: 6459
   - name: Soft Tissue Sarcoma
-    value: 1882
+    value: 1930
   - name: Rare Tumors
-    value: 1010
+    value: 1048
   - name: Neuroblastoma
-    value: 918
+    value: 954
   - name: Ewing Sarcoma
-    value: 101
+    value: 109
 ```
 
 ```mci-map
-title: 'Enrollment Counts by State as of August 10, 2026'
+title: 'Enrollment Counts by State as of September 14, 2026'
 data:
   - - 110
     - 540
@@ -55,31 +55,31 @@ data:
   - - 638
     - 420
     - ALABAMA
-    - 201
+    - 207
   - - 550
     - 390
     - ARKANSAS
-    - 37
+    - 38
   - - 240
     - 430
     - ARIZONA
-    - 140
+    - 145
   - - 100
     - 280
     - CALIFORNIA
-    - 789
+    - 803
   - - 320
     - 290
     - COLORADO
-    - 62
+    - 64
   - - 834
     - 228
     - CONNECTICUT
-    - 90
+    - 93
   - - 790
     - 305
     - DISTRICT OF COLUMBIA
-    - 97
+    - 102
   - - 810
     - 290
     - DELAWARE
@@ -87,11 +87,11 @@ data:
   - - 735
     - 500
     - FLORIDA
-    - 532
+    - 547
   - - 720
     - 450
     - GEORGIA
-    - 270
+    - 278
   - - 340
     - 630
     - HAWAII
@@ -99,19 +99,19 @@ data:
   - - 505
     - 250
     - IOWA
-    - 131
+    - 136
   - - 240
     - 220
     - IDAHO
-    - 61
+    - 63
   - - 600
     - 320
     - ILLINOIS
-    - 185
+    - 187
   - - 638
     - 285
     - INDIANA
-    - 164
+    - 170
   - - 490
     - 330
     - KANSAS
@@ -119,19 +119,19 @@ data:
   - - 670
     - 330
     - KENTUCKY
-    - 106
+    - 110
   - - 550
     - 460
     - LOUISIANA
-    - 75
+    - 81
   - - 840
     - 208
     - MASSACHUSETTS
-    - 108
+    - 111
   - - 785
     - 288
     - MARYLAND
-    - 163
+    - 167
   - - 860
     - 120
     - MAINE
@@ -139,15 +139,15 @@ data:
   - - 645
     - 210
     - MICHIGAN
-    - 208
+    - 222
   - - 515
     - 150
     - MINNESOTA
-    - 282
+    - 291
   - - 530
     - 310
     - MISSOURI
-    - 261
+    - 269
   - - 320
     - 135
     - MONTANA
@@ -155,63 +155,63 @@ data:
   - - 600
     - 420
     - MISSISSIPPI
-    - 78
+    - 79
   - - 785
     - 355
     - NORTH CAROLINA
-    - 314
+    - 325
   - - 440
     - 135
     - NORTH DAKOTA
-    - 39
+    - 40
   - - 460
     - 285
     - NEBRASKA
-    - 93
+    - 97
   - - 843
     - 185
     - NEW HAMPSHIRE
-    - 18
+    - 19
   - - 815
     - 265
     - NEW JERSEY
-    - 117
+    - 118
   - - 330
     - 430
     - NEW MEXICO
-    - 50
+    - 51
   - - 160
     - 260
     - NEVADA
-    - 11
+    - 12
   - - 795
     - 190
     - NEW YORK
-    - 569
+    - 581
   - - 690
     - 300
     - OHIO
-    - 560
+    - 571
   - - 490
     - 410
     - OKLAHOMA
-    - 137
+    - 141
   - - 150
     - 200
     - OREGON
-    - 112
+    - 113
   - - 780
     - 245
     - PENNSYLVANIA
-    - 371
+    - 381
   - - 853
     - 222
     - RHODE ISLAND
-    - 62
+    - 66
   - - 720
     - 395
     - SOUTH CAROLINA
-    - 143
+    - 151
   - - 410
     - 195
     - SOUTH DAKOTA
@@ -219,19 +219,19 @@ data:
   - - 675
     - 370
     - TENNESSEE
-    - 215
+    - 221
   - - 480
     - 490
     - TEXAS
-    - 930
+    - 964
   - - 240
     - 275
     - UTAH
-    - 177
+    - 181
   - - 765
     - 310
     - VIRGINIA
-    - 156
+    - 160
   - - 825
     - 170
     - VERMONT
@@ -239,11 +239,11 @@ data:
   - - 150
     - 100
     - WASHINGTON
-    - 463
+    - 479
   - - 570
     - 190
     - WISCONSIN
-    - 286
+    - 293
   - - 720
     - 330
     - WEST VIRGINIA
@@ -267,7 +267,7 @@ keyboardInstructions:
 
 ### MCI Participation
 
-Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, NBL, and EWS tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI. For a list of ineligible participants whose data have been removed, please refer to this list: [phs002790_MCI_Ineligible_patient_list_COG_Aug2025.txt](https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/phs002790_MCI_Ineligible_patient_list_COG_Aug2025.txt)
+Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, NBL, and EWS tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI. For a list of ineligible participants whose data have been removed, please refer to this list: [phs002790_MCI_Ineligible_patient_list_COG_Aug2026.txt](https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/phs002790_MCI_Ineligible_patient_list_COG_Aug2026.txt)
 
 ## MCI Testing Types and Results
 
@@ -347,7 +347,7 @@ MCI data can be accessed through the CCDI Data Ecosystem, which includes molecul
 
 CCDI studies are summarized and indexed in the [Explore Dashboard](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants), where you can export row-level metadata for participants, samples, or files. To download study metadata, open the Studies filter set from the left-hand menu, expand the Study Name category, and scroll to find the Molecular Characterization Initiative. Alternatively in the Studies filter set, you can expand the dbGaP Accession category and scroll to find accession phs002790. Select the checkbox next to either Molecular Characterization Initiative or phs002790, then locate the Metadata column under Studies and click to download the study’s metadata. Then, select the cohorts of your interest.
 
-Alternatively, the shopping cart feature on the dashboard allows users to select and manage files of interest. You can download a comma-separated values (CSV) file manifest or export the manifest directly to the Cancer Genomics Cloud (CGC) for further analysis. This [user guide](https://clinicalcommons.ccdi.cancer.gov/user_guide) provides information on how to find, request, access, download, and analyze controlled-access data. For questions, contact [ncichildhoodcancerdatainitiative@mail.nih.gov](mailto:ncichildhoodcancerdatainitiative@mail.nih.gov).
+Alternatively, the shopping cart feature on the dashboard allows users to select and manage files of interest. You can download a comma-separated values (CSV) file manifest or export the manifest directly to the Cancer Genomics Cloud (CGC) for further analysis. This [user guide](https://clinicalcommons.ccdi.cancer.gov/user-guide) provides information on how to find, request, access, download, and analyze controlled-access data. For questions, contact [ncichildhoodcancerdatainitiative@mail.nih.gov](mailto:ncichildhoodcancerdatainitiative@mail.nih.gov).
 
 A subset of MCI participants have data accessible through the [CCDI cBioPortal Cancer Data Explorer](https://cbioportal.ccdi.cancer.gov/). This user-friendly instance of cBioPortal allows users with any level of computational expertise to explore and analyze data with no additional downloading or processing requirements.
 

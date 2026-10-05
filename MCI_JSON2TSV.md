@@ -1,5 +1,5 @@
 ---
-title: CCDI MCI_JSON2TSV
+title: CCDI MCI JSON2TSV
 # Headings below must match ## line text in the body exactly.
 navTitles:
   - Finding and Exporting MCI Clinical JSON files in C3DC Explore Dashboard

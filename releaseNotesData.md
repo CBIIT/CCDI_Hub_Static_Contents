@@ -1,3 +1,56 @@
+# CCDI Hub Release 3.1.0
+### October 6, 2026 | Release Notes
+
+<img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png" align="right" width="220" alt="updateImgReleaseNotes">
+
+Version 3.1.0 of the CCDI Hub includes a variety of content additions, security updates, and redirects of legacy links to support the new CCDI Explore experience. Five new publications were added to the CCDI-Supported Publications page, and the Events Announcements page was updated with two past archived events and the successful completion of the 2026 CCDI Symposium. A broken link in the User Guide was fixed, and additional links that will no longer be supported on the CCDI Hub have been redirected to the corresponding new content on C3DC. The Molecular Characterization Initiative (MCI) page has been updated with September enrollment counts, and changes to supporting documentation have been made where appropriate.
+
+Additional details are listed below:
+
+### Statistics at a Glance
+
+#### v3.1.0 Summary
+
+- **25th** Release
+- **1** [Event](https://ccdi.cancer.gov/ccdi-events-announcements) upcoming
+- **8** [Tools](https://ccdi.cancer.gov/tools) supported by CCDI
+- **108** [Publications](https://ccdi.cancer.gov/publications) supported by CCDI
+- **9,222** Participants with available genomic and clinical data in [MCI](https://ccdi.cancer.gov/MCI)
+- **45** Studies indexed in [CCDI Explore](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants)
+
+### CCDI Hub Site Updates
+
+#### General Site
+
+- Added 3 events to the list of past events on CCDI Events Announcement page
+- Added 5 new publications in CCDI-Supported Publications page
+- Fixed incorrect link in User Guide
+- Redirected old URLs for Cohort Analyzer, Data Model, Data Access Guide, Explore Dashboard, and Studies list to the new URLs in C3DC
+- Resolved security vulnerabilities
+- Updated CCDI Data Submission Guide (PDF)
+- Updated Federation resource page content
+- Updated NCCR Explorer count in CCDI Stats at a Glance on the Home page
+- Updated news feed with relevant entries
+- Updated release notes feed and pdf with latest release details
+- Updated tool name for MCI JSON2TSV on tools page and associated help page
+
+
+#### Molecular Characterization Initiative page
+
+- Updated enrollment through September 14, 2026
+- Updated list of ineligible participants as of August 2026
+
+
+| Property | Value |
+| --- | --- |
+| id | hub_release_10062026 |
+| version | v3.1.0 |
+| slug | Updated organization of CCDI Explore, resources, and supporting documentation |
+| contentType | |
+| latestUpdate | true |
+| latestUpdateOrder | 1 |
+  
+
 # CCDI Hub Release 3.0.0
 ### September 10, 2026 | Release Notes
 
@@ -63,7 +116,7 @@ Additional details are listed below:
 | slug | Updated organization of CCDI Explore, resources, and supporting documentation |
 | contentType | |
 | latestUpdate | true |
-| latestUpdateOrder | 1 |
+| latestUpdateOrder | 2 |
 
 # CCDI Hub Release 2.12.0
 ### July 31, 2026 | Release Notes
