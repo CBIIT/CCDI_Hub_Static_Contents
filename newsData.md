@@ -59,7 +59,7 @@ newsImgUrlList:
 | id | c3dc_09102026 |
 | slug | Enhanced exploration of Participants and Files in C3DC |
 | latestUpdate | true |
-| latestUpdateOrder | 2 |
+| latestUpdateOrder | 3 |
 
 ---
 
@@ -74,8 +74,6 @@ newsImgUrlList:
 | --- | --- |
 | id | ccdc_08312026 |
 | slug | Check out the new resources and updated datasets today! |
-| latestUpdate | true |
-| latestUpdateOrder | 3 |
 
 ---
 
