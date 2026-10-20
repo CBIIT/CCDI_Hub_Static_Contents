@@ -118,8 +118,9 @@ carousel:
   - content: CCDI cBioPortal
     link: https://cbioportal.ccdi.cancer.gov
 integrationBanner:
+  isVisible: true
   title: CCDI Data are now available in the updated CCDI Explore Dashboard
   detail: As of September 2026, clicking Explore, Studies, or Data Model links in Hub will open the corresponding content in C3DC
   buttonLabel: Go to new CCDI Explore
-  link: "{{C3DC}}/exploreParticipants"
+  link: "https://clinicalcommons.ccdi.cancer.gov/exploreParticipants"
 ---
