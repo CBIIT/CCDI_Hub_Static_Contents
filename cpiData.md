@@ -5,6 +5,7 @@ CPI_Cross_Dataset_Linkages_Icon_URL: "https://raw.githubusercontent.com/CBIIT/CC
 CPI_Domain_Coverage_Icon_URL: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Domain_Coverage_Icon.svg"
 CPI_Total_Mapped_Participants_Ids_Icon_URL: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Total_Mapped_Participants_Ids_Icon.svg"
 CPI_Unique_Participants_Icon_URL: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/CPI/CPI_Unique_Participants_Icon.svg"
+statsSubtitle: "Summary of CPI {{cpiVersion}}"
 ---
 
 The Childhood Cancer Data Initiative (CCDI) Participant Index (CPI) maps research participant identifiers across multiple studies and institutions, collectively referred to as “Domains”. By mapping these identifiers, CPI enables researchers to connect data associated with the same participant across different datasets stored in sources such as the CCDI Hub/Childhood Cancer Clinical Data Commons and National Childhood Cancer Registry (NCCR) Data Platform. This mapping capability enhances the discovery of multimodal data, facilitating the exploration of complex research questions, and ultimately supporting the development of innovative therapies for pediatric cancers.
