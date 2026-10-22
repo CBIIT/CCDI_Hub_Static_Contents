@@ -12,6 +12,9 @@ The CCDI Events Announcements page brings together news announcements and detail
 [2026 CCDI Symposium](https://events.cancer.gov/nci/ccdisymposium)  
 9/17/26 - 9/18/26
 
+[Impact of the Molecular Characterization Initiative on Pediatric CNS Tumors](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/Impact%20of%20the%20Molecular%20Characterization%20Initiative%20on%20Pediatric%20CNS%20Tumors%20-%20NCI.pdf)  
+9/10/24 
+
 [CCDI Federated Data: Enhancing Data Discoverability](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/CCDI%20Federated%20Data_%20Enhancing%20Data%20Discoverability%20-%20NCI.pdf)  
 8/13/24 
 
