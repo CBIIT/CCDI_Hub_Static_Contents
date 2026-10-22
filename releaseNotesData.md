@@ -1,3 +1,52 @@
+# CCDI Hub Release 3.1.1
+### October 28, 2026 | Release Notes
+
+<img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png" align="right" width="220" alt="updateImgReleaseNotes">
+
+CCDI Hub version 3.1.1 includes standard monthly updates to the Molecular Characterization Initiative (MCI) page and Events Announcements, plus other content additions. Graphics were updated on the Federation and MCI resource pages, text was updated on the About and Data Usage Policies and Terms pages, and changes to supporting documentation have been made where appropriate.
+
+Additional details are listed below:
+
+### Statistics at a Glance
+
+#### v3.1.1 Summary
+
+- **26th** Release
+- **1** [Event](https://ccdi.cancer.gov/ccdi-events-announcements) upcoming
+- **8** [Tools](https://ccdi.cancer.gov/tools) supported by CCDI
+- **108** [Publications](https://ccdi.cancer.gov/publications) supported by CCDI
+- **9,222** Participants with available genomic and clinical data in [MCI](https://ccdi.cancer.gov/MCI)
+- **45** Studies indexed in [CCDI Explore](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants)
+
+### CCDI Hub Site Updates
+
+#### General Site
+
+- Added 1 event to the list of past events on CCDI Events Announcement page
+- Fixed broken link on CCDI FAQs page
+- Resolved security vulnerabilities
+- Updated About page text
+- Updated Date Usage Policies and Terms text
+- Updated CCDI Data Federation resource page graphic
+- Updated news feed with relevant entries
+- Updated release notes feed and pdf with latest release details
+
+#### Molecular Characterization Initiative page
+
+- Updated enrollment through October 2, 2026
+- Updated Data generation and sharing workflow graphic
+- Updated list of ineligible participants as of October 2026
+
+
+| Property | Value |
+| --- | --- |
+| id | hub_release_10282026 |
+| version | v3.1.1 |
+| slug | October MCI enrollment and about content updates |
+| contentType | |
+| latestUpdate | true |
+| latestUpdateOrder | 1 |
+
 # CCDI Hub Release 3.1.0
 ### October 6, 2026 | Release Notes
 
