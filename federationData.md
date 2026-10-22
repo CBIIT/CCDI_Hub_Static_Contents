@@ -1,7 +1,7 @@
 ---
 title: CCDI Data Federation Resource
 Federation_Header: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/Federation_Header.png"
-CCDI_Federation_Data_Access: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Data_Access_02052026.png"
+CCDI_Federation_Data_Access: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Data_Access_10222026.png"
 navTitles:
   - Data Access
   - Additional Available Resources
