@@ -97,7 +97,7 @@ Additional details are listed below:
 | slug | Updated organization of CCDI Explore, resources, and supporting documentation |
 | contentType | |
 | latestUpdate | true |
-| latestUpdateOrder | 1 |
+| latestUpdateOrder | 2 |
   
 
 # CCDI Hub Release 3.0.0
@@ -164,8 +164,7 @@ Additional details are listed below:
 | version | v3.0.0 |
 | slug | Updated organization of CCDI Explore, resources, and supporting documentation |
 | contentType | |
-| latestUpdate | true |
-| latestUpdateOrder | 2 |
+
 
 # CCDI Hub Release 2.12.0
 ### July 31, 2026 | Release Notes
