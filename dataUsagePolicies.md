@@ -27,7 +27,7 @@ NCI recommends users follow standard scientific etiquette and practices when wor
 
 NCI expects users to acknowledge CCDI data use as follows:
 
-> The results published here are, in whole or in part, derived from the analysis of data listed in the CCDI Explore Dashboard ([clinicalcommons.ccdi.cancer.gov/exploreParticipants(/)), established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI).
+> The results published here are, in whole or in part, derived from the analysis of data listed in the CCDI Explore Dashboard ([clinicalcommons.ccdi.cancer.gov/exploreParticipants](/)), established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI).
 
 To cite individual studies, note the CCDI study ID (e.g., phs002790) and include the name and URL or link for CCDI Explore ([clinicalcommons.ccdi.cancer.gov/exploreParticipants](/)), along with the phrase, “established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI).”
 
