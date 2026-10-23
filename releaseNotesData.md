@@ -23,11 +23,13 @@ Additional details are listed below:
 #### General Site
 
 - Added 1 event to the list of past events on CCDI Events Announcement page
+- Added link to Participants Statistics Dashboard and added version number to CPI Stats at a Glance summary on CPI resource page 
 - Fixed broken link on CCDI FAQs page
 - Resolved security vulnerabilities
 - Updated About page text
-- Updated Date Usage Policies and Terms text
 - Updated CCDI Data Federation resource page graphic
+- Updated CCDI Hub Home page with description and link to CCDI Explore below the menu
+- Updated Data Usage Policies & Terms text
 - Updated news feed with relevant entries
 - Updated release notes feed and pdf with latest release details
 
