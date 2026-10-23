@@ -267,7 +267,7 @@ keyboardInstructions:
 
 ### MCI Participation
 
-Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, NBL, and EWS tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI. For a list of ineligible participants whose data have been removed, please refer to this list: [phs002790_MCI_Ineligible_patient_list_COG_Aug2026.txt](https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/phs002790_MCI_Ineligible_patient_list_COG_Aug2026.txt)
+Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, NBL, and EWS tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI. For a list of ineligible participants whose data have been removed, please refer to this list: [phs002790_MCI_Ineligible_patient_list_COG_Oct2026.txt](https://d2xnga7irezzit.cloudfront.net/ccdi_hub_files/phs002790_MCI_Ineligible_patient_list_COG_Oct2026.txt)
 
 ## MCI Testing Types and Results
 
@@ -356,7 +356,7 @@ MCI H&E-stained images in Digital Imaging and Communications in Medicine (DICOM)
 Note for investigators planning to use data from different resources: If you intend to utilize data from institutions that enroll patients in the Molecular Characterization Initiative, please note that the data available on this site may be identical to the data collected from the submitting clinical sites.
 
 ```responsive-img
-wide: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_06222026.png'
+wide: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_10222026.png'
 mobile: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/MCI/MCI_CCDI_Data_Ecosystem_Mobile.png'
 alt: 'Infographic depicting the MCI assays and data types, and the data flow to patients, providers, and the CCDI Data Ecosystem'
 Caption: "Data generation and sharing workflow: Biospecimens collected from COG Project:EveryChild participants enrolled in the MCI are processed through coordinated clinical and research pipelines. Clinical sequencing is performed in a CLIA-certified laboratory, with results returned to patients and providers, while research characterization generates additional data, such as WGS, transcriptomics, proteomics, and metabolomics. Deidentified clinical, molecular, and imaging data are made available through the CCDI Data Ecosystem, with the CCDI cBioPortal Cancer Data Explorer enabling visualization and exploration of the analyzed data."
