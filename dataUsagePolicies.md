@@ -9,7 +9,7 @@ There are policies and terms to keep in mind when using and connecting with Chil
 
 ## Data Use Expectations
 
-The CCDI Hub allows the public to view view information about and connect to CCDI-provided applications, websites, and other resources. From the linked [CCDI Explore](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants) Dashboard in C3DC, users can further explore and analyze cancer data, create cohorts, download available data, and more. Please note: the NIH/NCI Data Use Agreements are specific to individual data sets. Users agree not to use CCDI data, either alone or with any other information, to identify or contact individual participants from whom data and/or samples were collected. Additionally, users must protect all CCDI data from being inadvertently made identifiable through reverse-engineering algorithms or analytical reidentification techniques.
+The CCDI Hub allows the public to view information about and connect to CCDI-provided applications, websites, and other resources. From the linked [CCDI Explore](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants) Dashboard in C3DC, users can further explore and analyze cancer data, create cohorts, download available data, and more. Please note: the NIH/NCI Data Use Agreements are specific to individual data sets. Users agree not to use CCDI data, either alone or with any other information, to identify or contact individual participants from whom data and/or samples were collected. Additionally, users must protect all CCDI data from being inadvertently made identifiable through reverse-engineering algorithms or analytical reidentification techniques.
 
 ## Data Disclaimers
 
@@ -27,7 +27,7 @@ NCI recommends users follow standard scientific etiquette and practices when wor
 
 NCI expects users to acknowledge CCDI data use as follows:
 
-> The results published here are, in whole or in part, derived from the analysis of data listed in the CCDI Explore Dashboard ([clinicalcommons.ccdi.cancer.gov/exploreParticipants](/)), established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI).
+> "The results published here are, in whole or in part, derived from the analysis of data listed in the CCDI Explore Dashboard ([clinicalcommons.ccdi.cancer.gov/exploreParticipants](/)), established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI)."
 
 To cite individual studies, note the CCDI study ID (e.g., phs002790) and include the name and URL or link for CCDI Explore ([clinicalcommons.ccdi.cancer.gov/exploreParticipants](/)), along with the phrase, “established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI).”
 
