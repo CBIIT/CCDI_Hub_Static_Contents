@@ -27,11 +27,11 @@ NCI recommends users follow standard scientific etiquette and practices when wor
 
 NCI expects users to acknowledge CCDI data use as follows:
 
-> "The results published here are, in whole or in part, derived from the analysis of data listed in the CCDI Explore Dashboard ([clinicalcommons.ccdi.cancer.gov/exploreParticipants](/)), established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI)."
+> "The results published here are, in whole or in part, derived from the analysis of data listed in the CCDI Explore Dashboard ([clinicalcommons.ccdi.cancer.gov/exploreParticipants](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants)), established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI)."
 
-To cite individual studies, note the CCDI study ID (e.g., phs002790) and include the name and URL or link for CCDI Explore ([clinicalcommons.ccdi.cancer.gov/exploreParticipants](/)), along with the phrase, “established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI).”
+To cite individual studies, note the CCDI study ID (e.g., phs002790) and include the name and URL or link for CCDI Explore ([clinicalcommons.ccdi.cancer.gov/exploreParticipants](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants)), along with the phrase, “established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI).”
 
-Example: “The results analyzed and <published or shown> here are based in whole or in part from analyzing the Molecular Characterization Initiative data listed in CCDI Explore ([clinicalcommons.ccdi.cancer.gov/exploreParticipants](/)) under study ID phs002790. The data were accessed from the NCI’s Cancer Research Data Commons ([datacommons.cancer.gov](https://datacommons.cancer.gov/)). The CCDI Explore Dashboard in the Childhood Clinical Cancer Data Commons (C3DC) was established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI).”
+Example: “The results analyzed and <published or shown> here are based in whole or in part from analyzing the Molecular Characterization Initiative data listed in CCDI Explore ([clinicalcommons.ccdi.cancer.gov/exploreParticipants](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants)) under study ID phs002790. The data were accessed from the NCI’s Cancer Research Data Commons ([datacommons.cancer.gov](https://datacommons.cancer.gov/)). The CCDI Explore Dashboard in the Childhood Clinical Cancer Data Commons (C3DC) was established by the National Cancer Institute’s Childhood Cancer Data Initiative (CCDI).”
 
 ## Contact
 
