@@ -43,7 +43,7 @@ alt: 'Infographic of the CCDI Federation Resource AI Skill, showing a five-step,
 A dedicated git repository (https://github.com/CBIIT/ccdi-federation-ai) is available with instructions and further information about the CCDI Data Federation Agent Skill.  
 
 ### Blog 
-Read more about the CCDI Federation Agent Skill and API in the [blog](https://cbiit.github.io/ccdi-federation-api/blog/09-25-2024-introducing-the-federation-api.html) to monitor growth and technical revisions as they are implemented.
+Read more about the CCDI Federation Agent Skill and API in the [blog](https://cbiit.github.io/ccdi-federation-api/blog.html) to monitor growth and technical revisions as they are implemented.
 
 ## Contribute to CCDI Data Federation Resource
 

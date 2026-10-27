@@ -12,6 +12,10 @@ The Childhood Cancer Data Initiative (CCDI) Participant Index (CPI) maps researc
 
 ---
 
+View the [Participant Statistics Dashboard](https://participantindex-docs.ccdi.cancer.gov/statistics.html) for more details.
+
+---
+
 # Components
 
 “Identifiers” and “Domains” make up the structure of the CPI. These elements are essential for organizing and mapping participant data across various studies and organizations. The key components include:
