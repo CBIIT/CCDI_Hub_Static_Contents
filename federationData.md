@@ -1,7 +1,7 @@
 ---
 title: CCDI Data Federation Resource
 Federation_Header: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/Federation_Header.png"
-CCDI_Federation_Data_Access: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Data_Access_02052026.png"
+CCDI_Federation_Data_Access: "https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/Resources/Federation/CCDI_Federation_Data_Access_10222026.png"
 navTitles:
   - Data Access
   - Additional Available Resources
@@ -43,7 +43,7 @@ alt: 'Infographic of the CCDI Federation Resource AI Skill, showing a five-step,
 A dedicated git repository (https://github.com/CBIIT/ccdi-federation-ai) is available with instructions and further information about the CCDI Data Federation Agent Skill.  
 
 ### Blog 
-Read more about the CCDI Federation Agent Skill and API in the [blog](https://cbiit.github.io/ccdi-federation-api/blog/09-25-2024-introducing-the-federation-api.html) to monitor growth and technical revisions as they are implemented.
+Read more about the CCDI Federation Agent Skill and API in the [blog](https://cbiit.github.io/ccdi-federation-api/blog.html) to monitor growth and technical revisions as they are implemented.
 
 ## Contribute to CCDI Data Federation Resource
 
