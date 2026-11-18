@@ -3,17 +3,30 @@
 The CCDI Events Announcements page brings together news announcements and details on upcoming and past events, webinars, and workshops.
 
 # Upcoming Events
-[Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge](https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge)  
-11/13/26 - Milestone 1 submissions due  
-6/15/27 - Milestone 2 submissions due  
-12/14/29 - Milestone 3 submissions due  
+[Building a Learning Health System: From Directive to Discovery](https://events.cancer.gov/ods/workshop/registration)  
+12/2/26-12/3/26
 
 # Past Events, Webinars, and Workshops
+[Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge](https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge)  
+11/13/26 - Milestone 1 submissions due
+
 [2026 CCDI Symposium](https://events.cancer.gov/nci/ccdisymposium)  
 9/17/26 - 9/18/26
 
+[2024 Children’s Brain Tumor Network (CBTN) Summit](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/2024%20Children%E2%80%99s%20Brain%20Tumor%20Network%20%28CBTN%29%20Summit%20-%20NCI.pdf)  
+10/9/24-10/11/24
+
+[Comparing Proton and Photon Therapy: Insights from an NCI Pediatric Study](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/Comparing%20Proton%20and%20Photon%20Therapy%20-%20NCI.pdf)  
+10/8/24
+
+[Progress on International Childhood Cancer Data Partnership](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/Progress%20on%20International%20Childhood%20Cancer%20Data%20Partnership%20-%20NCI.pdf)  
+9/23/24
+
 [Impact of the Molecular Characterization Initiative on Pediatric CNS Tumors](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/Impact%20of%20the%20Molecular%20Characterization%20Initiative%20on%20Pediatric%20CNS%20Tumors%20-%20NCI.pdf)  
 9/10/24 
+
+[CCDI Workshop Addresses the Needs of Its Rare Cancer Initiative](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/CCDI%20Workshop%20Addresses%20the%20Needs%20of%20Its%20Rare%20Cancer%20Initiative%20-%20NCI.pdf)  
+9/5/24
 
 [CCDI Federated Data: Enhancing Data Discoverability](https://cbiit.github.io/CCDI_Hub_Assets/PDF/Resources/Events%20Announcements/CCDI%20Federated%20Data_%20Enhancing%20Data%20Discoverability%20-%20NCI.pdf)  
 8/13/24 
