@@ -34,15 +34,15 @@ header:
   - Number of Participants
 body:
   - name: Central Nervous System
-    value: 6554
+    value: 6741
   - name: Soft Tissue Sarcoma
-    value: 1946
+    value: 1980
   - name: Rare Tumors
-    value: 1061
+    value: 1089
   - name: Neuroblastoma
-    value: 975
+    value: 1016
   - name: Ewing Sarcoma
-    value: 111
+    value: 123
 ```
 
 ```mci-map
