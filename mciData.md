@@ -27,26 +27,26 @@ For an overview of this initiative, [access the MCI web page on cancer.gov](http
 The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting.
 
 ```mci-disease-table
-title: 'Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of October 2, 2026'
+title: 'Enrollments in MCI (APEC14B1-MCI) by Diagnosis Type as of November 9, 2026'
 header:
   - ''
   - Primary Diagnosis Disease Group
   - Number of Participants
 body:
   - name: Central Nervous System
-    value: 6554
+    value: 6741
   - name: Soft Tissue Sarcoma
-    value: 1946
+    value: 1980
   - name: Rare Tumors
-    value: 1061
+    value: 1089
   - name: Neuroblastoma
-    value: 975
+    value: 1016
   - name: Ewing Sarcoma
-    value: 111
+    value: 123
 ```
 
 ```mci-map
-title: 'Enrollment Counts by State as of October 2, 2026'
+title: 'Enrollment Counts by State as of November 9, 2026'
 data:
   - - 110
     - 540
@@ -55,7 +55,7 @@ data:
   - - 638
     - 420
     - ALABAMA
-    - 209
+    - 217
   - - 550
     - 390
     - ARKANSAS
@@ -63,15 +63,15 @@ data:
   - - 240
     - 430
     - ARIZONA
-    - 145
+    - 147
   - - 100
     - 280
     - CALIFORNIA
-    - 821
+    - 835
   - - 320
     - 290
     - COLORADO
-    - 64
+    - 68
   - - 834
     - 228
     - CONNECTICUT
@@ -79,39 +79,39 @@ data:
   - - 790
     - 305
     - DISTRICT OF COLUMBIA
-    - 104
+    - 108
   - - 810
     - 290
     - DELAWARE
-    - 92
+    - 94
   - - 735
     - 500
     - FLORIDA
-    - 550
+    - 568
   - - 720
     - 450
     - GEORGIA
-    - 283
+    - 292
   - - 340
     - 630
     - HAWAII
-    - 31
+    - 32
   - - 505
     - 250
     - IOWA
-    - 139
+    - 143
   - - 240
     - 220
     - IDAHO
-    - 63
+    - 65
   - - 600
     - 320
     - ILLINOIS
-    - 190
+    - 196
   - - 638
     - 285
     - INDIANA
-    - 172
+    - 178
   - - 490
     - 330
     - KANSAS
@@ -119,35 +119,35 @@ data:
   - - 670
     - 330
     - KENTUCKY
-    - 111
+    - 113
   - - 550
     - 460
     - LOUISIANA
-    - 82
+    - 86
   - - 840
     - 208
     - MASSACHUSETTS
-    - 114
+    - 122
   - - 785
     - 288
     - MARYLAND
-    - 168
+    - 172
   - - 860
     - 120
     - MAINE
-    - 34
+    - 35
   - - 645
     - 210
     - MICHIGAN
-    - 223
+    - 229
   - - 515
     - 150
     - MINNESOTA
-    - 294
+    - 307
   - - 530
     - 310
     - MISSOURI
-    - 275
+    - 286
   - - 320
     - 135
     - MONTANA
@@ -155,19 +155,19 @@ data:
   - - 600
     - 420
     - MISSISSIPPI
-    - 81
+    - 83
   - - 785
     - 355
     - NORTH CAROLINA
-    - 330
+    - 337
   - - 440
     - 135
     - NORTH DAKOTA
-    - 41
+    - 45
   - - 460
     - 285
     - NEBRASKA
-    - 99
+    - 101
   - - 843
     - 185
     - NEW HAMPSHIRE
@@ -175,11 +175,11 @@ data:
   - - 815
     - 265
     - NEW JERSEY
-    - 121
+    - 125
   - - 330
     - 430
     - NEW MEXICO
-    - 51
+    - 54
   - - 160
     - 260
     - NEVADA
@@ -187,23 +187,23 @@ data:
   - - 795
     - 190
     - NEW YORK
-    - 588
+    - 602
   - - 690
     - 300
     - OHIO
-    - 574
+    - 594
   - - 490
     - 410
     - OKLAHOMA
-    - 144
+    - 151
   - - 150
     - 200
     - OREGON
-    - 114
+    - 119
   - - 780
     - 245
     - PENNSYLVANIA
-    - 386
+    - 393
   - - 853
     - 222
     - RHODE ISLAND
@@ -211,39 +211,39 @@ data:
   - - 720
     - 395
     - SOUTH CAROLINA
-    - 152
+    - 154
   - - 410
     - 195
     - SOUTH DAKOTA
-    - 16
+    - 17
   - - 675
     - 370
     - TENNESSEE
-    - 225
+    - 228
   - - 480
     - 490
     - TEXAS
-    - 970
+    - 990
   - - 240
     - 275
     - UTAH
-    - 185
+    - 189
   - - 765
     - 310
     - VIRGINIA
-    - 167
+    - 170
   - - 825
     - 170
     - VERMONT
-    - 33
+    - 36
   - - 150
     - 100
     - WASHINGTON
-    - 487
+    - 497
   - - 570
     - 190
     - WISCONSIN
-    - 293
+    - 304
   - - 720
     - 330
     - WEST VIRGINIA
