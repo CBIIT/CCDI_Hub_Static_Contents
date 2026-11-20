@@ -47,7 +47,7 @@ newsImgUrlList:
 | latestUpdate | true |
 | latestUpdateOrder | 2 |
 
-# C3DC Data Release 10.0
+<!-- # C3DC Data Release 10.0
 ### November 24, 2026 | CCDI Data Updates
 
 | | |
@@ -60,6 +60,7 @@ newsImgUrlList:
 | slug | The November Childhood Cancer Clinical Data Commons (C3DC) release includes 4 new studies|
 | latestUpdate | true |
 | latestUpdateOrder | 3 |
+-->
 
 # 16 new datasets and a new resource to explore
 ### November 24, 2026 | CCDI Application Updates
