@@ -33,6 +33,47 @@ newsImgUrlList:
   updateImgFederation: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Federation.png'
 ---
 
+# CCDI cBioPortal November 2026 Release
+### November 24, 2026 | CCDI Application Updates
+
+| | |
+| --- | --- |
+| <p>The [CCDI cBioPortal Cancer Data Explorer](https://cbioportal.ccdi.cancer.gov/)’s version 1.5.0 adds three new datasets from Javed Khan’s lab: Genomic Landscape of Rhabdomyosarcoma, Tumor Mutational Burden and the Immune Landscape Glioma, and Immunotranscriptomic Landscape of Pediatric Extracranial Solid Tumors. These datasets contain clinical, mutation, copy number, and structural variant data from pediatric and adult cohorts, bringing the total number of datasets available to explore in CCDI cBioPortal to nine.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgC3DC"> |
+
+| Property | Value |
+| --- | --- |
+| id | cbio_11242026 |
+| slug | Explore Three New Datasets in CCDI cBioPortal! |
+| latestUpdate | true |
+| latestUpdateOrder | 2 |
+
+# C3DC Data Release 10.0
+### November 24, 2026 | CCDI Application Updates
+
+| | |
+| --- | --- |
+| <p>This release includes four new datasets: [phs002827](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs002827), [phs003162](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs003162), [phs004232](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs004232), and [phs004490](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs004490), along with updates to several existing CCDI datasets ([phs000720](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs000720), [phs001327](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs001327), [phs001846](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs001846), [phs002517](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs002517), [phs002529](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs002529), and [phs002790](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs002790)). These new datasets add over 1,200 participants to C3DC. Full details can be found in [C3DC's release notes](https://clinicalcommons.ccdi.cancer.gov/release-notes-pdf). </p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
+
+| Property | Value |
+| --- | --- |
+| id | c3dc_11242026 |
+| slug | The November Childhood Cancer Clinical Data Commons (C3DC) release includes 4 new studies|
+| latestUpdate | true |
+| latestUpdateOrder | 3 |
+
+# 16 new datasets and a new resource to explore
+### November 24, 2026 | CCDI Application Updates
+
+| | |
+| --- | --- |
+| <p>The <a href="https://datacatalog.ccdi.cancer.gov/">Childhood Cancer Data Initiative Data Catalog</a> version 1.5.11 was released on 10/29/2026. This update added 16 new datasets from existing resources, including CCDI and dbGap, and also added the Zero Childhood Cancer registry as a new resource.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgCCDC"> |
+
+| Property | Value |
+| --- | --- |
+| id | ccdc_11242026 |
+| slug | Learn about Zero Childhood Cancer and browse several new datasets!|
+
+
 # Submit to the Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge!
 ### September 10, 2026 | News
 
