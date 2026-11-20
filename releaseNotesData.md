@@ -91,8 +91,6 @@ Additional details are listed below:
 | version | v3.1.1 |
 | slug | October MCI enrollment and about content updates |
 | contentType | |
-| latestUpdate | true |
-| latestUpdateOrder | 2 |
 
 # CCDI Hub Release 3.1.0
 ### October 6, 2026 | Release Notes
