@@ -33,6 +33,20 @@ newsImgUrlList:
   updateImgFederation: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Federation.png'
 ---
 
+# CCDI Hub Release 3.1.2
+### November 24, 2026 | News
+
+| | |
+| --- | --- |
+| <p>CCDI Hub version 3.1.2 features an expanded Stats At A Glance feature on the Home page that provides a brief summary about and links to various CCDI resources. The Molecular Characterization Initiative (MCI), Events Announcements, Release Notes, and News pages were brought current with standard monthly updates. A glossary of data and file types was added to the MCI page.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png" width="220" alt="updateImgReleaseNotes"> |
+
+| Property | Value |
+| --- | --- |
+| id | hub_11242026 |
+| slug | November updates plus a new glossary of CCDI MCI Data Types and File Outputs |
+
+---
+
 # Submit to the Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge!
 ### September 10, 2026 | News
 
