@@ -48,7 +48,7 @@ newsImgUrlList:
 | latestUpdateOrder | 2 |
 
 # C3DC Data Release 10.0
-### November 24, 2026 | CCDI Application Updates
+### November 24, 2026 | CCDI Data Updates
 
 | | |
 | --- | --- |
