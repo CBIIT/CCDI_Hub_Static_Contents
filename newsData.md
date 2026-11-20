@@ -33,17 +33,17 @@ newsImgUrlList:
   updateImgFederation: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Federation.png'
 ---
 
-# CCDI Hub Release 3.1.2
-### November 24, 2026 | News
+# 16 new datasets and a new resource to explore
+### November 24, 2026 | CCDI Application Updates
 
 | | |
 | --- | --- |
-| <p>CCDI Hub version 3.1.2 features an expanded Stats At A Glance feature on the Home page that provides a brief summary about and links to various CCDI resources. The Molecular Characterization Initiative (MCI), Events Announcements, Release Notes, and News pages were brought current with standard monthly updates. A glossary of data and file types was added to the MCI page.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png" width="220" alt="updateImgReleaseNotes"> |
+| <p>The Childhood Cancer Data Initiative Data Catalog version 1.5.11 was released on 10/29/2026. This update added 16 new datasets from existing resources, including CCDI and dbGap, and also added the Zero Childhood Cancer registry as a new resource.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png" width="220" alt="updateImgCCDC"> |
 
 | Property | Value |
 | --- | --- |
-| id | hub_11242026 |
-| slug | November updates plus a new glossary of CCDI MCI Data Types and File Outputs |
+| id | ccdc_10292026 |
+| slug | Learn about Zero Childhood Cancer and browse several new datasets! |
 
 ---
 
