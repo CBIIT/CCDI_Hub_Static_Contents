@@ -38,7 +38,7 @@ Additional details are listed below:
 | --- | --- |
 | id | hub_release_11242026 |
 | version | v3.1.2 |
-| slug | November updates and an enhanced Stats At A Glance |
+| slug | November updates plus a new glossary of CCDI MCI Data Types and File Outputs |
 | contentType | |
 | latestUpdate | true |
 | latestUpdateOrder | 1 |
@@ -91,8 +91,6 @@ Additional details are listed below:
 | version | v3.1.1 |
 | slug | October MCI enrollment and about content updates |
 | contentType | |
-| latestUpdate | true |
-| latestUpdateOrder | 2 |
 
 # CCDI Hub Release 3.1.0
 ### October 6, 2026 | Release Notes
