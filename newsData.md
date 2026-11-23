@@ -38,7 +38,7 @@ newsImgUrlList:
 
 | | |
 | --- | --- |
-| <p>The CCDI cBioPortal Cancer Data Explorer version 1.5.0 adds three new datasets from Javed Khan’s lab: Genomic Landscape of Rhabdomyosarcoma, Tumor Mutational Burden and the Immune Landscape Glioma, and Immunotranscriptomic Landscape of Pediatric Extracranial Solid Tumors. These datasets contain clinical, mutation, copy number, and structural variant data from pediatric and adult cohorts, bringing the total number of datasets available to explore in CCDI cBioPortal to nine.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgMiscNews"> |
+| <p>The <a href="https://cbioportal.ccdi.cancer.gov/">CCDI cBioPortal Cancer Data Explorer</a> version 1.5.0 adds three new datasets from Javed Khan’s lab: Genomic Landscape of Rhabdomyosarcoma, Tumor Mutational Burden and the Immune Landscape Glioma, and Immunotranscriptomic Landscape of Pediatric Extracranial Solid Tumors. These datasets contain clinical, mutation, copy number, and structural variant data from pediatric and adult cohorts, bringing the total number of datasets available to explore in CCDI cBioPortal to nine.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgMiscNews"> |
 
 | Property | Value |
 | --- | --- |
@@ -47,7 +47,7 @@ newsImgUrlList:
 | latestUpdate | true |
 | latestUpdateOrder | 2 |
 
-<!-- # C3DC Data Release 10.0
+# C3DC Data Release 10.0
 ### November 24, 2026 | CCDI Data Updates
 
 | | |
@@ -60,7 +60,7 @@ newsImgUrlList:
 | slug | The November Childhood Cancer Clinical Data Commons (C3DC) release includes 4 new studies|
 | latestUpdate | true |
 | latestUpdateOrder | 3 |
--->
+
 
 # 16 new datasets and a new resource to explore
 ### November 24, 2026 | CCDI Application Updates
@@ -100,8 +100,6 @@ newsImgUrlList:
 | --- | --- |
 | id | c3dc_09102026 |
 | slug | Enhanced exploration of Participants and Files in C3DC |
-| latestUpdate | true |
-| latestUpdateOrder | 3 |
 
 ---
 
