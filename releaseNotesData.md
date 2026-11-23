@@ -38,7 +38,7 @@ Additional details are listed below:
 | --- | --- |
 | id | hub_release_11242026 |
 | version | v3.1.2 |
-| slug | November updates and an enhanced Stats At A Glance |
+| slug | November updates plus a new glossary of CCDI MCI Data Types and File Outputs |
 | contentType | |
 | latestUpdate | true |
 | latestUpdateOrder | 1 |
