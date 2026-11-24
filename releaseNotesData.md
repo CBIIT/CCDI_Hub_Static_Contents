@@ -1,3 +1,48 @@
+# CCDI Hub Release 3.1.2
+### November 24, 2026 | Release Notes
+
+<img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png" align="right" width="220" alt="updateImgReleaseNotes">
+
+CCDI Hub version 3.1.2 features an expanded Stats At A Glance feature on the Home page that provides a brief summary about and links to various CCDI resources. The Molecular Characterization Initiative (MCI), Events Announcements, Release Notes, and News pages were brought current with standard monthly updates. A glossary of data and file types was added to the MCI page.
+
+Additional details are listed below:
+
+### Statistics at a Glance
+
+#### v3.1.2 Summary
+
+- **27th** Release
+- **1** [Event](https://ccdi.cancer.gov/ccdi-events-announcements) upcoming
+- **8** [Tools](https://ccdi.cancer.gov/tools) supported by CCDI
+- **110** [Publications](https://ccdi.cancer.gov/publications) supported by CCDI
+- **9,729** Participants with available genomic and clinical data in [MCI](https://ccdi.cancer.gov/MCI)
+- **49** Studies indexed in [CCDI Explore](https://clinicalcommons.ccdi.cancer.gov/exploreParticipants)
+
+### CCDI Hub Site Updates
+
+#### General Site
+
+- Added 1 upcoming event, updated 1 event to indicate completion, and added 4 past events on the CCDI Events Announcements page
+- Added new summaries to Stats At A Glance summary on the Home page
+- Resolved security vulnerabilities
+- Updated news feed with relevant entries
+- Updated release notes feed and pdf with latest release details
+
+#### Molecular Characterization Initiative page
+
+- Added link to glossary of “CCDI MCI Data Types and File Outputs” in Accessing MCI Data and Tools section
+- Updated enrollment through November 9, 2026
+
+
+| Property | Value |
+| --- | --- |
+| id | hub_release_11242026 |
+| version | v3.1.2 |
+| slug | November updates plus a new glossary of CCDI MCI Data Types and File Outputs |
+| contentType | |
+| latestUpdate | true |
+| latestUpdateOrder | 1 |
+
 # CCDI Hub Release 3.1.1
 ### October 28, 2026 | Release Notes
 
@@ -46,8 +91,6 @@ Additional details are listed below:
 | version | v3.1.1 |
 | slug | October MCI enrollment and about content updates |
 | contentType | |
-| latestUpdate | true |
-| latestUpdateOrder | 1 |
 
 # CCDI Hub Release 3.1.0
 ### October 6, 2026 | Release Notes
@@ -98,8 +141,6 @@ Additional details are listed below:
 | version | v3.1.0 |
 | slug | Updated organization of CCDI Explore, resources, and supporting documentation |
 | contentType | |
-| latestUpdate | true |
-| latestUpdateOrder | 2 |
   
 
 # CCDI Hub Release 3.0.0

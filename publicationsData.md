@@ -1,5 +1,18 @@
 ![publications_header](https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/About/Publications_Header.png)
-Publication list updated as of 10/6/26
+Publication list updated as of 11/24/26
+
+# Drug development for childhood cancers 
+### December 2026 | The Lancet Child & Adolescent Health | 42976877
+
+We read with interest the Comment by Nicholas Bird and colleagues on legislative initiatives in both the USA and EU that have altered the landscape of paediatric cancer drug development, resulting in early evaluation of appropriate new compounds based on their molecular mechanisms of action and biomarker-directed clinical trials in both relapsed and newly diagnosed children. Development beyond early evaluation continues to delay access to safe and effective innovative drugs, even though approval of a new agent has been based on results of early-phase studies in some rare cancers.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_12012026 |
+| link | https://doi.org/10.1016/s2352-4642(26)00265-8 |
+| summary | Primary |
 
 # Pharmacogenetic Variants in the Molecular Characterization Initiative: A Report from the Children’s Oncology Group
 ### August 2026 | JNCI: Journal of the National Cancer Institute | 42636256
@@ -25,6 +38,19 @@ Tags: **CCDI Ecosystem**
 | --- | --- |
 | id | Ecosystem_08142026 |
 | link | https://pmc.ncbi.nlm.nih.gov/articles/PMC13479720/ |
+| summary | Primary |
+
+# Integrated multi-omic analysis of pediatric metastatic osteosarcoma reveals endothelial cell plasticity and lineage infidelity
+### August 2026 | Preprint
+
+While recent research has increasingly focused on the role of fibroblasts and macrophages in osteosarcoma, the tumor vasculature remains poorly understood, particularly in metastatic disease. To address this gap, we performed single-nuclei multi-ome (RNA+ATAC) sequencing on 24 human metastatic osteosarcoma specimens. We found that endothelial cells adopt a hybrid endothelial-mesenchymal state resembling endothelial-to-mesenchymal transition (EndMT) and that a subset of diploid endothelial cells expresses osteoblastic transcriptional profiles and gene regulatory networks (GRN). Joint copy-number analysis further identified osteosarcoma cells with endothelial transcriptional programs and GRNs, consistent with vascular mimicry. In vitro assays and syngeneic lineage-tracing experiments validated that tumor educated endothelial cells acquire osteoblast-like features. Together, these findings reveal substantial plasticity among endothelial and osteosarcoma cells in human and murine metastatic osteosarcoma, provide new insight into the how the metastatic microenvironment shapes the tumor vasculature, and challenge current models of osteosarcoma biology.
+
+Tags: **CCDI Ecosystem**
+
+| Property | Value |
+| --- | --- |
+| id | Ecosystem_08122026 |
+| link | https://doi.org/10.64898/2026.08.11.744222 |
 | summary | Primary |
 
 # The CCDI-COG Molecular Characterization Initiative (MCI) in Pediatric Rare Cancers

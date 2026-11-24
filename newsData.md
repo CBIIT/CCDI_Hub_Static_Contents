@@ -33,6 +33,33 @@ newsImgUrlList:
   updateImgFederation: 'https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Federation.png'
 ---
 
+# CCDI cBioPortal November 2026 Release
+### November 24, 2026 | CCDI Application Updates
+
+| | |
+| --- | --- |
+| <p>The <a href="https://cbioportal.ccdi.cancer.gov/">CCDI cBioPortal Cancer Data Explorer</a> version 1.5.0 adds three new datasets from Javed Khan’s lab: Genomic Landscape of Rhabdomyosarcoma, Tumor Mutational Burden and the Immune Landscape Glioma, and Immunotranscriptomic Landscape of Pediatric Extracranial Solid Tumors. These datasets contain clinical, mutation, copy number, and structural variant data from pediatric and adult cohorts, bringing the total number of datasets available to explore in CCDI cBioPortal to nine.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png" width="220" alt="updateImgMiscNews"> |
+
+| Property | Value |
+| --- | --- |
+| id | cbio_11242026 |
+| slug | Explore Three New Datasets in CCDI cBioPortal! |
+| latestUpdate | true |
+| latestUpdateOrder | 2 |
+
+# 16 new datasets and a new resource to explore
+### November 24, 2026 | CCDI Application Updates
+
+| | |
+| --- | --- |
+| <p>The <a href="https://datacatalog.ccdi.cancer.gov/">Childhood Cancer Data Initiative Data Catalog</a> version 1.5.11 was released on 10/29/2026. This update added 16 new datasets from existing resources, including CCDI and dbGap, and also added the Zero Childhood Cancer registry as a new resource.</p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png" width="220" alt="updateImgCCDC"> |
+
+| Property | Value |
+| --- | --- |
+| id | ccdc_11242026 |
+| slug | Learn about Zero Childhood Cancer and browse several new datasets!|
+
+
 # Submit to the Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge!
 ### September 10, 2026 | News
 
@@ -58,8 +85,6 @@ newsImgUrlList:
 | --- | --- |
 | id | c3dc_09102026 |
 | slug | Enhanced exploration of Participants and Files in C3DC |
-| latestUpdate | true |
-| latestUpdateOrder | 3 |
 
 ---
 
