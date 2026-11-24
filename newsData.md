@@ -47,21 +47,6 @@ newsImgUrlList:
 | latestUpdate | true |
 | latestUpdateOrder | 2 |
 
-# C3DC Data Release 10.0
-### November 24, 2026 | CCDI Data Updates
-
-| | |
-| --- | --- |
-| <p>This release includes four new datasets: <a href="https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs002827">phs002827</a>, <a href= "https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs003162">phs003162</a>, <a href="https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs004232">phs004232</a>, and <a href="https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs004490">phs004490</a>, along with updates to several existing CCDI datasets (<a href="https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs000720">phs000720</a>, <a href="https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs001327">phs001327</a>, <a href="https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs001846">phs001846</a>, <a href="https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs002517">phs002517</a>, <a href="https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs002529">phs002529</a>, and <a href="https://clinicalcommons.ccdi.cancer.gov/exploreParticipants?dbgap_accession=phs002790">phs002790</a>). These new datasets add over 1,200 participants to C3DC. Full details can be found in <a href="https://clinicalcommons.ccdi.cancer.gov/release-notes-pdf">C3DC's release notes</a>. </p> | <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
-
-| Property | Value |
-| --- | --- |
-| id | c3dc_11242026 |
-| slug | The November Childhood Cancer Clinical Data Commons (C3DC) release includes 4 new studies|
-| latestUpdate | true |
-| latestUpdateOrder | 3 |
-
-
 # 16 new datasets and a new resource to explore
 ### November 24, 2026 | CCDI Application Updates
 
